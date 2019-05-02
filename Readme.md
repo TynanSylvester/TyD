@@ -18,26 +18,15 @@ TyD is a simple text data format designed for:
 
 Since Tynan is an indie game developer (known for RimWorld), TyD was created with indie games in mind. However, it could be used for many other types of software as well.
 
-## Comparisons
+## Example
 
-Here's how TyD compares with some similar formats.
+Below is a definition of a chess table object from RimWorld. It includes info on name, description, physical interaction, building requirements, UI keys, stats like health and mass, and visuals.
 
-* INI files are easy to hand-edit, but can't express more complex data structures.
-* JSON is designed for efficient machine interchange, with inflexible syntax and no comments. TyD is designed for interaction between human and machine, with more flexible syntax.
-* TOML defines the type of every record in every document. TyD simplifies editing by assuming most type info is known.
-* YAML is complex and very general. TyD is minimal, simple, and hard to make mistakes with.
-* XML is verbose and very general. TyD is brief and made to excel at its specific purposes only.
-* LUA requires a heavy script interpreter and its scripting functionality is error-prone. TyD is lightweight and purpose-designed for data definition.
-
-## Examples
-
-Below is a definition of a chess table object, including info on name, description, physical interaction, building requirements, UI keys, stats like health and mass, and visuals.
-
-    ThingDef *source FurnitureWithQualityBase
+    ThingDef *source FurnitureBase
     [
         defName                 ChessTable
         label                   "chess table"
-        description             "The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills."
+        description             "The ancient game of kings. It trains intellectual skills."
         altitudeLayer           Building
         passability             PassThroughOnly
         fillPercent             40%
@@ -50,12 +39,8 @@ Below is a definition of a chess table object, including info on name, descripti
         costStuffCount          70
         designationCategory     Joy
         designationHotKey       Misc2
-        building
+        stats
         [
-            joyKind             Gaming_Cerebral
-        ]
-        statBases   #Note: We need to use [] since the elements have names, even thought these are a list in-game
-        [           #Needs to be handld specially by the game code
             MaxHitPoints        100
             WorkToBuild         15000
             Mass                5
@@ -63,13 +48,6 @@ Below is a definition of a chess table object, including info on name, descripti
             Beauty              4
             JoyGainFactor       1
         ]
-        comps
-        {
-            *class CompProperties_RoomIdentifier
-            [
-                roomStat        Impressiveness
-            ]
-        }
         graphicData
         [
             texPath             Things/Building/Joy/ChessTable
@@ -83,33 +61,16 @@ Below is a definition of a chess table object, including info on name, descripti
         ]
     ]
 
-Below is a definition of a particular 'stat' that can be applied to any character. It defines the name and output style of the stat, as well as how it is calculated from the character's health capacities and skills.
+## Comparisons with similar formats
 
-    StatDef
-    [
-        defName         MiningSpeed
-        label           "mining speed"
-        description     "A speed at which this person digs at walls and drills for deep resources."
-        category        PawnWork
-        defaultBaseValue 1
-        minValue        0.1
-        toStringStyle   PercentZero
-        statFactors
-        {
-            WorkSpeedGlobal
-        }
-        capacityFactors
-        {
-            [capacity Manipulation; weight 1]
-            [capacity Sight; weight 0.5; max 1]
-        }
-        skillNeedFactors
-        {
-            *Class SkillNeed_BaseBonus
-            [skill Mining; baseValue 0.04; bonusPerLevel 0.12]
-        }
-        scenarioRandomizable true
-    ]
+Here's how TyD compares with some similar formats.
+
+* INI files are easy to hand-edit, but can't express more complex data structures.
+* JSON is designed for efficient machine interchange, with inflexible syntax and no comments. TyD is designed for interaction between human and machine, with more flexible syntax.
+* TOML defines the type of every record in every document. TyD simplifies editing by assuming most type info is known.
+* YAML is complex and very general. TyD is minimal, simple, and hard to make mistakes with.
+* XML is verbose and very general. TyD is brief and made to excel at its specific purposes only.
+* LUA requires a heavy script interpreter and its scripting functionality is error-prone. TyD is lightweight and purpose-designed for data definition.
 
 ## Spec
 
@@ -118,43 +79,35 @@ Below is a definition of a particular 'stat' that can be applied to any characte
 * Whitespace means tab (0x09) or space (0x20) or newline.
 * Newline means LF (0x0A) or CRLF (0x0D0A).
 * TyD files should use the extension `.tyd`.
-* When transferring TyD files over the internet, use the MIME type `application/tyd`.
 
 ### Comment
 
-A hash `#` marks the rest of the line as a comment. This is ignored inside a quoted string, but can terminate a naked string.
+A hash `#` marks the rest of the line as a comment.
 
     # This is a full line comment
     playerViewHeight 1.85 # This is a comment at the end of a data line.
 
-_Double slash may be changed to double hash later since double slash creates issues with file paths._
-
 ### Record
 
-The core building block of TyD a TyD document is a name/value pair called a _record_.
+The core building block of a TyD document is the name/value pair. This pair is called a _record_.
 
-The name comes first, followed by any non-zero amount of whitespace, followed by the value. Whitespace on a line after a value is ignored.
+The name comes first, followed by some whitespace or newlines, followed by the value.
 
-    name value
-    name        value
-
-The value does not need to start on the same line as the name.
-
-    name
-      value
+    name1 value1
+    name2        value2     # As much whitespace as you want between name and value
+    name3                   # Value can be on another line after name
+      value3
 
 ### Name
 
 A name can contain any alphanumeric character, underscore, or hyphen (`a-zA-Z0-9_-`).
 
-    player_speed 500
-    enemy7Speed 700
-    Jenny-Phone-Number 8675309
-    1 "The first level is very easy."
+    player_speed        50
+    enemy7Speed         70
+    Jenny-Phone-Number  8675309
+    1                   "The first level is very easy."
 
 ### String
-
-There are two ways to express strings: _naked_ or _quoted_.
 
 All strings must contain only valid UTF-8 characters. Strings can contain any Unicode character with exceptions described below.
 
@@ -170,20 +123,18 @@ The below characters have TyD-defined escape sequences.
 
 Use of any escaped character sequence (starting with `\`) besides the above should result in an error message.
 
+There are two ways to express strings: _naked_ or _quoted_.
+
 #### Naked strings
 
 Naked strings begin with any character except `"`, `[`, `{`, or `*`. If you want a string to begin with any of these, you can't use a naked string.
 
-Naked strings end with a newline, semicolon `;`, or hash mark `#`. Whitespace is trimmed off the end when parsing.
+Naked strings end with a newline, semicolon `;`, or hash mark `#`. Whitespace is trimmed off the end of naked strings.
 
-The characters below must be escaped.
-
-* `\` Backslash
-* `#` Hash mark
-* `;` Semicolon
+These characters must be escaped: `\` backslash, `#` hash, `;` semicolon.
 
     breed_name              Corgi
-    description             A sausage-shaped dog that barks with a "yip" sound.\n\nMy friends don't like them\; I think they're \#1.
+    description             A stubby dog that barks with a "yip" sound.\n\nMy friends don't like them\; I think they're \#1.
     length                  10.5cm; width 5.5cm; calories 800
     body_part_descriptions  [ tail short; legs stumpy; tongue droopy and wet ]
 
@@ -191,11 +142,7 @@ The characters below must be escaped.
 
 Quoted strings begin and end with double quote marks `"`.
 
-The characters below must be escaped.
-
-* `\` Backslash
-* `"` Double quote
-* `#` Hash mark
+These characters must be escaped: `\` backslash, `"` double quote, `#` hash.
 
     dog_line_4 "The \#4 dog said, \"Arf!\"
     Then he jumped in my lap.
@@ -206,24 +153,24 @@ TyD parsers should try to interpret newlines in a way that makes sense on their 
 
 ### Null
 
-A special null value is expressed with the naked string `null` (lowercase only). If you want the literal string "null", you need to use a quoted string.
+A null value is expressed with the naked string `null` (lowercase only). If you want the literal string "null", you need to use a quoted string.
 
-    first_name          John
-    last_name           "Null"
-    criminal_record     null
+    last_name           "Null"  # This person's name is actually Null.
+    criminal_record     null    # This person has no criminal record.
+    favorite_word       "null"  # This person's favorite word is the word 'null'.
 
 ### List
 
-List record values begin with a curly brace `{` character. Following the curly brace come a list of _anonymous_ records in order. These are the same as normal records, except the name is omitted. The list ends with a matching curly brace `}`. Lists can contain strings, tables, or other lists - all anonymous. All records in a list must be the same type.
+Lists are ordered collections of anonymous records. Lists begin and end with curly braces `{}`. The records inside a list are _anonymous_ in that they have no names. All records in a list must be the same type (except null and string, which can be mixed).
 
-    groceriesNeeded
+    groceriesNeeded     # A list of strings
     {
         salt
         6 pears
         something to put on toast
     }
 
-    attackTypes
+    attackTypes         # A list of tables
     {
         [name fireball; cooldown 2.0; damage 7]
         [name magic missile; cooldown 1.0, damage 3]
@@ -231,14 +178,15 @@ List record values begin with a curly brace `{` character. Following the curly b
 
 ### Table
 
-Tables begin with a square bracket `[` character. Following the square bracket are a list of named records in no particular order. The table ends with a matching square bracket `]`. Tables can contain any kind of record. Elements in a list will often vary in type.
+Tables are collections of named records. Tables begin and end with square brackets `[]`. Records in a table can be of different types.
 
-    AnimalType
+    AnimalType      # A table called AnimalType, describing a type of animal
     [
-        name bear
-        mass 800
-        primaryAttack    [ name bite;  damage 60 ]
-        secondaryAttack  [ name claws; damage 40 ]
+        name                bear
+        mass                800
+        primaryAttack       [ name bite;  damage 60 ]
+        secondaryAttack     [ name claws; damage 40 ]
+        flyingMethod        null
         dietCategories
         {
             Meat
@@ -271,7 +219,7 @@ An example of a record with attributes:
 
 TyD supports inheritance relationships between records. This reduces the need to repeat the same data in many similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
 
-This defines the record as having a given handle for the purposes of inheritance.
+The `handle` attribute defines the record as having a given handle for the purposes of inheritance.
 
 This attribute declaration is followed by a string which defines the handle itself. The string can contain the characters (a-zA-Z0-9_-).
 
