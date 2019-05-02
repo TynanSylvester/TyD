@@ -6,8 +6,6 @@ By Tynan Sylvester
 
 This project is not yet considered stable. The current version is 0.1.0.
 
-A C# reference implementation is available in the _CSharp_ directory. Note that the implementation does not yet fully conform to the spec.
-
 ## Purpose
 
 TyD is a simple text data format designed for:
