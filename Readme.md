@@ -127,7 +127,9 @@ There are two ways to express strings: _naked_ or _quoted_.
 
 Naked strings begin with any character except `"`, `[`, `{`, or `*`. If you want a string to begin with any of these, you can't use a naked string.
 
-Naked strings end with a newline, semicolon `;`, or hash mark `#`. Whitespace is trimmed off the end of naked strings.
+Naked strings end with a newline, semicolon `;`, closing square bracket `]`, closing curly brace `}`, or hash `#`. Note that we must end on closing brackets because they can indicate the end of an enclosing collection, and we must end on hash because it indicates the start of a comment.
+
+Whitespace is trimmed off the end of naked strings.
 
 These characters must be escaped: `\` backslash, `#` hash, `;` semicolon.
 
