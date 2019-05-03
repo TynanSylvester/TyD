@@ -6,6 +6,8 @@ By Tynan Sylvester
 
 This project is not yet considered stable. The current version is 0.1.0.
 
+You can use [TyDSharp, a simple C# implementation of the TyD format.](https://github.com/tyd-format/TyDSharp)
+
 ## Purpose
 
 TyD is a simple text data format designed for:
