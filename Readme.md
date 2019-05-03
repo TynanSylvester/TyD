@@ -18,45 +18,27 @@ Since Tynan is an indie game developer (known for RimWorld), TyD was created wit
 
 ## Example
 
-Below is a definition of a chess table object from RimWorld. It includes info on name, description, physical interaction, building requirements, UI keys, stats like health and mass, and visuals.
+Below is a definition of a chess table object for a video game.
 
     ThingDef *source FurnitureBase
     [
-        defName                 ChessTable
+        name                    ChessTable
         label                   "chess table"
         description             "The ancient game of kings. It trains intellectual skills."
-        altitudeLayer           Building
-        passability             PassThroughOnly
-        fillPercent             40%
-        pathCost                50
-        rotatable               false
-        socialPropernessMatters true
-        minTechLevelToBuild     Medieval
-        researchPrerequisites   { ComplexFurniture }
-        stuffCategories         { Metallic; Woody; Stony }
-        costStuffCount          70
-        designationCategory     Joy
-        designationHotKey       Misc2
+        techLevel               Medieval
+        buildMaterialAmount     70
+        buildMaterialTypes
+        {
+            Metal
+            Wood
+            Stone
+        }
         stats
         [
             MaxHitPoints        100
-            WorkToBuild         15000
             Mass                5
-            Flammability        100%
-            Beauty              4
-            JoyGainFactor       1
         ]
-        graphicData
-        [
-            texPath             Things/Building/Joy/ChessTable
-            graphicClass        Graphic_Single
-            shadowData          [ volume (0.65, 0.25, 0.6); offset (0, 0, -0.15) ]
-            damageData
-            [
-                rect (0.09375, 0.296875, 0.796875, 0.703125)
-                cornerTL Damage/Corner; cornerTR Damage/Corner; cornerBL Damage/Corner; cornerBR Damage/Corner
-            ]
-        ]
+        researchPrerequisites   { ComplexFurniture; Chess }
     ]
 
 ## Comparisons with similar formats
