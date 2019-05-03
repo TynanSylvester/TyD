@@ -93,13 +93,15 @@ All strings must contain only valid UTF-8 characters. Strings can contain any Un
 
 The below characters have TyD-defined escape sequences.
 
-* `\\` Backslash       (U+005C)
-* `\"` Double quote    (U+0022)
-* `\#` Hash            (U+0023)
-* `\;` Semicolon       (U+003B)
-* `\r` Carriage return (U+000D)
-* `\n` Line feed       (U+000A)
-* `\t` Tab             (U+0009)
+* `\\` Backslash               (U+005C)
+* `\"` Double quote            (U+0022)
+* `\#` Hash                    (U+0023)
+* `\]` Right square bracket    (U+005D)
+* `\}` Right curly bracket     (U+007D)
+* `\;` Semicolon               (U+003B)
+* `\r` Carriage return         (U+000D)
+* `\n` Line feed               (U+000A)
+* `\t` Tab                     (U+0009)
 
 Use of any escaped character sequence (starting with `\`) besides the above should result in an error message.
 
