@@ -159,7 +159,7 @@ Lists are ordered collections of anonymous records. Lists begin and end with cur
     attackTypes         # A list of tables
     {
         [name fireball; cooldown 2.0; damage 7]
-        [name magic missile; cooldown 1.0, damage 3]
+        [name magic missile; cooldown 1.0; damage 3]
     }
 
 ### Table
