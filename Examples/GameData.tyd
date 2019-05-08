@@ -27,7 +27,7 @@ Spell
         }
         *class ImpactEffect_SpawnParticles
         {
-            color       (255, 100, 100)   # TyD reads this as a string. These color values are parsed by out game code.
+            color       (255, 100, 100)   # TyD reads this as a string. Game code should parse this as a color.
             size        0.5
             count       50
             mode        BurstRandom
@@ -57,7 +57,7 @@ Spell
         }
         *class ImpactEffect_SpawnParticles
         {
-            color       (100, 100, 255)   # TyD reads this as a string. These color values are parsed by out game code.
+            color       (100, 100, 255)   # TyD reads this as a string. Game code should parse this as a color.
             size        0.3
             count       10
             mode        BurstRandom
@@ -91,7 +91,7 @@ EnemyType *source GoblinBase
     [
         MagicMissile    # TyD reads this as a string. 
                         # While reading the TyD data into actual game data,
-                        # your code needs to link this to the MagicMissle spell
+                        # game code needs to link this to the MagicMissle spell
                         # defined earlier
     ]
 }
@@ -100,7 +100,7 @@ EnemyType *source GoblinBase
 {
     name    GoblinFiremaster
     label   goblin firemaster
-    health  120     # Override health defined in GoblinBase
+    health  120         # Override health defined in GoblinBase
     spells
     [
         Fireball
