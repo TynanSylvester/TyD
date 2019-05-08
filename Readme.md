@@ -23,25 +23,25 @@ Since Tynan is an indie game developer (known for RimWorld), TyD was created wit
 Below is a definition of a chess table object for a video game.
 
     ThingDef *source FurnitureBase
-    [
+    {
         name                    ChessTable
         label                   "chess table"
         description             "The ancient game of kings. It trains intellectual skills."
         techLevel               Medieval
         buildMaterialAmount     70
         buildMaterialTypes
-        {
+        [
             Metal
             Wood
             Stone
-        }
+        ]
         stats
-        [
+        {
             MaxHitPoints        100
             Mass                5
-        ]
-        researchPrerequisites   { ComplexFurniture; Chess }
-    ]
+        }
+        researchPrerequisites   [ ComplexFurniture; Chess ]
+    }
 
 ## Comparisons with similar formats
 
@@ -122,7 +122,7 @@ These characters must be escaped: `\` backslash, `#` hash, `;` semicolon.
     breed_name              Corgi
     description             A stubby dog that barks with a "yip" sound.\n\nMy friends don't like them\; I think they're \#1.
     length                  10.5cm; width 5.5cm; calories 800
-    body_part_descriptions  [ tail short; legs stumpy; tongue droopy and wet ]
+    body_part_descriptions  { tail short; legs stumpy; tongue droopy and wet }
 
 #### Quoted strings
 
@@ -147,40 +147,40 @@ A null value is expressed with the naked string `null` (lowercase only). If you 
 
 ### List
 
-Lists are ordered collections of anonymous records. Lists begin and end with curly braces `{}`. The records inside a list are _anonymous_ in that they have no names. All records in a list must be the same type (except null and string, which can be mixed).
+Lists are ordered collections of anonymous records. Lists begin and end with square brackets `[]`. The records inside a list are _anonymous_ in that they have no names. All records in a list must be the same type (except null and string, which can be mixed).
 
     groceriesNeeded     # A list of strings
-    {
+    [
         salt
         6 pears
         something to put on toast
-    }
+    ]
 
     attackTypes         # A list of tables
-    {
-        [name fireball; cooldown 2.0; damage 7]
-        [name magic missile; cooldown 1.0; damage 3]
-    }
+    [
+        {name fireball; cooldown 2.0; damage 7}
+        {name magic missile; cooldown 1.0; damage 3}
+    ]
 
 ### Table
 
-Tables are collections of named records. Tables begin and end with square brackets `[]`. Records in a table can be of different types.
+Tables are collections of named records. Tables begin and end with curly brackets `{}`. Records in a table can be of different types.
 
     AnimalType      # A table called AnimalType, describing a type of animal
-    [
+    {
         name                bear
         mass                800
-        primaryAttack       [ name bite;  damage 60 ]
-        secondaryAttack     [ name claws; damage 40 ]
+        primaryAttack       { name bite;  damage 60 }
+        secondaryAttack     { name claws; damage 40 }
         flyingMethod        null
         dietCategories
-        {
+        [
             Meat
             Fish
             Berries
             Honey
-        }
-    ]
+        ]
+    }
 
 ### Attributes
 
@@ -191,15 +191,15 @@ The attributes are `handle`, `source`, and `abstract`, and `class`.
 An example of a record with attributes:
 
     PlantType *handle BasePlant *abstract # An abstract base plant type
-    [
+    {
         growthRate 25
-    ]
+    }
 
     PlantType *class TuberPlant *source BasePlant # A concrete plant type for a 
-    [
+    {
         name Potato
         nutrition 1000
-    ]
+    }
 
 #### Handle attribute
 
@@ -262,7 +262,7 @@ Examples:
     ^Bear       # The up-arrow defines a source of this record for purposes of inheritance.
     ~           # The tilde means the record is abstract.
 
-    AnimalType ~ ^BaseAnimal $BaseBear *AnimalWithClaws [...] # This record is named AnimalType. It is abstract. It inherits from BaseAnimal. Its handle is BaseBear. It uses class AnimalWithClaws.
+    AnimalType ~ ^BaseAnimal $BaseBear *AnimalWithClaws {...} # This record is named AnimalType. It is abstract. It inherits from BaseAnimal. Its handle is BaseBear. It uses class AnimalWithClaws.
 
 **Patching:** Allow a document to patch another document, if loaded in a specific order using specific calls. For use in mods or expansion packs.
 
