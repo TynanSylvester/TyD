@@ -1,0 +1,108 @@
+# This file demonstrates using TyD to store game data.
+#
+# This file would be hand-authored by developers. It would then be read by machine
+# during game startup, and by users who wanted to mod the game.
+
+
+# Some spells, for use by our wizard and enemies
+
+Spell
+{
+    name        Fireball
+    label       fireball
+    range       15
+    cooldown    4.0
+    manaCost    20
+    impactEffects
+    [
+        *class ImpactEffect_DirectDamage
+        {
+            damage      25
+        }
+        *class ImpactEffect_RadialDamage
+        {
+            radius      5
+            damage      8
+            falloffMode Linear
+        }
+        *class ImpactEffect_SpawnParticles
+        {
+            color       (255, 100, 100)   # TyD reads this as a string. These color values are parsed by out game code.
+            size        0.5
+            count       50
+            mode        BurstRandom
+            lifespan    2.6
+        }
+        *class ImpactEffect_MakeSound
+        {
+            soundFile   sound/impact/fireballExplosion.wav
+            volume      0.40
+            radius      100
+        }
+    ]
+}
+
+Spell
+{
+    name        MagicMissile
+    label       magic missile
+    range       40
+    cooldown    4.0
+    manaCost    8
+    impactEffects
+    [
+        *class ImpactEffect_DirectDamage
+        {
+            damage      5
+        }
+        *class ImpactEffect_SpawnParticles
+        {
+            color       (100, 100, 255)   # TyD reads this as a string. These color values are parsed by out game code.
+            size        0.3
+            count       10
+            mode        BurstRandom
+            lifespan    0.8
+        }
+        *class ImpactEffect_MakeSound
+        {
+            soundFile   sound/impact/magicMissileHit.wav
+            volume      0.30
+            radius      60
+        }
+    ]
+}
+
+
+# Some enemies for our wizard to fight
+
+EnemyType *handle GoblinBase *abstract
+{
+    height          1.5
+    speed           0.5
+    health          60
+    defaultFaction  Evil
+}
+
+EnemyType *source GoblinBase
+{
+    name    GoblinWarlock
+    label   goblin warlock
+    spells
+    [
+        MagicMissile    # TyD reads this as a string. 
+                        # While reading the TyD data into actual game data,
+                        # your code needs to link this to the MagicMissle spell
+                        # defined earlier
+    ]
+}
+
+EnemyType *source GoblinBase
+{
+    name    GoblinFiremaster
+    label   goblin firemaster
+    health  120     # Override health defined in GoblinBase
+    spells
+    [
+        Fireball
+    ]
+}
