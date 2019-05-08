@@ -1,0 +1,25 @@
+# This example demonstrates how TyD might be used to store user data.
+#
+# In this case, we store install information, resolution, and several
+# separate user records, each with settings and gameplay achievement records.
+#
+# This file is generally written and read by machine, but can also be easily
+# hand-edited.
+
+licenseKey      ABCD-EFGH-IJKL
+resolutionX     1280
+resolutionY     960
+
+user
+{
+    id              1
+    name            "Alice"
+    controlScheme   rightHanded
+}
+
+user
+{
+    id              2
+    name            "Bob"
+    controlScheme   leftHanded
+}
