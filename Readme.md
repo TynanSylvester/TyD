@@ -186,19 +186,21 @@ Tables are collections of named records. Tables begin and end with curly bracket
 
 Each record can have some _attributes_. Attributes are defined after the name and before the value, with each attribute declaration beginning with an asterisk `*`.
 
-The attributes are `handle`, `source`, and `abstract`, and `class`.
+The attributes are `*handle`, `*source`, and `*abstract`, and `*class`.
 
 An example of a record with attributes:
 
-    PlantType *handle BasePlant *abstract # An abstract base plant type
+    PlantType *handle BasePlant *abstract    # An abstract base plant type
     {
-        growthRate 25
+        height          10
+        growthRate      25
     }
 
-    PlantType *class TuberPlant *source BasePlant # A concrete plant type for a 
+    PlantType *source BasePlant *class PlantTuber    # A concrete plant type inheriting from BasePlant
     {
-        name Potato
-        nutrition 1000
+        name            Potato
+        nutrition       1000
+        growthRate      15       # Override the value from BasePlant
     }
 
 #### Handle attribute
