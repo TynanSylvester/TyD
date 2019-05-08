@@ -1,16 +1,16 @@
 # TyD
 
-Tynan's Tidy Data Format
+Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
 This project is not yet considered stable. The current version is 0.1.0.
 
-You can use [TyDSharp, a simple C# implementation of the TyD format.](https://github.com/tyd-format/TyDSharp)
+You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
 ## Purpose
 
-TyD is a simple text data format designed for:
+TyD is a simple text data language designed for:
 
 * **Game data** like enemy types, spells, terrain types, and so on.
 * **Config data** like resolution, difficulty, and user accounts.
@@ -43,9 +43,9 @@ Below is a definition of a chess table object for a video game.
         researchPrerequisites   [ ComplexFurniture; Chess ]
     }
 
-## Comparisons with similar formats
+## Comparisons with similar languages
 
-Here's how TyD compares with some similar formats.
+Here's how TyD compares with some similar languages.
 
 * INI files are easy to hand-edit, but can't express more complex data structures.
 * JSON is designed for efficient machine interchange, with inflexible syntax and no comments. TyD is designed for interaction between human and machine, with more flexible syntax.
