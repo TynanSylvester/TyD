@@ -29,18 +29,18 @@ Below is a definition of a chess table object for a video game.
         description             "The ancient game of kings. It trains intellectual skills."
         techLevel               Medieval
         buildMaterialAmount     70
-        buildMaterialTypes
+        buildMaterialTypes                             # A multi-line list
         [
             Metal
             Wood
             Stone
         ]
+        researchPrerequisites   [ Woodworking; Chess ] # A list on one line
         stats
         {
             MaxHitPoints        100
             Mass                5
         }
-        researchPrerequisites   [ ComplexFurniture; Chess ]
     }
 
 ## Comparisons with similar languages
@@ -73,12 +73,15 @@ A hash `#` marks the rest of the line as a comment.
 
 The core building block of a TyD document is the name/value pair. This pair is called a _record_.
 
-The name comes first, followed by some whitespace or newlines, followed by the value.
+The name comes first, followed by some whitespace or newlines, followed by the value. After the record end, a new record can begin on the same line. Multiple record ends in a row are allowed; empty records are ignored.
 
     name1 value1
-    name2        value2     # As much whitespace as you want between name and value
-    name3                   # Value can be on another line after name
+    name2        value2         # As much whitespace as you want between name and value
+    name3                       # Value can be on another line after name
       value3
+    name4 value4; name5 value5  # Multiple string records on one line
+    [listItem] {name6 value6}   # Multiple list/table records on one line
+    ;;;                         # Multiple record ends in a row are ignored
 
 ### Name
 
