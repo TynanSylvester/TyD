@@ -4,16 +4,16 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.1.0.
+This project is not yet considered stable. The current version is 0.2.0.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
 ## Purpose
 
-TyD is a simple text data language designed for:
+TyD is an easy-to-edit text data language designed for:
 
 * **Game data** like enemy types, spells, terrain types, and so on.
-* **User config data** like resolution, difficulty, and user accounts.
+* **User config data** like screen resolution, difficulty, and user accounts.
 
 Since Tynan is an indie game developer (known for RimWorld), TyD was created with indie games in mind. However, it could be used for many other types of software as well.
 
@@ -184,30 +184,30 @@ Tables are collections of named records. Tables begin and end with curly bracket
         ]
     }
 
-### Attributes
+### Inheritance
 
-Each record can have some _attributes_. Attributes are defined after the name and before the value, with each attribute declaration beginning with an asterisk `*`.
+TyD supports inheritance relationships between records. This reduces the need to repeat the same data in many similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
 
-The attributes are `*handle`, `*source`, and `*abstract`, and `*class`.
+Inheritance is handled by the use of three _attributes_ which can be attached to table records. Attributes are defined after the name and before the value, with each attribute declaration beginning with an asterisk `*`. The attributes are `*handle`, `*source`, and `*abstract`.
 
-An example of a record with attributes:
+An example of a record using inheritance:
 
-    PlantType *handle BasePlant *abstract    # An abstract base plant type
+    PlantType *handle BasePlant *abstract  # An abstract base plant type
     {
         height          10
         growthRate      25
     }
 
-    PlantType *source BasePlant *class PlantTuber    # A concrete plant type inheriting from BasePlant
+    PlantType *source BasePlant            # A concrete plant type inheriting from BasePlant
     {
         name            Potato
         nutrition       1000
-        growthRate      15       # Override the value from BasePlant
+        growthRate      15                 # Override the value from BasePlant
     }
 
-#### Handle attribute
+The list of attributes is fixed; additional attributes cannot be defined.
 
-TyD supports inheritance relationships between records. This reduces the need to repeat the same data in many similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
+#### Handle attribute
 
 The `handle` attribute defines the record as having a given handle for the purposes of inheritance.
 
@@ -221,19 +221,11 @@ This attribute declaration is followed by a string which defines the source's ha
 
 #### Abstract attribute
 
-This adds a boolean indicating the record is abstract, which means your code should not actually instantiate it. It's only present to inherit from.
+This indicates that the record is abstract, which means your code should not actually instantiate it.
 
 This attribute declaration appears alone, without any value after.
 
 TyD itself doesn't use this information; it's there for your code to help ignore records that are only needed as inheritance parents.
-
-#### Class attribute
-
-This adds a string to the record that your code can use to disambiguate which type or class should be used when interpreting this record.
-
-This attribute declaration is followed by a string which defines the actual name of the class. The string can contain the characters (a-zA-Z0-9_-).
-
-TyD itself doesn't use this information for anything; it's there so you can attach data to help your code know how to handle the record.
 
 ## Contributing to TyD
 
@@ -261,12 +253,11 @@ The following developments are under consideration to add to TyD. If you're inte
 
 Examples:
 
-    *Animal     # The asterisk defines the class of this record.
-    $Bear       # The dollar sign defines the handle of this record for purposes of inheritance.
+    &Bear       # The dollar sign defines the handle of this record for purposes of inheritance.
     ^Bear       # The up-arrow defines a source of this record for purposes of inheritance.
     ~           # The tilde means the record is abstract.
 
-    AnimalType ~ ^BaseAnimal $BaseBear *AnimalWithClaws {...} # This record is named AnimalType. It is abstract. It inherits from BaseAnimal. Its handle is BaseBear. It uses class AnimalWithClaws.
+    AnimalType ~ ^BaseAnimal $BaseBear {...} # This record is named AnimalType. It is abstract. It inherits from BaseAnimal. Its handle is BaseBear.
 
 **Patching:** Allow a document to patch another document, if loaded in a specific order using specific calls. For use in mods or expansion packs.
 

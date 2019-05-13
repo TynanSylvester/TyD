@@ -15,26 +15,26 @@ Spell
     manaCost    20
     impactEffects
     [
-        *class ImpactEffect_DirectDamage
         {
+            class       ImpactEffect_DirectDamage
             damage      25
         }
-        *class ImpactEffect_RadialDamage
         {
+            class       ImpactEffect_RadialDamage
             radius      5
             damage      8
             falloffMode Linear
         }
-        *class ImpactEffect_SpawnParticles
         {
+            class       ImpactEffect_SpawnParticles
             color       (255, 100, 100)   # TyD reads this as a string. Game code should parse this as a color.
             size        0.5
             count       50
             mode        BurstRandom
             lifespan    2.6
         }
-        *class ImpactEffect_MakeSound
         {
+            class       ImpactEffect_MakeSound
             soundFile   sound/impact/fireballExplosion.wav
             volume      0.40
             radius      100
@@ -51,20 +51,20 @@ Spell
     manaCost    8
     impactEffects
     [
-        *class ImpactEffect_DirectDamage
         {
+            class       ImpactEffect_DirectDamage
             damage      5
         }
-        *class ImpactEffect_SpawnParticles
         {
+            class       ImpactEffect_SpawnParticles
             color       (100, 100, 255)   # TyD reads this as a string. Game code should parse this as a color.
             size        0.3
             count       10
             mode        BurstRandom
             lifespan    0.8
         }
-        *class ImpactEffect_MakeSound
         {
+            class       ImpactEffect_MakeSound
             soundFile   sound/impact/magicMissileHit.wav
             volume      0.30
             radius      60
