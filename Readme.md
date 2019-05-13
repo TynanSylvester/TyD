@@ -13,8 +13,7 @@ You can use [TyDSharp, a simple C# implementation of the TyD language.](https://
 TyD is a simple text data language designed for:
 
 * **Game data** like enemy types, spells, terrain types, and so on.
-* **Config data** like resolution, difficulty, and user accounts.
-* **Save data** like saved maps, characters, or inventory.
+* **User config data** like resolution, difficulty, and user accounts.
 
 Since Tynan is an indie game developer (known for RimWorld), TyD was created with indie games in mind. However, it could be used for many other types of software as well.
 
