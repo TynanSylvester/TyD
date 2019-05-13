@@ -249,15 +249,17 @@ The following developments are under consideration to add to TyD. If you're inte
 
 **Arbitrary attributes:** Users may want to add other attributes. We may support this, though I'm also slightly doubtful given potential complexity and performance concerns.
 
-**Single-character attribute declarations:** Instead of declaring attributes with short strings like `source` or `handle`, we declare them with single special characters.
+**Better attribute declaration syntax:** Several ideas on this:
 
-Examples:
+Candidate 1: Write them very similarly to how C# does. The asterisk marks the handle:
 
-    &Bear       # The dollar sign defines the handle of this record for purposes of inheritance.
-    ^Bear       # The up-arrow defines a source of this record for purposes of inheritance.
-    ~           # The tilde means the record is abstract.
+    abstract EnemyType *GoblinBase {...}
+    EnemyType : *GoblinBase {...}
 
-    AnimalType ~ ^BaseAnimal $BaseBear {...} # This record is named AnimalType. It is abstract. It inherits from BaseAnimal. Its handle is BaseBear.
+Candidate 2: Instead of declaring attributes with short strings like `source` or `handle`, we declare them with single special characters:
+
+    EnemyType ~ &GoblinBase {...}
+    EnemyType ^GoblinBase {...}
 
 **Patching:** Allow a document to patch another document, if loaded in a specific order using specific calls. For use in mods or expansion packs.
 
