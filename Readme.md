@@ -4,7 +4,7 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.2.0.
+This project is not yet considered stable. The current version is 0.2.1.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
@@ -15,7 +15,7 @@ TyD is an easy-to-edit text data language designed for:
 * **Game data** like enemy types, spells, terrain types, and so on.
 * **User config data** like screen resolution, difficulty, and user accounts.
 
-Since Tynan is an indie game developer (known for RimWorld), TyD was created with indie games in mind. However, it could be used for many other types of software as well.
+Since Tynan is an indie game developer (known for RimWorld), TyD was created with indie games in mind. However, it could be used for other types of software as well.
 
 ## Example
 
@@ -186,16 +186,42 @@ Tables are collections of named records. Tables begin and end with curly bracket
 
 ### Inheritance
 
-TyD supports inheritance relationships between records. This reduces the need to repeat the same data in many similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
+TyD supports inheritance between records. This reduces the need to repeat the same data in similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
 
-Inheritance is handled by the use of three _attributes_ which can be attached to table records. Attributes are defined after the name and before the value, with each attribute declaration beginning with an asterisk `*`. The attributes are `*handle`, `*source`, and `*abstract`.
+Inheritance is handled by the use of three _attributes_ which can be attached to records. Attributes are defined after the record name and before the value. Each attribute declaration begins with an asterisk `*`.
 
-An example of a record using inheritance:
+The `*handle` attribute defines the record as having a given handle for the purposes of inheritance. It is followed by a string which defines the handle itself. The handle can contain the characters (a-zA-Z0-9_-).
+
+The `*source` attribute defines the record as inheriting data from the other record with the matching handle. It is followed by a string which defines the source's handle.
+
+The `*abstract` attribute indicates that the record is abstract, which means it's only meant to be used as a base for inheritance, and not meant to be interpreted as data by itself. This means your code should not actually instantiate it. This attribute declaration appears alone, without any value after. TyD itself doesn't use this information; it's there for your code to help ignore records that are only needed as inheritance parents.
+
+Records can only inherit from other records of the same type, with the exception of null records, which can participate in inheritance with any record.
+
+#### How inheritance resolves
+
+When a null inherits: The source's data overwrites it.
+
+When a string inherits: The source's data overwrites that of the heir.
+
+When a list inherits: The source's children are prepended to the heir's children.
+
+When a table inherits: For each child of the source, if heir has no record of the same name, the record is prepended to it. Otherwise, the heir's child record inherits from the source's child record normally.
+
+Inheriting from a null node has no effect in any case.
+
+#### Inheritance example
+
+An example of inheritance:
 
     PlantType *handle BasePlant *abstract  # An abstract base plant type
     {
         height          10
         growthRate      25
+        allowedSoilTypes
+        [
+            RichSoil
+        ]
     }
 
     PlantType *source BasePlant            # A concrete plant type inheriting from BasePlant
@@ -203,29 +229,11 @@ An example of a record using inheritance:
         name            Potato
         nutrition       1000
         growthRate      15                 # Override the value from BasePlant
+        allowedSoilTypes
+        [
+            StonySoil                      # The final potato plant will allow both RichSoil and StonySoil
+        ]
     }
-
-The list of attributes is fixed; additional attributes cannot be defined.
-
-#### Handle attribute
-
-The `handle` attribute defines the record as having a given handle for the purposes of inheritance.
-
-This attribute declaration is followed by a string which defines the handle itself. The string can contain the characters (a-zA-Z0-9_-).
-
-#### Source attribute
-
-This defines the record as inheriting data from the other record with the matching handle.
-
-This attribute declaration is followed by a string which defines the source's handle.
-
-#### Abstract attribute
-
-This indicates that the record is abstract, which means your code should not actually instantiate it.
-
-This attribute declaration appears alone, without any value after.
-
-TyD itself doesn't use this information; it's there for your code to help ignore records that are only needed as inheritance parents.
 
 ## Contributing to TyD
 
