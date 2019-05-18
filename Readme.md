@@ -4,7 +4,7 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.2.1.
+This project is not yet considered stable. The current version is 0.3.0.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
@@ -188,13 +188,15 @@ Tables are collections of named records. Tables begin and end with curly bracket
 
 TyD supports inheritance between records. This reduces the need to repeat the same data in similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
 
-Inheritance is handled by the use of three _attributes_ which can be attached to records. Attributes are defined after the record name and before the value. Each attribute declaration begins with an asterisk `*`.
+Inheritance is handled by the use of _attributes_ which can be attached to records. Attributes are defined after the record name and before the value. Each attribute declaration begins with an asterisk `*`.
 
 The `*handle` attribute defines the record as having a given handle for the purposes of inheritance. It is followed by a string which defines the handle itself. The handle can contain the characters (a-zA-Z0-9_-).
 
 The `*source` attribute defines the record as inheriting data from the other record with the matching handle. It is followed by a string which defines the source's handle.
 
-The `*abstract` attribute indicates that the record is abstract, which means it's only meant to be used as a base for inheritance, and not meant to be interpreted as data by itself. This means your code should not actually instantiate it. This attribute declaration appears alone, without any value after. TyD itself doesn't use this information; it's there for your code to help ignore records that are only needed as inheritance parents.
+The `*abstract` attribute indicates that the record is abstract, which means it's only meant to be used as a base for inheritance, and not meant to be interpreted as data by itself. This means your code should not actually instantiate it. This attribute declaration appears alone, without any value after. TyD itself doesn't use this information; it's there for your code to help ignore records that are only needed as inheritance parents. If the abstract attribute is defined on a record, a handle attribute must also be defined, otherwise an error is thrown.
+
+The `*noinherit` attribute indicates that the record should not inherit anything, even if its parent does so.
 
 Records can only inherit from other records of the same type, with the exception of null records, which can participate in inheritance with any record.
 
