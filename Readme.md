@@ -200,15 +200,15 @@ Records can only inherit from other records of the same type, with the exception
 
 #### How inheritance resolves
 
-When a null inherits: The source's data overwrites it.
+Inheriting from a null source has no effect in any case.
 
-When a string inherits: The source's data overwrites that of the heir.
+When a null inherits: The resulting record matches the heir.
+
+When a string inherits: The resulting record matches the heir.
 
 When a list inherits: The source's children are prepended to the heir's children.
 
-When a table inherits: For each child of the source, if heir has no record of the same name, the record is prepended to it. Otherwise, the heir's child record inherits from the source's child record normally.
-
-Inheriting from a null node has no effect in any case.
+When a table inherits: For each child of the source, if heir has no record of the same name, the record is prepended to the heir's data. Otherwise, the heir's first child record of the same name inherits from the source's child record according to these rules.
 
 #### Inheritance example
 
