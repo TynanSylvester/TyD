@@ -4,7 +4,7 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.3.0.
+This project is not yet considered stable. The current version is 0.3.1.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
@@ -186,7 +186,9 @@ Tables are collections of named records. Tables begin and end with curly bracket
 
 ### Inheritance
 
-TyD supports inheritance between records. This reduces the need to repeat the same data in similar records. For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
+TyD supports inheritance between records. This reduces the need to repeat the same data in similar records.
+
+For example, if you have five types of goblin enemies, you can define a single `BaseGoblin` record holding common info on all goblins like character model, skin, size, speed, and attack types. You can then have five concrete goblin records inherit from `BaseGoblin`, only varying their color and damage.
 
 Inheritance is handled by the use of _attributes_ which can be attached to records. Attributes are defined after the record name and before the value. Each attribute declaration begins with an asterisk `*`.
 
@@ -199,6 +201,8 @@ The `*abstract` attribute indicates that the record is abstract, which means it'
 The `*noinherit` attribute indicates that the record should not inherit anything, even if its parent does so.
 
 Records can only inherit from other records of the same type, with the exception of null records, which can participate in inheritance with any record.
+
+If a string record has handle, source, or abstract attributes, an error should result.
 
 #### How inheritance resolves
 
