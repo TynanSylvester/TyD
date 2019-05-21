@@ -241,36 +241,4 @@ An example of inheritance:
 
 All contributions including documentation, pull requests, and bug reports are welcome!
 
-## Potential future developments
-
-The following developments are under consideration to add to TyD. If you're interested in implementing any of them, please get in touch!
-
-**Multi-line comments:** A way to write comments on multiple lines with one start/end code, similar to C-style `/* comments */`. Suggested syntax is `#[ comment ]#`.
-
-**Multiple inheritance:** A record can have multiple sources. It would inherit from them in the order they're declared, with each successive inhertiance overwriting data from the previous one the same way a record's own data overwrites that of its source.
-
-**Literal strings:** Strings which are delimited by single quotes, and don't allow any escaping whatsoever. Until the second `'` character, what you see is exactly what you get. This can also be extended to multi-line literal strings, denoted by `'''`, which allow including `'` characters. TOML has this feature.
-
-**TyD VSCode extension:** A VSCode extension for TyD that does syntax highlighting and navigation.
-
-**Unicode char escape seqences in strings:** A way to directly write escaped Unicode characters in strings. TOML has this feature.
-
-**Line-ending backslash:** Ending a line with a backslash `\` inside a string makes the parser ignore the newline. This allows more comfortably writing long strings in some cases.
-
-**Arbitrary attributes:** Users may want to add other attributes. We may support this, though I'm also slightly doubtful given potential complexity and performance concerns.
-
-**Better attribute declaration syntax:** Several ideas on this:
-
-Candidate 1: Write them very similarly to how C# does. The asterisk marks the handle:
-
-    abstract EnemyType *GoblinBase {...}
-    EnemyType : *GoblinBase {...}
-
-Candidate 2: Instead of declaring attributes with short strings like `source` or `handle`, we declare them with single special characters:
-
-    EnemyType ~ &GoblinBase {...}
-    EnemyType ^GoblinBase {...}
-
-**Patching:** Allow a document to patch another document, if loaded in a specific order using specific calls. For use in mods or expansion packs.
-
-**Error recovery with log:** Provide a mode where instead of throwing exceptions and stopping upon finding errors in the text data, the system sends out log messages through a passed-in error message channel and continues with deserialization as best it can.
+Potential future developments are listed on the [potential future developments page]((https://github.com/tyd-lang/TyD/blobl/master/Future.md).
