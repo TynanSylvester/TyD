@@ -1,0 +1,24 @@
+# This file demonstrates using TyD to store localized language data.
+#
+# In this case, we're just defining keys and the corresponding text.
+#
+# This file contains English language data.
+#
+# You would want to have separate files for different languages, and load the right one on startup.
+
+# Main menu
+game_name       "Super Duper Explosion Simulator"
+main_menu       "Main menu"
+new_game        "New game"
+options         "Options"
+quit            "Quit"
+
+# Options menu
+resolution      "Resolution"
+fullscreen      "Fullscreen"
+sound_volume    "Sound volume"
+
+# Gameplay
+increase_size   "Increase size"
+decrease_size   "Decrease size"
+explode         "Explode"
