@@ -6,6 +6,8 @@ The following developments are under consideration to add to TyD. If you're inte
 
 A way to load TyD data that modified previously-loaded TyD data. Used for localization, user mods, and official expansion packs.
 
+[More info here.](https://github.com/tyd-lang/TyD/blob/master/Proposal-patches.md)
+
 ## Multi-line comments
 
 A way to write comments on multiple lines with one start/end code, similar to C-style `/* comments */`. Suggested syntax is `#[ comment ]#`.

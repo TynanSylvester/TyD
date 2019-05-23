@@ -242,4 +242,4 @@ An example of inheritance:
 
 All contributions including documentation, pull requests, and bug reports are welcome!
 
-Potential future developments are listed on the [potential future developments page]((https://github.com/tyd-lang/TyD/blobl/master/Future.md).
+Potential future developments are listed on the [potential future developments page](https://github.com/tyd-lang/TyD/blob/master/Future.md).
