@@ -207,15 +207,11 @@ If a string record has handle, source, or abstract attributes, an error should r
 
 #### How inheritance resolves
 
-Inheriting from a null source has no effect in any case.
+When a string or null inherits: Nothing happens.
 
-When a null inherits: The resulting record matches the heir.
+When a list inherits: If the source is not null, the source's children are prepended to the heir's children.
 
-When a string inherits: The resulting record matches the heir.
-
-When a list inherits: The source's children are prepended to the heir's children.
-
-When a table inherits: For each child of the source, if heir has no record of the same name, the record is prepended to the heir's data. Otherwise, the heir's first child record of the same name inherits from the source's child record according to these rules.
+When a table inherits: If the source is null, nothing happens. Otherwise, we check for matches between the names of children of source and heir. All unmatched children of source are prepended before heir's children. Then, the heir's first child of each name inherits from the source's first child of that name, according to these rules. (If multiple children have the same name, children after the first one are not affected by inheritance.)
 
 #### Inheritance example
 
