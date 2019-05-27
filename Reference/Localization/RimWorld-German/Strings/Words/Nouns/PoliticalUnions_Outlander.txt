@@ -1,0 +1,21 @@
+﻿//Common with tribals
+Union
+Nation
+Konföderierten
+Konföderation
+Sippe
+Allianz
+Kirche
+
+//Outlander specific
+Föderation
+Herrschaft
+Liga
+Gesellschaft
+Freundschaft
+Koalition
+Gruppe
+Sippschaft
+Knappschaft
+Vereinigung
+Einheit

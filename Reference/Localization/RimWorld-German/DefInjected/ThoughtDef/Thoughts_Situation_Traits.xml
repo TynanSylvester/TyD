@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascetic has awful bedroom -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>Abscheuliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Mein Schlafzimmer ist genau so, wie ich es haben will. Sehr schlicht und einfach.</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <!-- EN: ascetic has dull bedroom -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.label>Schreckliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_dull_bedroom.label>
+  <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
+  <Ascetic.stages.ascetic_has_dull_bedroom.description>Mein Schlafzimmer ist genau so, wie ich es haben will. Ich mag es.</Ascetic.stages.ascetic_has_dull_bedroom.description>
+  <!-- EN: ascetic has mediocre bedroom -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.label>Mittelmäßiges Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_mediocre_bedroom.label>
+  <!-- EN: My bedroom is very humble and simple. I like it. -->
+  <Ascetic.stages.ascetic_has_mediocre_bedroom.description>Mein Schlafzimmer ist genau so, wie ich es haben will. Ich mag es.</Ascetic.stages.ascetic_has_mediocre_bedroom.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-0.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-0.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-0.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-1.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-1.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-1.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-2.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-2.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-2.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-3.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-3.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-3.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-4.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-4.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-4.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-5.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-5.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-5.description>
+  <!-- EN: ascetic has impressive bedroom -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.label>Ansehnliches Schlafzimmer (Asket)</Ascetic.stages.ascetic_has_impressive_bedroom-6.label>
+  <!-- EN: I don't like having an impressive bedroom. -->
+  <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>Ich möchte kein ansehnliches Schlafzimmer.</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
+  
+  <!-- EN: brawler has ranged weapon -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>Raufbold trägt Fernwaffe</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Ich hasse Fernkampf, das ist so feige! Ich will an den Gegner ran und das persönlich klären!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  
+  <!-- EN: constraining clothes -->
+  <ClothedNudist.stages.constraining_clothes.label>Einengende Kleidung</ClothedNudist.stages.constraining_clothes.label>
+  <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
+  <ClothedNudist.stages.constraining_clothes.description>Ich bin ein Nudist, muss aber Kleidung tragen. Es ist nicht unerträglich - trotzdem fühlt es sich einengend und unbequem an.</ClothedNudist.stages.constraining_clothes.description>
+  
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>Kein ansehnliches Schlafzimmer</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <!-- EN: I'm greedy. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-0.description>Ich bin habgierig. Ich will ein wirklich ansehnliches Schlafzimmer haben!</Greedy.stages.greedy_for_impressive_bedroom-0.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.label>Kein ansehnliches Schlafzimmer</Greedy.stages.greedy_for_impressive_bedroom-1.label>
+  <!-- EN: I'm greedy. My room is pathetic! I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-1.description>Ich bin habgierig. Mein Raum ist erbärmlich! Ich will ein wirklich ansehnliches Schlafzimmer haben!</Greedy.stages.greedy_for_impressive_bedroom-1.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.label>Kein ansehnliches Schlafzimmer</Greedy.stages.greedy_for_impressive_bedroom-2.label>
+  <!-- EN: I'm greedy. My room isn't nearly good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-2.description>Ich bin habgierig. Mein Raum ist nicht einmal annähernd gut genug! Ich will ein wirklich ansehnliches Schlafzimmer haben!</Greedy.stages.greedy_for_impressive_bedroom-2.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.label>Kein ansehnliches Schlafzimmer</Greedy.stages.greedy_for_impressive_bedroom-3.label>
+  <!-- EN: I'm greedy. My room isn't good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-3.description>Ich bin habgierig. Mein Raum ist nicht gut genug! Ich will ein wirklich ansehnliches Schlafzimmer haben!</Greedy.stages.greedy_for_impressive_bedroom-3.description>
+  <!-- EN: greedy for impressive bedroom -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.label>Kein ansehnliches Schlafzimmer</Greedy.stages.greedy_for_impressive_bedroom-4.label>
+  <!-- EN: I'm greedy. My room isn't quite good enough. I want a really impressive bedroom. -->
+  <Greedy.stages.greedy_for_impressive_bedroom-4.description>Ich bin habgierig. Mein Raum ist noch nicht gut genug! Ich will ein wirklich ansehnliches Schlafzimmer haben!</Greedy.stages.greedy_for_impressive_bedroom-4.description>
+  
+  <!-- EN: happily nude -->
+  <HappyNude.stages.happily_nude.label>Nackt und glücklich</HappyNude.stages.happily_nude.label>
+  <!-- EN: I'm nude and loving it! I feel so free and unconstrained and in touch with my surroundings! -->
+  <HappyNude.stages.happily_nude.description>Ich bin nackt und liebe es! Ich fühle mich so frei, so uneingeschränkt und eins mit der Natur!</HappyNude.stages.happily_nude.description>
+  
+  <!-- EN: jealous of {0}'s bedroom -->
+  <Jealous.stages.jealous_of_s_bedroom.label>Neidisch</Jealous.stages.jealous_of_s_bedroom.label>
+  <!-- EN: I need to have the best one! -->
+  <Jealous.stages.jealous_of_s_bedroom.description>Jemand hat ein Schlafzimmer, das eindrucksvoller als meins ist!</Jealous.stages.jealous_of_s_bedroom.description>
+  
+  <!-- EN: masochist in minor pain -->
+  <MasochistPain.stages.masochist_in_minor_pain.label>Masochist hat leichte Schmerzen</MasochistPain.stages.masochist_in_minor_pain.label>
+  <!-- EN: Ow... Heh heh heh... I could get used to this! -->
+  <MasochistPain.stages.masochist_in_minor_pain.description>Aua... He he he... Ich könnte mich daran gewöhnen!</MasochistPain.stages.masochist_in_minor_pain.description>
+  <!-- EN: masochist in serious pain -->
+  <MasochistPain.stages.masochist_in_serious_pain.label>Masochist hat stärkere Schmerzen</MasochistPain.stages.masochist_in_serious_pain.label>
+  <!-- EN: Ughhh... It hurts, but I love it! Keep it coming! -->
+  <MasochistPain.stages.masochist_in_serious_pain.description>Ughhh... Das schmerzt, aber ich liebe es! Mehr, gebt mir mehr!</MasochistPain.stages.masochist_in_serious_pain.description>
+  <!-- EN: masochist in intense pain -->
+  <MasochistPain.stages.masochist_in_intense_pain.label>Masochist hat starke Schmerzen</MasochistPain.stages.masochist_in_intense_pain.label>
+  <!-- EN: Ouch... I think something's broken... But what an exquisite feeling! -->
+  <MasochistPain.stages.masochist_in_intense_pain.description>Autsch... Ich denke, da ist etwas gebrochen... Aber was für ein wunderbares Gefühl!</MasochistPain.stages.masochist_in_intense_pain.description>
+  <!-- EN: masochist in mind-shattering pain -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.label>Masochist ist Ohnmächtig vor Schmerz</MasochistPain.stages.masochist_in_mindshattering_pain.label>
+  <!-- EN: Ahhh... Am I in heaven? -->
+  <MasochistPain.stages.masochist_in_mindshattering_pain.description>Aaaaaaaah... Bin ich im Himmel?</MasochistPain.stages.masochist_in_mindshattering_pain.description>
+  
+  <!-- EN: night owl in daytime -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.label>Es ist Tag</NightOwlDuringTheDay.stages.night_owl_in_daytime.label>
+  <!-- EN: I don't like working during the day. -->
+  <NightOwlDuringTheDay.stages.night_owl_in_daytime.description>Ich mag es nicht tagsüber zu arbeiten.</NightOwlDuringTheDay.stages.night_owl_in_daytime.description>
+  
+  <!-- EN: night owl at night -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.label>Nachteule</NightOwlDuringTheNight.stages.night_owl_at_night.label>
+  <!-- EN: I feel much better at night. -->
+  <NightOwlDuringTheNight.stages.night_owl_at_night.description>Ich fühle mich nachts viel besser..</NightOwlDuringTheNight.stages.night_owl_at_night.description>
+  
+  <!-- EN: transhumanist pleased -->
+  <ProsthophileHappy.stages.transhumanist_pleased.label>Transhumanist: Zufrieden</ProsthophileHappy.stages.transhumanist_pleased.label>
+  <!-- EN: This artificial part is cool. I want more. -->
+  <ProsthophileHappy.stages.transhumanist_pleased.description>Dieses künstliche Körperteil gefällt mir. Kann ich noch eins haben?</ProsthophileHappy.stages.transhumanist_pleased.description>
+  <!-- EN: transhumanist quite pleased -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>Transhumanist: Gut zufrieden</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
+  <!-- EN: Two artificial parts are better than one. I wish I had more. -->
+  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Zwei künstliche Körperteile sind besser als eins. Ich wünsche mir noch eins!</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
+  <!-- EN: transhumanist delighted -->
+  <ProsthophileHappy.stages.transhumanist_delighted.label>Transhumanist: Begeistert</ProsthophileHappy.stages.transhumanist_delighted.label>
+  <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
+  <ProsthophileHappy.stages.transhumanist_delighted.description>Drei künstliche Körperteile, das Fleisch weicht langsam. Aber ich brauche noch mehr Maschinen-Power!</ProsthophileHappy.stages.transhumanist_delighted.description>
+  <!-- EN: transhumanist enchanted -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.label>Transhumanist: Verzaubert</ProsthophileHappy.stages.transhumanist_enchanted.label>
+  <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <ProsthophileHappy.stages.transhumanist_enchanted.description>Vier künstliche Körperteile und ich werde langsam mehr als nur menschlich. Aber es gibt noch immer Fleisch, das ersetzt werden muss.</ProsthophileHappy.stages.transhumanist_enchanted.description>
+  <!-- EN: transhumanist overjoyed -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.label>Transhumanist: Überglücklich</ProsthophileHappy.stages.transhumanist_overjoyed.label>
+  <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
+  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Fünf künstliche Körperteile! Wie kann ein fortschrittliches Wesen wie ich jemals traurig sein?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
+  <!-- EN: machine body is complete -->
+  <ProsthophileHappy.stages.machine_body_is_complete.label>Maschinenkörper ist fertiggestellt</ProsthophileHappy.stages.machine_body_is_complete.label>
+  <!-- EN: I asked for this. -->
+  <ProsthophileHappy.stages.machine_body_is_complete.description>Genau so wie ich es haben wollte!</ProsthophileHappy.stages.machine_body_is_complete.description>
+  
+  <!-- EN: transhumanist frustrated -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>Transhumanist frustriert</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
+  <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
+  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Fleisch ist so eingeschränkt. Ich wünschte, ich hätte irgendein moderneres Körperteil.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
+  
+  <!-- EN: body purist squeamish -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>Körperpurist: Empfindlich</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Ein künstliches Körperteil wurde an mir angebracht. Es fühlt sich so dreckig an!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <!-- EN: body purist disgusted -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>Körperpurist: Angewiedert</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Zwei künstliche Körperteile haben meinen puren, natürlichen Körper verunstaltet. Es macht mich krank wenn ich daran denken muss.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <!-- EN: body purist violated -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>Körperpurist: Vergewaltigt</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Drei künstliche Körperteile vergewaltigen meinen Körper. Ich schaudere bei dem Gedanken daran... und diese Teile schaudern mit!</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <!-- EN: body purist horrified -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>Körperpurist: Entsetzt</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Vier künstliche Körperteile... Es fühlt sich an als wenn ich langsam zum Roboter werde! Ein schrecklicher Gedanke!</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <!-- EN: body purist nightmare -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>Körperpurist: Alptraum</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Fünf künstliche Körperteile... Ist da noch irgendetwas von mir übrig? Oder bin ich nur ein Roboter, der denkt, er wäre menschlich?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <!-- EN: I have become what I hate -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Ich wurde, was ich hasse!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <!-- EN: I asked for the exact opposite of this! -->
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Ich habe das genaue Gegenteil gewollt!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  
+  <!-- EN: pyromaniac has incendiary weapon -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>Pyromane hat Brandgeschosswerfer</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <!-- EN: It makes me think of flame and fire. I'm so happy. -->
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Sie erinnert mich an Feuer und Flammen. Ich bin so glücklich.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+</LanguageData>

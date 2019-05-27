@@ -1,0 +1,93 @@
+﻿//Example: "Er prahlte mit sein..."
+er Kleidung
+er Kleidungswahl
+er Mode
+er Eleganz
+
+er Erscheinung
+er Größe
+en Maßen
+en Haaren
+er Frisur
+er Gesichtsbehaarung
+er Beinbehaarung
+er Gesichtsform
+en Augen
+er Nase
+en Ohren
+er Stirn
+en Händen
+er Körperhaltung
+en Muskeln
+
+er Stimme
+er Sprache
+em Akzent
+
+er Fernkampffähigkeit
+er Nahkampffähigkeit
+en sozialen Fähigkeiten
+er Gärtnerfähigkeit
+en medizinischen Fähigkeiten
+er Tierfähigkeit
+er Kochfähigkeit
+er Konstruktionsfähigkeit
+er Abbaufähigkeit
+er Kunstfähigkeit
+er Bastelfähigkeit
+en intellektuellen Fähigkeiten
+
+en Kenntnissen
+en Fähigkeiten
+er Intelligenz
+er Gehirnleistung
+er emotionalen Stabilität
+er Selbstbeherrschung
+er Nützlichkeit
+er Art zu Gehen
+er Art zu Denken
+en Kampfmethoden
+er Lernfähigkeit
+en Essgewohnheiten
+er Lieblingsspeise
+em Alter
+er Kostbarkeit als Mensch
+er Disziplin
+er Gewissenhaftigkeit
+er Ehre
+er Ehrlichkeit
+er Tapferkeit
+en Ansichten
+en Glaubensinhalten
+en Ideen
+en Hoffnungen und Träumen
+en Zielen
+en persönlichen Gewohnheiten
+er persönlichen Hygiene
+er Ausdauer
+er Persönlichkeit
+er Klasse
+er Kultur
+en Hobbys
+er Pünktlichkeit
+er Großzügigkeit
+er Tapferkeit
+er Loyalität
+er Freundlichkeit
+er Redegewandtheit
+er Toleranz
+er charmanten Art
+er Aufrichtigkeit
+er Aufgeschlossenheit
+er Reizbarkeit
+er Leichtgläubigkeit
+er Hochnäsigkeit
+
+er Herkunft
+en Eltern
+en Großeltern
+en Freunden
+er Familie
+em Familien-Hintergrund
+en Liebesbeziehungen
+

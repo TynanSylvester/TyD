@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allowed area -->
+  <AllowedArea.label>Erlaubtes Gebiet</AllowedArea.label>
+  
+  <!-- EN: allowed area -->
+  <AllowedAreaWide.label>Erlaubtes Gebiet</AllowedAreaWide.label>
+  
+  <!-- EN: drug policy -->
+  <DrugPolicy.label>Drogenrichtlinie</DrugPolicy.label>
+  
+  <!-- EN: food restriction -->
+  <FoodRestriction.label>Ernährungsplan</FoodRestriction.label>
+  
+  <!-- EN: Hostility response -->
+  <HostilityResponse.headerTip>Reaktion auf Angriff</HostilityResponse.headerTip>
+  
+  <!-- EN: master -->
+  <Master.label>Meister</Master.label>
+  
+  <!-- EN: Medical care -->
+  <MedicalCare.headerTip>Medizinische Versorgung</MedicalCare.headerTip>
+  
+  <!-- EN: current outfit -->
+  <Outfit.label>Aktuelles Outfit</Outfit.label>
+  
+</LanguageData>

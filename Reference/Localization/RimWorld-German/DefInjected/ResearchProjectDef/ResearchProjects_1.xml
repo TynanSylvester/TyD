@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>Brauen</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Baue die Brauerei und Fermentierungsfässer, um angebauten Hopfen in leckeres Bier zu verwandeln.</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>Teppichherstellung</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Webe schöne Teppichböden aus Stoff.</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>Kakao anpflanzen</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>Pflanze Kakao-Bäume um Deine eigene leckere Schokolade herstellen zu können. Das Essen von Schokolade entspannt und sie erzielt auch einen guten Preis auf dem Markt.</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>Komplexere Kleidung</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Nähvorlagen für komplexere Kleidung wie z.B. Hosen, Mäntel oder Cowboyhüte.</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>Komplexe Möbel</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>Baue komplexere Möbelstücke wie z.B. Betten, Nachttische, Esszimmerstühle, Kommoden, Werkzeugschränke, Billard- und Pokertische, Ventilatoren, Sarkophage und vieles mehr.</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>Teufelsgarnpilz</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Pflanze Teufelsgarnpilze. Der Teufelsgarnpilz ist ein langsam wachsender Pilz, aus dem man eine außergewöhnlich zähe und hitzeresistente Pflanzenfaser gewinnen kann.</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>Drogenherstellung</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Baue ein Drogenlabor für die Drogenherstellung und -synthetisierung. Für spezielle Drogen ist zusätzliche Forschung notwendig.</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>Herstellung von Go-Juice</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Stelle Go-Juice her, eine Droge zum Steigern der Kampffähigkeiten. Sie verbessert Schießen, Nahkampf sowie Bewegung und verringert Schmerzen.</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>Langbogen</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>Stelle Langbögen her, mit denen man weit entfernte Gegner töten kann.</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>Lange Klingen</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>Ermöglicht die Produktion von Langschwertern und Speeren.</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Passive Kühlung</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Baue passive Kühlgeräte, eine Möglichkeit Räume zu kühlen, ohne dass man Strom benötigt.</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>Dörrfleisch</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Erlaubt den Kolonisten indianisches Dörrfleisch aus Fleisch und pflanzlichen Zutaten herzustellen, das nicht verdirbt. Gut für Reisen.</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>Herstellung von Penoxzylin</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Stelle Penoxzylin her. Diese Droge dient zur Vorbeugung gegen Krankheiten.</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>Plattenrüstung</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Stelle Plattenrüstungen aus Metall oder Holz her. Diese schwere Rüstung verlangsamt den Benutzer, aber ist auch ein ausgezeichneter Schutz.</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>Verarbeitung von Psychit</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Stelle aus Psychoid-Blättern die euphorisierende Droge Psychit (Flake oder Yayo) her.</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>Psychoid brauen</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>Entsprechend behandelt können Psychoid-Blätter an jeder Kochstelle mit heißem Wasser aufgekocht werden, was einen leicht euphorisch und süchtig machenden Tee ergibt.</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>Recurve-Bogen</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Erstelle den Recurve-Bogen, eine effektive und günstige Fernkampfwaffe.</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>Schmieden</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Erlaubt das Bauen einer Schmiede, in der Metallwaffen wie Messer, Kurzschwerter und Streitkolben hergestellt werden. Auch das Bearbeiten von Metall zu sauberen, schönen Bodenfliesen wird dadurch ermöglicht.</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>Steinhauerei</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Verarbeite Felsbrocken zu verwendbarem Baumaterial. Baue schöne Steinböden oder hässliche Beton-Wege</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>Bäume anpflanzen</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Pflanze die Baumarten des aktuellen Bioms in Deinen Feldern an.</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>Herstellung von Muntermacher</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Synthetisiere den Muntermacher, eine Droge zum Steigern der Arbeitsleistung, die den Schlaf ersetzen kann.</WakeUpProduction.description>
+  
+</LanguageData>

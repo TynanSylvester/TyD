@@ -1,0 +1,23 @@
+﻿//Example: "Der ..."
+Wald
+Kaktus
+Baum
+Busch
+Fels
+Felsen
+Steinbruch
+Stein
+Berg
+Hügel
+Steilhang
+Spalt
+Fluss
+Bach
+Zulauf
+Meeresarm
+Meerbusen
+Fjord
+See
+Tümpel
+Sumpf
+Morast

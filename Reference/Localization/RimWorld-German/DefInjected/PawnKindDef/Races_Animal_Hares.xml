@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>Hase</Hare.label>
+  <Hare.labelPlural>Hasen</Hare.labelPlural>
+  <Hare.lifeStages.0.label>Häschen</Hare.lifeStages.0.label>
+  <Hare.lifeStages.1.label>junger Hase</Hare.lifeStages.1.label>
+  <Hare.lifeStages.2.label>Hase</Hare.lifeStages.2.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>Schneehase</Snowhare.label>
+  <Snowhare.labelPlural>Schneehasen</Snowhare.labelPlural>
+  <Snowhare.lifeStages.0.label>Schneehäschen</Snowhare.lifeStages.0.label>
+  <Snowhare.lifeStages.1.label>junger Schneehase</Snowhare.lifeStages.1.label>
+  <Snowhare.lifeStages.2.label>Schneehase</Snowhare.lifeStages.2.label>
+  
+</LanguageData>

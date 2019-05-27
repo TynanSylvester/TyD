@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient concrete barrier -->
+  <AncientConcreteBarrier.label>Uralte Beton-Barriere</AncientConcreteBarrier.label>
+  <!-- EN: A traffic management solution from long ago. -->
+  <AncientConcreteBarrier.description>Eine verkehrsregelnde Lösung aus längst vergessener Zeit.</AncientConcreteBarrier.description>
+  
+  <!-- EN: ancient lamppost -->
+  <AncientLamppost.label>Uralte Straßenlaterne</AncientLamppost.label>
+  <!-- EN: Road lighting from long ago. No longer functional. -->
+  <AncientLamppost.description>Straßenbeleuchtung aus längst vergessener Zeit. Nicht mehr funktionsfähig.</AncientLamppost.description>
+  
+</LanguageData>

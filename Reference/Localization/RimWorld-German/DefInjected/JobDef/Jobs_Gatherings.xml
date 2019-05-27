@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: marrying TargetA. -->
+  <MarryAdjacentPawn.reportString>heiratet TargetA.</MarryAdjacentPawn.reportString>
+  
+  <!-- EN: spectating. -->
+  <SpectateCeremony.reportString>schaut zu.</SpectateCeremony.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <StandAndBeSociallyActive.reportString>entspannt sich zusammen mit anderen.</StandAndBeSociallyActive.reportString>
+  
+</LanguageData>

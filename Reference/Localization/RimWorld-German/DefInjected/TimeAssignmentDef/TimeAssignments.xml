@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anything -->
+  <Anything.label>Alles</Anything.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>Entspannung</Joy.label>
+  
+  <!-- EN: sleep -->
+  <Sleep.label>Schlafen</Sleep.label>
+  
+  <!-- EN: work -->
+  <Work.label>Arbeiten</Work.label>
+  
+</LanguageData>

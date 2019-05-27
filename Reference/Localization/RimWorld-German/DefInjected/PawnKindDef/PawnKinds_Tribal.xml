@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>Bogenschütze</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>Bogenschützen</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>Berserker</Tribal_Berserker.label>
+  <Tribal_Berserker.labelPlural>Berserker</Tribal_Berserker.labelPlural>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>Häuptling (Berserker)</Tribal_ChiefMelee.label>
+  <Tribal_ChiefMelee.labelPlural>Häuptlinge (Berserker)</Tribal_ChiefMelee.labelPlural>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>Häuptling (Bogen)</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>Häuptlinge (Bogen)</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>Langbogenschütze</Tribal_HeavyArcher.label>
+  <Tribal_HeavyArcher.labelPlural>Langbogenschützen</Tribal_HeavyArcher.labelPlural>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>Jäger</Tribal_Hunter.label>
+  <Tribal_Hunter.labelPlural>Jäger</Tribal_Hunter.labelPlural>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>Büßer</Tribal_Penitent.label>
+  <Tribal_Penitent.labelPlural>Büßer</Tribal_Penitent.labelPlural>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>Stammeshändler</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>Stammeshändler</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>Krieger</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>Krieger</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

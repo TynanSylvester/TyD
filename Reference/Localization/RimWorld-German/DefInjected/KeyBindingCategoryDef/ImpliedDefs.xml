@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Böden tab -->
+  <Architect_Floors.label>Menü Böden</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Böden" section of the Architect menu -->
+  <Architect_Floors.description>Tastenbelegungen für den Abschnitt "Böden" im Architekt-Menü</Architect_Floors.description>
+  
+  <!-- EN: Möbel tab -->
+  <Architect_Furniture.label>Menü Möbel</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Möbel" section of the Architect menu -->
+  <Architect_Furniture.description>Tastenbelegungen für den Abschnitt "Möbel" im Architekt-Menü</Architect_Furniture.description>
+  
+  <!-- EN: Entspannung tab -->
+  <Architect_Joy.label>Menü Vergnügen</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Entspannung" section of the Architect menu -->
+  <Architect_Joy.description>Tastenbelegungen für den Abschnitt "Vergnügen" im Architekt-Menü</Architect_Joy.description>
+  
+  <!-- EN: Diverses tab -->
+  <Architect_Misc.label>Menü Diverses</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Diverses" section of the Architect menu -->
+  <Architect_Misc.description>Tastenbelegungen für den Abschnitt "Diverses" im Architekt-Menü</Architect_Misc.description>
+  
+  <!-- EN: Befehle tab -->
+  <Architect_Orders.label>Menü Befehle</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Befehle" section of the Architect menu -->
+  <Architect_Orders.description>Tastenbelegungen für den Abschnitt "Befehle" im Architekt-Menü</Architect_Orders.description>
+  
+  <!-- EN: Strom tab -->
+  <Architect_Power.label>Menü Strom</Architect_Power.label>
+  <!-- EN: Key bindings for the "Strom" section of the Architect menu -->
+  <Architect_Power.description>Tastenbelegungen für den Abschnitt "Strom" im Architekt-Menü</Architect_Power.description>
+  
+  <!-- EN: Produktion tab -->
+  <Architect_Production.label>Menü Produktion</Architect_Production.label>
+  <!-- EN: Key bindings for the "Produktion" section of the Architect menu -->
+  <Architect_Production.description>Tastenbelegungen für den Abschnitt "Produktion" im Architekt-Menü</Architect_Production.description>
+  
+  <!-- EN: Sicherheit tab -->
+  <Architect_Security.label>Menü Sicherheit</Architect_Security.label>
+  <!-- EN: Key bindings for the "Sicherheit" section of the Architect menu -->
+  <Architect_Security.description>Tastenbelegungen für den Abschnitt "Sicherheit" im Architekt-Menü</Architect_Security.description>
+  
+  <!-- EN: Raumschiff tab -->
+  <Architect_Ship.label>Menü Raumschiff</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Raumschiff" section of the Architect menu -->
+  <Architect_Ship.description>Tastenbelegungen für den Abschnitt "Raumschiff" im Architekt-Menü</Architect_Ship.description>
+  
+  <!-- EN: Strukturen tab -->
+  <Architect_Structure.label>Menü Strukturen</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Strukturen" section of the Architect menu -->
+  <Architect_Structure.description>Tastenbelegungen für den Abschnitt "Strukturen" im Architekt-Menü</Architect_Structure.description>
+  
+  <!-- EN: Temperatur tab -->
+  <Architect_Temperature.label>Menü Temperatur</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatur" section of the Architect menu -->
+  <Architect_Temperature.description>Tastenbelegungen für den Abschnitt "Temperatur" im Architekt-Menü</Architect_Temperature.description>
+  
+  <!-- EN: Zone tab -->
+  <Architect_Zone.label>Menü Zone/Gebiet</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Zone" section of the Architect menu -->
+  <Architect_Zone.description>Tastenbelegungen für den Abschnitt "Zone/Gebiet" im Architekt-Menü</Architect_Zone.description>
+  
+</LanguageData>

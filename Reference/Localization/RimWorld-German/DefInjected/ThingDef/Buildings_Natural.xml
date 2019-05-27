@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collapsed rocks -->
+  <CollapsedRocks.label>Eingestürzter Felsen</CollapsedRocks.label>
+  <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
+  <CollapsedRocks.description>Felsen, der zwar eingestürzt, aber immer noch fest genug ist, ein Dach zu tragen.</CollapsedRocks.description>
+  
+  <!-- EN: glow pod -->
+  <GlowPod.label>Leuchtkapsel</GlowPod.label>
+  <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
+  <GlowPod.description>Eine biolumineszierende Kapsel der Rieseninsekten. Leuchtet eine sehr lange Zeit, bevor sie vergeht.</GlowPod.description>
+  
+  <!-- EN: hive -->
+  <Hive.label>Kolonie</Hive.label>
+  <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
+  <Hive.description>Eine Kolonie riesiger Insekten. Wenn aktiviert wird sie im Laufe der Zeit zusätzliche Insekten und Kolonien, wie auch wertvollen Insekten-Gelee generieren.</Hive.description>
+  
+  <!-- EN: compacted machinery -->
+  <MineableComponentsIndustrial.label>Komprimierte Bauteile</MineableComponentsIndustrial.label>
+  <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
+  <MineableComponentsIndustrial.description>Antike Maschinen, die im Laufe der Zeit komprimiert wurden. Kann abgebaut werden, um an brauchbare Bauteile zu gelangen.</MineableComponentsIndustrial.description>
+  
+  <!-- EN: gold ore -->
+  <MineableGold.label>Goldader</MineableGold.label>
+  <!-- EN: Rock containing bits of gold. -->
+  <MineableGold.description>Gestein, das etwas Gold enthält.</MineableGold.description>
+  
+  <!-- EN: jade -->
+  <MineableJade.label>Jadeader</MineableJade.label>
+  <!-- EN: Rock containing bits of jade. -->
+  <MineableJade.description>Felsgestein, das Jade enthält.</MineableJade.description>
+  
+  <!-- EN: compacted plasteel -->
+  <MineablePlasteel.label>Komprimierter Plastahl</MineablePlasteel.label>
+  <!-- EN: Ancient compacted rubble rich in plasteel. -->
+  <MineablePlasteel.description>Antiker komprimierter Schrott, reich an Plastahl.</MineablePlasteel.description>
+  
+  <!-- EN: silver ore -->
+  <MineableSilver.label>Silberader</MineableSilver.label>
+  <!-- EN: Rock containing bits of silver. -->
+  <MineableSilver.description>Gestein, das etwas Silber enthält.</MineableSilver.description>
+  
+  <!-- EN: compacted steel -->
+  <MineableSteel.label>Komprimierter Stahl</MineableSteel.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
+  <MineableSteel.description>Reste einer antiken, eingestürzten Struktur, reich an Stahl.</MineableSteel.description>
+  
+  <!-- EN: uranium ore -->
+  <MineableUranium.label>Uranader</MineableUranium.label>
+  <!-- EN: Rock containing bits of uranium. -->
+  <MineableUranium.description>Gestein, das etwas Uran enthält.</MineableUranium.description>
+  
+  <!-- EN: steam geyser -->
+  <SteamGeyser.label>Geysir</SteamGeyser.label>
+  <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
+  <SteamGeyser.description>Natürliche Dampfquelle. Geothermale Generatoren können die Dampfkraft transformieren. Räume die hier herum errichtet werden, sind sehr schnell kochend heiß.</SteamGeyser.description>
+  
+</LanguageData>

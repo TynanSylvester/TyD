@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue carpet -->
+  <CarpetBlue.label>Blauer Teppich</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>Plüschteppich in einem kühlen Blau.</CarpetBlue.description>
+  
+  <!-- EN: cream carpet -->
+  <CarpetCream.label>Creme Teppich</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <CarpetCream.description>Ein einladender Cremefarbener Teppich.</CarpetCream.description>
+  
+  <!-- EN: dark carpet -->
+  <CarpetDark.label>Grauer Teppich</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <CarpetDark.description>Ein professionell aussehender dunkel-grauer Teppich.</CarpetDark.description>
+  
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>Grüner Teppich</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Ein Teppich in einem natürlichen Grün. 'Erdfarben, Alter'.</CarpetGreen.description>
+  
+  <!-- EN: red carpet -->
+  <CarpetRed.label>Roter Teppich</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Plüschteppich in einem schönen roten Farbton.</CarpetRed.description>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>Beton</Concrete.label>
+  <!-- EN: Rough concrete. It is fast to walk on, cheap, and quick to build, but quite ugly. -->
+  <Concrete.description>Grober Beton. Man kann schnell darauf laufen, er ist billig und schnell hergestellt. Allerdings ist er auch recht hässlich.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>Goldfliese</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Für den überschwenglich-luxuriösen Look gibt es nichts besseres als Goldfliesen. Sie sind außergewöhnlich teuer, sehen außergewöhnlich gut aus und die Leute denken, dass Du ein außergewöhnlicher Snob bist, wenn Du tatsächlich darauf wohnst.</GoldTile.description>
+  
+  <!-- EN: metal tile -->
+  <MetalTile.label>Metallfliese</MetalTile.label>
+  <!-- EN: Metal tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Metallfliesen für den Raumschiff-Look. Sie sehen gut aus und die glatte Oberfläche gibt einen Bonus auf die Sauberkeit.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>Betonplatte</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Einfache Betonplatten. Billig und man kann schnell darauf laufen, allerdings benötigt er mehr Arbeitszeit und sieht eher neutral aus.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>Silberfliese</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Für den futuristisch-königlichen Look. Silberfliesen sehen sehr gut in Luxuskabinen aus und geben einen Bonus auf die Sauberkeit.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>Sterile Fliese</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Sterilraumfliesen mit den sauberkeitsverbessernden Eigenschaften. Extra-saubere Räume verbessern die Ergebnisse in Krankenhäusern und Forschungslaboren. Es dauert sehr lange diese Fliese zu verlegen.</SterileTile.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>Holzboden</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Ein Holzfußboden. Für das warme, heimische Gefühl. Er ist leicht zu verlegen, aber auch sehr leicht entflammbar.</WoodPlankFloor.description>
+  
+</LanguageData>

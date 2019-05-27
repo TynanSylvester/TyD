@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>Puma</Cougar.label>
+  <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
+  <Cougar.description>Mit zu den gefährlichsten Großkatzen zählt der Puma. Er ist normalerweise ein Einzelgänger und trotzdem, aufgrund seiner langen und scharfen Zähne und Krallen, ein hervorragender Jäger. Sie schleichen sich an ihr Opfer heran und schlagen dann aus dem Versteck heraus zu.\n\nAuch wenn Menschen normalerweise nicht auf ihrem Speiseplan stehen, so schlagen sie trotzdem kein leckeres Mahl aus verwundbarem menschlichem Fleisch aus.</Cougar.description>
+  <!-- EN: left claw -->
+  <Cougar.tools.left_claw.label>linker Kralle</Cougar.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Cougar.tools.right_claw.label>rechter Kralle</Cougar.tools.right_claw.label>
+  <!-- EN: head -->
+  <Cougar.tools.head.label>Kopf</Cougar.tools.head.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>Luchs</Lynx.label>
+  <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
+  <Lynx.description>Eine Wildkatze, die größer als eine Hauskatze, aber kleiner als ein Puma ist. Luchse überleben mit einem Speiseplan bestehend aus kleinen Vögeln und Tieren. Ihr sehr warmes Fell hält sie auch in den kältesten Monaten ihrer gefrohrenen Territorien warm.</Lynx.description>
+  <!-- EN: left claw -->
+  <Lynx.tools.left_claw.label>linker Kralle</Lynx.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Lynx.tools.right_claw.label>rechter Kralle</Lynx.tools.right_claw.label>
+  <!-- EN: head -->
+  <Lynx.tools.head.label>Kopf</Lynx.tools.head.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>Panther</Panther.label>
+  <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
+  <Panther.description>Eine bewegliche und kraftvolle Großkatze, die im Dschungel der alten Erde beheimatet war. Der Panther ist ein Einzelgänger und greift bevorzugt aus dem Versteck heraus an. Mit dieser Vorgehensweise sind sie Meister im Erlegen von großer, wie auch kleinerer Beute. Beobachter tendieren dazu von ihrer eleganten Fortbewegungsart fasziniert zu sein, während jene, die näher herankommen, eher ihre schädelbrechende Kraft bemerken.</Panther.description>
+  <!-- EN: left claw -->
+  <Panther.tools.left_claw.label>linker Kralle</Panther.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Panther.tools.right_claw.label>rechter Kralle</Panther.tools.right_claw.label>
+  <!-- EN: head -->
+  <Panther.tools.head.label>Kopf</Panther.tools.head.label>
+  
+</LanguageData>

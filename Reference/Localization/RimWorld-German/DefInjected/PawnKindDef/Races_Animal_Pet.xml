@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cat -->
+  <Cat.label>Katze</Cat.label>
+  <Cat.labelPlural>Katzen</Cat.labelPlural>
+  <!-- EN: kitten -->
+  <Cat.lifeStages.kitten.label>Katzenbaby</Cat.lifeStages.kitten.label>
+  <Cat.lifeStages.1.labelFemale>junge Katze</Cat.lifeStages.1.labelFemale>
+  <Cat.lifeStages.1.labelMale>junger Kater</Cat.lifeStages.1.labelMale>
+  <Cat.lifeStages.2.labelFemale>Katze</Cat.lifeStages.2.labelFemale>
+  <Cat.lifeStages.2.labelMale>Kater</Cat.lifeStages.2.labelMale>
+  
+  <!-- EN: husky -->
+  <Husky.label>Husky</Husky.label>
+  <!-- EN: huskies -->
+  <Husky.labelPlural>Huskys</Husky.labelPlural>
+  <!-- EN: husky puppy -->
+  <Husky.lifeStages.husky_puppy.label>Huskywelpe</Husky.lifeStages.husky_puppy.label>
+  <!-- EN: husky puppies -->
+  <Husky.lifeStages.husky_puppy.labelPlural>Huskywelpen</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.lifeStages.1.label>junger Husky</Husky.lifeStages.1.label>
+  <Husky.lifeStages.2.label>Husky</Husky.lifeStages.2.label>
+  
+  <!-- EN: labrador retriever -->
+  <LabradorRetriever.label>Labrador-Retriever</LabradorRetriever.label>
+  <LabradorRetriever.labelPlural>Labrador-Retriever</LabradorRetriever.labelPlural>
+  <!-- EN: labrador puppy -->
+  <LabradorRetriever.lifeStages.labrador_puppy.label>Labrador-Retriever Welpe</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <!-- EN: labrador puppies -->
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>Labrador-Retriever Welpen</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.lifeStages.1.label>junger Labrador-Retriever</LabradorRetriever.lifeStages.1.label>
+  <LabradorRetriever.lifeStages.2.label>Labrador-Retriever</LabradorRetriever.lifeStages.2.label>
+  
+  <!-- EN: yorkshire terrier -->
+  <YorkshireTerrier.label>Yorkshire Terrier</YorkshireTerrier.label>
+  <YorkshireTerrier.labelPlural>Yorkshire Terrier</YorkshireTerrier.labelPlural>
+  <!-- EN: yorkshire terrier puppy -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>Yorkshire Terrier Welpe</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <!-- EN: yorkshire terrier puppies -->
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>Yorkshire Terrier Welpen</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.lifeStages.1.label>junger Yorkshire Terrier</YorkshireTerrier.lifeStages.1.label>
+  <YorkshireTerrier.lifeStages.2.label>Yorkshire Terrier</YorkshireTerrier.lifeStages.2.label>
+  
+</LanguageData>

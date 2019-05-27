@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: haul -->
+  <Haul.label>Transport</Haul.label>
+  <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
+  <Haul.description>Das Tier kann Gegenstände transportieren.</Haul.description>
+  
+  <!-- EN: obedience -->
+  <Obedience.label>Gehorsam</Obedience.label>
+  <!-- EN: The animal can be assigned a master who it will follow and defend. -->
+  <Obedience.description>Das Tier kann einem 'Herrchen' zugeordnet werden, dem es folgen und den es verteidigen wird.</Obedience.description>
+  
+  <!-- EN: release -->
+  <Release.label>Leine lösen</Release.label>
+  <!-- EN: The animal can be released to attack distant targets instead of just defending its master. -->
+  <Release.description>Das Tier kann freigelassen werden, sodass es entfernte Ziele angreift, anstatt nur sein 'Herrchen' zu verteidigen.</Release.description>
+  
+  <!-- EN: rescue -->
+  <Rescue.label>Rettung</Rescue.label>
+  <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
+  <Rescue.description>Das Tier kann verwundete Verbündete retten und sie in Sicherheit zerren.</Rescue.description>
+  
+  <!-- EN: tameness -->
+  <Tameness.label>Zahmheit</Tameness.label>
+  <!-- EN: The animal can learn to consider itself a member of your colony. -->
+  <Tameness.description>Das Tier wird lernen, sich als Teil der Gemeinschaft zu fühlen.</Tameness.description>
+  
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals -->
+  <Animals.label>Tiere</Animals.label>
+  <!-- EN: Taming, training, and controlling animals. -->
+  <Animals.description>Zähmen, trainieren und kontrollieren von Tieren.</Animals.description>
+  <!-- EN: animals -->
+  <Animals.skillLabel>Tiere</Animals.skillLabel>
+  
+  <!-- EN: artistic -->
+  <Artistic.label>Kunst</Artistic.label>
+  <!-- EN: Crafting art. -->
+  <Artistic.description>Kunstwerke erstellen.</Artistic.description>
+  <!-- EN: artistic -->
+  <Artistic.skillLabel>Kunst</Artistic.skillLabel>
+  
+  <!-- EN: construction -->
+  <Construction.label>Konstruktion</Construction.label>
+  <!-- EN: Constructing and deconstructing structures and furniture. -->
+  <Construction.description>Errichten und Abreißen von Strukturen und Möbeln.</Construction.description>
+  <!-- EN: construction -->
+  <Construction.skillLabel>Konstruktion</Construction.skillLabel>
+  
+  <!-- EN: cooking -->
+  <Cooking.label>Kochen</Cooking.label>
+  <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
+  <Cooking.description>Mahlzeiten aus rohen Zutaten erstellen. Schnell und ohne versehentliche Nahrungsmittelvergiftung.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.skillLabel>Kochen</Cooking.skillLabel>
+  
+  <!-- EN: crafting -->
+  <Crafting.label>Handwerk</Crafting.label>
+  <!-- EN: Crafting general items including weapons, components, and refined resources. -->
+  <Crafting.description>Allgemeine Gegenstände, wie z. B. Waffen, Bauteile und verarbeitete Rohstoffe herstellen.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.skillLabel>Handwerk</Crafting.skillLabel>
+  
+  <!-- EN: intellectual -->
+  <Intellectual.label>Geistig</Intellectual.label>
+  <!-- EN: Researching and drug synthesis. -->
+  <Intellectual.description>Forschen und Drogen synthetisieren.</Intellectual.description>
+  <!-- EN: intellectual -->
+  <Intellectual.skillLabel>Geistige Arbeit</Intellectual.skillLabel>
+  
+  <!-- EN: medical -->
+  <Medicine.label>Medizin</Medicine.label>
+  <!-- EN: Tending wounds and diseases and performing surgery. -->
+  <Medicine.description>Behandeln von Wunden und Infektionen sowie das Durchführen von Operationen.</Medicine.description>
+  <!-- EN: medical -->
+  <Medicine.skillLabel>Medizin</Medicine.skillLabel>
+  
+  <!-- EN: melee -->
+  <Melee.label>Nahkampf</Melee.label>
+  <!-- EN: Melee combat, both armed and unarmed. -->
+  <Melee.description>Der Nahkampf mit und ohne Nahkampfwaffen.</Melee.description>
+  <!-- EN: melee -->
+  <Melee.skillLabel>Nahkampf</Melee.skillLabel>
+  
+  <!-- EN: mining -->
+  <Mining.label>Bergbau</Mining.label>
+  <!-- EN: Digging tunnels and extracting buried resources. -->
+  <Mining.description>Tunnel graben und vergrabene Rohstoffe abbauen.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.skillLabel>Bergbau</Mining.skillLabel>
+  
+  <!-- EN: plants -->
+  <Plants.label>Pflanzen</Plants.label>
+  <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
+  <Plants.description>Säen, pflegen und ernten von Nutzpflanzen, sowie die Nahrungssuche auf Reisen.</Plants.description>
+  <!-- EN: plants -->
+  <Plants.skillLabel>Pflanzen</Plants.skillLabel>
+  
+  <!-- EN: shooting -->
+  <Shooting.label>Fernkampf</Shooting.label>
+  <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
+  <Shooting.description>Der Fernkampf mit Low- sowie auch Hightech-Fernkampfwaffen.</Shooting.description>
+  <!-- EN: shooting -->
+  <Shooting.skillLabel>Fernkampf</Shooting.skillLabel>
+  
+  <!-- EN: social -->
+  <Social.label>Sozial</Social.label>
+  <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
+  <Social.description>Verhandeln, überzeugen, manipulieren, führen und andere aufmuntern.</Social.description>
+  <!-- EN: social -->
+  <Social.skillLabel>Sozial</Social.skillLabel>
+  
+</LanguageData>

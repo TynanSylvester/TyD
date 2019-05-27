@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: do forever -->
+  <Forever.label>wiederhole für immer</Forever.label>
+  
+  <!-- EN: do X times -->
+  <RepeatCount.label>wiederhole X-mal</RepeatCount.label>
+  
+  <!-- EN: do until you have X -->
+  <TargetCount.label>wiederhole, bis Du X hast</TargetCount.label>
+  
+</LanguageData>

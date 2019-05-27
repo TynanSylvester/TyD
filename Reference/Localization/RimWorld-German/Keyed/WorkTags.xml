@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>Nichts</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>Geistige Arbeit</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>Einfache Arbeit</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>Komplexe Arbeit</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>Gewalttätig</WorkTagViolent>
+  <!-- EN: caring -->
+  <WorkTagCaring>Fürsorglich</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>Sozial</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>Tiere</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>Künstlerisch</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>Handwerklich</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>Kochen</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>Feuerlöschen</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>Saubermachen</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>Dinge tragen</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>Pflanzen anbauen</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>Gestein abbauen</WorkTagMining>
+
+</LanguageData>

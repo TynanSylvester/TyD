@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Bite.label>Biss</Bite.label>
+  
+  <Blunt.label>Schlag</Blunt.label>
+  
+  <Cut.label>Schnitt</Cut.label>
+  
+  <Poke.label>Stoß</Poke.label>
+  
+  <Scratch.label>Kratzer</Scratch.label>
+  
+  <Stab.label>Stich</Stab.label>
+  
+  <ToxicBite.label>Giftbiss</ToxicBite.label>
+  
+</LanguageData>

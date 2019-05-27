@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>Neue Gemeinschaft</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Eine Kolonie von kürzlich angekommenen Siedlern.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>Kolonist</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>Kolonisten</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>Neuer Stamm</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>Ein kleiner Stamm.</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>Stammesmitglied</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>Stammesmitglieder</PlayerTribe.pawnsPlural>
+  
+</LanguageData>

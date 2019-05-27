@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agave -->
+  <Plant_Agave.label>Agave</Plant_Agave.label>
+  <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
+  <Plant_Agave.description>Eine großblättrige Wüstenpflanze, deren Stängel und Blüten essbar sind.</Plant_Agave.description>
+  
+  <!-- EN: pincushion cactus -->
+  <Plant_PincushionCactus.label>Zwergkaktus</Plant_PincushionCactus.label>
+  <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
+  <Plant_PincushionCactus.description>Ein kleiner Kaktus. Er ähnelt einem Nadelkissen.</Plant_PincushionCactus.description>
+  
+  <!-- EN: saguaro cactus -->
+  <Plant_SaguaroCactus.label>Riesenkaktus</Plant_SaguaroCactus.label>
+  <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
+  <Plant_SaguaroCactus.description>Ein großer Kaktus, der in den trockensten Gebieten des Planeten beheimatet ist. Auch wenn er kein Baum ist, kann man trotzdem eine kleine Menge eines faserigen Materials aus dem Stamm gewinnen, das man wie Holz verwenden kann.</Plant_SaguaroCactus.description>
+  
+  <!-- EN: drago tree -->
+  <Plant_TreeDrago.label>Drachenbaum</Plant_TreeDrago.label>
+  <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
+  <Plant_TreeDrago.description>Ein widerstandsfähiger Wüstenbaum mit dicken, spitzen Blättern.</Plant_TreeDrago.description>
+  
+</LanguageData>

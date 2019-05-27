@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer -->
+  <Beer.label>Bier</Beer.label>
+  <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
+  <Beer.description>Das erste, neben Wasser, je von Menschen konsumierte Getränk. Bier kann gut schmecken, aber der Hauptzweck liegt in der berauschenden Wirkung. Übermäßiger Konsum kann zu Blackouts und auf Dauer zu Alkoholismus (Alkoholabhängigkeit) führen.</Beer.description>
+  <!-- EN: Drink {0} -->
+  <Beer.ingestible.ingestCommandString>Trinke ein Bier.</Beer.ingestible.ingestCommandString>
+  <!-- EN: Drinking {0}. -->
+  <Beer.ingestible.ingestReportString>Trinkt ein Bier.</Beer.ingestible.ingestReportString>
+  <!-- EN: bottle -->
+  <Beer.tools.bottle.label>Flasche</Beer.tools.bottle.label>
+  <!-- EN: neck -->
+  <Beer.tools.neck.label>Hals</Beer.tools.neck.label>
+  
+  <!-- EN: wort -->
+  <Wort.label>Bierwürze</Wort.label>
+  <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
+  <Wort.description>Bierwürze vor der Fermentierung. Die Substanz benötigt noch einige Zeit im Fermentierungsfass, bevor es zu richtigem Bier wird.</Wort.description>
+  
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>Chemische Verätzung</ChemicalDamageModerate.label>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>Chemische Verätzung</ChemicalDamageSevere.label>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>Zirrhose</Cirrhosis.label>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>Wiederbelebungspsychose</ResurrectionPsychosis.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>früh</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>früh</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>mittel</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>fortgeschritten</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>schwer</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>total</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>katatonisch</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>Trauma Savant</TraumaSavant.label>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>Trauma</TraumaSavant.labelNoun>
+  
+</LanguageData>

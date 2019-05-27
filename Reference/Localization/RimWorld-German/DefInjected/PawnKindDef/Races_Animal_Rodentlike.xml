@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>Alpha-Biber</Alphabeaver.label>
+  <Alphabeaver.labelPlural>Alpha-Biber</Alphabeaver.labelPlural>
+  <Alphabeaver.lifeStages.0.label>Biberjunges</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>junger Biber</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>Alpha-Biber</Alphabeaver.lifeStages.2.label>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>Boomratte</Boomrat.label>
+  <Boomrat.labelPlural>Boomratten</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>Boomrattenjunges</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>junge Boomratte</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>Boomratte</Boomrat.lifeStages.2.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>Wasserschwein</Capybara.label>
+  <Capybara.labelPlural>Wasserschweine</Capybara.labelPlural>
+  <Capybara.lifeStages.0.label>Wasserschweinferkel</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>junges Wasserschwein</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>Wasserschwein</Capybara.lifeStages.2.label>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>Chinchilla</Chinchilla.label>
+  <Chinchilla.labelPlural>Chinchillas</Chinchilla.labelPlural>
+  <Chinchilla.lifeStages.0.label>Chinchillababy</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>junges Chinchilla</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>Chinchilla</Chinchilla.lifeStages.2.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>Waschbär</Raccoon.label>
+  <Raccoon.labelPlural>Waschbären</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>Waschbärenjunges</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.1.label>junger Waschbär</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.2.label>Waschbär</Raccoon.lifeStages.2.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>Ratte</Rat.label>
+  <Rat.labelPlural>Ratten</Rat.labelPlural>
+  <Rat.lifeStages.0.label>Rattenjunges</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>junge Ratte</Rat.lifeStages.1.label>
+  <Rat.lifeStages.2.label>Ratte</Rat.lifeStages.2.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>Eichhörnchen</Squirrel.label>
+  <Squirrel.labelPlural>Eichhörnchen</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>Eichhörnchenjunges</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>junges Eichhörnchen</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.2.label>Eichhörnchen</Squirrel.lifeStages.2.label>
+  
+</LanguageData>

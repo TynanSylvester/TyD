@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flu -->
+  <Animal_Flu.label>Grippe</Animal_Flu.label>
+  <Animal_Flu.labelNoun>eine Grippe</Animal_Flu.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>leicht (versteckt)</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>stark</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>extrem</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>Seuche</Animal_Plague.label>
+  <Animal_Plague.labelNoun>eine Seuche</Animal_Plague.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>leicht (versteckt)</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>schwer</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>extrem</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>extrem</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>Fasermechaniten</FibrousMechanites.label>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>leichte Schmerzen</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>starke Schmerzen</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>Grippe</Flu.label>
+  <Flu.labelNoun>eine Grippe</Flu.labelNoun>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>leicht (versteckt)</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>schwer</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>extrem</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>Wurminfektion</GutWorms.label>
+  <GutWorms.labelNoun>eine Wurminfektion</GutWorms.labelNoun>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>Malaria</Malaria.label>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>leicht (versteckt)</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>schwer</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>extrem</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>Muskelparasiten</MuscleParasites.label>
+  <MuscleParasites.stages.0.label>leicht</MuscleParasites.stages.0.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>Seuche</Plague.label>
+  <Plague.labelNoun>eine Seuche</Plague.labelNoun>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>leicht (versteckt)</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>schwer</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>extrem</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>extrem</Plague.stages.extreme-1.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>Sensorikmechaniten</SensoryMechanites.label>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>leichte Schmerzen</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>starke Schmerzen</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>Schlafkrankheit</SleepingSickness.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>leicht (versteckt)</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>leicht</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>schwer</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>extrem</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>extrem</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>Wundinfektion</WoundInfection.label>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>eine Wundinfektion</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>leicht</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>schwer</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>extrem</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>extrem</WoundInfection.stages.extreme-1.label>
+  
+</LanguageData>

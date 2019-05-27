@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blight -->
+  <Blight.label>Fäule</Blight.label>
+  
+  <!-- EN: explosion -->
+  <Explosion.label>Explosion</Explosion.label>
+  
+  <!-- EN: rect trigger -->
+  <RectTrigger.label>Rechteckauslöser</RectTrigger.label>
+  <RectTrigger.description>Ein rechteckiger Auslösebereich.</RectTrigger.description>
+  
+  <!-- EN: tornado -->
+  <Tornado.label>Tornado</Tornado.label>
+  
+  <!-- EN: trigger unfogged -->
+  <TriggerUnfogged.label>nicht-nebelig auslösen</TriggerUnfogged.label>
+  
+  <!-- EN: tunnel -->
+  <TunnelHiveSpawner.label>Tunnel</TunnelHiveSpawner.label>
+  
+</LanguageData>

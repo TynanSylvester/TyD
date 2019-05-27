@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Genauigkeit (lang)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>Die Genauigkeit mit dieser Waffe bei einer Entfernung von 40 oder mehr Zellen. Die Trefferwahrscheinlichkeit wird auch von anderen Faktoren beeinflusst.</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Genauigkeit (mittel)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Die Genauigkeit mit dieser Waffe bei einer Entfernung von 25 Zellen. Die Trefferwahrscheinlichkeit wird auch von anderen Faktoren beeinflusst.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Genauigkeit (kurz)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Die Genauigkeit mit dieser Waffe bei einer Entfernung von 12 Zellen. Die Trefferwahrscheinlichkeit wird auch von anderen Faktoren beeinflusst.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Genauigkeit (nah)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less. An actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Die Genauigkeit mit dieser Waffe bei einer Entfernung von 3 oder weniger Zellen. Die Trefferwahrscheinlichkeit wird auch von anderen Faktoren beeinflusst.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>Nachladezeit</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>Wie lange es dauert, bis diese Waffe für den nächsten Schuss bereit ist.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>Schadensmultiplikator</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Ein Schadensmultiplikator der auf Schüsse dieser Waffe angewandt wird.</RangedWeapon_DamageMultiplier.description>
+  
+</LanguageData>

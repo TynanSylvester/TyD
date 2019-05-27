@@ -1,0 +1,16 @@
+﻿//Example: "Das ..."
+Grasland
+Plateau
+Feld
+Dickicht
+Dornendickicht
+Hochland
+Steilufer
+Tal
+Refugium 
+Auental
+Höhlengebiet
+Meer
+Becken
+Loch
+Teerloch

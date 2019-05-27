@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: medical operation speed -->
+  <MedicalOperationSpeed.label>Operationsgeschwindigkeit</MedicalOperationSpeed.label>
+  <!-- EN: The speed at which the character performs medical operations. -->
+  <MedicalOperationSpeed.description>Wie schnell die Person Körperteile implantieren oder entnehmen kann.</MedicalOperationSpeed.description>
+  
+  <!-- EN: medical surgery success chance -->
+  <MedicalSurgerySuccessChance.label>Operationserfolgschance</MedicalSurgerySuccessChance.label>
+  <!-- EN: The base chance that a character will succeed when performing a medical operation. The actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations. No matter how high the success chance, there is always a small chance of failure on any operation. -->
+  <MedicalSurgerySuccessChance.description>Die Basiswahrscheinlichkeit, dass die Person die Operation erfolgreich durchführen kann. Diese Erfolgschance wird von dem verwendeten Bett und der Umgebung, der verwendeten Medizin, sowie der Schwierigkeit der Operation und einer Inspiration beeinflusst. Aber egal, wie hoch die Erfolgschance ist, es gibt immer eine kleine Wahrscheinlichkeit, dass die Operation trotzdem schiefgeht.</MedicalSurgerySuccessChance.description>
+  
+  <!-- EN: medical tend quality -->
+  <MedicalTendQuality.label>Behandlungsqualität</MedicalTendQuality.label>
+  <!-- EN: The base quality of tending given when tending wounds and illnesses. The actual tend quality will also be affected by factors like medicine used, facilities, room cleanliness, luck, and so on. -->
+  <MedicalTendQuality.description>Die Basisqualität der Behandlung von Wunden und Krankheiten. Die aktuelle Qualität wird von weiteren Einflüssen mitbestimmt, wie z.B. die verwendete Medizin, die Umgebung, die Sauberkeit des Raumes, etwas Glück, und so weiter.</MedicalTendQuality.description>
+  
+  <!-- EN: medical tend speed -->
+  <MedicalTendSpeed.label>Behandlungsgeschwindigkeit</MedicalTendSpeed.label>
+  <!-- EN: Speed at which the character tends to wounds and illnesses. -->
+  <MedicalTendSpeed.description>Die Geschwindigkeit der Behandlung von Wunden und Krankheiten.</MedicalTendSpeed.description>
+  
+</LanguageData>

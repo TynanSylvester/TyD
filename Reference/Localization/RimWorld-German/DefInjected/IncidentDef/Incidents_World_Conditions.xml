@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>Aurora</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Ein strahlendes Polarlicht erhellt den Himmel.\n\nDie wogenden Farben werden bei allen, die im Freien sind und sie sehen können, die Laune verbessern.</Aurora.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>Sonnenfinsternis</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Sonnenfinsternis</Eclipse.letterLabel>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>Einer der Monde des Planeten verdeckt die Sonne. Eine Sonnenfinsternis hat begonnen.</Eclipse.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>Sonneneruption</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Sonneneruption</SolarFlare.letterLabel>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>Eine Sonneneruption hat begonnen.\n\nDie Vielzahl elektrischer Teilchen stört elektrische Geräte und macht diese unbrauchbar.\n\nSie sollte in etwa einem Tag wieder enden.</SolarFlare.letterText>
+  
+</LanguageData>

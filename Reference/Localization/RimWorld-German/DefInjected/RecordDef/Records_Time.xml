@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: time as a colonist -->
+  <TimeAsColonistOrColonyAnimal.label>Zeit als Kolonist</TimeAsColonistOrColonyAnimal.label>
+  <!-- EN: Total time spent loyal to your community. -->
+  <TimeAsColonistOrColonyAnimal.description>Die Gesamtzeit, in der ich loyal zur Gemeinschaft war.</TimeAsColonistOrColonyAnimal.description>
+  
+  <!-- EN: time as a prisoner -->
+  <TimeAsPrisoner.label>Zeit als Gefangener</TimeAsPrisoner.label>
+  <!-- EN: Total time spent as a prisoner. -->
+  <TimeAsPrisoner.description>Die Gesamtzeit, die ich als Gefangener verbracht habe.</TimeAsPrisoner.description>
+  
+  <!-- EN: time cleaning -->
+  <TimeCleaning.label>Zeit als Reiniger</TimeCleaning.label>
+  <!-- EN: Total time spent cleaning. -->
+  <TimeCleaning.description>Die Gesamtzeit, in der ich als Reinigungspersonal gearbeitet habe.</TimeCleaning.description>
+  
+  <!-- EN: time constructing -->
+  <TimeConstructing.label>Zeit als Bauarbeiter</TimeConstructing.label>
+  <!-- EN: Total time spent constructing and deconstructing buildings. -->
+  <TimeConstructing.description>Die Gesamtzeit, die ich mit dem Auf- und Abbauen von Gebäuden verbracht habe.</TimeConstructing.description>
+  
+  <!-- EN: time downed -->
+  <TimeDowned.label>Zeit Bewusstlos</TimeDowned.label>
+  <!-- EN: Total time spent downed. -->
+  <TimeDowned.description>Die Gesamtzeit, die ich bewusstlos war.</TimeDowned.description>
+  
+  <!-- EN: time drafted -->
+  <TimeDrafted.label>Zeit eingezogen</TimeDrafted.label>
+  <!-- EN: Total time spent drafted. -->
+  <TimeDrafted.description>Die Gesamtzeit, die ich zum Wehrdienst eingezogen war.</TimeDrafted.description>
+  
+  <!-- EN: time firefighting -->
+  <TimeFirefighting.label>Zeit als Feuerwehr</TimeFirefighting.label>
+  <!-- EN: Total time spent firefighting. -->
+  <TimeFirefighting.description>Die Gesamtzeit, in der ich Feuer bekämpft habe.</TimeFirefighting.description>
+  
+  <!-- EN: time finding food and eating -->
+  <TimeGettingFood.label>Zeit für Essen holen</TimeGettingFood.label>
+  <!-- EN: Total time spent on finding food and eating. -->
+  <TimeGettingFood.description>Die Gesamtzeit, die ich brauchte, um etwas Essen zu finden und es zu essen.</TimeGettingFood.description>
+  
+  <!-- EN: time spent on entertainment -->
+  <TimeGettingJoy.label>Zeit für Freizeit</TimeGettingJoy.label>
+  <!-- EN: Total time spent on entertainment. -->
+  <TimeGettingJoy.description>Die Gesamtzeit die ich für Freizeitaktivitäten verbrauchte.</TimeGettingJoy.description>
+  
+  <!-- EN: time handling animals -->
+  <TimeHandlingAnimals.label>Zeit mit Tieren</TimeHandlingAnimals.label>
+  <!-- EN: Total time spent handling animals. -->
+  <TimeHandlingAnimals.description>Die Gesamtzeit, in der ich mit Tieren gearbeitet habe.</TimeHandlingAnimals.description>
+  
+  <!-- EN: time hauling -->
+  <TimeHauling.label>Zeit als Träger</TimeHauling.label>
+  <!-- EN: Total time spent hauling things. -->
+  <TimeHauling.description>Die Gesamtzeit, in der ich etwas getragen habe.</TimeHauling.description>
+  
+  <!-- EN: time hunting -->
+  <TimeHunting.label>Zeit als Jäger</TimeHunting.label>
+  <!-- EN: Total time spent hunting. -->
+  <TimeHunting.description>Die Gesamtzeit, die ich auf der Jagd verbracht habe.</TimeHunting.description>
+  
+  <!-- EN: time in a bed -->
+  <TimeInBed.label>Zeit im Bett</TimeInBed.label>
+  <!-- EN: Total time spent in bed. -->
+  <TimeInBed.description>Die Gesamtzeit, die ich im Bett verbracht habe.</TimeInBed.description>
+  
+  <!-- EN: time in a bed for medical reasons -->
+  <TimeInBedForMedicalReasons.label>Zeit im Bett aus med. Gründen</TimeInBedForMedicalReasons.label>
+  <!-- EN: Total time spent in bed for medical reasons: awaiting treatment, recovering from injuries or being operated on. -->
+  <TimeInBedForMedicalReasons.description>Die Gesamtzeit, die ich aufgrund eines medizinischen Grundes im Bett verbracht habe: Auf Behandlung warten, sich von Verletzungen bzw. Operationen erholen.</TimeInBedForMedicalReasons.description>
+  
+  <!-- EN: time in mental state -->
+  <TimeInMentalState.label>Zeit Zusammenbruch</TimeInMentalState.label>
+  <!-- EN: Total time spent in an abnormal mental state. -->
+  <TimeInMentalState.description>Die Gesamtzeit, in der ich einen Nervenzusammenbruch hatte.</TimeInMentalState.description>
+  
+  <!-- EN: time mining -->
+  <TimeMining.label>Zeit als Bergarbeiter</TimeMining.label>
+  <!-- EN: Total time spent mining. -->
+  <TimeMining.description>Die Gesamtzeit, in der ich als Bergarbeiter in den Minen gearbeitet habe.</TimeMining.description>
+  
+  <!-- EN: time on fire -->
+  <TimeOnFire.label>Zeit brennend</TimeOnFire.label>
+  <!-- EN: Total time spent on fire. -->
+  <TimeOnFire.description>Die Gesamtzeit, in der ich gebrannt hatte.</TimeOnFire.description>
+  
+  <!-- EN: time repairing -->
+  <TimeRepairing.label>Zeit als Mechaniker</TimeRepairing.label>
+  <!-- EN: Total time spent repairing. -->
+  <TimeRepairing.description>Die Gesamtzeit, in der ich als Mechaniker Sachen repariert habe.</TimeRepairing.description>
+  
+  <!-- EN: time researching -->
+  <TimeResearching.label>Zeit als Forscher</TimeResearching.label>
+  <!-- EN: Total time spent researching. -->
+  <TimeResearching.description>Die Gesamtzeit, in der ich in der Forschung gearbeitet habe.</TimeResearching.description>
+  
+  <!-- EN: time sowing and harvesting -->
+  <TimeSowingAndHarvesting.label>Zeit als Gärtner</TimeSowingAndHarvesting.label>
+  <!-- EN: Total time spent sowing, harvesting and cutting plants. -->
+  <TimeSowingAndHarvesting.description>Die Gesamtzeit, in der ich als Gärtner Pflanzen gesät, geerntet und geschnitten habe.</TimeSowingAndHarvesting.description>
+  
+  <!-- EN: time treating and feeding -->
+  <TimeTreatingAndFeeding.label>Zeit als Arzt</TimeTreatingAndFeeding.label>
+  <!-- EN: Total time spent treating and feeding patients. -->
+  <TimeTreatingAndFeeding.description>Die Gesamtzeit, die ich beim Behandeln und Füttern verbracht habe.</TimeTreatingAndFeeding.description>
+  
+  <!-- EN: time under a roof -->
+  <TimeUnderRoof.label>Zeit unterm Dach</TimeUnderRoof.label>
+  <!-- EN: Total time spent under a roof. -->
+  <TimeUnderRoof.description>Die Gesamtzeit, die ich unter einem Dach verbrachte.</TimeUnderRoof.description>
+  
+  <!-- EN: time wardening -->
+  <TimeWardening.label>Zeit als Aufseher</TimeWardening.label>
+  <!-- EN: Total time spent wardening. -->
+  <TimeWardening.description>Die Gesamtzeit, in der ich als Gefängnisaufseher gearbeitet habe.</TimeWardening.description>
+  
+</LanguageData>

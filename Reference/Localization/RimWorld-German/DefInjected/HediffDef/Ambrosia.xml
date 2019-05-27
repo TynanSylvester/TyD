@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia addiction -->
+  <AmbrosiaAddiction.label>Ambrosiasucht</AmbrosiaAddiction.label>
+  <!-- EN: withdrawal -->
+  <AmbrosiaAddiction.stages.withdrawal.label>Entzug</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <!-- EN: ambrosia warmth -->
+  <AmbrosiaHigh.label>Ambrosia-Wärme</AmbrosiaHigh.label>
+  
+  <!-- EN: ambrosia tolerance -->
+  <AmbrosiaTolerance.label>Ambrosia-Toleranz</AmbrosiaTolerance.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-0.label>gering</AmbrosiaTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <AmbrosiaTolerance.stages.small-1.label>gering</AmbrosiaTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <AmbrosiaTolerance.stages.large.label>erheblich</AmbrosiaTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <AmbrosiaTolerance.stages.massive.label>massiv</AmbrosiaTolerance.stages.massive.label>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arresting worsens faction relations -->
+  <ArrestingCreatesEnemies.label>Verhaften verschlechtert Fraktionsverhältnis</ArrestingCreatesEnemies.label>
+  <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist, their entire faction will become your enemy. -->
+  <ArrestingCreatesEnemies.helpText>Warnung: Die Person, die Du gefangen nehmen willst, kommt eventuell nicht freiwillig mit.\n\nWenn Du einen Nicht-Kolonisten gefangen nimmst, wird dieser feindselige Akt seine Fraktion zu Deinem Gegner machen.</ArrestingCreatesEnemies.helpText>
+  
+  <!-- EN: Maximum number of player colonies -->
+  <MaxNumberOfPlayerSettlements.label>Maximale Anzahl von Spielerkolonien</MaxNumberOfPlayerSettlements.label>
+  <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Though it is possible to have more colonies, this will probably cause performance slowdowns and gameplay imbalances. We recommend that, at least at first, you play the game with a one colony maximum. -->
+  <MaxNumberOfPlayerSettlements.helpText>Warnung: RimWorld ist so ausgelegt, dass man mit nur einer Spielerkolonie gleichzeitig spielt. Obwohl es möglich ist, mehrere Kolonien zu haben, wird es wahrscheinlich schlechte Performance und ein Spielungleichgewicht nach sich ziehen. Wir empfehlen, dass Du zuerst mit nur einer Kolonie spielst.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <!-- EN: Flick designations only designate -->
+  <SwitchFlickingDesignation.label>'Schalter betätigen' definiert nur</SwitchFlickingDesignation.label>
+  <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
+  <SwitchFlickingDesignation.helpText>Hinweis: Dies legt nur fest, dass ein Kolonist den Schalter betätigen soll.\n\nEs wird so lange nichts passieren, bis ein Kolonist vorbeikommt und den Schalter von Hand betätigt.</SwitchFlickingDesignation.helpText>
+  
+  <!-- EN: Trade goods and trade beacons -->
+  <TradeGoodsMustBeNearBeacon.label>Waren und Leuchtfeuer</TradeGoodsMustBeNearBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <TradeGoodsMustBeNearBeacon.helpText>Damit Du Gegenstände oder Silber zu einem Händler schicken kannst, musst Du ein ORBITALES FUNKFEUER platzieren und ein Lager mit Gegenständen zum Handeln in Reichweite des Funkfeuers erstellen.</TradeGoodsMustBeNearBeacon.helpText>
+  
+</LanguageData>

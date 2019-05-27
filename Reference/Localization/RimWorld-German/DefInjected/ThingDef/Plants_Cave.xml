@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: agarilux -->
+  <Agarilux.label>Agarilux</Agarilux.label>
+  <!-- EN: An enormous purple mushroom. Its size and glowing protrusions make this fungus beautiful to look at. It dies when exposed to light. -->
+  <Agarilux.description>Ein riesiger lila Pilz. Durch die Größe und die leuchtenden Auswüchse sieht dieser Pilz recht schön aus. Allerdings stirbt er im Licht.</Agarilux.description>
+  
+  <!-- EN: bryolux -->
+  <Bryolux.label>Briolux</Bryolux.label>
+  <!-- EN: A blue moss typically found in deep, dark caves. It is sticky, with tangled fibers, which slows anyone walking over it. Dies when exposed to light. -->
+  <Bryolux.description>Ein blaues Moos, das normalerweise in tiefen, dunklen Höhlen gefunden werden kann. Die klebrige, mit verwobenen Fasern durchsetzte Oberfläche verlangsamt jeden, der hier rüber läuft. Es stirbt im Licht.</Bryolux.description>
+  
+  <!-- EN: glowstool -->
+  <Glowstool.label>Leuchtstuhl</Glowstool.label>
+  <!-- EN: A small brown mushroom typically found in caves. It smells like an old, dirty rag pulled from the stomach of a rotting muffalo - but it tastes surprisingly good when cooked. Dies when exposed to light. -->
+  <Glowstool.description>Ein kleiner brauner Pilz, der normalerweise in Höhlen gefunden werden kann. Er riecht wie ein alter, dreckiger Lappen, der aus dem Magen eines verrottenden Muffalos gezogen wurde - aber er schmeckt überraschend gut, wenn er gekocht wurde. Er stirbt im Licht.</Glowstool.description>
+  
+</LanguageData>

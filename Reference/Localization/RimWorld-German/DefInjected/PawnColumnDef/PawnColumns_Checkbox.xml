@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>Folge dem Meister, wenn er im Kampfmodus ist.</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>Folge dem Meister, wenn er auf der Jagd oder beim Zähmen ist.</FollowFieldwork.headerTip>
+  
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <Hunt.headerTip>Markiere Tiere, die von Deinen Jägern gejagt werden sollen.</Hunt.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>Schlachten</Slaughter.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>Zähme ein wildes Tier.</Tame.headerTip>
+  
+</LanguageData>

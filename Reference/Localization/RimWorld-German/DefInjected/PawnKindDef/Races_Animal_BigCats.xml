@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cougar -->
+  <Cougar.label>Puma</Cougar.label>
+  <Cougar.labelPlural>Pumas</Cougar.labelPlural>
+  <Cougar.lifeStages.0.label>Pumababy</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.1.label>junger Puma</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.2.label>Puma</Cougar.lifeStages.2.label>
+  
+  <!-- EN: lynx -->
+  <Lynx.label>Luchs</Lynx.label>
+  <!-- EN: lynx -->
+  <Lynx.labelPlural>Luchse</Lynx.labelPlural>
+  <!-- EN: lynx kitten -->
+  <Lynx.lifeStages.lynx_kitten.label>Luchsjunges</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.lifeStages.1.label>junger Luchs</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.2.label>Luchs</Lynx.lifeStages.2.label>
+  
+  <!-- EN: panther -->
+  <Panther.label>Panther</Panther.label>
+  <Panther.labelPlural>Panther</Panther.labelPlural>
+  <Panther.lifeStages.0.label>Pantherbaby</Panther.lifeStages.0.label>
+  <Panther.lifeStages.1.label>junger Panther</Panther.lifeStages.1.label>
+  <Panther.lifeStages.2.label>Panther</Panther.lifeStages.2.label>
+  
+</LanguageData>

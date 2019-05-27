@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: temperate forest -->
+  <TemperateForest.label>Gemäßigter Wald</TemperateForest.label>
+  <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
+  <TemperateForest.description>Ein Wald mit diversen Bäumen und Lichtungen, auf denen man fruchtbaren Boden vorfinden kann. Viele Tierarten bewegen sich durch die Wälder und auf den Ebenen.</TemperateForest.description>
+  
+  <!-- EN: temperate swamp -->
+  <TemperateSwamp.label>Sumpf</TemperateSwamp.label>
+  <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
+  <TemperateSwamp.description>Ein Feuchtgebiet mit extrem dichter Vegetation und vielen Krankheiten. Die sumpfige Landschaft machen es einem recht schwer sich hier fortzubewegen oder gar schwere Strukturen aufzubauen.</TemperateSwamp.description>
+  
+</LanguageData>

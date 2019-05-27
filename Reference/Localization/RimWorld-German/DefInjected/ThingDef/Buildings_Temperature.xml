@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: campfire -->
+  <Campfire.label>Lagerfeuer</Campfire.label>
+  <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
+  <Campfire.description>Für das Zubereiten von Nahrung und Erzeugen von Wärme. Es brennt nach ein paar Tagen aus. Wie bei allen Wärmequellen muss es in einem geschlossenen Raum aufgestellt werden. Holz kann nachgelegt werden.</Campfire.description>
+  
+  <!-- EN: cooler -->
+  <Cooler.label>Kühlung</Cooler.label>
+  <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <Cooler.description>Ein Gerät zum Kühlen der Luft, das in eine Wand integriert werden muss. Es erzeugt einerseits Kälte, aber generiert auf der anderen Seite recht viel Wärme. Die Kühlung kann benutzt werden, um im Sommer einen Raum zu kühlen, oder auch um einen Kühlraum zu betreiben.</Cooler.description>
+  
+  <!-- EN: heater -->
+  <Heater.label>Heizung</Heater.label>
+  <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
+  <Heater.description>Ein elektrisch betriebenes Gerät, das elektrische Energie in Wärme umwandelt. Es kann sich automatisch ein- und ausschalten, um eine eingestellte Temperatur zu halten.</Heater.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>Passive Kühlung</PassiveCooler.label>
+  <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
+  <PassiveCooler.description>Eine traditionelle Kühlung, die mit Wasserverdampfung funktioniert. Muss regelmäßig mit neuem Holz versorgt werden. Sie ist nicht effizient genug um Nahrung zu gefrieren.</PassiveCooler.description>
+  
+  <!-- EN: vent -->
+  <Vent.label>Lüftung</Vent.label>
+  <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
+  <Vent.description>Ein einfacher Lüftungsschacht zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dabei eine Öffnung zu schaffen.</Vent.description>
+  
+</LanguageData>

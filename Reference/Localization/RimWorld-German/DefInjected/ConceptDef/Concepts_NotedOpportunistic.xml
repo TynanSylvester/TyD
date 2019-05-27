@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animals don't attack doors -->
+  <AnimalsDontAttackDoors.label>Tiere attackieren keine Türen</AnimalsDontAttackDoors.label>
+  <!-- EN: Manhunting animals generally won't attack doors or inactive turrets.\n\nYou can escape them by getting inside or behind a wall. But they'll wait for you. -->
+  <AnimalsDontAttackDoors.helpText>Menschenjagende Tiere greifen in der Regel keine Türen oder inaktive Geschütztürme an.\n\nWenn es brenzlig wird, kannst Du in Deine Räume flüchten oder Dich hinter einer Wand verstecken. Beachte aber, dass sie auf Dich warten werden.</AnimalsDontAttackDoors.helpText>
+  
+  <!-- EN: Bills tab -->
+  <BillsTab.label>Aufgaben-Tab</BillsTab.label>
+  <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
+  <BillsTab.helpText>Wähle einen Arbeitstisch aus und klicke auf dem Tab 'Aufgaben', um zu bestimmen, welche Arbeiten an diesem Tisch durchgeführt werden sollen. Je nach Arbeitstisch können z.B. Mahlzeiten gekocht, Gegenstände hergestellt oder Kreaturen geschlachtet werden.</BillsTab.helpText>
+  
+  <!-- EN: Build orbital trade beacon -->
+  <BuildOrbitalTradeBeacon.label>Orbitales Funkfeuer bauen</BuildOrbitalTradeBeacon.label>
+  <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
+  <BuildOrbitalTradeBeacon.helpText>Damit Du Gegenstände oder Silber zu einem Händler in der Umlaufbahn des Planeten schicken kannst, musst Du ein ORBITALES FUNKFEUER in der Nähe eines Lagers mit Gegenständen bauen.</BuildOrbitalTradeBeacon.helpText>
+  
+  <!-- EN: Capturing -->
+  <Capturing.label>Gefangen nehmen</Capturing.label>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpText>Feinde, die bewusstlos auf dem Boden liegen, können gefangen genommen werden.\n\nWähle einen Kolonisten aus, klicke mit der rechten Maustaste auf den bewusstlosen Feind und benutze 'Fangen'.\n\nBeachte, dass dafür ein Bett vorhanden sein muss, das für Gefangene markiert ist.</Capturing.helpText>
+  
+  <!-- EN: Door opening speeds -->
+  <DoorOpenSpeed.label>Tür-Auf-Geschwindigkeit</DoorOpenSpeed.label>
+  <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
+  <DoorOpenSpeed.helpText>Türen lassen sich je nach Material unterschiedlich schnell öffnen.\n\nAchtung: Steintüren lassen sich sehr langsam öffnen. Jeder, der hindurchgehen will, wird stark verlangsamt.</DoorOpenSpeed.helpText>
+  
+  <!-- EN: Drafting for combat -->
+  <Drafting.label>Kampfmodus aktivieren</Drafting.label>
+  <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
+  <Drafting.helpText>Kolonisten können für einen Kampf direkt gesteuert werden. Wähle die Kolonisten aus und klicke auf die Schaltfläche 'Kampfmodus'.\n\nKolonisten im Kampfmodus machen nur das, was Du ihnen sagst, außerdem können sie nur Kampfaktionen durchführen. Wenn es ihnen möglich ist, ihre Waffen einzusetzen, tun sie es.\n\nVergiss nicht, den Kampfmodus nach einem Kampf wieder zu beenden, ansonsten werden sie unglücklich und verhungern.</Drafting.helpText>
+  
+  <!-- EN: Drug addiction -->
+  <DrugAddiction.label>Drogensucht</DrugAddiction.label>
+  <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
+  <DrugAddiction.helpText>Im Bedürfnis-Tab der Kolonisten kannst Du sehen, ob und/oder nach welchen Drogen sie süchtig sind.\n\nKolonisten, deren Sucht nicht gestillt wird, erhalten den Zustand 'Entzug'. Dieser Zustand führt zu einigen negativen Effekten.\n\nWenn sie diesen Zustand jedoch lange genug durchhalten, verschwindet die Sucht.</DrugAddiction.helpText>
+  
+  <!-- EN: Drug burning -->
+  <DrugBurning.label>Drogen verbrennen</DrugBurning.label>
+  <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
+  <DrugBurning.helpText>Drogen können nützlich sein, aber auch gefährliche Abhängigkeiten erzeugen.\n\nWenn Du in Deiner Kolonie ohne Drogen auskommen willst, kannst Du sie in einem Lagerfeuer verbrennen.</DrugBurning.helpText>
+  
+  <!-- EN: Drug policies -->
+  <DrugPolicies.label>Drogenrichtlinien</DrugPolicies.label>
+  <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
+  <DrugPolicies.helpText>Für jeden Kolonisten kannst Du einen Zeitplan bestimmen, wann sie welche Drogen einnehmen sollen. Z.B. kannst Du sie regelmäßig Drogen gegen Infektionen einnehmen lassen, oder täglich ein Bier trinken lassen, um sie bei Laune zu halten.\n\nÖffne den Tab ZUWEISUNG, drücke auf die Schaltfläche 'Drogenrichtlinien' und erstelle eine neue Richtlinie. Danach kannst Du Deinen Kolonisten diese Richtlinie zuweisen.\n\nBeachte, dass Kolonisten auch Drogen außerhalb der vorgegebenen Zeit einnehmen können. Du kannst ihnen vorschreiben, was sie tun sollen, aber den Kolonisten sind ihre Bedürfnisse wichtiger!</DrugPolicies.helpText>
+  
+  <!-- EN: Interacting with traders -->
+  <InteractingWithTraders.label>Interaktion mit Händlern</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
+  <InteractingWithTraders.helpText>Du kannst Leute, die mit einem ? markiert sind, ansprechen.\n\nWähle einen Kolonisten aus und klicke mit der rechten Maustaste auf eine Person, die ein Fragezeichen neben ihrem Kopf hat.</InteractingWithTraders.helpText>
+  
+  <!-- EN: Using the comms console -->
+  <OpeningComms.label>Funkanlage nutzen</OpeningComms.label>
+  <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
+  <OpeningComms.helpText>Wähle einen Kolonisten aus und klicke mit der rechten Maustaste auf die Funkanlage, um Kontakt mit einer anderen Fraktion aufzubauen.</OpeningComms.helpText>
+  
+  <!-- EN: Prisoner tab -->
+  <PrisonerTab.label>Gefängnis-Tab</PrisonerTab.label>
+  <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
+  <PrisonerTab.helpText>Schau Dir den Gefängnis-Tab von Gefangenen an, um zu bestimmen, wie sie behandelt werden sollen.\n\nStelle ein, ob sie rekrutiert, ignoriert oder exekutiert werden sollen, ob sie Essen bekommen dürfen und welche medizinische Versorgung maximal erlaubt ist.\n\nBeachte, dass nur Kolonisten, die als Aufseher bestimmt sind, mit den Gefangenen interagieren können.</PrisonerTab.helpText>
+  
+  <!-- EN: Order queueing -->
+  <QueueOrders.label>Aufgaben-Queue</QueueOrders.label>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpText>Wenn Du den Kolonisten Aufgaben gibst, kannst Du mehrere Aufgaben in deren Arbeitsliste geben, indem Du dabei die 'SHIFT'-Taste (bzw. Hochstell-Taste) gedrückt hältst. Dies funktioniert auch bei Aufgaben, die nicht im Kampf-Modus vergeben werden.</QueueOrders.helpText>
+  
+  <!-- EN: Reforming caravans -->
+  <ReformCaravan.label>Karawanen reformieren</ReformCaravan.label>
+  <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
+  <ReformCaravan.helpText>Nach einem Ereignis kannst Du eine Karawane reformieren lassen, indem Du den Befehl 'KARAWANE REFORMIEREN' auf der Weltkarte benutzt.</ReformCaravan.helpText>
+  
+  <!-- EN: Rescuing -->
+  <Rescuing.label>Retten</Rescuing.label>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpText>Bewusstlose Personen können gerettet werden. Wähle einen gesunden Kolonisten aus und klicke dann mit der rechten Maustaste auf den Bewusstlosen.\n\nEs besteht die Chance, dass Personen, die nicht zur Deiner Kolonie gehören, Deiner Kolonie beitreten werden. Ansonsten werden sie einfach weglaufen, nachdem sie geheilt worden sind. Um einen Beitritt zu erzwingen, musst Du sie gefangen nehmen und versuchen zu rekrutieren.</Rescuing.helpText>
+  
+  <!-- EN: Set what plant to grow -->
+  <SetGrowingZonePlant.label>Anbauzonen konfigurieren</SetGrowingZonePlant.label>
+  <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
+  <SetGrowingZonePlant.helpText>Du kannst festlegen, was die Kolonisten in einer Anbauzone anbauen sollen. Es sind auch Bäume möglich!\n\nWähle einfach eine Anbauzone aus und klicke auf die Schaltfläche 'Pflanze'.</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shield belts -->
+  <ShieldBelts.label>Energieschildgürtel</ShieldBelts.label>
+  <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
+  <ShieldBelts.helpText>Energieschildgürtel blockieren ein- und ausgehende Geschosse. Sie haben keinen Einfluss auf Nahkampfangriffe.\n\nUm die Träger solcher Energieschildgürtel effektiv bekämpfen zu können, muss man ihr Schild entweder mit geballter Feuerkraft zerstören oder im Nahkampf ausschalten.</ShieldBelts.helpText>
+  
+  <!-- EN: TV for sick people -->
+  <TVForSickPeople.label>Fernseher für Patienten</TVForSickPeople.label>
+  <!-- EN: Sick people can watch TV while laying in bed. -->
+  <TVForSickPeople.helpText>Um Patienten bei Laune zu halten, solltest Du sie fernsehen lassen, während sie im Bett liegen.</TVForSickPeople.helpText>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿//Common with tribals
+Union
+Nation
+Konföderierten
+Konföderation
+Sippe
+Allianz
+Kirche
+
+//Tribe specific
+Verwandschaft
+Leute
+Stamm

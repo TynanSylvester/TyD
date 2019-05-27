@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychite addiction -->
+  <PsychiteAddiction.label>Psychitsucht</PsychiteAddiction.label>
+  <!-- EN: withdrawal -->
+  <PsychiteAddiction.stages.withdrawal.label>Entzug</PsychiteAddiction.stages.withdrawal.label>
+  
+  <!-- EN: psychite tolerance -->
+  <PsychiteTolerance.label>Psychit-Toleranz</PsychiteTolerance.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-0.label>gering</PsychiteTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <PsychiteTolerance.stages.small-1.label>gering</PsychiteTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <PsychiteTolerance.stages.large.label>erheblich</PsychiteTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <PsychiteTolerance.stages.massive.label>massiv</PsychiteTolerance.stages.massive.label>
+  
+  <!-- EN: high on yayo -->
+  <YayoHigh.label>High von Psychit (Yayo)</YayoHigh.label>
+  <!-- EN: a yayo high -->
+  <YayoHigh.labelNoun>Psychit-Rausch (Yayo)</YayoHigh.labelNoun>
+  
+</LanguageData>

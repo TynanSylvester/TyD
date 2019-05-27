@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPod.label>Landungskapsel</ActiveDropPod.label>
+  
+  <!-- EN: fire -->
+  <Fire.label>Feuer</Fire.label>
+  
+  <!-- EN: spark -->
+  <Spark.label>Funke</Spark.label>
+  
+</LanguageData>

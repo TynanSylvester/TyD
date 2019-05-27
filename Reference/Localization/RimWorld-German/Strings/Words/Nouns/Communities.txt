@@ -1,0 +1,7 @@
+﻿Stadt
+Gemeinde
+Siedlung
+Kommune
+Gemeinschaft
+Niederlassung
+Zuflucht

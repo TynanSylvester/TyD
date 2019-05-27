@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: create incident -->
+  <CreateIncident.label>Erstelle Ereignis</CreateIncident.label>
+  
+  <!-- EN: disable incident -->
+  <DisableIncident.label>Deaktiviere Ereignis</DisableIncident.label>
+  
+  <!-- EN: forced health condition -->
+  <ForcedHediff.label>Erzw. Gesundheitszustand</ForcedHediff.label>
+  
+  <!-- EN: forced trait -->
+  <ForcedTrait.label>Erzw. Charaktereigenschaft</ForcedTrait.label>
+  
+  <!-- EN: planetkiller weapon incoming -->
+  <GameCondition_Planetkiller.label>Planetenkiller im Anflug</GameCondition_Planetkiller.label>
+  
+  <!-- EN: game start dialog -->
+  <GameStartDialog.label>Spielstart Dialog</GameStartDialog.label>
+  
+  <!-- EN: naked -->
+  <Naked.label>Nackt</Naked.label>
+  
+  <!-- EN: characters explode on death -->
+  <OnPawnDeathExplode.label>Charaktere explodieren beim Tod</OnPawnDeathExplode.label>
+  
+  <!-- EN: allowed age range -->
+  <PawnFilter_Age.label>Erlaubte Altersspanne</PawnFilter_Age.label>
+  
+  <!-- EN: permanent game condition -->
+  <PermanentGameCondition.label>Permanente Bedingung</PermanentGameCondition.label>
+  
+  <!-- EN: disallow building -->
+  <Rule_DisallowBuilding.label>Deaktiviere Gebäude</Rule_DisallowBuilding.label>
+  
+  <!-- EN: cannot hunt -->
+  <Rule_DisallowDesignator_Hunt.label>Jagen deaktivieren</Rule_DisallowDesignator_Hunt.label>
+  <!-- EN: Cannot hunt. -->
+  <Rule_DisallowDesignator_Hunt.description>Jagen nicht möglich.</Rule_DisallowDesignator_Hunt.description>
+  
+  <!-- EN: cannot mine -->
+  <Rule_DisallowDesignator_Mine.label>Abbauen deaktivieren</Rule_DisallowDesignator_Mine.label>
+  <!-- EN: Cannot mine. -->
+  <Rule_DisallowDesignator_Mine.description>Abbauen nicht möglich.</Rule_DisallowDesignator_Mine.description>
+  
+  <!-- EN: cannot tame -->
+  <Rule_DisallowDesignator_Tame.label>Zähmen deaktivieren</Rule_DisallowDesignator_Tame.label>
+  <!-- EN: Cannot tame animals. -->
+  <Rule_DisallowDesignator_Tame.description>Zähmen von Tieren nicht möglich</Rule_DisallowDesignator_Tame.description>
+  
+  <!-- EN: cannot sow -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Anpflanzen deaktivieren</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <!-- EN: Cannot sow plants on the ground. -->
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Im Boden kann nichts angepflanzt werden.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <!-- EN: scattered randomly -->
+  <ScatterThingsAnywhere.label>Zufällig verteilt</ScatterThingsAnywhere.label>
+  
+  <!-- EN: start near -->
+  <ScatterThingsNearPlayerStart.label>Beginne nahe</ScatterThingsNearPlayerStart.label>
+  
+  <!-- EN: set need level -->
+  <SetNeedLevel.label>Bedürfnislevel einstellen</SetNeedLevel.label>
+  
+  <!-- EN: start with animal(s) -->
+  <StartingAnimal.label>Beginne mit Tier(e)</StartingAnimal.label>
+  
+  <!-- EN: start with research -->
+  <StartingResearch.label>Forschung erledigt</StartingResearch.label>
+  
+  <!-- EN: start with -->
+  <StartingThing_Defined.label>Beginne mit</StartingThing_Defined.label>
+  
+  <!-- EN: stat multiplier -->
+  <StatFactor.label>Status Multiplikator</StatFactor.label>
+  
+</LanguageData>

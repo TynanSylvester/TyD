@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>Alphabiber</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>Eine große biberähnliche Kreatur, die genetisch gezüchtet wurde, um Holz mit einer maschinenartigen Effizienz zu ernten. Wenn sie kein spezialisiertes Futter bekommen, verfallen die Tiere in einen psychotischen Zustand, der sie dazu bringt, ganze Bäume zu fressen. Können angreifen wenn sie gestört werden.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>linker Tatze</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>rechter Tatze</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>Kopf</Alphabeaver.tools.head.label>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>Boomratte</Boomrat.label>
+  <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
+  <Boomrat.description>Entweder als Waffenexperiment gezüchtet oder von Natur aus mit der außergewöhnlichen Fähigkeit ausgestattet, beim Tod in einem Feuerball zu explodieren.</Boomrat.description>
+  <!-- EN: left claw -->
+  <Boomrat.tools.left_claw.label>linkem Fuß</Boomrat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Boomrat.tools.right_claw.label>rechtem Fuß</Boomrat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Boomrat.tools.head.label>Kopf</Boomrat.tools.head.label>
+  
+  <!-- EN: capybara -->
+  <Capybara.label>Wasserschwein</Capybara.label>
+  <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
+  <Capybara.description>Als größtes natürliches Nagetier ist das Capybara, oder auch Wasserschwein genannt, sehr gut an die feucht-schwüle Luft des Dschungels angepasst.</Capybara.description>
+  <!-- EN: left claw -->
+  <Capybara.tools.left_claw.label>linker Tatze</Capybara.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Capybara.tools.right_claw.label>rechter Tatze</Capybara.tools.right_claw.label>
+  <!-- EN: head -->
+  <Capybara.tools.head.label>Kopf</Capybara.tools.head.label>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>Chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>Ein kleines, flinkes Nagetier, das ein außergewöhnlich weiches Fell hat, wie es kein zweites im Universum gibt. Aufgrund dieser Tatsache erziehlt das Fell sehr gute Preise beim Händler.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>linker Pfote</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>rechter Pfote</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>Kopf</Chinchilla.tools.head.label>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>Waschbär</Raccoon.label>
+  <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
+  <Raccoon.description>Ein kleines, widerstandsfähiges Tier, das sowohl im Wald als auch in der Savanne vorkommt. Ihm gefällt es in Deinen Mülleimer oder Deine Küche einzubrechen und dort alles aufzufressen.</Raccoon.description>
+  <!-- EN: left claw -->
+  <Raccoon.tools.left_claw.label>linker Tatze</Raccoon.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Raccoon.tools.right_claw.label>rechter Tatze</Raccoon.tools.right_claw.label>
+  <!-- EN: head -->
+  <Raccoon.tools.head.label>Kopf</Raccoon.tools.head.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>Ratte</Rat.label>
+  <!-- EN: A widely-hated rodent known for soiling kitchens and spreading disease, rats have a way of following humans everywhere they go. It eats almost anything and lives almost anywhere. -->
+  <Rat.description>Ein universell gehasstes Nagetier, das dafür bekannt ist, Küchen zu verschmutzen und Krankheiten zu übertragen. Ratten folgen dem Menschen, wo auch immer er hingeht. Sie frisst alles und lebt überall.</Rat.description>
+  <!-- EN: left claw -->
+  <Rat.tools.left_claw.label>linkem Fuß</Rat.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rat.tools.right_claw.label>rechtem Fuß</Rat.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rat.tools.head.label>Kopf</Rat.tools.head.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>Eichhörnchen</Squirrel.label>
+  <!-- EN: One of the many hardy rodent species that follows humankind everywhere it spreads. Squirrels are distinguished by their bushy tails, which they use as umbrellas in bad weather. -->
+  <Squirrel.description>Eines von den vielseitigen, abgehärteten Nagetieren, die dem Menschen überall hin folgen. Eichhörnchen sind gut an ihrem buschigen Schwanz erkennbar, den sie bei Regen auch als Regenschirm einsetzen.</Squirrel.description>
+  <!-- EN: left claw -->
+  <Squirrel.tools.left_claw.label>linker Pfote</Squirrel.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Squirrel.tools.right_claw.label>rechter Pfote</Squirrel.tools.right_claw.label>
+  <!-- EN: head -->
+  <Squirrel.tools.head.label>Kopf</Squirrel.tools.head.label>
+  
+</LanguageData>

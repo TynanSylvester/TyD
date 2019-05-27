@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cassandra Classic -->
+  <Cassandra.label>Cassandra Klassik</Cassandra.label>
+  <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
+  <Cassandra.description>Cassandra erzählt die Geschichte so, dass die Spannungs- und Schwierigkeitskurve klassisch ansteigt. Sie wird Dich mit gefährlichen Ereignissen fordern, danach ein wenig Raum zum Atmen geben, um dann wieder ein wenig mehr zu fordern.</Cassandra.description>
+  
+  <!-- EN: Phoebe Chillax -->
+  <Phoebe.label>Phoebe Chillout</Phoebe.label>
+  <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
+  <Phoebe.description>Phoebe gibt Dir sehr viel Zeit zwischen den Katastrophen, um Deine Kolonie aufbauen zu können. Aber Vorsicht: Wenn ein hoher Schwierigkeitsgrad eingestellt ist, wird Phoebe auch hier keine Gnade zeigen.</Phoebe.description>
+  
+  <!-- EN: Randy Random -->
+  <Randy.label>Reiner Zufall</Randy.label>
+  <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
+  <Randy.description>Reiner macht, was er will. Er wird zufällige Ereignisse generieren, egal wie leicht oder schwer sie zu kontern sind. Für ihn ist alles Drama.\n\nAchtung: Da Reiner absolut zufällig vorgeht kann er Dir auch extrem schwere oder unfaire Gruppen von Ereignissen schicken. Es ist ein starkes Drama - mit unvermeindlichen Opferungen.</Randy.description>
+  
+  <!-- EN: Tutor Hidden -->
+  <Tutor.label>Tutorial Versteckt</Tutor.label>
+  
+</LanguageData>

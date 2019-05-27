@@ -1,0 +1,73 @@
+﻿//Example: "Sie redeten über das Thema '...'"
+Wetter
+
+Frühstücksflocken
+Frühstück
+Mittagessen
+Essen
+Mittag
+Essgewohnheiten
+Salziges Essen
+Süßes Essen
+Herzhaftes Essen
+Bitteres Essen
+
+Lieblingsfrisuren
+Lieblingskleidung
+Frisuren
+Mode
+Schminke
+Bärte
+Gesichtsbehaarung
+
+Gelegenheitsarbeiten
+Kinderspiele
+Unterhaltung
+Spiele
+Geburtstage
+Luftballons
+Rausch
+Betrinken
+Parties
+Urlaub
+Schöne Leute
+Fette Leute
+Große Leute
+Kleine Leute
+Heimliche Laster
+Kotzen
+Schwimmen
+Sport
+Strände
+
+Tiere
+Süße Tiere
+Fette Tiere
+Haustiere
+
+Ärger mit Haustieren
+Ärger im Alltag
+Wäsche
+Schwitzen
+
+Tragen
+Reinigen
+Essen ohne Tisch
+Bequeme Möbel
+Leckeres Essen
+Üppiges Essen
+Pemmikan
+Hufeisen
+Entspannung
+Liebhaber
+Sex
+Heilwurzeln
+Fehlgeschlagene Operationen
+Übelkeit
+Brettspiele
+Computerspiele
+Fernsehen
+Poker
+Billard
+Raumschiffe
+Xenohumanoide

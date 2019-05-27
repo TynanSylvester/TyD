@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancients -->
+  <Ancients.label>Vorfahren</Ancients.label>
+  <Ancients.description>Personen aus früheren Zeiten.</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>Vorfahren</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>Vorfahr</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>Vorfahren</Ancients.pawnsPlural>
+  
+  <!-- EN: ancients -->
+  <AncientsHostile.label>Vorfahren</AncientsHostile.label>
+  <AncientsHostile.description>Personen aus früheren Zeiten.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>Vorfahren</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>Vorfahr</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>Vorfahren</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>Insekt</Insect.label>
+  <Insect.description>Normalerweise aggressive und aufdringliche Insekten.</Insect.description>
+  <!-- EN: insects -->
+  <Insect.fixedName>Insekten</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>Insekt</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>Insekten</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>Mechanoiden Schwarm</Mechanoid.label>
+  <Mechanoid.description>Ein Schwarm uralter Roboter mit der Fähigkeit, sich selbst zu reproduzieren.</Mechanoid.description>
+  <!-- EN: a mechanoid hive -->
+  <Mechanoid.fixedName>Ein Mechanoiden-Schwarm</Mechanoid.fixedName>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>Mechanoid</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+  
+</LanguageData>

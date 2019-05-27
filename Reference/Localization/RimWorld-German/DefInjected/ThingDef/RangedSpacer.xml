@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charge lance shot -->
+  <Bullet_ChargeLance.label>Energielanzengeschoss</Bullet_ChargeLance.label>
+  
+  <!-- EN: charge shot -->
+  <Bullet_ChargeRifle.label>Energiegeschoss</Bullet_ChargeRifle.label>
+  
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.label>Energielanze</Gun_ChargeLance.label>
+  <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
+  <Gun_ChargeLance.description>Eine Waffe die Puls-Energie-Projektile mithilfe eines Schienensystems abfeuert. Mit einer sehr hohen Geschwindigkeit verschießt sie ein einzelnes Projektil, das beim Verlassen der Schiene zusätzlich mit einer Ladung instabiler Energie versehen wird.</Gun_ChargeLance.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeLance.tools.barrel.label>Lauf</Gun_ChargeLance.tools.barrel.label>
+  <!-- EN: charge lance -->
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>Energielanze</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.label>Energiegewehr</Gun_ChargeRifle.label>
+  <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <Gun_ChargeRifle.description>Ein Sturmgewehr, das Puls-Energie-Projektile verschießt. Puls-Energie-Technologie lädt jeden Schuss beim Verlassen der Mündung mit instabiler Energie auf. Diese wird beim Aufschlag abgegeben, wobei der angerichtete Schaden erheblich verstärkt wird.</Gun_ChargeRifle.description>
+  <!-- EN: stock -->
+  <Gun_ChargeRifle.tools.stock.label>Schaft</Gun_ChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeRifle.tools.barrel.label>Lauf</Gun_ChargeRifle.tools.barrel.label>
+  <!-- EN: charge rifle -->
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>Energiegewehr</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

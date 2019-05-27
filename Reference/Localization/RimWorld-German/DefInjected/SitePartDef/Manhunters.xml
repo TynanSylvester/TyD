@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter pack -->
+  <Manhunters.label>Rudel Menschenfresser</Manhunters.label>
+  <!-- EN: A pack of manhunting animals. -->
+  <Manhunters.description>Ein Rudel menschenfressender Tiere.</Manhunters.description>
+  <!-- EN: There are manhunting animals in this area. -->
+  <Manhunters.arrivedLetter>In diesem Gebiet ist ein Rudel menschenfressender Tiere.</Manhunters.arrivedLetter>
+  <!-- EN: there is a group of {0} manhunting {1} wandering nearby -->
+  <Manhunters.descriptionDialogue>in der Nähe {0} {1} auf der Jagd nach Menschen sind</Manhunters.descriptionDialogue>
+  
+</LanguageData>

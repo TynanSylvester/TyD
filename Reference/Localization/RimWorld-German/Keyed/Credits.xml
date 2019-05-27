@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>Ein Geschichten-Generator von Tynan Sylvester</MainPageCredit>
+
+  <!-- EN: Developers -->
+  <Credits_Developers>Entwickler</Credits_Developers>
+  <!-- EN: Direction, design, code, art -->
+  <Credit_DirectionVarious>Leitung, Design, Code, Grafik</Credit_DirectionVarious>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>Ton</Credit_MusicAndSound>
+  <!-- EN: Code -->
+  <Credit_Code>Programmierung</Credit_Code>
+  <!-- EN: Art -->
+  <Credit_GameArt>Grafik</Credit_GameArt>
+  <!-- EN: Menu art -->
+  <Credit_MenuArt>Grafik (Menü)</Credit_MenuArt>
+  <!-- EN: Additional code -->
+  <Credit_AdditionalCode>Zusätzliche Programmierung</Credit_AdditionalCode>
+  
+  <!-- EN: Additional development -->
+  <Credits_AdditionalDevelopment>Zusätzliche Entwicklung</Credits_AdditionalDevelopment>
+
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Besonderer Dank</Credit_SpecialThanks>
+
+  <!-- EN: Community volunteers -->
+  <Credits_TitleCommunity>Freiwillige der Community</Credits_TitleCommunity>
+  <!-- EN: Tester -->
+  <Credit_Tester>Tester</Credit_Tester>
+  <!-- EN: Mod donor -->
+  <Credit_ModDonation>Spender von Mod-Code</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Spender diverser Texte</Credit_WritingDonation>
+  <!-- EN: Moderator -->
+  <Credit_Moderator>Moderatoren</Credit_Moderator>
+  <!-- EN: Wiki master -->
+  <Credit_WikiMaster>Meister der Wikipedia</Credit_WikiMaster>
+
+  <!-- EN: {0} language -->
+  <Credits_TitleLanguage>Sprache: {0}</Credits_TitleLanguage>
+  <!-- EN: Writer -->
+  <Credit_Writer>Schreiber</Credit_Writer>
+  <!-- EN: Translator -->
+  <Credit_Translator>Übersetzer</Credit_Translator>
+  <!-- EN: Open source libraries -->
+  <Credit_OpenSourceLibraries>Open-Source-Bibliotheken</Credit_OpenSourceLibraries>
+  <!-- EN: Noise generation -->
+  <Credit_NoiseGeneration>Geräuschgenerierung</Credit_NoiseGeneration>
+
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Danke fürs Spielen!</ThanksForPlaying>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: doomsday rocket -->
+  <Bullet_DoomsdayRocket.label>Doomsday-Rakete</Bullet_DoomsdayRocket.label>
+  
+  <!-- EN: rocket -->
+  <Bullet_Rocket.label>Rakete</Bullet_Rocket.label>
+  
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.label>Doomsday-Raketenwerfer</Gun_DoomsdayRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_DoomsdayRocket.description>Ein Wegwerf-Raketenwerfer, der ein riesiges explosives Projektil verschießt. Gut gegen große Gruppen schwacher Gegner. Startet Feuer.\n\nAufgrund der Unhandlichkeit, der einmaligen Verwendbarkeit und der massiven Zerstörung, die er verursacht, sagt man, dass man schon ein wenig verrückt sein muss, um diese Waffe einzusetzen.</Gun_DoomsdayRocket.description>
+  <!-- EN: barrel -->
+  <Gun_DoomsdayRocket.tools.barrel.label>Lauf</Gun_DoomsdayRocket.tools.barrel.label>
+  <!-- EN: doomsday rocket launcher -->
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>Doomsday-Raketenwerfer</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.label>Dreifach-Raketenwerfer</Gun_TripleRocket.label>
+  <!-- EN: A single-use rocket launcher that fires a cluster of three large-bore explosive rockets. Good against smalll groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
+  <Gun_TripleRocket.description>Ein Wegwerf-Raketenwerfer, der in schneller Folge drei großkalibrige Raketen verschießt. Gut gegen kleine Gruppen starker Gegner.\n\nAufgrund der Unhandlichkeit, der einmaligen Verwendbarkeit und der massiven Zerstörung, die er verursacht, sagt man, dass man schon ein wenig verrückt sein muss, um diese Waffe einzusetzen.</Gun_TripleRocket.description>
+  <!-- EN: barrel -->
+  <Gun_TripleRocket.tools.barrel.label>Läufe</Gun_TripleRocket.tools.barrel.label>
+  <!-- EN: triple rocket launcher -->
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>Dreifach-Raketenwerfer</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  
+</LanguageData>

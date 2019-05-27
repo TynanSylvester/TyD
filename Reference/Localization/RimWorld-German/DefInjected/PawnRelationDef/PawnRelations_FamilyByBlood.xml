@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son -->
+  <Child.label>Sohn</Child.label>
+  <!-- EN: daughter -->
+  <Child.labelFemale>Tochter</Child.labelFemale>
+  
+  <!-- EN: cousin -->
+  <Cousin.label>Cousin</Cousin.label>
+  <Cousin.labelFemale>Cousine</Cousin.labelFemale>
+  
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>Neffe 2.Grades</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>Nichte 2.Grades</CousinOnceRemoved.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>Enkelsohn</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>Enkeltochter</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>Großneffe</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>Großnichte</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>Großvater</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>Großmutter</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>Großonkel</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>Großtante</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>Urenkel</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>Urenkelin</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>Urgroßvater</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>Urgroßmutter</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>Halbbruder</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>Halbschwester</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
+  <Kin.label>Verwandter</Kin.label>
+  <Kin.labelFemale>Verwandte</Kin.labelFemale>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>Neffe</NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>Nichte</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>Vater</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>Mutter</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>Cousin 2.Grades</SecondCousin.label>
+  <SecondCousin.labelFemale>Cousine 2.Grades</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>Bruder</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>Schwester</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>Onkel</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>Tante</UncleOrAunt.labelFemale>
+  
+</LanguageData>

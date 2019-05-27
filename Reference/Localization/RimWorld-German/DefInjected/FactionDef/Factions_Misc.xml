@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: civil outlander union -->
+  <OutlanderCivil.label>Zivilisierte Union der Outlander</OutlanderCivil.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+  <OutlanderCivil.description>Eine größere Gemeinschaft von Überlebenden.\n\nDiese Leute leben hier seit einigen Jahrzehnten oder gar Jahrhunderten und haben die Technologie, mit der sie hergekommen sind, verloren. Sie arbeiten jetzt für gewöhnlich mit einfachen mechanischen Werkzeugen und Strukturen. Zur Verteidigung benutzen sie fortschrittliche Schießpulverwaffen.\n\nSie interessieren sich für die praktische Seite des Überlebens, Vertrauens und Handels.\n\nDiese spezielle Gruppe achtet sehr auf zivilisierte Umgangsformen.</OutlanderCivil.description>
+  <!-- EN: prime councilor -->
+  <OutlanderCivil.leaderTitle>Ratsvorsitzender</OutlanderCivil.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderCivil.pawnSingular>Outlander</OutlanderCivil.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderCivil.pawnsPlural>Outlander</OutlanderCivil.pawnsPlural>
+  
+  <!-- EN: rough outlander union -->
+  <OutlanderRough.label>Barsche Union der Outlander</OutlanderRough.label>
+  <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
+  <OutlanderRough.description>Eine größere Gemeinschaft von Überlebenden.\n\nDiese Leute leben hier seit einigen Jahrzehnten oder gar Jahrhunderten und haben die Technologie, mit der sie hergekommen sind, verloren. Sie arbeiten jetzt für gewöhnlich mit einfachen mechanischen Werkzeugen und Strukturen. Zur Verteidigung benutzen sie fortschrittliche Schießpulverwaffen.\n\nSie interessieren sich für die praktische Seite des Überlebens, Vertrauens und Handels.\n\nDiese spezielle Gruppe ist eher barbarisch veranlagt.</OutlanderRough.description>
+  <!-- EN: prime councilor -->
+  <OutlanderRough.leaderTitle>Ratsvorsitzender</OutlanderRough.leaderTitle>
+  <!-- EN: outlander -->
+  <OutlanderRough.pawnSingular>Outlander</OutlanderRough.pawnSingular>
+  <!-- EN: outlanders -->
+  <OutlanderRough.pawnsPlural>Outlander</OutlanderRough.pawnsPlural>
+  
+  <!-- EN: pirate band -->
+  <Pirate.label>Piratenbande</Pirate.label>
+  <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+  <Pirate.description>Ein lockerer Zusammenschluss von Piratebanden, welche sich entschlossen haben hauptsächlich gegen Außenseiter zu kämpfen, anstatt sich gegenseitig anzugreifen.\n\nPiraten bauen nichts an, sie errichten keine Gebäude und sie handeln nur sehr selten. Stattdessen bereichern sie sich durch das Überfallen und Ausrauben anderer produktiverer Gruppen in ihrem Gebiet.\n\nIhre Technologie hängt meist von ihrer Beute ab, um derer sie andere erleichtert haben. Am meisten benutzen sie Schießpulverwaffen, aber wenn sie Glück hatten, haben sie auch Energiewaffen. Manche Piraten sind bei Nahkampfwaffen geblieben.</Pirate.description>
+  <!-- EN: boss -->
+  <Pirate.leaderTitle>Boss</Pirate.leaderTitle>
+  <!-- EN: pirate -->
+  <Pirate.pawnSingular>Pirat</Pirate.pawnSingular>
+  <!-- EN: pirates -->
+  <Pirate.pawnsPlural>Piraten</Pirate.pawnsPlural>
+  
+  <!-- EN: gentle tribe -->
+  <TribeCivil.label>Freundliche Ureinwohner</TribeCivil.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
+  <TribeCivil.description>Diese Leute leben hier seit sehr, sehr langer Zeit. Vielleicht sind ihre Vorfahren vor Jahrtausenden hier abgestürzt. Vielleicht haben sie aber auch eine Katastrophe überlebt, welche die Technologie ihrer Zivilisation ausgelöscht hat. Was auch immer passiert ist, diese Ureinwohner sind Nomaden, die von Landwirtschaft leben und primitive Werkzeuge und Waffen benutzen.\n\nManche Ureinwohner sind aggressiver als andere. Viele sind offen für Handel und Allianzen, sogar mit so seltsamen Leuten wie Dir. Eine engere Zusammenarbeit oder gar Rekrutierung wird wegen des riesigen sozialen Unterschieds und der Sprachbarriere zwischen den Ureinwohnern und Dir sehr schwierig sein.\n\nTrotz ihrer technologischen Schwäche können die Ureinwohner sehr gefährliche Gegner oder aber auch Verbündete sein, da ihre Erfahrung mit primitiven Waffen, ihre Anzahl und ihr Überlebenswille sehr hoch sind.\n\nDieser spezielle Stamm verfolgt einen sanften Weg des Lebens wanimmer sie können. Sie sind recht offen gegenüber Handel und Allianzen, selbst bei seltsamen Leuten.</TribeCivil.description>
+  <!-- EN: chief -->
+  <TribeCivil.leaderTitle>Häuptling</TribeCivil.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeCivil.pawnSingular>Stammesmitglied</TribeCivil.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCivil.pawnsPlural>Stammesmitglieder</TribeCivil.pawnsPlural>
+  
+  <!-- EN: savage tribe -->
+  <TribeRough.label>Barbarische Ureinwohner</TribeRough.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
+  <TribeRough.description>Diese Leute leben hier seit sehr, sehr langer Zeit. Vielleicht sind ihre Vorfahren vor Jahrtausenden hier abgestürzt. Vielleicht haben sie aber auch eine Katastrophe überlebt, welche die Technologie ihrer Zivilisation ausgelöscht hat. Was auch immer passiert ist, diese Ureinwohner sind Nomaden, die von Landwirtschaft leben und primitive Werkzeuge und Waffen benutzen.\n\nManche Ureinwohner sind aggressiver als andere. Viele sind offen für Handel und Allianzen, sogar mit so seltsamen Leuten wie Dir. Eine engere Zusammenarbeit oder gar Rekrutierung wird wegen des riesigen sozialen Unterschieds und der Sprachbarriere zwischen den Ureinwohnern und Dir sehr schwierig sein.\n\nTrotz ihrer technologischen Schwäche können die Ureinwohner sehr gefährliche Gegner oder aber auch Verbündete sein, da ihre Erfahrung mit primitiven Waffen, ihre Anzahl und ihr Überlebenswille sehr hoch sind.\n\nDieser spezielle Stamm verehrt den Krieg und die kriegerische Dominanz; es kann schwierig sein, sie als Verbündete zu gewinnen.</TribeRough.description>
+  <!-- EN: chief -->
+  <TribeRough.leaderTitle>Häuptling</TribeRough.leaderTitle>
+  <!-- EN: tribesman -->
+  <TribeRough.pawnSingular>Stammesmitglied</TribeRough.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeRough.pawnsPlural>Stammesmitglieder</TribeRough.pawnsPlural>
+  
+</LanguageData>

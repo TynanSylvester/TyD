@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>standardname(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->islands</li>
+    <li>terrain_word(p=3)->isles</li>
+    <li>terrain_word(p=3)->archipelago</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rocks</li>
+    <li>terrain_word->islets</li>
+    <li>terrain_word->points</li>
+    <li>terrain_word->chain</li>
+  -->
+  <NamerArchipelago.rulePack.rulesStrings>
+    <li>r_name->[archipelago_adjective]e [archipelago_Fem] [maybe_extra]</li>
+    <li>r_name(p=0.5)->[archipelago_adjective]er [archipelago_Mas] [maybe_extra]</li>
+    <li>r_name->[archipelago_adjective]es [archipelago_Neu] [maybe_extra]</li>
+    <li>r_name->[archipelago_noun] der [AnimalPlural]</li>
+    <li>r_name->[archipelago_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[archipelago_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[archipelago_noun]</li>
+    <li>archipelago_adjective->[Color]</li>
+    <li>archipelago_adjective->[AdjectiveNatural]</li>
+    <li>archipelago_noun->[archipelago_Fem]</li>
+    <li>archipelago_noun(p=0.5)->[archipelago_Mas]</li>
+    <li>archipelago_noun->[archipelago_Neu]</li>
+    <li>archipelago_Fem(p=2)->Inseln</li>
+    <li>archipelago_Fem->Felsen</li>
+    <li>archipelago_Mas->Archipel</li>
+    <li>archipelago_Neu->Riff</li>
+    <li>archipelago_Neu->Atoll</li>
+  </NamerArchipelago.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->shrubland</li>
+    <li>terrain_word(p=4)->scrubland</li>
+    <li>terrain_word(p=2)->plateau</li>
+    <li>terrain_word(p=2)->scrub</li>
+    <li>terrain_word->desert</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerAridShrubland.rulePack.rulesStrings>
+    <li>r_name->[aridShrubland_adjective]e [aridShrubland_Fem] [maybe_extra]</li>
+    <li>r_name(p=0.5)->[aridShrubland_adjective]er [aridShrubland_Mas] [maybe_extra]</li>
+    <li>r_name->[aridShrubland_adjective]es [aridShrubland_Neu] [maybe_extra]</li>
+    <li>r_name->[aridShrubland_noun] der [AnimalPlural]</li>
+    <li>r_name->[aridShrubland_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[aridShrubland_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[aridShrubland_noun]</li>
+    <li>aridShrubland_adjective->[Color]</li>
+    <li>aridShrubland_adjective->[AdjectiveNatural]</li>
+    <li>aridShrubland_noun->[aridShrubland_Fem]</li>
+    <li>aridShrubland_noun(p=0.5)->[aridShrubland_Mas]</li>
+    <li>aridShrubland_noun->[aridShrubland_Neu]</li>
+    <li>aridShrubland_Fem(p=2)->Savanne</li>
+    <li>aridShrubland_Fem->Steppe</li>
+    <li>aridShrubland_Mas->Busch</li>
+    <li>aridShrubland_Neu(p=2)->Buschland</li>
+    <li>aridShrubland_Neu->Plateau</li>
+    <li>aridShrubland_Neu->Gebüsch</li>
+  </NamerAridShrubland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.2)->gulf of [narrative_name]</li>
+    <li>terrain_word(p=6)->bay</li>
+    <li>terrain_word->bight</li>
+    <li>terrain_word->gulf</li>
+    <li>terrain_word->anchorage</li>
+    <li>terrain_word->cove</li>
+  -->
+  <NamerBay.rulePack.rulesStrings>
+    <li>r_name->[bay_adjective]e [bay_Fem] [maybe_extra]</li>
+    <li>r_name->[bay_adjective]er [bay_Mas] [maybe_extra]</li>
+    <li>r_name->[bay_noun] der [AnimalPlural]</li>
+    <li>r_name->[bay_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[bay_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[bay_noun]</li>
+    <li>bay_adjective->[Color]</li>
+    <li>bay_adjective->[AdjectiveNatural]</li>
+    <li>bay_noun->[bay_Fem]</li>
+    <li>bay_noun->[bay_Mas]</li>
+    <li>bay_Fem->Bucht</li>
+    <li>bay_Mas(p=3)->Golf</li>
+    <li>bay_Mas->Fjord</li>
+    <li>bay_Mas->Ankerplatz</li>
+  </NamerBay.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word(p=3)->taiga</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->woods</li>
+    <li>terrain_word->tangle</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerBorealForest.rulePack.rulesStrings>
+    <li>r_name->[borealForest_adjective]e [borealForest_Fem] [maybe_extra]</li>
+    <li>r_name->[borealForest_adjective]er [borealForest_Mas] [maybe_extra]</li>
+    <li>r_name->[borealForest_adjective]es [borealForest_Neu] [maybe_extra]</li>
+    <li>r_name->[borealForest_noun] der [AnimalPlural]</li>
+    <li>r_name->[borealForest_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[borealForest_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[borealForest_noun]</li>
+    <li>borealForest_adjective->[Color]</li>
+    <li>borealForest_adjective->[AdjectiveNatural]</li>
+    <li>borealForest_adjective->kühl</li>
+    <li>borealForest_adjective->kalt</li>
+    <li>borealForest_adjective->verrottet</li>
+    <li>borealForest_adjective->verrottend</li>
+    <li>borealForest_adjective->verwachsen</li>
+    <li>borealForest_adjective->verwirrend</li>
+    <li>borealForest_adjective->verstörend</li>
+    <li>borealForest_adjective->dornig</li>
+    <li>borealForest_adjective->magisch</li>
+    <li>borealForest_noun->[borealForest_Fem]</li>
+    <li>borealForest_noun->[borealForest_Mas]</li>
+    <li>borealForest_noun->[borealForest_Neu]</li>
+    <li>borealForest_Fem->Wälder</li>
+    <li>borealForest_Fem->Taiga</li>
+    <li>borealForest_Mas->Wald</li>
+    <li>borealForest_Mas->Hain</li>
+    <li>borealForest_Neu->Waldland</li>
+    <li>borealForest_Neu->Dickicht</li>
+  </NamerBorealForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.4)->[desert_adjective] [narrative_name]</li>
+    <li>desert_adjective->flat</li>
+    <li>desert_adjective->white</li>
+    <li>desert_adjective->endless</li>
+    <li>desert_adjective->heartless</li>
+    <li>desert_adjective->parched</li>
+    <li>desert_adjective->dry</li>
+    <li>desert_adjective->long</li>
+    <li>desert_adjective->sunburned</li>
+    <li>desert_adjective->sunny</li>
+    <li>desert_adjective->dazzling</li>
+    <li>desert_adjective->hot</li>
+    <li>desert_adjective->sweaty</li>
+    <li>desert_adjective->sandy</li>
+    <li>desert_adjective->rocky</li>
+    <li>terrain_word(p=6)->desert</li>
+    <li>terrain_word->plateau</li>
+    <li>terrain_word->flats</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wastes</li>
+    <li>terrain_word->wasteland</li>
+    <li>terrain_word->barrens</li>
+  -->
+  <NamerDesert.rulePack.rulesStrings>
+    <li>r_name(p=2)->[desert_adjective]e [desert_Fem] [maybe_extra]</li>
+    <li>r_name->[desert_adjective]es [desert_Neu] [maybe_extra]</li>
+    <li>r_name->[desert_noun] der [AnimalPlural]</li>
+    <li>r_name->[desert_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[desert_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[desert_noun]</li>
+    <li>desert_adjective->[Color]</li>
+    <li>desert_adjective->[AdjectiveNatural]</li>
+    <li>desert_adjective->flach</li>
+    <li>desert_adjective->weiß</li>
+    <li>desert_adjective->endlos</li>
+    <li>desert_adjective->erbarmungslos</li>
+    <li>desert_adjective->tödlich</li>
+    <li>desert_adjective->tot</li>
+    <li>desert_adjective->trostlos</li>
+    <li>desert_adjective->vertrocknet</li>
+    <li>desert_adjective->trocken</li>
+    <li>desert_adjective->lang</li>
+    <li>desert_adjective->sonnenverbrannt</li>
+    <li>desert_adjective->sonnig</li>
+    <li>desert_adjective->staubig</li>
+    <li>desert_adjective->grell</li>
+    <li>desert_adjective->heiß</li>
+    <li>desert_adjective->feurig</li>
+    <li>desert_adjective->schwitzend</li>
+    <li>desert_adjective->sandig</li>
+    <li>desert_adjective->felsig</li>
+    <li>desert_noun(p=2)->[desert_Fem]</li>
+    <li>desert_noun->[desert_Neu]</li>
+    <li>desert_Fem(p=3)->Wüste</li>
+    <li>desert_Fem->Dürre</li>
+    <li>desert_Fem->Leere</li>
+    <li>desert_Fem->Dünen</li>
+    <li>desert_Fem->Ebene</li>
+    <li>desert_Neu->Plateau</li>
+    <li>desert_Neu->Becken</li>
+    <li>desert_Neu->Ödland</li>
+  </NamerDesert.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=6)->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->thicket</li>
+  -->
+  <NamerForest.rulePack.rulesStrings>
+    <li>r_name->[forest_adjective]e [forest_Fem] [maybe_extra]</li>
+    <li>r_name->[forest_adjective]er [forest_Mas] [maybe_extra]</li>
+    <li>r_name->[forest_adjective]es [forest_Neu] [maybe_extra]</li>
+    <li>r_name->[forest_noun] der [AnimalPlural]</li>
+    <li>r_name->[forest_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[forest_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[forest_noun]</li>
+    <li>forest_adjective->[Color]</li>
+    <li>forest_adjective->[AdjectiveNatural]</li>
+    <li>forest_adjective->verrottet</li>
+    <li>forest_adjective->verrottend</li>
+    <li>forest_adjective->verwachsen</li>
+    <li>forest_adjective->verwirrend</li>
+    <li>forest_adjective->verstörend</li>
+    <li>forest_adjective->dornig</li>
+    <li>forest_adjective->magisch</li>
+    <li>forest_noun->[forest_Fem]</li>
+    <li>forest_noun->[forest_Mas]</li>
+    <li>forest_noun->[forest_Neu]</li>
+    <li>forest_Mas(p=3)->Wald</li>
+    <li>forest_Mas->Hain</li>
+    <li>forest_Neu->Waldland</li>
+    <li>forest_Fem->Wälder</li>
+  </NamerForest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word->sheet</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word(p=0.5)->reach</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->span</li>
+    <li>terrain_word(p=0.3)->field</li>
+    <li>terrain_word(p=0.3)->stretch</li>
+    <li>terrain_word(p=0.3)->tract</li>
+  -->
+  <NamerIceSheet.rulePack.rulesStrings>
+    <li>r_name->[iceSheet_adjective]e [iceSheet_Fem] [maybe_extra]</li>
+    <li>r_name(p=0.3)->[iceSheet_adjective]er [iceSheet_Mas] [maybe_extra]</li>
+    <li>r_name(p=3)->[iceSheet_adjective]es [iceSheet_Neu] [maybe_extra]</li>
+    <li>r_name->[iceSheet_noun] der [AnimalPlural]</li>
+    <li>r_name->[iceSheet_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[iceSheet_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[iceSheet_noun]</li>
+    <li>iceSheet_adjective->[Color]</li>
+    <li>iceSheet_adjective->[AdjectiveNatural]</li>
+    <li>iceSheet_adjective->weiß</li>
+    <li>iceSheet_adjective->endlos</li>
+    <li>iceSheet_adjective->tödlich</li>
+    <li>iceSheet_adjective->tot</li>
+    <li>iceSheet_adjective->trostlos</li>
+    <li>iceSheet_adjective->kalt</li>
+    <li>iceSheet_adjective->stechend</li>
+    <li>iceSheet_adjective->stürmisch</li>
+    <li>iceSheet_adjective->erbarmungslos</li>
+    <li>iceSheet_noun->[iceSheet_Fem]</li>
+    <li>iceSheet_noun(p=0.3)->[iceSheet_Mas]</li>
+    <li>iceSheet_noun(p=3)->[iceSheet_Neu]</li>
+    <li>iceSheet_Fem->Scholle</li>
+    <li>iceSheet_Fem->Leere</li>
+    <li>iceSheet_Fem->Ausdehnung</li>
+    <li>iceSheet_Mas->Gletscher</li>
+    <li>iceSheet_Neu->Eis</li>
+    <li>iceSheet_Neu->Eisfeld</li>
+  </NamerIceSheet.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.2)->isle [narrative_name]</li>
+    <li>terrain_word(p=4)->island</li>
+    <li>terrain_word(p=2)->isle</li>
+    <li>terrain_word->reef</li>
+    <li>terrain_word->atoll</li>
+    <li>terrain_word->rock</li>
+    <li>terrain_word->islet</li>
+    <li>terrain_word->point</li>
+  -->
+  <NamerIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.5)->[island_adjective]e [island_Fem] [maybe_extra]</li>
+    <li>r_name->[island_adjective]er [island_Mas] [maybe_extra]</li>
+    <li>r_name->[island_adjective]es [island_Neu] [maybe_extra]</li>
+    <li>r_name->[island_noun] der [AnimalPlural]</li>
+    <li>r_name->[island_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[island_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[island_noun]</li>
+    <li>island_adjective->[Color]</li>
+    <li>island_adjective->[AdjectiveNatural]</li>
+    <li>island_noun(p=0.5)->[island_Fem]</li>
+    <li>island_noun->[island_Mas]</li>
+    <li>island_noun->[island_Neu]</li>
+    <li>island_Fem->Insel</li>
+    <li>island_Mas->Felsen</li>
+    <li>island_Mas->Archipel</li>
+    <li>island_Neu->Eiland</li>
+    <li>island_Neu->Riff</li>
+    <li>island_Neu->Atoll</li>
+  </NamerIsland.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->lake</li>
+    <li>terrain_word->sea</li>
+    <li>terrain_word->pond</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->reservoir</li>
+    <li>terrain_word(p=0.3)->puddle</li>
+    <li>terrain_word(p=0.3)->lagoon</li>
+    <li>terrain_word(p=0.3)->loch</li>
+  -->
+  <NamerLake.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[lake_adjective]e [lake_Fem] [maybe_extra]</li>
+    <li>r_name->[lake_adjective]er [lake_Mas] [maybe_extra]</li>
+    <li>r_name->[lake_adjective]es [lake_Neu] [maybe_extra]</li>
+    <li>r_name->[lake_noun] der [AnimalPlural]</li>
+    <li>r_name->[lake_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[lake_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[lake_noun]</li>
+    <li>lake_adjective->[Color]</li>
+    <li>lake_adjective->[AdjectiveNatural]</li>
+    <li>lake_noun(p=0.3)->[lake_Fem]</li>
+    <li>lake_noun->[lake_Mas]</li>
+    <li>lake_noun->[lake_Neu]</li>
+    <li>lake_Fem->Lagune</li>
+    <li>lake_Mas->See</li>
+    <li>lake_Mas->Teich</li>
+    <li>lake_Neu->Meer</li>
+    <li>lake_Neu->Bassin</li>
+    <li>lake_Neu->Becken</li>
+    <li>lake_Neu->Loch</li>
+  </NamerLake.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.2)->mount [narrative_name]</li>
+    <li>terrain_word(p=5)->mountains</li>
+    <li>terrain_word(p=2)->range</li>
+    <li>terrain_word->peaks</li>
+    <li>terrain_word->hills</li>
+    <li>terrain_word->cliffs</li>
+  -->
+  <NamerMountainRange.rulePack.rulesStrings>
+    <li>r_name(p=3)->[mountainRange_adjective]e [mountainRange_Fem] [maybe_extra]</li>
+    <li>r_name->[mountainRange_adjective]es [mountainRange_Neu] [maybe_extra]</li>
+    <li>r_name->[mountainRange_noun] der [AnimalPlural]</li>
+    <li>r_name->[mountainRange_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[mountainRange_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[mountainRange_noun]</li>
+    <li>r_name(p=0.5)->Mount [WordTribal]</li>
+    <li>r_name(p=0.5)->Mount [NamePerson]</li>
+    <li>mountainRange_adjective->[Color]</li>
+    <li>mountainRange_adjective->[AdjectiveNatural]</li>
+    <li>mountainRange_noun(p=3)->[mountainRange_Fem]</li>
+    <li>mountainRange_noun->[mountainRange_Neu]</li>
+    <li>mountainRange_Fem(p=2)->Berge</li>
+    <li>mountainRange_Fem->Steine</li>
+    <li>mountainRange_Fem->Hügel</li>
+    <li>mountainRange_Fem->Klippen</li>
+    <li>mountainRange_Neu->Gebirge</li>
+  </NamerMountainRange.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->blue</li>
+    <li>ocean_adjective->white</li>
+    <li>ocean_adjective->gray</li>
+    <li>ocean_adjective->clear</li>
+    <li>ocean_adjective->windy</li>
+    <li>ocean_adjective->stormy</li>
+    <li>ocean_adjective->calm</li>
+    <li>ocean_adjective->broad</li>
+    <li>ocean_adjective->endless</li>
+    <li>ocean_adjective->flat</li>
+    <li>ocean_adjective->still</li>
+    <li>ocean_adjective->wavy</li>
+    <li>ocean_adjective->gentle</li>
+    <li>terrain_word(p=6)->ocean</li>
+    <li>terrain_word(p=3)->sea</li>
+    <li>terrain_word->expanse</li>
+  -->
+  <NamerOcean.rulePack.rulesStrings>
+    <li>r_name(p=0.5)->[ocean_adjective]e [ocean_Fem] [maybe_extra]</li>
+    <li>r_name->[ocean_adjective]er [ocean_Mas] [maybe_extra]</li>
+    <li>r_name->[ocean_adjective]es [ocean_Neu] [maybe_extra]</li>
+    <li>r_name->[ocean_noun] der [AnimalPlural]</li>
+    <li>r_name->[ocean_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[ocean_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[ocean_noun]</li>
+    <li>ocean_adjective->[Color]</li>
+    <li>ocean_adjective->[AdjectiveNatural]</li>
+    <li>ocean_adjective->klar</li>
+    <li>ocean_adjective->windig</li>
+    <li>ocean_adjective->stürmisch</li>
+    <li>ocean_adjective->ruhig</li>
+    <li>ocean_adjective->breit</li>
+    <li>ocean_adjective->endlos</li>
+    <li>ocean_adjective->flach</li>
+    <li>ocean_adjective->still</li>
+    <li>ocean_adjective->unruhig</li>
+    <li>ocean_adjective->sanft</li>
+    <li>ocean_noun(p=0.5)->[ocean_Fem]</li>
+    <li>ocean_noun->[ocean_Mas]</li>
+    <li>ocean_noun->[ocean_Neu]</li>
+    <li>ocean_Fem->Leere</li>
+    <li>ocean_Fem->See</li>
+    <li>ocean_Mas->Ozean</li>
+    <li>ocean_Neu->Meer</li>
+  </NamerOcean.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.2)->point [narrative_name]</li>
+    <li>standardname(p=0.2)->cape [narrative_name]</li>
+    <li>terrain_word(p=5)->peninsula</li>
+    <li>terrain_word(p=2)->point</li>
+    <li>terrain_word->cape</li>
+    <li>terrain_word->headland</li>
+    <li>terrain_word->horn</li>
+  -->
+  <NamerPeninsula.rulePack.rulesStrings>
+    <li>r_name->[peninsula_adjective]e [peninsula_Fem] [maybe_extra]</li>
+    <li>r_name->[peninsula_adjective]es [peninsula_Neu] [maybe_extra]</li>
+    <li>r_name->[peninsula_noun] der [AnimalPlural]</li>
+    <li>r_name->[peninsula_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[peninsula_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[peninsula_noun]</li>
+    <li>r_name(p=0.5)->Kap [WordTribal]</li>
+    <li>r_name(p=0.5)->Kap [NamePerson]</li>
+    <li>peninsula_adjective->[Color]</li>
+    <li>peninsula_adjective->[AdjectiveNatural]</li>
+    <li>peninsula_noun->[peninsula_Fem]</li>
+    <li>peninsula_noun->[peninsula_Neu]</li>
+    <li>peninsula_Fem(p=5)->Halbinsel</li>
+    <li>peninsula_Fem->Huk</li>
+    <li>peninsula_Fem->Spitze</li>
+    <li>peninsula_Neu(p=2)->Horn</li>
+    <li>peninsula_Neu->Kap</li>
+  </NamerPeninsula.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.1)->lake [narrative_name]</li>
+    <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->ocean</li>
+    <li>terrain_word->lake</li>
+  -->
+  <NamerSea.rulePack.rulesStrings>
+    <li>r_name->[sea_adjective]e [sea_Fem] [maybe_extra]</li>
+    <li>r_name->[sea_adjective]er [sea_Mas] [maybe_extra]</li>
+    <li>r_name->[sea_adjective]es [sea_Neu] [maybe_extra]</li>
+    <li>r_name->[sea_noun] der [AnimalPlural]</li>
+    <li>r_name->[sea_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[sea_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[sea_noun]</li>
+    <li>sea_adjective->[Color]</li>
+    <li>sea_adjective->[AdjectiveNatural]</li>
+    <li>sea_adjective->klar</li>
+    <li>sea_adjective->windig</li>
+    <li>sea_adjective->stürmisch</li>
+    <li>sea_adjective->ruhig</li>
+    <li>sea_adjective->breit</li>
+    <li>sea_adjective->endlos</li>
+    <li>sea_adjective->flach</li>
+    <li>sea_adjective->still</li>
+    <li>sea_adjective->unruhig</li>
+    <li>sea_adjective->sanft</li>
+    <li>sea_noun->[sea_Fem]</li>
+    <li>sea_noun->[sea_Mas]</li>
+    <li>sea_noun->[sea_Neu]</li>
+    <li>sea_Fem->See</li>
+    <li>sea_Mas->See</li>
+    <li>sea_Neu->Meer</li>
+  </NamerSea.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.1)->fen [narrative_name]</li>
+    <li>standardname(p=0.3)->[swamp_adjective] [narrative_name]</li>
+    <li>swamp_adjective->wet</li>
+    <li>swamp_adjective->steamy</li>
+    <li>swamp_adjective->choking</li>
+    <li>swamp_adjective->rotten</li>
+    <li>swamp_adjective->rotting</li>
+    <li>swamp_adjective->overgrown</li>
+    <li>swamp_adjective->tangled</li>
+    <li>swamp_adjective->viny</li>
+    <li>swamp_adjective->thorny</li>
+    <li>terrain_word(p=6)->swamp</li>
+    <li>terrain_word->basin</li>
+    <li>terrain_word->wetlands</li>
+    <li>terrain_word->bayou</li>
+    <li>terrain_word->bog</li>
+    <li>terrain_word->marsh</li>
+    <li>terrain_word->fen</li>
+  -->
+  <NamerSwamp.rulePack.rulesStrings>
+    <li>r_name(p=0.5)->[swamp_adjective]e [swamp_Fem] [maybe_extra]</li>
+    <li>r_name->[swamp_adjective]er [swamp_Mas] [maybe_extra]</li>
+    <li>r_name->[swamp_adjective]es [swamp_Neu] [maybe_extra]</li>
+    <li>r_name->[swamp_noun] der [AnimalPlural]</li>
+    <li>r_name->[swamp_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[swamp_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[swamp_noun]</li>
+    <li>swamp_adjective->[Color]</li>
+    <li>swamp_adjective->[AdjectiveNatural]</li>
+    <li>swamp_adjective->nass</li>
+    <li>swamp_adjective->dampfend</li>
+    <li>swamp_adjective->erstickend</li>
+    <li>swamp_adjective->verrottet</li>
+    <li>swamp_adjective->verrottend</li>
+    <li>swamp_adjective->verwachsen</li>
+    <li>swamp_adjective->verwirrt</li>
+    <li>swamp_adjective->verstörend</li>
+    <li>swamp_adjective->dornig</li>
+    <li>swamp_noun(p=0.5)->[swamp_Fem]</li>
+    <li>swamp_noun->[swamp_Mas]</li>
+    <li>swamp_noun->[swamp_Neu]</li>
+    <li>swamp_Fem->Marsch</li>
+    <li>swamp_Mas(p=3)->Sumpf</li>
+    <li>swamp_Mas->Bayou</li>
+    <li>swamp_Neu->Moor</li>
+    <li>swamp_Neu->Becken</li>
+  </NamerSwamp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>standardname(p=0.3)->[rainforest_adjective] [narrative_name]</li>
+    <li>rainforest_adjective->wet</li>
+    <li>rainforest_adjective->steamy</li>
+    <li>rainforest_adjective->choking</li>
+    <li>rainforest_adjective->overgrown</li>
+    <li>rainforest_adjective->tangled</li>
+    <li>rainforest_adjective->viny</li>
+    <li>rainforest_adjective->thorny</li>
+    <li>terrain_word(p=6)->rainforest</li>
+    <li>terrain_word(p=3)->jungle</li>
+    <li>terrain_word->forest</li>
+    <li>terrain_word->grove</li>
+    <li>terrain_word->woodland</li>
+    <li>terrain_word->tangle</li>
+  -->
+  <NamerTropicalRainforest.rulePack.rulesStrings>
+    <li>r_name->[tropicalRainforest_adjective]er [tropicalRainforest_Mas] [maybe_extra]</li>
+    <li>r_name(p=0.5)->[tropicalRainforest_adjective]es [tropicalRainforest_Neu] [maybe_extra]</li>
+    <li>r_name->[tropicalRainforest_noun] der [AnimalPlural]</li>
+    <li>r_name->[tropicalRainforest_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[tropicalRainforest_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[tropicalRainforest_noun]</li>
+    <li>tropicalRainforest_adjective->[Color]</li>
+    <li>tropicalRainforest_adjective->[AdjectiveNatural]</li>
+    <li>tropicalRainforest_adjective->nass</li>
+    <li>tropicalRainforest_adjective->dampfend</li>
+    <li>tropicalRainforest_adjective->erstickend</li>
+    <li>tropicalRainforest_adjective->überwuchert</li>
+    <li>tropicalRainforest_adjective->verwildert</li>
+    <li>tropicalRainforest_adjective->verwachsen</li>
+    <li>tropicalRainforest_adjective->dornig</li>
+    <li>tropicalRainforest_noun->[tropicalRainforest_Mas]</li>
+    <li>tropicalRainforest_noun(p=0.5)->[tropicalRainforest_Neu]</li>
+    <li>tropicalRainforest_Mas(p=6)->Regenwald</li>
+    <li>tropicalRainforest_Mas(p=3)->Dschungel</li>
+    <li>tropicalRainforest_Mas->Wald</li>
+    <li>tropicalRainforest_Mas->Hain</li>
+    <li>tropicalRainforest_Neu->Waldland</li>
+    <li>tropicalRainforest_Neu->Dickicht</li>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>terrain_word(p=4)->plateau</li>
+    <li>terrain_word(p=4)->barrens</li>
+    <li>terrain_word(p=2)->taiga</li>
+    <li>terrain_word->scrub</li>
+    <li>terrain_word->shrubland</li>
+    <li>terrain_word->scrubland</li>
+    <li>terrain_word->bush</li>
+    <li>terrain_word->brush</li>
+    <li>terrain_word->barrens</li>
+    <li>terrain_word->expanse</li>
+    <li>terrain_word->prairie</li>
+    <li>terrain_word->flats</li>
+  -->
+  <NamerTundra.rulePack.rulesStrings>
+    <li>r_name(p=2)->[tundra_adjective]e [tundra_Fem] [maybe_extra]</li>
+    <li>r_name->[tundra_adjective]es [tundra_Neu] [maybe_extra]</li>
+    <li>r_name->[tundra_noun] der [AnimalPlural]</li>
+    <li>r_name->[tundra_noun] der [story_result]</li>
+    <li>r_name(p=2)->[WordTribal]-[tundra_noun]</li>
+    <li>r_name(p=2)->[NamePerson]-[tundra_noun]</li>
+    <li>tundra_adjective->[Color]</li>
+    <li>tundra_adjective->[AdjectiveNatural]</li>
+    <li>tundra_noun(p=2)->[tundra_Fem]</li>
+    <li>tundra_noun->[tundra_Neu]</li>
+    <li>tundra_Fem(p=2)->Tundra</li>
+    <li>tundra_Fem->Ebene</li>
+    <li>tundra_Fem->Prärie</li>
+    <li>tundra_Fem->Weite</li>
+    <li>tundra_Neu->Plateau</li>
+    <li>tundra_Neu->Ödland</li>
+  </NamerTundra.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_name->[metaprefix] [standardname]</li>
+    <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
+    <li>standardname->[narrative_name] [terrain_word]</li>
+    <li>metaprefix(p=10)-></li>
+    <li>metaprefix->[Direction]</li>
+    <li>metaprefix->[basic_adjective]</li>
+    <li>basic_adjective->great</li>
+    <li>basic_adjective->greater</li>
+    <li>basic_adjective->lesser</li>
+    <li>basic_adjective->grand</li>
+    <li>basic_adjective->new</li>
+    <li>basic_adjective->old</li>
+    <li>narrative_name(p=12)->[WordTribal]</li>
+    <li>narrative_name(p=12)->[PlaceOutlander]</li>
+    <li>narrative_name->[Color][NaturalObject]</li>
+    <li>narrative_name->[AdjectiveNatural][BodyPart]</li>
+    <li>narrative_name->[Animal]</li>
+    <li>narrative_name->[Color]</li>
+    <li>narrative_name->[Color][Animal]</li>
+    <li>narrative_name->[AdjectiveNatural][Animal]</li>
+    <li>narrative_name->[Animal][BodyPart]</li>
+    <li>narrative_name->[Color] [Animal]</li>
+    <li>narrative_name->[AdjectiveNatural] [Animal]</li>
+    <li>narrative_name->[Animal] [BodyPart]</li>
+    <li>storyname(p=50)->[subject]'s [maybe_basic_adjective] [story_result]</li>
+    <li>storyname(p=2)->[subject]'s [BodyPart]</li>
+    <li>storyname->[subject]'s [Gore]</li>
+    <li>maybe_basic_adjective-></li>
+    <li>maybe_basic_adjective(p=0.1)->[basic_adjective]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal]</li>
+    <li>subject->[WordTribal]</li>
+    <li>subject->[PlaceOutlander]</li>
+    <li>story_result->folly</li>
+    <li>story_result->vice</li>
+    <li>story_result->lunacy</li>
+    <li>story_result->mistake</li>
+    <li>story_result->fault</li>
+    <li>story_result->misstep</li>
+    <li>story_result->delusion</li>
+    <li>story_result->joy</li>
+    <li>story_result->delight</li>
+    <li>story_result->wonder</li>
+    <li>story_result->pride</li>
+    <li>story_result->jewel</li>
+    <li>story_result->prize</li>
+    <li>story_result->bounty</li>
+    <li>story_result->honor</li>
+    <li>story_result->jackpot</li>
+    <li>story_result->trophy</li>
+    <li>story_result->conceit</li>
+    <li>story_result->arrogance</li>
+    <li>story_result->stand</li>
+    <li>story_result->loss</li>
+    <li>story_result->debt</li>
+    <li>story_result->collapse</li>
+    <li>story_result->destruction</li>
+    <li>story_result->cataclysm</li>
+    <li>story_result->ruin</li>
+    <li>story_result->ruination</li>
+    <li>story_result->undoing</li>
+    <li>story_result->downfall</li>
+    <li>story_result->end</li>
+    <li>story_result->retirement</li>
+    <li>story_result->achievement</li>
+    <li>story_result->finale</li>
+    <li>story_result->bluff</li>
+    <li>story_result->ruse</li>
+    <li>story_result->deception</li>
+    <li>story_result->facade</li>
+    <li>story_result->fraud</li>
+  -->
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>
+    <li>r_name->[metaprefix] [standardname]</li>
+    <li>metaprefix(p=10)-></li>
+    <li>metaprefix->[Direction]</li>
+    <li>maybe_extra(p=12)-></li>
+    <li>maybe_extra->der [AnimalPlural]</li>
+    <li>maybe_extra->der [EnemyPlural]</li>
+    <li>maybe_extra->von [WordTribal]</li>
+    <li>maybe_extra->der [story_result]</li>
+    <li>story_result->Arroganz</li>
+    <li>story_result->Belohnung</li>
+    <li>story_result->Ehre</li>
+    <li>story_result->Fehler</li>
+    <li>story_result->Fehltritte</li>
+    <li>story_result->Flagge</li>
+    <li>story_result->Freude</li>
+    <li>story_result->Gefälle</li>
+    <li>story_result->Heuchelei</li>
+    <li>story_result->Illusion</li>
+    <li>story_result->Kataklysmen</li>
+    <li>story_result->List</li>
+    <li>story_result->Niederlage</li>
+    <li>story_result->Ruhe</li>
+    <li>story_result->Ruinen</li>
+    <li>story_result->Schätze</li>
+    <li>story_result->Schrecken</li>
+    <li>story_result->Schuld</li>
+    <li>story_result->Sühne</li>
+    <li>story_result->Täuschung</li>
+    <li>story_result->Torheit</li>
+    <li>story_result->Träume</li>
+    <li>story_result->Trophäen</li>
+    <li>story_result->Tücke</li>
+    <li>story_result->Unruhe</li>
+    <li>story_result->Verblendung</li>
+    <li>story_result->Verderbnis</li>
+    <li>story_result->Verfehlung</li>
+    <li>story_result->Vernichtung</li>
+    <li>story_result->Verrücktheit</li>
+    <li>story_result->Wahnvorstellung</li>
+    <li>story_result->Wiedergeburt</li>
+    <li>story_result->Wunder</li>
+    <li>story_result->Zerstörung</li>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  
+</LanguageData>

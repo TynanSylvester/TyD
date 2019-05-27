@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>Hase</Hare.label>
+  <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
+  <Hare.description>Dieser kleine Pflanzenfresser kann schnell vor Gefahren davon hoppeln.</Hare.description>
+  <!-- EN: head -->
+  <Hare.tools.head.label>Kopf</Hare.tools.head.label>
+  
+  <!-- EN: snowhare -->
+  <Snowhare.label>Schneehase</Snowhare.label>
+  <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
+  <Snowhare.description>Dieses widerstandsfähige Tier überlebt die härtesten Winter seiner Heimat, indem es sich durch den Schnee gräbt und dort seine Nahrung sucht.</Snowhare.description>
+  <!-- EN: head -->
+  <Snowhare.tools.head.label>Kopf</Snowhare.tools.head.label>
+  
+</LanguageData>

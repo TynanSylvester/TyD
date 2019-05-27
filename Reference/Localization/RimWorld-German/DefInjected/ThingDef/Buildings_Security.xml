@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mortar -->
+  <Artillery_Mortar.label>Mörser</Artillery_Mortar.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. -->
+  <Artillery_Mortar.description>Mörser Abschussrohr. Schleudert die Granaten über Mauern. Sehr ungenau, aber mit großer Reichweite.</Artillery_Mortar.description>
+  <!-- EN: mortar -->
+  <Artillery_Mortar.verbs.Verb_Shoot.label>Mörser</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autocannon shell -->
+  <Bullet_AutocannonTurret.label>Schwere Geschützkugel</Bullet_AutocannonTurret.label>
+  
+  <!-- EN: mini-turret bullet -->
+  <Bullet_MiniTurret.label>Mini Geschützkugel</Bullet_MiniTurret.label>
+  
+  <!-- EN: uranium slug -->
+  <Bullet_TurretSniper.label>Urankugel</Bullet_TurretSniper.label>
+  
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.label>Schweres Geschütz</Gun_AutocannonTurret.label>
+  <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+  <Gun_AutocannonTurret.description>Ein selbstladendes Großkaliber-Geschütz, das an einem Geschützturm angebaut werden muss.</Gun_AutocannonTurret.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>Schweres Geschütz</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.label>Mini Geschütz</Gun_MiniTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_MiniTurret.description>Ein kleines automatisches Geschütz, das an einen Geschützturm angebaut muss.</Gun_MiniTurret.description>
+  <!-- EN: mini-turret gun -->
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>Mini Geschütz</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.label>Urankugel Geschütz</Gun_TurretSniper.label>
+  <!-- EN: A self-loading sniper cannon designed to attach to a turret. Precise at range, it's not good at tracking close targets. -->
+  <Gun_TurretSniper.description>Ein selbstladendes Präzisionsgeschütz, das an einem Geschützturm angebaut werden muss. Auf großer Entfernung präzise, kann aber nahe Ziele nicht erfassen.</Gun_TurretSniper.description>
+  <!-- EN: uranium slug cannon -->
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>Urankugel Geschütz</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sandbags -->
+  <Sandbags.label>Sandsäcke</Sandbags.label>
+  <!-- EN: Bags of locally-sourced dirt or sand held in place by steel rods. Sandbags are ugly, but provide excellent cover from ranged attacks. -->
+  <Sandbags.description>Säcke voller Sand aus der Gegend, die mit Stahlstreben an Ort und Stelle gehalten werden. Sandsäcke sind hässlich, bieten aber ausgezeichneten Schutz vor Fernkampfwaffen.</Sandbags.description>
+  
+  <!-- EN: IED antigrain warhead trap -->
+  <TrapIED_AntigrainWarhead.label>USBV Gefechtskopf</TrapIED_AntigrainWarhead.label>
+  <!-- EN: An antimatter-powered antigrain warhead connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_AntigrainWarhead.description>Ein Hightech-Anti-Materie-Gefechtskopf, der mit einem druckempfindlichen Auslöser verbunden ist. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: IED EMP trap -->
+  <TrapIED_EMP.label>USBV EMP</TrapIED_EMP.label>
+  <!-- EN: A pair of EMP shells connected to a touch-activated trigger. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_EMP.description>Ein paar EMP-Granaten, die mit einem druckempfindlichen Auslöser verbunden sind. Die Explosion kann Mechanoiden für einige Sekunden paralysieren. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapIED_EMP.description>
+  
+  <!-- EN: IED firefoam trap -->
+  <TrapIED_Firefoam.label>USBV Löschschaum</TrapIED_Firefoam.label>
+  <!-- EN: A pair of firefoam shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Firefoam.description>Ein paar Löschschaum-Kartuschen, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapIED_Firefoam.description>
+  
+  <!-- EN: IED trap -->
+  <TrapIED_HighExplosive.label>USBV Sprengsatz</TrapIED_HighExplosive.label>
+  <!-- EN: A pair of high-explosive shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_HighExplosive.description>Ein paar Artilleriegeschosse, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapIED_HighExplosive.description>
+  
+  <!-- EN: IED incendiary trap -->
+  <TrapIED_Incendiary.label>USBV Brandsatz</TrapIED_Incendiary.label>
+  <!-- EN: A pair of incendiary shells connected to a touch-activated trigger. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapIED_Incendiary.description>Etwas Sprengstoff wurde mit einer Brandbeschleunigerpaste vermischt und dann mit einem druckempfindlichen Auslöser verbunden. Da es nicht notwendig ist, etwas Hochexplosives zu zünden, ist der chemische Auslöser einfacher und zuverlässiger als manch anderer. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapIED_Incendiary.description>
+  
+  <!-- EN: spike trap -->
+  <TrapSpike.label>Schlagfalle</TrapSpike.label>
+  <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forthm and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+  <TrapSpike.description>Fünf schwere, gespannte Stacheln, die durch einen druckempfindlichen Auslöser gesichert sind. Wenn das Opfer den Auslöser berührt, wird die Falle ausgelöst und trifft das Opfer. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</TrapSpike.description>
+  
+  <!-- EN: autocannon turret -->
+  <Turret_Autocannon.label>Schweres Geschütz</Turret_Autocannon.label>
+  <!-- EN: A heavy automatic turret. Its large-caliber shells do heavy damage over significant ranges, but its barrel must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+  <Turret_Autocannon.description>Eine schwere Selbstschussanlage mit guter Reichweite. Das große Kaliber verursacht hohe Schäden, aber nach häufiger Verwendung wird viel Stahl benötigt um den teuren Lauf zu wechseln. Hinweis: Kann nicht auf nahe Feinde schießen und eine Beschädigung kann zur Explosion führen.</Turret_Autocannon.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>Haltbarkeit Lauf</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Schüsse bis Laufwechsel</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Kann nicht schießen: Braucht neuen Lauf</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mini-turret -->
+  <Turret_MiniTurret.label>Mini Geschütz</Turret_MiniTurret.label>
+  <!-- EN: A portable automatic turret. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <Turret_MiniTurret.description>Eine transportable Selbstschussanlage mit geringer Reichweite. Nach starker Verwendung wird Stahl benötigt um den Lauf zu erneuern. Kann bei Beschädigung explodieren. Die dumme Steuerungs-KI kann nicht direkt kontrolliert werden, also achte auf Eigenbeschuss.</Turret_MiniTurret.description>
+  <!-- EN: Barrel durability -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Haltbarkeit Lauf</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Schüsse bis Laufwechsel</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new barrel -->
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Kann nicht schießen: Braucht neuen Lauf</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: mortar -->
+  <Turret_Mortar.label>Mörser</Turret_Mortar.label>
+  <!-- EN: A manned mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's inherent inaccuracy makes it more useful for attacking large fortifications than groups of enemies in the field. -->
+  <Turret_Mortar.description>Ein bemannter Mörser, der alle möglichen Arten von Geschossen verschießt. Auch wenn er vernichtenden Schaden verursachen kann, ist er aufgrund seiner Ungenauigkeit besser geeignet Verteidigingsstrukturen zu zerstören als auf eine Gruppe Gegner im Feld zu schießen.</Turret_Mortar.description>
+  
+  <!-- EN: uranium slug turret -->
+  <Turret_Sniper.label>Urankugel Geschütz</Turret_Sniper.label>
+  <!-- EN: A long-ranged armor-piercing turret. Its ultra-dense uranium shells can punch through heavy armor at long ranges, but it requires new uranium slugs to be loaded after use. It's more accurate at longer ranges, and can't fire at all close up. May explode when damaged. -->
+  <Turret_Sniper.description>Eine rüstungsdurchschlagende Selbstschussanlage. Die extrem dichten Urangeschosse können über weite Entfernungen starke Rüstungen durchschlagen, sie müssen aber nach Verwendung neu befüllt werden. Sie ist am genauesten auf große Entfernung und kann nicht auf nahe Feinde schießen. Kann bei Beschädigung explodieren.</Turret_Sniper.description>
+  <!-- EN: Barrel durability -->
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>Haltbarkeit Lauf</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until rearm -->
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>Schüsse bis Laufwechsel</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs rearm -->
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Kann nicht schießen: Braucht neuen Lauf</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

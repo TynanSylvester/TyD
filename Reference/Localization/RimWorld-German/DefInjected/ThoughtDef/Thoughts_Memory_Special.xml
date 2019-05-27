@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: strange feeling -->
+  <ArtifactMoodBoost.stages.strange_feeling.label>Seltsames Gefühl</ArtifactMoodBoost.stages.strange_feeling.label>
+  <!-- EN: I feel strange, but also very relaxed. -->
+  <ArtifactMoodBoost.stages.strange_feeling.description>Ich fühle mich seltsam, aber auch sehr entspannt.</ArtifactMoodBoost.stages.strange_feeling.description>
+  
+</LanguageData>

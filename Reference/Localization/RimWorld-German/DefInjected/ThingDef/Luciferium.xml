@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luciferium -->
+  <Luciferium.label>Luziferium</Luciferium.label>
+  <!-- EN: A concoction of mechanites that dramatically improve the body's functioning in all respects. Over time, it can even heal old scarred-over wounds or brain damage, though it cannot regenerate lost limbs. Unfortunately, without the moderating effects of regular doses every five or six days, the mechanites lose cohesion, causing continuous berserk rages and, eventually, death.\n\nAfter the first dose, there is no way to get the mechanites out, ever.\n\nOn the urbworlds, they call Luciferium the 'Devil's Bargain'. Many have been forced to kill friends when no more of the seductive red pills could be found. -->
+  <Luciferium.description>Ein Gebräu aus fortschrittlichen Mechaniten, die den Körper in jeder Hinsicht stark verbessern. Mit der Zeit kann es sogar alte Narben und auch Gehirnschäden reparieren, aber keine verlorenen Gliedmaßen wiederherstellen. Unglücklicherweise, ohne die abmildernde Wirkung einer regelmäßigen Dosis alle fünf oder sechs Tage, verlieren die Mechaniten ihren Zusammenhalt. In diesem Zustand verursachen sie schwerste Psychosen und werden den Benutzer letztendlich töten.\n\nNach der ersten Dosis ist der Konsument sofort abhängig und es gibt keine Möglichkeit eines Entzugs.\n\nIn den Urbwelten wird Luziferium auch 'Teufelspakt' genannt. Viele schon mussten ihre Freunde töten, wenn es keine der verführerischen roten Pillen mehr gab.</Luciferium.description>
+  <!-- EN: Take {0} -->
+  <Luciferium.ingestible.ingestCommandString>Nimm Luziferium ein.</Luciferium.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <Luciferium.ingestible.ingestReportString>Nimmt Luziferium ein.</Luciferium.ingestible.ingestReportString>
+  
+</LanguageData>

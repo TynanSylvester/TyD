@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel -->
+  <Chemfuel.label>Kraftstoff</Chemfuel.label>
+  <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
+  <Chemfuel.description>Ein flüchtiger chemischer Treibstoff. Wird für den Antrieb von Maschinen und Raketen, wie auch bei der Munitionsherstellung und als Brandgeschoss verwendet.</Chemfuel.description>
+  
+  <!-- EN: component -->
+  <ComponentIndustrial.label>Bauteil</ComponentIndustrial.label>
+  <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
+  <ComponentIndustrial.description>Verschiedene Getriebe, Kondensatoren, Leiterplatten, Röhren, Räder, Sensoren, Chips, Prozessoren und andere elektronische und industrielle Teile. Notwendig zum Bauen und Reparieren von komplexen Maschinen und elektronischen Anlagen.</ComponentIndustrial.description>
+  
+  <!-- EN: advanced component -->
+  <ComponentSpacer.label>Hightech-Bauteil</ComponentSpacer.label>
+  <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
+  <ComponentSpacer.description>Hochwertige Computer- und Energieversorgungs-Ausrüstung, miniaturisiert und gehärtet für anspruchsvollste Anwendungen.</ComponentSpacer.description>
+  
+  <!-- EN: herbal medicine -->
+  <MedicineHerbal.label>Kräutermedizin</MedicineHerbal.label>
+  <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
+  <MedicineHerbal.description>Die Zutaten für die Kräutermedizin werden aus der Heilwurzel gewonnen. Sie wirkt nicht ganz so gut wie industriell hergestellte, aber viel besser als gar keine Medizin.</MedicineHerbal.description>
+  
+  <!-- EN: medicine -->
+  <MedicineIndustrial.label>Medizin</MedicineIndustrial.label>
+  <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
+  <MedicineIndustrial.description>Eine Satz industrieller medizinischer Ausrüstung. Es enthält Standard-Drogen, diverse Werkzeuge zur Diagnose, zum vernähen und richten von Wunden und Knochen, sowie verschiedenstes Verbandzeug.</MedicineIndustrial.description>
+  
+  <!-- EN: glitterworld medicine -->
+  <MedicineUltratech.label>Hightech-Medizin</MedicineUltratech.label>
+  <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
+  <MedicineUltratech.description>Ein Satz fortschrittlicher medizinischer Ausrüstung, die wahrscheinlich auf einer fernen High-Tech-Glitzerwelt hergestellt wurde. Es enthält fortschrittliche polimorphe Drogen, Naniten-Diagnose- und -Unterstützungssysteme, einen Miniatur-Scanner und verschiedenste Multifunktionswerkzeuge.</MedicineUltratech.description>
+  
+  <!-- EN: neutroamine -->
+  <Neutroamine.label>Neutramin</Neutroamine.label>
+  <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
+  <Neutroamine.description>Ein synthetisch-chemischer Neutralisator. Eigentlich ohne jeden Nutzen, wird aber bei der Produktion vieler Drogen als Zutat benötigt.</Neutroamine.description>
+  
+</LanguageData>

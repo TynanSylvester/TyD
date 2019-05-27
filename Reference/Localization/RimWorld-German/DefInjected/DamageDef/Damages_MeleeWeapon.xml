@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>Biss</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>{0} wurde zerfleischt.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>Schlag</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>{0} wurde erschlagen.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>Quetschung</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>{0} wurde zerquetscht.</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>Schnitt</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>{0} wurde zerschnitten</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>Schlag</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>{0} wurde zu Tode geprügelt.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>Kratzer</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>{0} wurde zerrissen.</Scratch.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>Stich</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>{0} wurde erstochen.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>Giftiger Biss</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>{0} starb an einem giftigen Biss.</ToxicBite.deathMessage>
+  
+</LanguageData>

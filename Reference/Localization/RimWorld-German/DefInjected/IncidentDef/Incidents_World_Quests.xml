@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bandit camp quest -->
+  <Quest_BanditCamp.label>Aufgabe: Banditenlager</Quest_BanditCamp.label>
+  <!-- EN: Bandit camp quest -->
+  <Quest_BanditCamp.letterLabel>Aufgabe: Banditenlager</Quest_BanditCamp.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has sent us a message.\n\nApparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.\n\n{0} says that {5}.\n\nIf we succeed, their relations will improve, and they'll send us this reward worth {6}:\n\n{3}\n\nIf we don't destroy the camp in {4} days, they will do it themselves. -->
+  <Quest_BanditCamp.letterText>{0}, {1} der Fraktion '{2}', hat uns eine Nachricht geschickt.\n\nSo wie es aussieht, überfallen Banditen von einem nahegelegenen Lager ihre Karawanen. Sie haben uns gebeten, das Lager zu zerstören. Genauer: Sie wollen, dass alle Gegner und Geschütztürme ausgeschaltet werden.\n\n{0} sagt, dass {5}.\n\nWenn wir Erfolg haben, wird das unsere Beziehungen verbessern und sie werden uns diese Belohnung schicken (Wert: {6}):\n\n{3}\n\nWenn wir das Lager in {4} Tagen nicht zerstört haben, werden sie es selber erledigen.</Quest_BanditCamp.letterText>
+  
+  <!-- EN: incapacitated refugee quest -->
+  <Quest_DownedRefugee.label>Aufgabe: Bewusstloser Flüchtling</Quest_DownedRefugee.label>
+  <!-- EN: Incapacitated refugee quest -->
+  <Quest_DownedRefugee.letterLabel>Aufgabe: Bewusstloser Flüchtling</Quest_DownedRefugee.letterLabel>
+  <!-- EN: {PAWN_nameDef} contacts you and requests help. {PAWN_pronoun} is wounded and unable to move. Without your help, {PAWN_pronoun} will die in {0} days.\n\n{PAWN_nameDef} is a {1}-year-old {2}. {PAWN_pronoun} promises to join you if you rescue {PAWN_objective}.\n\n{PAWN_nameDef} says that {3}. -->
+  <Quest_DownedRefugee.letterText>{PAWN_nameDef} kontaktiert Dich und bittet um Hilfe. {PAWN_pronoun} ist verwundet und kaum noch bei Bewusstsein. Ohne Deine Hilfe wird {PAWN_pronoun} innerhalb von {0} Tagen sterben.\n\n{PAWN_nameDef} ist {1} Jahre alt und {2}. {PAWN_pronoun} verspricht, der Kolonie beizutreten, wenn Du {PAWN_objective} rettest.\n\n{PAWN_nameDef} sagt, dass {3}.</Quest_DownedRefugee.letterText>
+  
+  <!-- EN: item stash quest -->
+  <Quest_ItemStash.label>Aufgabe: Versteckte Gegenstände</Quest_ItemStash.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStash.letterLabel>Aufgabe: Versteckte Gegenstände</Quest_ItemStash.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStash.letterText>{0}, {1} der Fraktion '{2}', hat uns eine Nachricht geschickt.\n\nSie haben erfahren, dass eine Sammlung wertvoller Gegenstände (Wert: {6}) in einem nahen Versteck darauf wartet, gefunden zu werden. Die Sammlung besteht aus:\n\n{3}\n\nUnglücklicherweise wird das nicht lange dort bleiben - andere Gruppen sind schon auf dem Weg und werden den Ort in {4} Tagen erreichen, wenn wir nicht gehen.\n\nWertgegenstände ziehen Gefahren an, also sei vorsichtig.\n\n{0} sagt, dass {5}.</Quest_ItemStash.letterText>
+  
+  <!-- EN: item stash quest (AI core) -->
+  <Quest_ItemStashAICore.label>Aufgabe: Versteckte Gegenstände (KI-Kern)</Quest_ItemStashAICore.label>
+  <!-- EN: Item stash quest -->
+  <Quest_ItemStashAICore.letterLabel>Aufgabe: Versteckte Gegenstände</Quest_ItemStashAICore.letterLabel>
+  <!-- EN: {0}, {1} of {2}, has informed us of a collection of valuable items worth {6} not far from us. The collection consists of:\n\n{3}\n\nUnfortunately, it won't last - others will take the items in {4} days if we don't.\n\nBeware - valuables tend to attract danger. {0} says that {5}. -->
+  <Quest_ItemStashAICore.letterText>{0}, {1} der Fraktion '{2}', hat uns eine Nachricht geschickt.\n\nSie haben erfahren, dass eine Sammlung wertvoller Gegenstände (Wert: {6}) in einem nahen Versteck darauf wartet, gefunden zu werden. Die Sammlung besteht aus:\n\n{3}\n\nUnglücklicherweise wird das nicht lange dort bleiben - andere Gruppen sind schon auf dem Weg und werden den Ort in {4} Tagen erreichen, wenn wir nicht gehen.\n\nWertgegenstände ziehen Gefahren an, also sei vorsichtig.\n\n{0} sagt, dass {5}</Quest_ItemStashAICore.letterText>
+  
+  <!-- EN: escape ship quest -->
+  <Quest_JourneyOffer.label>Aufgabe: Reiseangebot</Quest_JourneyOffer.label>
+  
+  <!-- EN: peace talks quest -->
+  <Quest_PeaceTalks.label>Aufgabe: Friedensgespräche</Quest_PeaceTalks.label>
+  <!-- EN: Peace talks quest -->
+  <Quest_PeaceTalks.letterLabel>Aufgabe: Friedensgespräche</Quest_PeaceTalks.letterLabel>
+  <!-- EN: {PAWN_nameDef}, {0} of {1}, has sent us a message. {PAWN_pronoun} wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.\n\nThe offer will expire after {2} days. -->
+  <Quest_PeaceTalks.letterText>{PAWN_nameDef}, {0} der Fraktion '{1}', hat uns eine Nachricht gesandt. {PAWN_pronoun} will sich mit uns zum Reden an einem nahen Ort treffen.\n\nDies kann eine großartige Möglichkeit sein, um Geschenke zu erhalten und unsere Beziehungen zu deren Fraktion zu verbessern. Aber Vorsicht: Ein schlechter Unterhändler kann eventuell auch mehr Schaden als Gutes anrichten und sie vielleicht sogar verärgern.\n\nDas Angebot läuft in {2} Tagen aus.</Quest_PeaceTalks.letterText>
+  
+  <!-- EN: prisoner rescue quest -->
+  <Quest_PrisonerRescue.label>Aufgabe: Gefangener</Quest_PrisonerRescue.label>
+  <!-- EN: Prisoner rescue quest -->
+  <Quest_PrisonerRescue.letterLabel>Aufgabe: Gefangener</Quest_PrisonerRescue.letterLabel>
+  <!-- EN: A prisoner being held by {0} has managed to steal a radio and call you!\n\n{PAWN_nameDef} is being held at a camp nearby under armed guard. Rescue {PAWN_objective}, and {PAWN_pronoun} will join your colony. {PAWN_pronoun} is a {1}-year-old {2}. {PAWN_pronoun} says that {3}. -->
+  <Quest_PrisonerRescue.letterText>Ein Gefangener der {0} konnte ein Funkgerät stehlen und Dich anfunken!\n\n{PAWN_nameDef} wird in einem nahen Lager von bewaffneten Wächtern festgehalten. Rette {PAWN_objective} und {PAWN_pronoun} wird Deiner Kolonie beitreten. {PAWN_pronoun} ist {1} Jahre alt und {2}.\n\n{PAWN_nameDef} sagt, dass {3}.</Quest_PrisonerRescue.letterText>
+  
+  <!-- EN: trade request -->
+  <Quest_TradeRequest.label>Handelsanfrage</Quest_TradeRequest.label>
+  
+</LanguageData>

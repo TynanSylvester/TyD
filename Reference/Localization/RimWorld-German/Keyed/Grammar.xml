@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle></IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle></DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>sein</Proits>
+  <!-- EN: his -->
+  <Prohis>sein</Prohis>
+  <!-- EN: her -->
+  <Proher>ihr</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>Sein</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>Sein</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>Ihr</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>es</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>ihn</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>sie</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>Es</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>Ihn</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Sie</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>er</Prohe>
+  <!-- EN: she -->
+  <Proshe>sie</Proshe>
+  <!-- EN: it -->
+  <Proit>es</Proit>
+  <!-- EN: He -->
+  <ProheCap>Er</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Sie</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>Es</ProitCap>
+
+</LanguageData>

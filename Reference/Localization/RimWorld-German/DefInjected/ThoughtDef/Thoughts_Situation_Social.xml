@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: affair -->
+  <Affair.stages.affair.label>Verhältnis</Affair.stages.affair.label>
+  
+  <!-- EN: annoying voice -->
+  <AnnoyingVoice.stages.annoying_voice.label>Nervige Stimme</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <!-- EN: ate raw humanlike meat -->
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>Hat rohes menschliches Fleisch gegessen</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>Körperpurist ist angewidert</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>Körperpurist ist angewidert</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>Körperpurist ist angewidert</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>Körperpurist ist angewidert</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <!-- EN: body purist disgust -->
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>Körperpurist ist angewidert</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <!-- EN: {0}'s master -->
+  <BondedAnimalMaster.stages.s_master.label>Habe ein Haustier: {0}</BondedAnimalMaster.stages.s_master.label>
+  <!-- EN: Being together with my bonded animal makes me feel better. -->
+  <BondedAnimalMaster.stages.s_master.description>Wenn ich mit meinem geliebten Haustier zusammen bin, fühle ich mich besser.</BondedAnimalMaster.stages.s_master.description>
+  <!-- EN: master of {0} -->
+  <BondedAnimalMaster.stages.master_of.label>Meister von {0}</BondedAnimalMaster.stages.master_of.label>
+  <!-- EN: Being together with my bonded animals makes me feel better. -->
+  <BondedAnimalMaster.stages.master_of.description>Mit meinem speziellen Haustier zusammen zu sein verbessert meine Laune.</BondedAnimalMaster.stages.master_of.description>
+  
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>Hat menschliche Leiche geschlachtet</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
+  <!-- EN: chemical interest vs teetotaler -->
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>Drogenfreund vs Abstinenzler</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <!-- EN: creepy breathing -->
+  <CreepyBreathing.stages.creepy_breathing.label>Gruseliges Atmen</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <!-- EN: disfigured -->
+  <Disfigured.stages.disfigured.label>Entstellt</Disfigured.stages.disfigured.label>
+  
+  <!-- EN: drunk -->
+  <Drunk.stages.drunk.label>Betrunken</Drunk.stages.drunk.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.stages.executed_prisoner.label>Hat Gefangenen hingerichtet</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <!-- EN: hard worker vs lazy -->
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>Hart arbeitend vs Faul</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <!-- EN: incestuous -->
+  <Incestuous.stages.incestuous.label>Inzestuöse Beziehung</Incestuous.stages.incestuous.label>
+  
+  <!-- EN: killed colonist -->
+  <KilledColonist.stages.killed_colonist.label>Hat Kolonisten getötet</KilledColonist.stages.killed_colonist.label>
+  
+  <!-- EN: killed colony animal -->
+  <KilledColonyAnimal.stages.killed_colony_animal.label>Hat ein Tier der Kolonie getötet</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <!-- EN: man -->
+  <Man.stages.man.label>Mann</Man.stages.man.label>
+  
+  <!-- EN: not {0}'s master -->
+  <NotBondedAnimalMaster.stages.not_s_master.label>Vermisse Haustier: {0}</NotBondedAnimalMaster.stages.not_s_master.label>
+  <!-- EN: I should be together with my bonded animal. -->
+  <NotBondedAnimalMaster.stages.not_s_master.description>Ich sollte mit meinem Haustier zusammen sein.</NotBondedAnimalMaster.stages.not_s_master.description>
+  <!-- EN: not master of {0} -->
+  <NotBondedAnimalMaster.stages.not_master_of.label>Kein Meister von {0}</NotBondedAnimalMaster.stages.not_master_of.label>
+  <!-- EN: I should be together with my bonded animals. -->
+  <NotBondedAnimalMaster.stages.not_master_of.description>Mein Haustier sollte mit mir zusammen sein.</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <!-- EN: opinion of my {0} {1} -->
+  <OpinionOfMyLover.stages.opinion_of_my.label>Meinung von {1} ({0})</OpinionOfMyLover.stages.opinion_of_my.label>
+  <!-- EN: Being with my lover makes me feel this way. -->
+  <OpinionOfMyLover.stages.opinion_of_my.description>Ich fühle mich so, wenn ich mit meinem geliebten Menschen zusammen bin.</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <!-- EN: pretty -->
+  <Pretty.stages.pretty.label>Hübsch</Pretty.stages.pretty.label>
+  <!-- EN: beautiful -->
+  <Pretty.stages.beautiful.label>Wunderschön</Pretty.stages.beautiful.label>
+  
+  <!-- EN: sold prisoner to slavery -->
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>Hat Gefangenen in die Sklaverei verkauft</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <!-- EN: teetotaler vs addict -->
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>Abstinenzler vs Abhängiger</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <!-- EN: teetotaler vs chemical interest -->
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>Abstinenzler vs Drogenfreund</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>Transhumanist ist dankbar</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>Transhumanist ist dankbar</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>Transhumanist ist dankbar</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>Transhumanist ist dankbar</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
+  <!-- EN: transhumanist appreciation -->
+  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>Transhumanist ist dankbar</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
+  
+  <!-- EN: ugly -->
+  <Ugly.stages.ugly.label>Hässlich</Ugly.stages.ugly.label>
+  <!-- EN: staggeringly ugly -->
+  <Ugly.stages.staggeringly_ugly.label>Extrem hässlich</Ugly.stages.staggeringly_ugly.label>
+  
+  <!-- EN: want to sleep with {0} -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>Möchte bei {0} schlafen</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
+  <!-- EN: I don't like sleeping apart from my partner. -->
+  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Ich mag es nicht, dass ich von meinem Partner getrennt schlafen muss.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
+  
+  <!-- EN: woman -->
+  <Woman.stages.woman.label>Frau</Woman.stages.woman.label>
+  
+</LanguageData>

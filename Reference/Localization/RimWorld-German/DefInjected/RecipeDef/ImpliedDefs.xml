@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: verabreiche Ambrosia -->
+  <Administer_Ambrosia.label>Ambrosia verabreichen</Administer_Ambrosia.label>
+  <!-- EN: verabreicht Ambrosia. -->
+  <Administer_Ambrosia.jobString>Verabreicht Ambrosia.</Administer_Ambrosia.jobString>
+  
+  <!-- EN: verabreiche Bier -->
+  <Administer_Beer.label>Bier verabreichen</Administer_Beer.label>
+  <!-- EN: verabreicht Bier. -->
+  <Administer_Beer.jobString>Verabreicht Bier.</Administer_Beer.jobString>
+  
+  <!-- EN: verabreiche Flake -->
+  <Administer_Flake.label>Flake verabreichen</Administer_Flake.label>
+  <!-- EN: verabreicht Flake. -->
+  <Administer_Flake.jobString>Verabreicht Flake.</Administer_Flake.jobString>
+  
+  <!-- EN: verabreiche Go-Juice -->
+  <Administer_GoJuice.label>Go-Juice verabreichen</Administer_GoJuice.label>
+  <!-- EN: verabreicht Go-Juice. -->
+  <Administer_GoJuice.jobString>Verabreicht Go-Juice.</Administer_GoJuice.jobString>
+  
+  <!-- EN: verabreiche Luziferium -->
+  <Administer_Luciferium.label>Luziferium verabreichen</Administer_Luciferium.label>
+  <!-- EN: verabreicht Luziferium. -->
+  <Administer_Luciferium.jobString>Verabreicht Luziferium.</Administer_Luciferium.jobString>
+  
+  <!-- EN: verabreiche Penoxzylin -->
+  <Administer_Penoxycyline.label>Penoxzylin verabreichen</Administer_Penoxycyline.label>
+  <!-- EN: verabreicht Penoxzylin. -->
+  <Administer_Penoxycyline.jobString>Verabreicht Penoxzylin.</Administer_Penoxycyline.jobString>
+  
+  <!-- EN: verabreiche Psychit Tee -->
+  <Administer_PsychiteTea.label>Psychit Tee verabreichen</Administer_PsychiteTea.label>
+  <!-- EN: verabreicht Psychit Tee. -->
+  <Administer_PsychiteTea.jobString>Verabreicht Psychit Tee.</Administer_PsychiteTea.jobString>
+  
+  <!-- EN: verabreiche Rauchblatt-Joint -->
+  <Administer_SmokeleafJoint.label>Rauchblatt verabreichen</Administer_SmokeleafJoint.label>
+  <!-- EN: verabreicht Rauchblatt-Joint. -->
+  <Administer_SmokeleafJoint.jobString>Verabreicht Rauchblatt.</Administer_SmokeleafJoint.jobString>
+  
+  <!-- EN: verabreiche Muntermacher -->
+  <Administer_WakeUp.label>Muntermacher verabreichen</Administer_WakeUp.label>
+  <!-- EN: verabreicht Muntermacher. -->
+  <Administer_WakeUp.jobString>Verabreicht Muntermacher.</Administer_WakeUp.jobString>
+  
+  <!-- EN: verabreiche Yayo -->
+  <Administer_Yayo.label>Yayo verabreichen</Administer_Yayo.label>
+  <!-- EN: verabreicht Yayo. -->
+  <Administer_Yayo.jobString>Verabreicht Yayo.</Administer_Yayo.jobString>
+  
+  <!-- EN: Stelle Moderner Helm her -->
+  <Make_Apparel_AdvancedHelmet.label>Stelle modernen Helm her</Make_Apparel_AdvancedHelmet.label>
+  <Make_Apparel_AdvancedHelmet.description>Stelle einen modernen Helm her.</Make_Apparel_AdvancedHelmet.description>
+  <!-- EN: Stelle Moderner Helm her. -->
+  <Make_Apparel_AdvancedHelmet.jobString>Stellt einen modernen Helm her.</Make_Apparel_AdvancedHelmet.jobString>
+  
+  <!-- EN: Stelle T-Shirt her -->
+  <Make_Apparel_BasicShirt.label>Nähe ein T-Shirt</Make_Apparel_BasicShirt.label>
+  <Make_Apparel_BasicShirt.description>Nähe ein T-Shirt.</Make_Apparel_BasicShirt.description>
+  <!-- EN: Stelle T-Shirt her. -->
+  <Make_Apparel_BasicShirt.jobString>Näht ein T-Shirt.</Make_Apparel_BasicShirt.jobString>
+  
+  <!-- EN: Stelle Melone her -->
+  <Make_Apparel_BowlerHat.label>Nähe eine Melone</Make_Apparel_BowlerHat.label>
+  <Make_Apparel_BowlerHat.description>Nähe eine Melone.</Make_Apparel_BowlerHat.description>
+  <!-- EN: Stelle Melone her. -->
+  <Make_Apparel_BowlerHat.jobString>Näht eine Melone.</Make_Apparel_BowlerHat.jobString>
+  
+  <!-- EN: Stelle Hemd her -->
+  <Make_Apparel_CollarShirt.label>Nähe ein Hemd</Make_Apparel_CollarShirt.label>
+  <Make_Apparel_CollarShirt.description>Nähe ein Hemd.</Make_Apparel_CollarShirt.description>
+  <!-- EN: Stelle Hemd her. -->
+  <Make_Apparel_CollarShirt.jobString>Näht ein Hemd.</Make_Apparel_CollarShirt.jobString>
+  
+  <!-- EN: Stelle Cowboyhut her -->
+  <Make_Apparel_CowboyHat.label>Nähe einen Cowboyhut</Make_Apparel_CowboyHat.label>
+  <Make_Apparel_CowboyHat.description>Nähe einen Cowboyhut.</Make_Apparel_CowboyHat.description>
+  <!-- EN: Stelle Cowboyhut her. -->
+  <Make_Apparel_CowboyHat.jobString>Näht einen Cowboyhut.</Make_Apparel_CowboyHat.jobString>
+  
+  <!-- EN: Stelle Staubmantel her -->
+  <Make_Apparel_Duster.label>Nähe einen Staubmantel</Make_Apparel_Duster.label>
+  <Make_Apparel_Duster.description>Nähe einen Staubmantel.</Make_Apparel_Duster.description>
+  <!-- EN: Stelle Staubmantel her. -->
+  <Make_Apparel_Duster.jobString>Näht einen Staubmantel.</Make_Apparel_Duster.jobString>
+  
+  <!-- EN: Stelle Schutzhose her -->
+  <Make_Apparel_FlakPants.label>Stelle Schutzhose her</Make_Apparel_FlakPants.label>
+  <Make_Apparel_FlakPants.description>Stelle eine Schutzhose her.</Make_Apparel_FlakPants.description>
+  <!-- EN: Stelle Schutzhose her. -->
+  <Make_Apparel_FlakPants.jobString>Stellt eine Schutzhose her.</Make_Apparel_FlakPants.jobString>
+  
+  <!-- EN: Stelle Schutzweste her -->
+  <Make_Apparel_FlakVest.label>Stelle Schutzweste her</Make_Apparel_FlakVest.label>
+  <Make_Apparel_FlakVest.description>Stelle eine Schutzweste her.</Make_Apparel_FlakVest.description>
+  <!-- EN: Stelle Schutzweste her. -->
+  <Make_Apparel_FlakVest.jobString>Stellt eine Schutzweste her.</Make_Apparel_FlakVest.jobString>
+  
+  <!-- EN: Stelle Jacke her -->
+  <Make_Apparel_Jacket.label>Nähe eine Jacke</Make_Apparel_Jacket.label>
+  <Make_Apparel_Jacket.description>Nähe eine Jacke.</Make_Apparel_Jacket.description>
+  <!-- EN: Stelle Jacke her. -->
+  <Make_Apparel_Jacket.jobString>Näht eine Jacke.</Make_Apparel_Jacket.jobString>
+  
+  <!-- EN: Stelle Hose her -->
+  <Make_Apparel_Pants.label>Nähe eine Hose</Make_Apparel_Pants.label>
+  <Make_Apparel_Pants.description>Nähe eine Hose.</Make_Apparel_Pants.description>
+  <!-- EN: Stelle Hose her. -->
+  <Make_Apparel_Pants.jobString>Näht eine Hose.</Make_Apparel_Pants.jobString>
+  
+  <!-- EN: Stelle Parka her -->
+  <Make_Apparel_Parka.label>Nähe einen Parka</Make_Apparel_Parka.label>
+  <Make_Apparel_Parka.description>Nähe einen Parka.</Make_Apparel_Parka.description>
+  <!-- EN: Stelle Parka her. -->
+  <Make_Apparel_Parka.jobString>Näht einen Parka.</Make_Apparel_Parka.jobString>
+  
+  <!-- EN: Stelle Energierüstung her -->
+  <Make_Apparel_PowerArmor.label>Stelle Energierüstung her</Make_Apparel_PowerArmor.label>
+  <Make_Apparel_PowerArmor.description>Stelle eine Energierüstung her.</Make_Apparel_PowerArmor.description>
+  <!-- EN: Stelle Energierüstung her. -->
+  <Make_Apparel_PowerArmor.jobString>Stellt eine Energierüstung her.</Make_Apparel_PowerArmor.jobString>
+  
+  <!-- EN: Stelle Energierüstungshelm her -->
+  <Make_Apparel_PowerArmorHelmet.label>Stelle Energierüstungshelm her</Make_Apparel_PowerArmorHelmet.label>
+  <Make_Apparel_PowerArmorHelmet.description>Stelle einen Energierüstungshelm her.</Make_Apparel_PowerArmorHelmet.description>
+  <!-- EN: Stelle Energierüstungshelm her. -->
+  <Make_Apparel_PowerArmorHelmet.jobString>Stellt einen Energierüstungshelm her.</Make_Apparel_PowerArmorHelmet.jobString>
+  
+  <!-- EN: Stelle Schildgürtel her -->
+  <Make_Apparel_ShieldBelt.label>Stelle Schildgürtel her</Make_Apparel_ShieldBelt.label>
+  <Make_Apparel_ShieldBelt.description>Stelle einen Schildgürtel her.</Make_Apparel_ShieldBelt.description>
+  <!-- EN: Stelle Schildgürtel her. -->
+  <Make_Apparel_ShieldBelt.jobString>Stellt einen Schildgürtel her.</Make_Apparel_ShieldBelt.jobString>
+  
+  <!-- EN: Stelle Einfacher Helm her -->
+  <Make_Apparel_SimpleHelmet.label>Stelle einfachen Helm her</Make_Apparel_SimpleHelmet.label>
+  <Make_Apparel_SimpleHelmet.description>Stelle einen einfachen Helm her.</Make_Apparel_SimpleHelmet.description>
+  <!-- EN: Stelle Einfacher Helm her. -->
+  <Make_Apparel_SimpleHelmet.jobString>Stellt einen einfachen Helm her.</Make_Apparel_SimpleHelmet.jobString>
+  
+  <!-- EN: Stelle Rauchwandgürtel her -->
+  <Make_Apparel_SmokepopBelt.label>Stelle Rauchwandgürtel her</Make_Apparel_SmokepopBelt.label>
+  <Make_Apparel_SmokepopBelt.description>Stelle einen Rauchwandgürtel her.</Make_Apparel_SmokepopBelt.description>
+  <!-- EN: Stelle Rauchwandgürtel her. -->
+  <Make_Apparel_SmokepopBelt.jobString>Stellt einen Rauchwandgürtel her.</Make_Apparel_SmokepopBelt.jobString>
+  
+  <!-- EN: Stelle Stammeskleidung her -->
+  <Make_Apparel_TribalA.label>Nähe Stammeskleidung</Make_Apparel_TribalA.label>
+  <Make_Apparel_TribalA.description>Nähe Stammeskleidung.</Make_Apparel_TribalA.description>
+  <!-- EN: Stelle Stammeskleidung her. -->
+  <Make_Apparel_TribalA.jobString>Näht Stammeskleidung.</Make_Apparel_TribalA.jobString>
+  
+  <!-- EN: Stelle Stammeskopftuch her -->
+  <Make_Apparel_TribalHeaddress.label>Nähe Stammeskopftuch</Make_Apparel_TribalHeaddress.label>
+  <Make_Apparel_TribalHeaddress.description>Nähe ein Stammeskopftuch.</Make_Apparel_TribalHeaddress.description>
+  <!-- EN: Stelle Stammeskopftuch her. -->
+  <Make_Apparel_TribalHeaddress.jobString>Näht ein Stammeskopftuch.</Make_Apparel_TribalHeaddress.jobString>
+  
+  <!-- EN: Stelle Mütze her -->
+  <Make_Apparel_Tuque.label>Stricke eine Mütze</Make_Apparel_Tuque.label>
+  <Make_Apparel_Tuque.description>Stricke eine Mütze.</Make_Apparel_Tuque.description>
+  <!-- EN: Stelle Mütze her. -->
+  <Make_Apparel_Tuque.jobString>Strickt eine Mütze.</Make_Apparel_Tuque.jobString>
+  
+  <!-- EN: Stelle Kriegsmaske her -->
+  <Make_Apparel_WarMask.label>Nähe Kriegsmaske</Make_Apparel_WarMask.label>
+  <Make_Apparel_WarMask.description>Nähe eine Kriegsmaske.</Make_Apparel_WarMask.description>
+  <!-- EN: Stelle Kriegsmaske her. -->
+  <Make_Apparel_WarMask.jobString>Näht eine Kriegsmaske.</Make_Apparel_WarMask.jobString>
+  
+  <!-- EN: Stelle Kriegsschleier her -->
+  <Make_Apparel_WarVeil.label>Nähe Kriegsschleier</Make_Apparel_WarVeil.label>
+  <Make_Apparel_WarVeil.description>Nähe einen Kriegsschleier.</Make_Apparel_WarVeil.description>
+  <!-- EN: Stelle Kriegsschleier her. -->
+  <Make_Apparel_WarVeil.jobString>Näht einen Kriegsschleier.</Make_Apparel_WarVeil.jobString>
+  
+  <!-- EN: Stelle Langbogen her -->
+  <Make_Bow_Great.label>Stelle Langbogen her</Make_Bow_Great.label>
+  <Make_Bow_Great.description>Stelle einen Langbogen her.</Make_Bow_Great.description>
+  <!-- EN: Stelle Langbogen her. -->
+  <Make_Bow_Great.jobString>Stellt einen Langbogen her.</Make_Bow_Great.jobString>
+  
+  <!-- EN: Stelle Recurvebogen her -->
+  <Make_Bow_Recurve.label>Stelle Recurvebogen her</Make_Bow_Recurve.label>
+  <Make_Bow_Recurve.description>Stelle einen Recurvebogen her.</Make_Bow_Recurve.description>
+  <!-- EN: Stelle Recurvebogen her. -->
+  <Make_Bow_Recurve.jobString>Stellt einen Recurvebogen her.</Make_Bow_Recurve.jobString>
+  
+  <!-- EN: Stelle Kurzbogen her -->
+  <Make_Bow_Short.label>Stelle Kurzbogen her</Make_Bow_Short.label>
+  <Make_Bow_Short.description>Stelle einen Kurzbogen her.</Make_Bow_Short.description>
+  <!-- EN: Stelle Kurzbogen her. -->
+  <Make_Bow_Short.jobString>Stellt einen Kurzbogen her.</Make_Bow_Short.jobString>
+  
+  <!-- EN: Stelle Flake her -->
+  <Make_Flake.label>Stelle Flake her</Make_Flake.label>
+  <Make_Flake.description>Stelle Flake her.</Make_Flake.description>
+  <!-- EN: Stelle Flake her. -->
+  <Make_Flake.jobString>Stellt Flake her.</Make_Flake.jobString>
+  
+  <!-- EN: Stelle Go-Juice her -->
+  <Make_GoJuice.label>Stelle Go-Juice her</Make_GoJuice.label>
+  <Make_GoJuice.description>Stelle Go-Juice her.</Make_GoJuice.description>
+  <!-- EN: Stelle Go-Juice her. -->
+  <Make_GoJuice.jobString>Stellt Go-Juice her.</Make_GoJuice.jobString>
+  
+  <!-- EN: Stelle Sturmgewehr her -->
+  <Make_Gun_AssaultRifle.label>Stelle Sturmgewehr her</Make_Gun_AssaultRifle.label>
+  <Make_Gun_AssaultRifle.description>Stelle ein Sturmgewehr her.</Make_Gun_AssaultRifle.description>
+  <!-- EN: Stelle Sturmgewehr her. -->
+  <Make_Gun_AssaultRifle.jobString>Stellt ein Sturmgewehr her.</Make_Gun_AssaultRifle.jobString>
+  
+  <!-- EN: Stelle Pistole her -->
+  <Make_Gun_Autopistol.label>Stelle Pistole her</Make_Gun_Autopistol.label>
+  <Make_Gun_Autopistol.description>Stelle eine halb-automatische Pistole her.</Make_Gun_Autopistol.description>
+  <!-- EN: Stelle Pistole her. -->
+  <Make_Gun_Autopistol.jobString>Stellt eine Pistole her.</Make_Gun_Autopistol.jobString>
+  
+  <!-- EN: Stelle Repetiergewehr her -->
+  <Make_Gun_BoltActionRifle.label>Stelle Repetiergewehr her</Make_Gun_BoltActionRifle.label>
+  <Make_Gun_BoltActionRifle.description>Stelle ein Repetiergewehr her.</Make_Gun_BoltActionRifle.description>
+  <!-- EN: Stelle Repetiergewehr her. -->
+  <Make_Gun_BoltActionRifle.jobString>Stellt ein Repetiergewehr her.</Make_Gun_BoltActionRifle.jobString>
+  
+  <!-- EN: Stelle Autom. Schrotflinte her -->
+  <Make_Gun_ChainShotgun.label>Stelle Automatik-Schrotgewehr her</Make_Gun_ChainShotgun.label>
+  <Make_Gun_ChainShotgun.description>Stelle ein Automatik-Schrotgewehr her.</Make_Gun_ChainShotgun.description>
+  <!-- EN: Stelle Autom. Schrotflinte her. -->
+  <Make_Gun_ChainShotgun.jobString>Stellt Automatik-Schrotgewehr her.</Make_Gun_ChainShotgun.jobString>
+  
+  <!-- EN: Stelle Energiegewehr her -->
+  <Make_Gun_ChargeRifle.label>Stelle Energiegewehr her</Make_Gun_ChargeRifle.label>
+  <Make_Gun_ChargeRifle.description>Stelle ein Energiegewehr her.</Make_Gun_ChargeRifle.description>
+  <!-- EN: Stelle Energiegewehr her. -->
+  <Make_Gun_ChargeRifle.jobString>Stellt ein Energiegewehr her.</Make_Gun_ChargeRifle.jobString>
+  
+  <!-- EN: Stelle Schwere Maschinenpistole her -->
+  <Make_Gun_HeavySMG.label>Stelle schwere Maschinenpistole her</Make_Gun_HeavySMG.label>
+  <Make_Gun_HeavySMG.description>Stelle eine schwere Maschinenpistole her.</Make_Gun_HeavySMG.description>
+  <!-- EN: Stelle Schwere Maschinenpistole her. -->
+  <Make_Gun_HeavySMG.jobString>Stellt eine schwere Maschinenpistole her.</Make_Gun_HeavySMG.jobString>
+  
+  <!-- EN: Stelle Brandgeschosswerfer her -->
+  <Make_Gun_IncendiaryLauncher.label>Stelle Brandgeschosswerfer her</Make_Gun_IncendiaryLauncher.label>
+  <Make_Gun_IncendiaryLauncher.description>Stelle einen Brandgeschosswerfer her.</Make_Gun_IncendiaryLauncher.description>
+  <!-- EN: Stelle Brandgeschosswerfer her. -->
+  <Make_Gun_IncendiaryLauncher.jobString>Stellt einen Brandgeschosswerfer her.</Make_Gun_IncendiaryLauncher.jobString>
+  
+  <!-- EN: Stelle Leichtes Maschinengewehr her -->
+  <Make_Gun_LMG.label>Stelle leichtes Maschinengewehr her</Make_Gun_LMG.label>
+  <Make_Gun_LMG.description>Stelle ein leichtes Maschinengewehr her.</Make_Gun_LMG.description>
+  <!-- EN: Stelle Leichtes Maschinengewehr her. -->
+  <Make_Gun_LMG.jobString>Stellt ein leichtes Maschinengewehr her.</Make_Gun_LMG.jobString>
+  
+  <!-- EN: Stelle Leichte Maschinenpistole her -->
+  <Make_Gun_MachinePistol.label>Stelle leichte Maschinenpistole her</Make_Gun_MachinePistol.label>
+  <Make_Gun_MachinePistol.description>Stelle eine leichte Maschinenpistole her.</Make_Gun_MachinePistol.description>
+  <!-- EN: Stelle Leichte Maschinenpistole her. -->
+  <Make_Gun_MachinePistol.jobString>Stellt eine leichte Maschinenpistole her.</Make_Gun_MachinePistol.jobString>
+  
+  <!-- EN: Stelle Minigun her -->
+  <Make_Gun_Minigun.label>Stelle Minigun her</Make_Gun_Minigun.label>
+  <Make_Gun_Minigun.description>Stelle eine Minigun her.</Make_Gun_Minigun.description>
+  <!-- EN: Stelle Minigun her. -->
+  <Make_Gun_Minigun.jobString>Stellt eine Minigun her.</Make_Gun_Minigun.jobString>
+  
+  <!-- EN: Stelle Schrotflinte her -->
+  <Make_Gun_PumpShotgun.label>Stelle Schrotflinte her</Make_Gun_PumpShotgun.label>
+  <Make_Gun_PumpShotgun.description>Stelle eine Schrotflinte her.</Make_Gun_PumpShotgun.description>
+  <!-- EN: Stelle Schrotflinte her. -->
+  <Make_Gun_PumpShotgun.jobString>Stellt eine Schrotflinte her.</Make_Gun_PumpShotgun.jobString>
+  
+  <!-- EN: Stelle Revolver her -->
+  <Make_Gun_Revolver.label>Stelle Revolver her</Make_Gun_Revolver.label>
+  <Make_Gun_Revolver.description>Stelle einen Revolver her.</Make_Gun_Revolver.description>
+  <!-- EN: Stelle Revolver her. -->
+  <Make_Gun_Revolver.jobString>Stellt einen Revolver her.</Make_Gun_Revolver.jobString>
+  
+  <!-- EN: Stelle Präzisionsgewehr her -->
+  <Make_Gun_SniperRifle.label>Stelle Präzisionsgewehr her</Make_Gun_SniperRifle.label>
+  <Make_Gun_SniperRifle.description>Stelle ein Präzisionsgewehr her.</Make_Gun_SniperRifle.description>
+  <!-- EN: Stelle Präzisionsgewehr her. -->
+  <Make_Gun_SniperRifle.jobString>Stellt ein Präzisionsgewehr her.</Make_Gun_SniperRifle.jobString>
+  
+  <!-- EN: Stelle Medizin her -->
+  <Make_MedicineIndustrial.label>Stelle Medizin her</Make_MedicineIndustrial.label>
+  <Make_MedicineIndustrial.description>Stelle Medizin her.</Make_MedicineIndustrial.description>
+  <!-- EN: Stelle Medizin her. -->
+  <Make_MedicineIndustrial.jobString>Stellt Medizin her.</Make_MedicineIndustrial.jobString>
+  
+  <!-- EN: Stelle Knüppel her -->
+  <Make_MeleeWeapon_Club.label>Stelle Knüppel her</Make_MeleeWeapon_Club.label>
+  <Make_MeleeWeapon_Club.description>Stelle einen Knüppel her.</Make_MeleeWeapon_Club.description>
+  <!-- EN: Stelle Knüppel her. -->
+  <Make_MeleeWeapon_Club.jobString>Stellt Knüppel her.</Make_MeleeWeapon_Club.jobString>
+  
+  <!-- EN: Stelle Gladius her -->
+  <Make_MeleeWeapon_Gladius.label>Stelle Gladius her</Make_MeleeWeapon_Gladius.label>
+  <Make_MeleeWeapon_Gladius.description>Stelle einen Gladius her.</Make_MeleeWeapon_Gladius.description>
+  <!-- EN: Stelle Gladius her. -->
+  <Make_MeleeWeapon_Gladius.jobString>Stellt einen Gladius her.</Make_MeleeWeapon_Gladius.jobString>
+  
+  <!-- EN: Stelle Ikwa her -->
+  <Make_MeleeWeapon_Ikwa.label>Stelle Ikwa her</Make_MeleeWeapon_Ikwa.label>
+  <Make_MeleeWeapon_Ikwa.description>Stelle ein Ikwa her.</Make_MeleeWeapon_Ikwa.description>
+  <!-- EN: Stelle Ikwa her. -->
+  <Make_MeleeWeapon_Ikwa.jobString>Stellt ein Ikwa her.</Make_MeleeWeapon_Ikwa.jobString>
+  
+  <!-- EN: Stelle Messer her -->
+  <Make_MeleeWeapon_Knife.label>Stelle Messer her</Make_MeleeWeapon_Knife.label>
+  <Make_MeleeWeapon_Knife.description>Stelle ein Messer her.</Make_MeleeWeapon_Knife.description>
+  <!-- EN: Stelle Messer her. -->
+  <Make_MeleeWeapon_Knife.jobString>Stellt Messer her.</Make_MeleeWeapon_Knife.jobString>
+  
+  <!-- EN: Stelle Langschwert her -->
+  <Make_MeleeWeapon_LongSword.label>Stelle Langschwert her</Make_MeleeWeapon_LongSword.label>
+  <Make_MeleeWeapon_LongSword.description>Stelle ein Langschwert her.</Make_MeleeWeapon_LongSword.description>
+  <!-- EN: Stelle Langschwert her. -->
+  <Make_MeleeWeapon_LongSword.jobString>Stellt Langschwert her.</Make_MeleeWeapon_LongSword.jobString>
+  
+  <!-- EN: Stelle Streitkolben her -->
+  <Make_MeleeWeapon_Mace.label>Stelle Streitkolben her</Make_MeleeWeapon_Mace.label>
+  <Make_MeleeWeapon_Mace.description>Stelle einen Streitkolben her.</Make_MeleeWeapon_Mace.description>
+  <!-- EN: Stelle Streitkolben her. -->
+  <Make_MeleeWeapon_Mace.jobString>Stellt einen Streitkolben her.</Make_MeleeWeapon_Mace.jobString>
+  
+  <!-- EN: Stelle Speer her -->
+  <Make_MeleeWeapon_Spear.label>Stelle Speer her</Make_MeleeWeapon_Spear.label>
+  <Make_MeleeWeapon_Spear.description>Stelle einen Speer her.</Make_MeleeWeapon_Spear.description>
+  <!-- EN: Stelle Speer her. -->
+  <Make_MeleeWeapon_Spear.jobString>Stellt Speer her.</Make_MeleeWeapon_Spear.jobString>
+  
+  <!-- EN: Stelle Penoxzylin her -->
+  <Make_Penoxycyline.label>Stelle Penoxzylin her</Make_Penoxycyline.label>
+  <Make_Penoxycyline.description>Stelle Penoxzylin her.</Make_Penoxycyline.description>
+  <!-- EN: Stelle Penoxzylin her. -->
+  <Make_Penoxycyline.jobString>Stellt Penoxzylin her.</Make_Penoxycyline.jobString>
+  
+  <!-- EN: Stelle Pila-Wurfspeere her -->
+  <Make_Pila.label>Stelle Pila her</Make_Pila.label>
+  <Make_Pila.description>Stelle eine Pila her.</Make_Pila.description>
+  <!-- EN: Stelle Pila-Wurfspeere her. -->
+  <Make_Pila.jobString>Stellt Pila her.</Make_Pila.jobString>
+  
+  <!-- EN: Stelle Psychit Tee her -->
+  <Make_PsychiteTea.label>Stelle Psychit Tee her</Make_PsychiteTea.label>
+  <Make_PsychiteTea.description>Stelle Psychit Tee her.</Make_PsychiteTea.description>
+  <!-- EN: Stelle Psychit Tee her. -->
+  <Make_PsychiteTea.jobString>Stellt Psychit Tee her.</Make_PsychiteTea.jobString>
+  
+  <!-- EN: Stelle Skulptur (gewaltig) her -->
+  <Make_SculptureGrand.label>Riesige Skulptur herstellen</Make_SculptureGrand.label>
+  <Make_SculptureGrand.description>Stelle eine riesige Skulptur her.</Make_SculptureGrand.description>
+  <!-- EN: Stelle Skulptur (gewaltig) her. -->
+  <Make_SculptureGrand.jobString>Stellt große Skulptur her.</Make_SculptureGrand.jobString>
+  
+  <!-- EN: Stelle Skulptur (groß) her -->
+  <Make_SculptureLarge.label>Große Skulptur herstellen</Make_SculptureLarge.label>
+  <Make_SculptureLarge.description>Stelle eine große Skulptur her.</Make_SculptureLarge.description>
+  <!-- EN: Stelle Skulptur (groß) her. -->
+  <Make_SculptureLarge.jobString>Stellt große Skulptur her.</Make_SculptureLarge.jobString>
+  
+  <!-- EN: Stelle Skulptur (klein) her -->
+  <Make_SculptureSmall.label>Kleine Skulptur herstellen</Make_SculptureSmall.label>
+  <Make_SculptureSmall.description>Stelle eine kleine Skulptur her.</Make_SculptureSmall.description>
+  <!-- EN: Stelle Skulptur (klein) her. -->
+  <Make_SculptureSmall.jobString>Stellt kleine Skulptur her.</Make_SculptureSmall.jobString>
+  
+  <!-- EN: Stelle EMP-Granate her -->
+  <Make_Shell_EMP.label>Stelle EMP-Granate her</Make_Shell_EMP.label>
+  <Make_Shell_EMP.description>Stelle eine EMP-Granate her.</Make_Shell_EMP.description>
+  <!-- EN: Stelle EMP-Granate her. -->
+  <Make_Shell_EMP.jobString>Stellt eine EMP-Granate her.</Make_Shell_EMP.jobString>
+  
+  <!-- EN: Stelle Löschschaum Granate her -->
+  <Make_Shell_Firefoam.label>Stelle Löschschaum-Granate her</Make_Shell_Firefoam.label>
+  <Make_Shell_Firefoam.description>Stelle eine Löschschaum Granate her.</Make_Shell_Firefoam.description>
+  <!-- EN: Stelle Löschschaum Granate her. -->
+  <Make_Shell_Firefoam.jobString>Stellt eine Löschschaum Granate her.</Make_Shell_Firefoam.jobString>
+  
+  <!-- EN: Stelle HE-Granate her -->
+  <Make_Shell_HighExplosive.label>Stelle HE-Granate her</Make_Shell_HighExplosive.label>
+  <Make_Shell_HighExplosive.description>Stelle eine HE-Granate her.</Make_Shell_HighExplosive.description>
+  <!-- EN: Stelle HE-Granate her. -->
+  <Make_Shell_HighExplosive.jobString>Stellt eine HE-Granate her.</Make_Shell_HighExplosive.jobString>
+  
+  <!-- EN: Stelle Brandgranate her -->
+  <Make_Shell_Incendiary.label>Stelle Brandgranate her</Make_Shell_Incendiary.label>
+  <Make_Shell_Incendiary.description>Stelle eine Brandgranate her.</Make_Shell_Incendiary.description>
+  <!-- EN: Stelle Brandgranate her. -->
+  <Make_Shell_Incendiary.jobString>Stellt eine Brandgranate her.</Make_Shell_Incendiary.jobString>
+  
+  <!-- EN: Stelle Rauchblatt-Joint her -->
+  <Make_SmokeleafJoint.label>Stelle Rauchblatt-Joint her</Make_SmokeleafJoint.label>
+  <Make_SmokeleafJoint.description>Stelle einen Rauchblatt-Joint her.</Make_SmokeleafJoint.description>
+  <!-- EN: Stelle Rauchblatt-Joint her. -->
+  <Make_SmokeleafJoint.jobString>Stellt einen Rauchblatt-Joint her.</Make_SmokeleafJoint.jobString>
+  
+  <!-- EN: Stelle Muntermacher her -->
+  <Make_WakeUp.label>Stelle Muntermacher her</Make_WakeUp.label>
+  <Make_WakeUp.description>Stelle Muntermacher her.</Make_WakeUp.description>
+  <!-- EN: Stelle Muntermacher her. -->
+  <Make_WakeUp.jobString>Stellt Muntermacher her.</Make_WakeUp.jobString>
+  
+  <!-- EN: Stelle Yayo her -->
+  <Make_Yayo.label>Stelle Yayo her</Make_Yayo.label>
+  <Make_Yayo.description>Stelle Yayo her.</Make_Yayo.description>
+  <!-- EN: Stelle Yayo her. -->
+  <Make_Yayo.jobString>Stellt Yayo her.</Make_Yayo.jobString>
+  
+</LanguageData>

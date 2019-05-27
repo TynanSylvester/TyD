@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite blocks -->
+  <BlocksGranite.label>Granitblöcke</BlocksGranite.label>
+  <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
+  <BlocksGranite.description>Blöcke aus solidem Granit. Granit ist ein sehr hartes Gestein.</BlocksGranite.description>
+  <!-- EN: granite -->
+  <BlocksGranite.stuffProps.stuffAdjective>Granit</BlocksGranite.stuffProps.stuffAdjective>
+  
+  <!-- EN: limestone blocks -->
+  <BlocksLimestone.label>Kalksteinblöcke</BlocksLimestone.label>
+  <!-- EN: Blocks of solid limestone. -->
+  <BlocksLimestone.description>Blöcke aus solidem Kalkstein.</BlocksLimestone.description>
+  <!-- EN: limestone -->
+  <BlocksLimestone.stuffProps.stuffAdjective>Kalkstein</BlocksLimestone.stuffProps.stuffAdjective>
+  
+  <!-- EN: marble blocks -->
+  <BlocksMarble.label>Marmorblöcke</BlocksMarble.label>
+  <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
+  <BlocksMarble.description>Blöcke aus solidem Marmor. Marmor ist ein sehr schönes, weiches Gestein, das bei Bildhauern beliebt ist.</BlocksMarble.description>
+  <!-- EN: marble -->
+  <BlocksMarble.stuffProps.stuffAdjective>Marmor</BlocksMarble.stuffProps.stuffAdjective>
+  
+  <!-- EN: sandstone blocks -->
+  <BlocksSandstone.label>Sandsteinblöcke</BlocksSandstone.label>
+  <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
+  <BlocksSandstone.description>Blöcke aus solidem Sandstein. Sandstein ist ein relativ weiches Gestein, das leicht splittert.</BlocksSandstone.description>
+  <!-- EN: sandstone -->
+  <BlocksSandstone.stuffProps.stuffAdjective>Sandstein</BlocksSandstone.stuffProps.stuffAdjective>
+  
+  <!-- EN: slate blocks -->
+  <BlocksSlate.label>Schieferblöcke</BlocksSlate.label>
+  <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
+  <BlocksSlate.description>Blöcke aus solidem Schiefer. Ein mattes Gestein, das leicht splittert.</BlocksSlate.description>
+  <!-- EN: slate -->
+  <BlocksSlate.stuffProps.stuffAdjective>Schiefer</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <!-- EN: granite chunk -->
+  <ChunkGranite.label>Granitbrocken</ChunkGranite.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkGranite.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkGranite.description>
+  
+  <!-- EN: limestone chunk -->
+  <ChunkLimestone.label>Kalksteinbrocken</ChunkLimestone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkLimestone.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkLimestone.description>
+  
+  <!-- EN: marble chunk -->
+  <ChunkMarble.label>Marmorbrocken</ChunkMarble.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkMarble.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkMarble.description>
+  
+  <!-- EN: sandstone chunk -->
+  <ChunkSandstone.label>Sandsteinbrocken</ChunkSandstone.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSandstone.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkSandstone.description>
+  
+  <!-- EN: steel slag chunk -->
+  <ChunkSlagSteel.label>Metallschrott</ChunkSlagSteel.label>
+  <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
+  <ChunkSlagSteel.description>Ein Haufen Metallschrott, der in aktueller Form unbrauchbar ist, aber eingeschmolzen werden kann, um Stahl daraus zu gewinnen.</ChunkSlagSteel.description>
+  
+  <!-- EN: slate chunk -->
+  <ChunkSlate.label>Schieferbrocken</ChunkSlate.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <ChunkSlate.description>Ein Felsbrocken. Man kann hier Steinblöcke herausschlagen.</ChunkSlate.description>
+  
+  <!-- EN: granite -->
+  <Granite.label>Granit</Granite.label>
+  <!-- EN: A very hard igneous rock. -->
+  <Granite.description>Ein sehr hartes vulkanisches Gestein.</Granite.description>
+  
+  <!-- EN: limestone -->
+  <Limestone.label>Kalkstein</Limestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
+  <Limestone.description>Ein Sedimentgestein, das aus den gepressten Überresten uralter Muscheln besteht.</Limestone.description>
+  
+  <!-- EN: marble -->
+  <Marble.label>Marmor</Marble.label>
+  <!-- EN: A soft metamorphic rock. -->
+  <Marble.description>Ein weiches metamorphes Gestein.</Marble.description>
+  
+  <!-- EN: sandstone -->
+  <Sandstone.label>Sandstein</Sandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
+  <Sandstone.description>Ein Sedimentgestein, das aus gepressten Sandteilchen besteht.</Sandstone.description>
+  
+  <!-- EN: slate -->
+  <Slate.label>Schiefer</Slate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
+  <Slate.description>Ein dunkelfarbiges metamorphes Schichtgestein. Die feinen Schichten sorgen für die typische Schiefer-Spaltung.</Slate.description>
+  
+  <!-- EN: smoothed granite -->
+  <SmoothedGranite.label>Geglätteter Granit</SmoothedGranite.label>
+  <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
+  <SmoothedGranite.description>Ein sehr hartes vulkanisches Gestein. Die leuchtende Oberfläche ist ein Mosaik aus schwarzen, weißen und rosafarbenen Flecken.</SmoothedGranite.description>
+  
+  <!-- EN: smoothed limestone -->
+  <SmoothedLimestone.label>Geglätteter Kalkstein</SmoothedLimestone.label>
+  <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
+  <SmoothedLimestone.description>Ein Sedimentgestein, das aus den gepressten Überresten uralter Muscheln besteht. Es leuchtet in einem sanften Weiß, das mit einem hellen Muster von Verunreinigungen durchzogen ist.</SmoothedLimestone.description>
+  
+  <!-- EN: smoothed marble -->
+  <SmoothedMarble.label>Marmor</SmoothedMarble.label>
+  <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
+  <SmoothedMarble.description>Ein weiches metamorphes Gestein. Dieser halbdurchsichtige polierte Stein scheint von innen heraus zu leuchten.</SmoothedMarble.description>
+  
+  <!-- EN: smoothed sandstone -->
+  <SmoothedSandstone.label>Geglätteter Sandstein</SmoothedSandstone.label>
+  <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
+  <SmoothedSandstone.description>Ein Sedimentgestein, das aus gepressten Sandteilchen besteht. Die Sandschichten wurden zu einer flachen, glatten Ebene poliert.</SmoothedSandstone.description>
+  
+  <!-- EN: smoothed slate -->
+  <SmoothedSlate.label>Schiefer</SmoothedSlate.label>
+  <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
+  <SmoothedSlate.description>Ein dunkelfarbiges metamorphes Schichtgestein. Die feinen Schichten sorgen für die typische Schiefer-Spaltung. Durch die polierte Oberfläche kann man innere Schichten erkennen.</SmoothedSlate.description>
+  
+</LanguageData>

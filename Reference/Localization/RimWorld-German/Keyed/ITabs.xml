@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
+  <TabBills>Aufgaben</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Anbauen</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Bio</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Training</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>Gefängnis</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>Gast</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>Inventar</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>Bedürfnis</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>Lager</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>Granaten</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>Körper</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>Rasse</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>Grundl.</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>Status</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>Aufzeichnung</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Kunst</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>Sozial</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>Logbuch</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Karawane</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Inhalt</TabTransporterContents>
+
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>Aufgabe hinzufügen</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>Das Rezept '{0}' benötigt die folgenden Fähigkeiten. Allerdings hat niemand aus der Kolonie diese Fähigkeiten, um diese Aufgabe ausführen zu können.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Min. Fähigkeit</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>AUSGESETZT</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Arbeiter: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Pflanzen</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>Kopiertes Rezept kann hier nicht eingefügt werden.</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Aufwärts</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Abwärts</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Löschen</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>In Zwischenablage kopieren</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>Aussetzen</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Einfügen</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>keine weiteren möglich</PasteBillTip_LimitReached>
+
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>Verbleibender Widerstand</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
+  <RecruitmentDifficulty>Schwierigkeit der Anwerbung</RecruitmentDifficulty>
+  <!-- EN: Gets food -->
+  <GetsFood>Bekommt Essen</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Behandlung durch Arzt</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Bekommt Medizin</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Anwerben</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>Als schuldig angesehen (läuft ab in {0})</ConsideredGuilty>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Laufgeschwindigkeit</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Effizienz</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>Teil-Effizienz</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Körperteil-Effizienz</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Verloren</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Zerstört</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Zertrümmert</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Entfernt</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Gesund</Healthy>
+  <!-- EN: In pain -->
+  <InPain>Hat Schmerzen</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Schmerzen</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Verletzt</Injured>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>keine Beeinträchtigungen</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Ganzer Körper</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Datenverarbeitung</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Kommunikation</Communication>
+  <!-- EN: Affects -->
+  <Affects>Beeinflusst</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Blutung</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>Tod in {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>Keine unmittelbare Gefahr</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Übersicht</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operationen ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Modifikationen ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Medizinische Operationen</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>amputiere</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>entnimm</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>entferne</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>Erinnerung</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>soziale Interaktion</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Hungerrate</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Erschöpfung</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>Schmerz</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>Verhindert Infektionen</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>Selbstversorgen</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>Wenn Selbstversorgen aktiviert ist, wird sich {0} automatisch selbst behandeln. Allerdings nur mit {1} der normalen Effizienz.</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Nein</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Kaum</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Schlecht</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Reduziert</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>Ok</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Verbessert</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Schwer verletzt</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Verletzt</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Leicht verletzt</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Keine</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Leicht</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Mittel</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Stark</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Extrem</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Trainierbarkeit</Trainability>
+  <!-- EN: Requires trainability {0}. -->
+  <CannotTrainNotSmartEnough>Benötigte Trainierbarkeit: {0_label}</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} ist zu klein, um das zu lernen.</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Benötigte Voraussetzung: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(keine Beziehungen)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Entführt</Kidnapped>
+  <!-- EN: Missing -->
+  <Missing>Vermisst</Missing>
+  <!-- EN: Slave -->
+  <Slave>Sklave</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Fraktionsanführer</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Meinung von {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort}'s Meinung von mir</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Ich bin tot</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Ich bin ein Psychopath</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Rüstungswert</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>Gewicht: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>Angenehmer Temperaturbereich</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>Stumpf</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>Scharf</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>Heiß</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Alles zeigen</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Zeige Kämpfe</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Zeige Soziales</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>Keine Einträge in letzter Zeit</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Kopiere das Logbuch in die Zwischenablage.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Sammle Tiere</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Sammle Tiere (wartend)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Sammle Gegenstände</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Sammle Gegenstände (wartend)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering slaves -->
+  <FormingCaravanStatus_GatheringSlaves>Sammle Sklaven</FormingCaravanStatus_GatheringSlaves>
+  <!-- EN: Gathering slaves (waiting) -->
+  <FormingCaravanStatus_GatheringSlaves_Pause>Sammle Sklaven (wartend)</FormingCaravanStatus_GatheringSlaves_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Sammle niedergeschlagene Leute</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Sammle niedergeschlagene Leute (wartend)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Verlassen</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Verlassen (wartend)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Wartend</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Mitglieder</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Tiere</CaravanAnimals>
+  <!-- EN: Items to load -->
+  <ItemsToLoad>Zu beladende Gegenstände</ItemsToLoad>
+  <!-- EN: Loaded items -->
+  <LoadedItems>Aufgeladene Gegenstände</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>Lasttiere</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>Mentaler Zusammenbruch</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Entferne {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Willst Du {0} wirklich entfernen?</ConfirmRemoveItemDialog>
+
+</LanguageData>

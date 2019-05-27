@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: clear -->
+  <Clear.label>Klar</Clear.label>
+  <!-- EN: A clear day. No penalties or modifiers. -->
+  <Clear.description>Ein wolkenfreier Himmel. Keine Einschränkungen oder Vorteile.</Clear.description>
+  
+  <!-- EN: dry thunderstorm -->
+  <DryThunderstorm.label>Trockenes Gewitter</DryThunderstorm.label>
+  <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
+  <DryThunderstorm.description>Trockene Gewitter können gefährlich sein, da die Blitze Feuer entfachen, es aber keinen Regen gibt, der sie gleich wieder löschen könnte.</DryThunderstorm.description>
+  
+  <!-- EN: fog -->
+  <Fog.label>Nebel</Fog.label>
+  <!-- EN: Fog reduces the accuracy of ranged weapons. -->
+  <Fog.description>Nebel reduziert die Treffsicherheit von Fernkampfwaffen.</Fog.description>
+  
+  <!-- EN: foggy rain -->
+  <FoggyRain.label>Nebliger Regen</FoggyRain.label>
+  <!-- EN: Reduces accuracy and movement speed. -->
+  <FoggyRain.description>Reduziert die Treffsicherheit und Laufgeschwindigkeit.</FoggyRain.description>
+  
+  <!-- EN: rain -->
+  <Rain.label>Regen</Rain.label>
+  <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <Rain.description>Regen reduziert die Treffsicherheit von Fernkampfwaffen, reduziert die Laufgeschwindigkeiten und löscht Feuer.</Rain.description>
+  
+  <!-- EN: rainy thunderstorm -->
+  <RainyThunderstorm.label>Regnerisches Gewitter</RainyThunderstorm.label>
+  <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
+  <RainyThunderstorm.description>Die Blitze entfachen Feuer, aber der Regen löscht sie auch wieder. Der Regen reduziert die Treffsicherheit und Laufgeschwindigkeit.</RainyThunderstorm.description>
+  
+  <!-- EN: gentle snow -->
+  <SnowGentle.label>Leichter Schneefall</SnowGentle.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowGentle.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowGentle.description>
+  
+  <!-- EN: hard snow -->
+  <SnowHard.label>Starker Schneefall</SnowHard.label>
+  <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+  <SnowHard.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowHard.description>
+  
+</LanguageData>

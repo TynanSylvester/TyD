@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>Architekt</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>Allgemeingültige Tasten für das ARCHITEKT Menü.</Architect.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>Entwicklung</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>Tasten für Entwickler und Modder. Nur im Entwicklungsmodus aktiv.</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>Globale Befehle (In-Game)</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Koloniesteuerungsbefehle, die fast immer aktiv sind.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>Kamera</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>Die Steuerung der Kamera.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>Hauptschaltflächen</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Tastenbelegungen für die Hauptschaltflächen.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>Modifikatoren</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>Tasten, um andere Aktionen zu modifizieren.</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>Verschiedenes</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Generische Tasten, die von vielen Gegenständen und Objekten im Spiel verwendet werden.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>Spezielles</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Spezielle Tasten, die für bestimmte Funktionen auf bestimmten Objekten reserviert sind.</SelectionSpecial.description>
+  
+</LanguageData>

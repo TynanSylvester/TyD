@@ -1,0 +1,12 @@
+﻿
+
+rot
+schwarz
+grau
+aschgrau
+
+finster
+schattig
+nachtschwarz
+
+blutrot

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anesthetic -->
+  <Anesthetic.label>Betäubung</Anesthetic.label>
+  
+  <!-- EN: blood loss -->
+  <BloodLoss.label>Blutverlust</BloodLoss.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-0.label>versteckt</BloodLoss.stages.minor-0.label>
+  <!-- EN: minor -->
+  <BloodLoss.stages.minor-1.label>leicht</BloodLoss.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <BloodLoss.stages.moderate.label>mittel</BloodLoss.stages.moderate.label>
+  <!-- EN: severe -->
+  <BloodLoss.stages.severe.label>schwer</BloodLoss.stages.severe.label>
+  <!-- EN: extreme -->
+  <BloodLoss.stages.extreme.label>extrem</BloodLoss.stages.extreme.label>
+  
+  <!-- EN: catatonic breakdown -->
+  <CatatonicBreakdown.label>Katatonie</CatatonicBreakdown.label>
+  <!-- EN: a catatonic breakdown -->
+  <CatatonicBreakdown.labelNoun>ein katatonischer Zusammenbruch</CatatonicBreakdown.labelNoun>
+  
+  <!-- EN: cryptosleep sickness -->
+  <CryptosleepSickness.label>Kryptoschlafkrankheit</CryptosleepSickness.label>
+  
+  <!-- EN: drug overdose -->
+  <DrugOverdose.label>Drogenüberdosis</DrugOverdose.label>
+  <!-- EN: Overdose: {0} -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>Überdosis: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is overdosing! -->
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0} hat eine Überdosierung!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a drug overdose -->
+  <DrugOverdose.labelNoun>eine Überdosis Drogen</DrugOverdose.labelNoun>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-0.label>versteckt</DrugOverdose.stages.minor-0.label>
+  <!-- EN: minor -->
+  <DrugOverdose.stages.minor-1.label>leicht</DrugOverdose.stages.minor-1.label>
+  <!-- EN: major -->
+  <DrugOverdose.stages.major.label>stark</DrugOverdose.stages.major.label>
+  
+  <!-- EN: food poisoning -->
+  <FoodPoisoning.label>Lebensmittelvergiftung</FoodPoisoning.label>
+  <!-- EN: recovering -->
+  <FoodPoisoning.stages.recovering.label>genesend</FoodPoisoning.stages.recovering.label>
+  <!-- EN: major -->
+  <FoodPoisoning.stages.major.label>stark</FoodPoisoning.stages.major.label>
+  <!-- EN: initial -->
+  <FoodPoisoning.stages.initial.label>leicht</FoodPoisoning.stages.initial.label>
+  
+  <!-- EN: heart attack -->
+  <HeartAttack.label>Herzinfarkt</HeartAttack.label>
+  <!-- EN: a heart attack -->
+  <HeartAttack.labelNoun>ein Herzinfarkt</HeartAttack.labelNoun>
+  <!-- EN: painful -->
+  <HeartAttack.stages.painful.label>schmerzhaft</HeartAttack.stages.painful.label>
+  <!-- EN: debilitating -->
+  <HeartAttack.stages.debilitating.label>schwächend</HeartAttack.stages.debilitating.label>
+  <!-- EN: fatal -->
+  <HeartAttack.stages.fatal.label>tödlich</HeartAttack.stages.fatal.label>
+  
+  <!-- EN: pregnant -->
+  <Pregnant.label>Trächtig</Pregnant.label>
+  <!-- EN: {0} pregnant -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} trächtig</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <!-- EN: {0} is pregnant! -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} ist trächtig!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: pregnancy -->
+  <Pregnant.labelNoun>Schwangerschaft</Pregnant.labelNoun>
+  <!-- EN: early-stage -->
+  <Pregnant.stages.earlystage.label>Erstes Trimester-versteckt</Pregnant.stages.earlystage.label>
+  <!-- EN: middle-stage -->
+  <Pregnant.stages.middlestage.label>Zweites Trimester</Pregnant.stages.middlestage.label>
+  <!-- EN: late-stage -->
+  <Pregnant.stages.latestage.label>Drittes Trimester</Pregnant.stages.latestage.label>
+  
+  <!-- EN: psychic shock -->
+  <PsychicShock.label>Psychischer Schock</PsychicShock.label>
+  <!-- EN: a psychic shock -->
+  <PsychicShock.labelNoun>ein psychischer Schock</PsychicShock.labelNoun>
+  
+  <!-- EN: resurrection sickness -->
+  <ResurrectionSickness.label>Wiederbelebungskrankheit</ResurrectionSickness.label>
+  
+  <!-- EN: toxic buildup -->
+  <ToxicBuildup.label>Vergiftung</ToxicBuildup.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-0.label>erste versteckte Anzeichen</ToxicBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <ToxicBuildup.stages.initial-1.label>erste Anzeichen</ToxicBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <ToxicBuildup.stages.minor.label>leicht</ToxicBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <ToxicBuildup.stages.moderate.label>mittel</ToxicBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <ToxicBuildup.stages.serious.label>stark</ToxicBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <ToxicBuildup.stages.extreme.label>extrem</ToxicBuildup.stages.extreme.label>
+  
+</LanguageData>

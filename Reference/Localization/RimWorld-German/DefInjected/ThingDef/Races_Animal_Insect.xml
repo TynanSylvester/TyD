@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>Riesenskarabäus</Megascarab.label>
+  <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
+  <Megascarab.description>Ein großer, genetisch veränderter Käfer. Ursprünglich war sie die Arbeiterklasse eines künstlichen Ökosystems von Insektoiden, das zum Kampf gegen die Mechanoideninvasion entwickelt wurde. Heute findet man ihn häufig ohne seine tödlicheren Insektoidencousins. Trotzdem ist er durch seine Größe wie auch seinen harten Chitinpanzer noch gefährlich genug. Eine staatsbildende Kreatur, die sich selbst nicht reproduzieren kann.</Megascarab.description>
+  <!-- EN: mandibles -->
+  <Megascarab.tools.mandibles.label>Mundwerkzeuge</Megascarab.tools.mandibles.label>
+  <!-- EN: head -->
+  <Megascarab.tools.head.label>Kopf</Megascarab.tools.head.label>
+  
+  <!-- EN: megaspider -->
+  <Megaspider.label>Riesenspinne</Megaspider.label>
+  <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
+  <Megaspider.description>Tatsächlich ist die Riesenspinne keine richtige Spinne, sondern ein genetisch veränderter riesiger Insektoid von der Größe eines Bären. Konzipiert für schwerste Arbeiten und für den Kampf, ist sie mit ihrem dicken Chitinpanzer schwer zu töten. Gleichzeitig machen ihre Reißerklingen sie im Nahkampf extrem tödlich. Allerdings ist sie im offenen Gelände recht langsam.</Megaspider.description>
+  <!-- EN: insect meat -->
+  <Megaspider.race.meatLabel>Insektenfleisch</Megaspider.race.meatLabel>
+  <!-- EN: head claw -->
+  <Megaspider.tools.head_claw.label>Kopfwerkzeug</Megaspider.tools.head_claw.label>
+  <!-- EN: head -->
+  <Megaspider.tools.head.label>Kopf</Megaspider.tools.head.label>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>Höhlenkäfer</Spelopede.label>
+  <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
+  <Spelopede.description>Ein mittelgroßer, genetisch veränderter Insektoid von der Größe eines Schafes. Ist die mittlere Kaste einer Kolonie, in der er für die normalen Arbeiten zuständig ist und auch zum Kämpfen mit seinen Klauen bereitsteht. Kann gefährlich sein, ist aber langsam im offenen Gelände.</Spelopede.description>
+  <!-- EN: head claw -->
+  <Spelopede.tools.head_claw.label>Kopfwerkzeug</Spelopede.tools.head_claw.label>
+  <!-- EN: head -->
+  <Spelopede.tools.head.label>Kopf</Spelopede.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biofuel refinery -->
+  <BiofuelRefinery.label>Biotreibstoff Raffinerie</BiofuelRefinery.label>
+  <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
+  <BiofuelRefinery.description>Raffiniert biologische Materie, wie Holz und Pflanzen, zu Kraftstoff.</BiofuelRefinery.description>
+  
+  <!-- EN: brewery -->
+  <Brewery.label>Brauerei</Brewery.label>
+  <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
+  <Brewery.description>Ein Arbeitsplatz mit allem, was zum Herstellen der Bierwürze benötigt wird. Die Bierwürze muss anschließend fermentiert werden, um zu Bier zu werden.</Brewery.description>
+  
+  <!-- EN: butcher spot -->
+  <ButcherSpot.label>Schlachtplatz</ButcherSpot.label>
+  <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
+  <ButcherSpot.description>Ein Platz an dem Tiere geschlachtet werden können. Ergibt nur 70% vom Fleisch und Leder der geschlachteten Kreatur.</ButcherSpot.description>
+  
+  <!-- EN: crafting spot -->
+  <CraftingSpot.label>Arbeitsplatz</CraftingSpot.label>
+  <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
+  <CraftingSpot.description>Ein Platz an dem einfache Dinge wie Messer und Bögen hergestellt werden können. Aufgrund der fehlenden Ausrüstung ist die Produktion hier ziemlich langsam.</CraftingSpot.description>
+  
+  <!-- EN: deep drill -->
+  <DeepDrill.label>Tiefenbohrer</DeepDrill.label>
+  <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
+  <DeepDrill.description>Eine Bohranlage, um Mineralien von tief unter der Oberfläche zu fördern. Nutze das Tiefenradar, um verwendbare Mineralienadern aufzuspüren. Wenn keine Rohstoffe vorhanden sind, können hiermit auch Steinblöcke abgebaut werden. Kann repositioniert werden.</DeepDrill.description>
+  
+  <!-- EN: drug lab -->
+  <DrugLab.label>Drogenlabor</DrugLab.label>
+  <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
+  <DrugLab.description>Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen.</DrugLab.description>
+  
+  <!-- EN: electric crematorium -->
+  <ElectricCrematorium.label>Krematorium (elektrisch)</ElectricCrematorium.label>
+  <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
+  <ElectricCrematorium.description>Ein großes Steinkrematorium in dem Leichen bei extrem hoher Temperatur verbrannt werden können.</ElectricCrematorium.description>
+  
+  <!-- EN: electric smelter -->
+  <ElectricSmelter.label>Schmelzofen (elektrisch)</ElectricSmelter.label>
+  <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
+  <ElectricSmelter.description>Extrahiert nutzbares Metall aus Metallschrott und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</ElectricSmelter.description>
+  
+  <!-- EN: electric smithy -->
+  <ElectricSmithy.label>Schmiede (elektrisch)</ElectricSmithy.label>
+  <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
+  <ElectricSmithy.description>Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</ElectricSmithy.description>
+  
+  <!-- EN: electric stove -->
+  <ElectricStove.label>Herd (elektrisch)</ElectricStove.label>
+  <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
+  <ElectricStove.description>Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</ElectricStove.description>
+  
+  <!-- EN: electric tailor bench -->
+  <ElectricTailoringBench.label>Nähmaschine (elektrisch)</ElectricTailoringBench.label>
+  <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
+  <ElectricTailoringBench.description>Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 50 % der normalen Geschwindigkeit betrieben werden.</ElectricTailoringBench.description>
+  
+  <!-- EN: fabrication bench -->
+  <FabricationBench.label>Arbeitstisch</FabricationBench.label>
+  <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
+  <FabricationBench.description>Ein Arbeitstisch mit speziellen Werkzeugen, an dem technologische Wunder hergestellt werden können.</FabricationBench.description>
+  
+  <!-- EN: fermenting barrel -->
+  <FermentingBarrel.label>Fermentier Fass</FermentingBarrel.label>
+  <!-- EN: A barrel for fermenting raw wort into beer. -->
+  <FermentingBarrel.description>Ein Fass, um aus roher Würze Bier zu fermentieren.</FermentingBarrel.description>
+  
+  <!-- EN: fueled smithy -->
+  <FueledSmithy.label>Schmiede (Feuer)</FueledSmithy.label>
+  <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
+  <FueledSmithy.description>Eine einfache, mit Holz befeuerte Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</FueledSmithy.description>
+  
+  <!-- EN: fueled stove -->
+  <FueledStove.label>Herd (Feuer)</FueledStove.label>
+  <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
+  <FueledStove.description>Ein einfacher, mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</FueledStove.description>
+  
+  <!-- EN: hand tailor bench -->
+  <HandTailoringBench.label>Nähtisch</HandTailoringBench.label>
+  <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
+  <HandTailoringBench.description>Ein Tisch zur manuellen Herstellung von Kleidungsstücken. Arbeitet mit 50 % der Geschwindigkeit einer elektrischen Nähmaschine.</HandTailoringBench.description>
+  
+  <!-- EN: hi-tech research bench -->
+  <HiTechResearchBench.label>Hightech Labortisch</HiTechResearchBench.label>
+  <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
+  <HiTechResearchBench.description>Ein Hightech-Arbeitstisch mit Computern und elektronischen Messgeräten. Ermöglicht schnellere Forschung und schaltet weitere Forschungsmöglichkeiten frei.</HiTechResearchBench.description>
+  
+  <!-- EN: hopper -->
+  <Hopper.label>Trichter</Hopper.label>
+  <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
+  <Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z. B. dem Nährstoffspender.</Hopper.description>
+  
+  <!-- EN: hydroponics basin -->
+  <HydroponicsBasin.label>Hydrokultur Becken</HydroponicsBasin.label>
+  <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
+  <HydroponicsBasin.description>Ein künstliches Nährstoffbecken in dem Pflanzen angebaut werden können. Die notwendigen Nährstoffpumpen müssen durchgehend arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben.</HydroponicsBasin.description>
+  
+  <!-- EN: nutrient paste dispenser -->
+  <NutrientPasteDispenser.label>Nährstoffspender</NutrientPasteDispenser.label>
+  <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
+  <NutrientPasteDispenser.description>Eine Maschine die essbare Nährstoffpaste aus organischen Rohstoffen herstellt. Diese Rohstoffe müssen über Trichter (extra Gebäude) eingeführt werden. Er benötigt weniger Zutaten und weniger Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste. Akzeptiert rohe Nahrung, aber kein Tierfutter wie z. B. Heu.</NutrientPasteDispenser.description>
+  
+  <!-- EN: simple research bench -->
+  <SimpleResearchBench.label>Einfacher Labortisch</SimpleResearchBench.label>
+  <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
+  <SimpleResearchBench.description>Eine einfache Arbeitsplatte mit Schreibutensilien und einfachen Messgeräten. Forscher arbeiten hier, um neue Dinge zu entdecken.</SimpleResearchBench.description>
+  
+  <!-- EN: butcher table -->
+  <TableButcher.label>Schlachtbank</TableButcher.label>
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zerlegt werden.</TableButcher.description>
+  
+  <!-- EN: machining table -->
+  <TableMachining.label>Mechanik Werkbank</TableMachining.label>
+  <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
+  <TableMachining.description>Ein Arbeitsplatz, an dem mechanische Maschinen wie Waffen und Munition hergestellt, oder auch Mechanoiden zerlegt werden können.</TableMachining.description>
+  
+  <!-- EN: sculptor's table -->
+  <TableSculpting.label>Bildhauer Werkbank</TableSculpting.label>
+  <!-- EN: A workbench equipped for artistic sculpting. -->
+  <TableSculpting.description>Ein Arbeitsplatz für Künstler. Ermöglicht die Fertigung von Skulpturen.</TableSculpting.description>
+  
+  <!-- EN: stonecutter's table -->
+  <TableStonecutter.label>Steinmetz Werkbank</TableStonecutter.label>
+  <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
+  <TableStonecutter.description>Ein Tisch mit Säge und Meißel, auf dem Geröll zu nutzbarem Baumaterial verarbeitet werden kann.</TableStonecutter.description>
+  
+</LanguageData>

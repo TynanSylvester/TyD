@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beautiful -->
+  <Beauty.degreeDatas.beautiful.label>Wunderschön</Beauty.degreeDatas.beautiful.label>
+  <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
+  <Beauty.degreeDatas.beautiful.description>[PAWN_nameDef] ist außergewöhnlich schön, mit einer exotischen und doch so vertrauten Gesichtsstruktur, sowie einem fesselndem Blick. Die Leute sind schon zu [PAWN_objective] hingezogen, ohne dass [PAWN_pronoun] überhaupt etwas sagen muss.</Beauty.degreeDatas.beautiful.description>
+  <!-- EN: pretty -->
+  <Beauty.degreeDatas.pretty.label>Hübsch</Beauty.degreeDatas.pretty.label>
+  <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
+  <Beauty.degreeDatas.pretty.description>[PAWN_nameDef] hat ein hübsches Gesicht, sodass die Leute mit [PAWN_objective] gut auskommen.</Beauty.degreeDatas.pretty.description>
+  <!-- EN: ugly -->
+  <Beauty.degreeDatas.ugly.label>Hässlich</Beauty.degreeDatas.ugly.label>
+  <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
+  <Beauty.degreeDatas.ugly.description>[PAWN_nameDef] ist nicht sonderlich schön, was einen subtilen negativen Einfluss auf andere hat.</Beauty.degreeDatas.ugly.description>
+  <!-- EN: staggeringly ugly -->
+  <Beauty.degreeDatas.staggeringly_ugly.label>Extrem hässlich</Beauty.degreeDatas.staggeringly_ugly.label>
+  <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
+  <Beauty.degreeDatas.staggeringly_ugly.description>[PAWN_nameDef] ist unglaublich hässlich. [PAWN_possessive] Gesicht sieht wie eine Mischung aus dem Bild eines untalentierten Kindes, einem in Formaldehyd eingelegten verstümmelten Fötus und moderner Kunst aus. Andere müssen sich wirklich überwinden [PAWN_objective] bei einem Gespräch ins Gesicht zu sehen.</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <!-- EN: chemical fascination -->
+  <DrugDesire.degreeDatas.chemical_fascination.label>Rauschmittel-Faszination</DrugDesire.degreeDatas.chemical_fascination.label>
+  <!-- EN: [PAWN_nameDef] has an intense fascination with chemical sources of enjoyment. [PAWN_pronoun] will consume much more of them and, if not already addicted to any drug and satisfied, will sometimes go on hard drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
+  <DrugDesire.degreeDatas.chemical_fascination.description>[PAWN_nameDef] ist stark fasziniert von allen Rauschmitteln. [PAWN_pronoun] wird viel mehr davon konsumieren und, wenn noch nicht abhängig und zufriedengestellt, wird es ist sehr viel wahrscheinlicher, dass [PAWN_pronoun] es übertreibt. [PAWN_pronoun] wird Drogenverbote ignorieren.</DrugDesire.degreeDatas.chemical_fascination.description>
+  <!-- EN: chemical interest -->
+  <DrugDesire.degreeDatas.chemical_interest.label>Rauschmittel-Interesse</DrugDesire.degreeDatas.chemical_interest.label>
+  <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. [PAWN_pronoun] will consume more of them and, if not already addicted to any drug and satisfied, will sometimes go on social drug binges. [PAWN_pronoun] will ignore directives to not use pleasurable drugs. -->
+  <DrugDesire.degreeDatas.chemical_interest.description>[PAWN_nameDef] hat ein ungewöhnliches Interesse an allen Rauschmitteln. [PAWN_pronoun] wird mehr davon konsumieren und, wenn noch nicht abhängig und zufriedengestellt, wird es ist wahrscheinlich, dass [PAWN_pronoun] es auch mal übertreibt. [PAWN_pronoun] wird Drogenverbote ignorieren.</DrugDesire.degreeDatas.chemical_interest.description>
+  <!-- EN: teetotaler -->
+  <DrugDesire.degreeDatas.teetotaler.label>Abstinenzler</DrugDesire.degreeDatas.teetotaler.label>
+  <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals, and avoids alcohol and pleasurable drugs. -->
+  <DrugDesire.degreeDatas.teetotaler.description>[PAWN_nameDef] verachtet die Idee von chemisch indiziertem Vergnügen und vermeidet Alkohol und andere berauschende Drogen.</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <!-- EN: super-immune -->
+  <Immunity.degreeDatas.superimmune.label>Starkes Immunsystem</Immunity.degreeDatas.superimmune.label>
+  <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
+  <Immunity.degreeDatas.superimmune.description>[PAWN_nameDef] hat ein sehr gutes Immunsystem. [PAWN_pronoun] erreicht Immunitäten viel schneller als eine normale Person und kann Krankheiten überleben, die andere umbringen würden.</Immunity.degreeDatas.superimmune.description>
+  <!-- EN: sickly -->
+  <Immunity.degreeDatas.sickly.label>Schwaches Immunsystem</Immunity.degreeDatas.sickly.label>
+  <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
+  <Immunity.degreeDatas.sickly.description>[PAWN_nameDef] hat ein schwaches Immunsystem. [PAWN_pronoun] wird häufiger als andere krank und bekommt häufig auch Krankheiten, die sonst niemand anderes in der Gemeinschaft hat.</Immunity.degreeDatas.sickly.description>
+  
+  <!-- EN: industrious -->
+  <Industriousness.degreeDatas.industrious.label>Fleißig</Industriousness.degreeDatas.industrious.label>
+  <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
+  <Industriousness.degreeDatas.industrious.description>[PAWN_nameDef] lässt sich nicht leicht ablenken und erledigt dadurch [PAWN_possessive]e Aufgaben sehr viel schneller als durchschnittliche Personen.</Industriousness.degreeDatas.industrious.description>
+  <!-- EN: hard worker -->
+  <Industriousness.degreeDatas.hard_worker.label>Hart arbeitend</Industriousness.degreeDatas.hard_worker.label>
+  <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
+  <Industriousness.degreeDatas.hard_worker.description>[PAWN_nameDef] ist von Natur aus ein harter Arbeiter und erledigt [PAWN_possessive]e Arbeiten schneller als die meisten Anderen.</Industriousness.degreeDatas.hard_worker.description>
+  <!-- EN: lazy -->
+  <Industriousness.degreeDatas.lazy.label>Träge</Industriousness.degreeDatas.lazy.label>
+  <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
+  <Industriousness.degreeDatas.lazy.description>[PAWN_nameDef] ist ein bisschen träge.</Industriousness.degreeDatas.lazy.description>
+  <!-- EN: slothful -->
+  <Industriousness.degreeDatas.slothful.label>Faul</Industriousness.degreeDatas.slothful.label>
+  <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
+  <Industriousness.degreeDatas.slothful.description>[PAWN_nameDef] liebt es faul herumzulungern und hasst alles, was produktiv ist. [PAWN_pronoun] bewegt sich langsam und lässt sich leicht ablenken.</Industriousness.degreeDatas.slothful.description>
+  
+  <!-- EN: sanguine -->
+  <NaturalMood.degreeDatas.sanguine.label>Sanguiniker</NaturalMood.degreeDatas.sanguine.label>
+  <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
+  <NaturalMood.degreeDatas.sanguine.description>[PAWN_nameDef] ist von Natur aus fröhlich. Zu jeder Zeit, egal was passiert.</NaturalMood.degreeDatas.sanguine.description>
+  <!-- EN: optimist -->
+  <NaturalMood.degreeDatas.optimist.label>Optimist</NaturalMood.degreeDatas.optimist.label>
+  <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
+  <NaturalMood.degreeDatas.optimist.description>[PAWN_nameDef] ist von Natur aus optimistisch. Es ist schwer [PAWN_possessive]e Laune zu senken.</NaturalMood.degreeDatas.optimist.description>
+  <!-- EN: pessimist -->
+  <NaturalMood.degreeDatas.pessimist.label>Pessimist</NaturalMood.degreeDatas.pessimist.label>
+  <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
+  <NaturalMood.degreeDatas.pessimist.description>[PAWN_nameDef] ist von Natur aus pessimistisch. [PAWN_pronoun] tendiert dazu, die negative Seite des Lebens zu sehen.</NaturalMood.degreeDatas.pessimist.description>
+  <!-- EN: depressive -->
+  <NaturalMood.degreeDatas.depressive.label>Depressiv</NaturalMood.degreeDatas.depressive.label>
+  <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
+  <NaturalMood.degreeDatas.depressive.description>[PAWN_nameDef] ist ständig betrübt. [PAWN_pronoun] hat Probleme damit, fröhlich zu bleiben, selbst wenn alles reibungslos läuft.</NaturalMood.degreeDatas.depressive.description>
+  
+  <!-- EN: iron-willed -->
+  <Nerves.degreeDatas.ironwilled.label>Eiserner Wille</Nerves.degreeDatas.ironwilled.label>
+  <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
+  <Nerves.degreeDatas.ironwilled.description>Der Wille von [PAWN_nameDef] ist ein eisernes Schild. [PAWN_pronoun] macht weiter, auch wenn Andere schon lange aufgegeben haben.</Nerves.degreeDatas.ironwilled.description>
+  <!-- EN: steadfast -->
+  <Nerves.degreeDatas.steadfast.label>Unerschütterlich</Nerves.degreeDatas.steadfast.label>
+  <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
+  <Nerves.degreeDatas.steadfast.description>[PAWN_nameDef] besitzt große mentale Stärke und hält selbst solchem Stress stand, der Andere schon lange zerbrochen hätte.</Nerves.degreeDatas.steadfast.description>
+  <!-- EN: nervous -->
+  <Nerves.degreeDatas.nervous.label>Nervös</Nerves.degreeDatas.nervous.label>
+  <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
+  <Nerves.degreeDatas.nervous.description>[PAWN_nameDef] tendiert dazu, unter Stress zu zerbrechen.</Nerves.degreeDatas.nervous.description>
+  <!-- EN: volatile -->
+  <Nerves.degreeDatas.volatile.label>Flatterhaft</Nerves.degreeDatas.volatile.label>
+  <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
+  <Nerves.degreeDatas.volatile.description>[PAWN_nameDef] ist ständig nervös. [PAWN_pronoun] kann beim geringsten Stress in sich zusammenbrechen.</Nerves.degreeDatas.volatile.description>
+  
+  <!-- EN: neurotic -->
+  <Neurotic.degreeDatas.neurotic.label>Neurotisch</Neurotic.degreeDatas.neurotic.label>
+  <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.neurotic.description>[PAWN_nameDef] mag es, wenn alle Dinge erledigt sind. [PAWN_pronoun] wird härter als Andere daran arbeiten, die Arbeit zu erledigen. Allerdings können [PAWN_possessive]e Nerven mit [PAWN_objective] durchgehen.</Neurotic.degreeDatas.neurotic.description>
+  <!-- EN: very neurotic -->
+  <Neurotic.degreeDatas.very_neurotic.label>Stark Neurotisch</Neurotic.degreeDatas.very_neurotic.label>
+  <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
+  <Neurotic.degreeDatas.very_neurotic.description>[PAWN_nameDef] ist ständig nervös, wenn es Dinge zu erledigen gibt. [PAWN_pronoun] wird viel härter als Andere daran arbeiten diesen Zustand abzustellen, aber [PAWN_pronoun] kann sehr leicht die Nerven verlieren.</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <!-- EN: psychically hypersensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>Psychisch hochsensibel</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>Das Gehirn von [PAWN_nameDef] ist wie eine hochsensible psychische Antenne. [PAWN_pronoun] ist sehr empfindlich gegenüber psychischen Phänomenen.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <!-- EN: psychically sensitive -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>Psychisch sensibel</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>[PAWN_nameDef] ist außergewöhnlich empfindlich gegenüber psychischen Phänomenen.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <!-- EN: psychically dull -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>Psychisch abgestumpft</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>[PAWN_nameDef] ist psychisch abgestumpft im Vergleich zu Anderen. [PAWN_pronoun] ist nicht sonderlich anfällig bei psychischen Phänomenen.</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <!-- EN: psychically deaf -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>Psychisch taub</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>Das Gehirn von [PAWN_nameDef] arbeitet auf einer anderen Frequenz als das der Anderen. [PAWN_pronoun] wird von psychischen Phänomenen nicht beeinflusst.</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <!-- EN: careful shooter -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>Sorgfältiger Schütze</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>[PAWN_nameDef] braucht länger, um [PAWN_possessive] Ziel anzuvisieren. Im Vergleich mit anderen braucht [PAWN_pronoun] länger um abzudrücken, aber dafür schießt [PAWN_pronoun] auch mit höherer Genauigkeit.</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <!-- EN: trigger-happy -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>Schießwütig</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Peng! Peng! Peng! [PAWN_nameDef] liebt es einfach abzudrücken. Im Vergleich mit anderen schießt [PAWN_pronoun] schneller, aber dafür auch mit geringerer Genauigkeit.</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <!-- EN: slowpoke -->
+  <SpeedOffset.degreeDatas.slowpoke.label>Lahme Ente</SpeedOffset.degreeDatas.slowpoke.label>
+  <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
+  <SpeedOffset.degreeDatas.slowpoke.description>[PAWN_nameDef] fällt immer hinter der Gruppe zurück, wo immer [PAWN_pronoun] auch hingeht.</SpeedOffset.degreeDatas.slowpoke.description>
+  <!-- EN: fast walker -->
+  <SpeedOffset.degreeDatas.fast_walker.label>Schneller Geher</SpeedOffset.degreeDatas.fast_walker.label>
+  <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
+  <SpeedOffset.degreeDatas.fast_walker.description>[PAWN_nameDef] mag es dort hinzugehen, wo [PAWN_pronoun] hingeht. [PAWN_pronoun] geht schneller als die meisten Leute.</SpeedOffset.degreeDatas.fast_walker.description>
+  <!-- EN: jogger -->
+  <SpeedOffset.degreeDatas.jogger.label>Jogger</SpeedOffset.degreeDatas.jogger.label>
+  <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
+  <SpeedOffset.degreeDatas.jogger.description>[PAWN_nameDef] geht immer, als wenn [PAWN_pronoun] es eilig hat. Andere schaffen es oft nicht, mit [PAWN_objective] mitzuhalten.</SpeedOffset.degreeDatas.jogger.description>
+  
+</LanguageData>

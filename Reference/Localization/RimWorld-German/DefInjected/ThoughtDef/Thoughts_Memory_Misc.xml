@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate without table -->
+  <AteWithoutTable.stages.ate_without_table.label>Ohne Tisch gegessen</AteWithoutTable.stages.ate_without_table.label>
+  <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
+  <AteWithoutTable.stages.ate_without_table.description>Ich musste vom Boden essen. Können wir keine Tische aufstellen?</AteWithoutTable.stages.ate_without_table.description>
+  
+  <!-- EN: bonded animal {0} banished -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>Haustier {0} verbannt</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <!-- EN: My bonded animal was banished! -->
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Mein Haustier wurde verbannt!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  
+  <!-- EN: I butchered humanlike -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Menschen geschlachtet</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <!-- EN: I butchered someone up like an animal. -->
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Ich habe jemanden geschlachtet. Als wär's ein Tier.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  
+  <!-- EN: catharsis -->
+  <Catharsis.stages.catharsis.label>Katharsis</Catharsis.stages.catharsis.label>
+  <!-- EN: It felt good to finally unbottle my feelings. -->
+  <Catharsis.stages.catharsis.description>Es hat sich gut angefühlt, meine Gefühle einfach einmal rauszulassen.</Catharsis.stages.catharsis.description>
+  
+  <!-- EN: colonist banished -->
+  <ColonistBanished.stages.colonist_banished.label>Kolonist verbannt</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>Wir haben jemanden verbannt. Ich hoffe sie schaffen es, aber ich habe kein gutes Gefühl dabei.</ColonistBanished.stages.colonist_banished.description>
+  
+  <!-- EN: colonist banished to death -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>Kolonist zum Sterben verbannt</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Wir haben jemanden so aus der Kolonie verbannt, der kaum eine Möglichkeit hat zu überleben.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: defeated hostile leader {0} -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>Habe feindlichen Anführer {0} besiegt</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <!-- EN: They were leading efforts to destroy us, and I took them down! -->
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Sie wollten uns zerstören und ich habe sie besiegt!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: defeated hostile leader -->
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>Habe feindlichen Anführer besiegt</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.description>Sie wollten uns zerstören und ich habe sie besiegt!</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.description>
+  
+  <!-- EN: failed to rescue {0} -->
+  <FailedToRescueRelative.stages.failed_to_rescue.label>Konnten {0} nicht retten</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Wir hatten die Möglichkeit, jemanden aus meiner Verwandtschaft zu retten und haben versagt. Ich hätte helfen können!</FailedToRescueRelative.stages.failed_to_rescue.description>
+  
+  <!-- EN: killed someone -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>Habe jemanden getötet (Blutlust)</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <!-- EN: I killed someone! What a rush! -->
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Ich habe jemanden umgebracht. Was für ein Gefühl!</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  
+  <!-- EN: buried in sarcophagus -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>In Sarkophag begraben</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Diese Kolonie hat jemanden in einem reich verzierten Sarkophag begraben. Mögen ihre Seelen in Frieden ruhen.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  
+  <!-- EN: we butchered humanlike -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>Wir haben Menschen geschlachtet</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <!-- EN: We butchered someone up like an animal. -->
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Wir haben jemanden geschlachtet. Als wär's ein Tier.</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  
+  <!-- EN: colonist's organ harvested -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>Kolonist Organe entnommen</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Sie haben einem Kolonisten einfach Organe entnommen. Es ist fürchterlich. Sie zerlegen unsere eigenen Leute in Einzelteile und derjenige hat gar keine Wahl.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  
+  <!-- EN: someone's organ harvested -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>Jemandem Organe entnommen</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Sie haben einem Gast oder einem Gefangenen einfach Organe entnommen. Es ist fürchterlich. Sie zerlegen einen in Einzelteile und derjenige hat gar keine Wahl.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  
+  <!-- EN: a prisoner was sold -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.label>Gefangener wurde verkauft</KnowPrisonerSold.stages.a_prisoner_was_sold.label>
+  <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
+  <KnowPrisonerSold.stages.a_prisoner_was_sold.description>Unsere Kolonie hat einen Gefangenen verkauft. Der Gedanke daran ist besorgniserregend.</KnowPrisonerSold.stages.a_prisoner_was_sold.description>
+  
+  <!-- EN: my organ harvested -->
+  <MyOrganHarvested.stages.my_organ_harvested.label>Meine Organe entnommen</MyOrganHarvested.stages.my_organ_harvested.label>
+  <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
+  <MyOrganHarvested.stages.my_organ_harvested.description>Sie haben mir einfach Organe entnommen. Sie zerlegen mich in meine Einzelteile, als wäre ich eine alte Dampfmaschine!</MyOrganHarvested.stages.my_organ_harvested.description>
+  
+  <!-- EN: initial hope -->
+  <NewColonyHope.stages.initial_hope.label>Anfängliche Hoffnung</NewColonyHope.stages.initial_hope.label>
+  <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
+  <NewColonyHope.stages.initial_hope.description>Ich gewöhne mich langsam an unsere Situation, aber es ist noch immer aufregend. Ich hoffe es funktioniert...</NewColonyHope.stages.initial_hope.description>
+  
+  <!-- EN: initial optimism -->
+  <NewColonyOptimism.stages.initial_optimism.label>Anfänglicher Optimismus</NewColonyOptimism.stages.initial_optimism.label>
+  <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
+  <NewColonyOptimism.stages.initial_optimism.description>Es ist eine schwierige Situation, aber ich bin auch aufgeregt, dass wir hier eine neue Siedlung gründen.</NewColonyOptimism.stages.initial_optimism.description>
+  
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled.label>Gehätschelt</Nuzzled.stages.nuzzled.label>
+  <!-- EN: A cute animal nuzzled me. -->
+  <Nuzzled.stages.nuzzled.description>Ein süßes Tier ließ sich von mir hätscheln.</Nuzzled.stages.nuzzled.description>
+  
+  <!-- EN: observed corpse -->
+  <ObservedLayingCorpse.stages.observed_corpse.label>Leiche gesehen</ObservedLayingCorpse.stages.observed_corpse.label>
+  <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
+  <ObservedLayingCorpse.stages.observed_corpse.description>Ich habe eine Leiche auf dem Boden herum liegen sehen. Es war verstörend.</ObservedLayingCorpse.stages.observed_corpse.description>
+  
+  <!-- EN: observed rotting corpse -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>Verrottende Leiche gesehen</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Ich habe eine verrottende Leiche auf dem Boden liegen sehen. Es war so eklig. Das aufgeblähte Fleisch und all die Maden...</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  
+  <!-- EN: prisoner banished to death -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>Gefangenen zum Sterben verbannt</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Wir haben einen Gefangenen verbannt, der kaum eine Möglichkeit hat, zu überleben.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: rescued -->
+  <Rescued.stages.rescued.label>Gerettet</Rescued.stages.rescued.label>
+  <!-- EN: I was rescued! I almost thought I was done for back there. I'm so thankful. -->
+  <Rescued.stages.rescued.description>Ich wurde gerettet. Eigentlich dachte ich schon, dass es das mit mir war, aber dann wurde ich doch noch gerettet. Ich bin so dankbar.</Rescued.stages.rescued.description>
+  
+  <!-- EN: rescued {0} -->
+  <RescuedRelative.stages.rescued.label>Haben {0} gerettet</RescuedRelative.stages.rescued.label>
+  <!-- EN: We rescued one of my relatives. Finally, I can breathe a sigh of relief. -->
+  <RescuedRelative.stages.rescued.description>Wir haben jemanden aus meiner Verwandtschaft gerettet. Endlich kann ich erleichtert durchatmen.</RescuedRelative.stages.rescued.description>
+  
+  <!-- EN: disturbed sleep -->
+  <SleepDisturbed.stages.disturbed_sleep.label>Gestörter Schlaf</SleepDisturbed.stages.disturbed_sleep.label>
+  <!-- EN: I was disturbed during sleep by people moving around nearby. A private room would solve this. -->
+  <SleepDisturbed.stages.disturbed_sleep.description>Ich konnte nicht in Ruhe schlafen, da ständig Leute in der Nähe herumgelaufen sind. Ein eigenes Zimmer würde das Problem lösen.</SleepDisturbed.stages.disturbed_sleep.description>
+  
+  <!-- EN: slept in the cold -->
+  <SleptInCold.stages.slept_in_the_cold.label>In der Kälte geschlafen</SleptInCold.stages.slept_in_the_cold.label>
+  <!-- EN: I had to sleep in the cold. We really need some heaters. -->
+  <SleptInCold.stages.slept_in_the_cold.description>Ich musste in der Kälte schlafen. Wir brauchen unbedingt ein paar Heizgeräte.</SleptInCold.stages.slept_in_the_cold.description>
+  
+  <!-- EN: slept in the heat -->
+  <SleptInHeat.stages.slept_in_the_heat.label>In der Hitze geschlafen</SleptInHeat.stages.slept_in_the_heat.label>
+  <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
+  <SleptInHeat.stages.slept_in_the_heat.description>Ich musste in unerträglicher Hitze schlafen. Können wir nicht eine Klimaanlage bekommen?</SleptInHeat.stages.slept_in_the_heat.description>
+  
+  <!-- EN: slept on ground -->
+  <SleptOnGround.stages.slept_on_ground.label>Auf dem Boden geschlafen</SleptOnGround.stages.slept_on_ground.label>
+  <!-- EN: I had to sleep on the ground like an animal. -->
+  <SleptOnGround.stages.slept_on_ground.description>Ich musste wie ein Tier auf dem Boden schlafen.</SleptOnGround.stages.slept_on_ground.description>
+  
+  <!-- EN: slept outside -->
+  <SleptOutside.stages.slept_outside.label>Draußen geschlafen</SleptOutside.stages.slept_outside.label>
+  <!-- EN: I had to sleep outdoors without any protection from the elements. -->
+  <SleptOutside.stages.slept_outside.description>Ich musste draußen schlafen, ohne jeglichen Schutz vor den Elementen.</SleptOutside.stages.slept_outside.description>
+  
+  <!-- EN: soaking wet -->
+  <SoakingWet.stages.soaking_wet.label>Durchnässt</SoakingWet.stages.soaking_wet.label>
+  <!-- EN: I'm soaking wet. -->
+  <SoakingWet.stages.soaking_wet.description>Ich bin triefend nass.</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: was imprisoned -->
+  <WasImprisoned.stages.was_imprisoned.label>Wurde eingesperrt</WasImprisoned.stages.was_imprisoned.label>
+  <!-- EN: The colony had me in jail for a while, like a caged animal. -->
+  <WasImprisoned.stages.was_imprisoned.description>Die Kolonie hat mich eine Weile eingesperrt, als wär' ich ein wildes Tier.</WasImprisoned.stages.was_imprisoned.description>
+  
+  <!-- EN: witnessed ally's death -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>Sah Verbündeten sterben</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Ich habe einen Verbündeten sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  
+  <!-- EN: witnessed death with bloodlust -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>Sah jemanden sterben (Blutlust)</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
+  <!-- EN: I saw someone die! That was intense! -->
+  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>Ich habe jemanden sterben sehen. Wow, das war intensiv!</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
+  
+  <!-- EN: witnessed family member's death -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>Sah Familienmitglied sterben</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
+  <!-- EN: I saw a member of my family die. My own flesh and blood... -->
+  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>Ich habe ein Mitglied meiner Familie sterben sehen. Mein eigen Fleisch und Blut...</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
+  
+  <!-- EN: witnessed outsider's death -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>Sah Outsider sterben</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
+  <!-- EN: I saw someone die. They were alive one moment, and dead the next. -->
+  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>Ich habe einen Outsider sterben sehen. Im einen Moment war er noch am Leben und im nächsten tot.</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  
+</LanguageData>

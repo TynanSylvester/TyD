@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient cryptosleep casket -->
+  <AncientCryptosleepCasket.label>Antike Kryptoschlafkapsel</AncientCryptosleepCasket.label>
+  <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
+  <AncientCryptosleepCasket.description>Eine antike Kryptoschlaf-Kapsel. Wer weiß was sie enthält?</AncientCryptosleepCasket.description>
+  
+  <!-- EN: caravan packing spot -->
+  <CaravanPackingSpot.label>Karawanen</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
+  <CaravanPackingSpot.description>Kennzeichnet einen Ort, an dem Karawanen zusammengestellt werden. Setze diesen in die Nähe Deines Lagers um die Zeit zum Beladen zu reduzieren.</CaravanPackingSpot.description>
+  
+  <!-- EN: comms console -->
+  <CommsConsole.label>Funkanlage</CommsConsole.label>
+  <!-- EN: Allows radio contact with other factions and orbital traders. -->
+  <CommsConsole.description>Erlaubt den Funkkontakt mit anderen Fraktionen und orbitalen Händlern.</CommsConsole.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <CryptosleepCasket.label>Kryptoschlafkapsel</CryptosleepCasket.label>
+  <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
+  <CryptosleepCasket.description>Eine selbstversorgende Kapsel, die darauf ausgelegt ist, die Insassen jahrzehntelang in einen künstlichen Winterschlaf zu versetzen.</CryptosleepCasket.description>
+  
+  <!-- EN: firefoam popper -->
+  <FirefoamPopper.label>Löschschaumwerfer</FirefoamPopper.label>
+  <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
+  <FirefoamPopper.description>Wenn der Werfer Feuer registriert, versprüht er einen feuerlöschenden Schaum in einem kreisförmigen Bereich um sich selbst herum. Kann auch manuell ausgelöst werden.</FirefoamPopper.description>
+  <!-- EN: Trigger firefoam popper -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Aktiviere Löschschaum Werfer</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: grave -->
+  <Grave.label>Grab</Grave.label>
+  <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
+  <Grave.description>Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte. Kolonisten werden die Gräber für meditatives Vergnügen besuchen.</Grave.description>
+  
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>Tiefenradar</GroundPenetratingScanner.label>
+  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <GroundPenetratingScanner.description>Ein in die Tiefe gerichtetes Radar, das zusätzlich mit Sonar und magnetischer Bildsensorik ausgestattet ist. Es erlaubt Dir verborgene Rohstoffadern (aber nicht deren genaue Art) aufzuspüren. Hinweis: Verbraucht sehr viel Strom.</GroundPenetratingScanner.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>Langstrecken Mineralienscanner</LongRangeMineralScanner.label>
+  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <LongRangeMineralScanner.description>Kann von Forschern verwendet werden um bestimmte Rohstoffe auf dem Planeten aufzuspüren. Die Zeit, die benötigt wird, um einen Rohstoff zu finden ist relativ zufällig, aber auch abhängig von der Fähigkeit des Forschers.</LongRangeMineralScanner.description>
+  
+  <!-- EN: marriage spot -->
+  <MarriageSpot.label>Hochzeiten</MarriageSpot.label>
+  <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
+  <MarriageSpot.description>Kennzeichnet einen Ort, an dem Hochzeitszeremonien abgehalten werden. Zuschauer können von jeder Seite aus zuschauen.</MarriageSpot.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>Trockenpumpe</MoisturePump.label>
+  <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
+  <MoisturePump.description>Gleicht sehr langsam das Wasser in umliegenden Gelände aus, womit Sümpfe und flache Gewässer trockengelegt, wie auch weicher Sand in normalen Sand umgewandelt wird. Hier können dann Gebäude errichtet werden. Hat keine Auswirkung auf tiefes Wasser.</MoisturePump.description>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>Analysator</MultiAnalyzer.label>
+  <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
+  <MultiAnalyzer.description>Erhöht die Forschungsgeschwindigkeit wenn er neben einem Hightech-Forschungstisch platziert wird und schaltet weitere Forschungsmöglichkeiten frei. Pro Forschungstisch kann nur ein Analysator verwendet werden.</MultiAnalyzer.description>
+  
+  <!-- EN: orbital trade beacon -->
+  <OrbitalTradeBeacon.label>Orbitales Funkfeuer</OrbitalTradeBeacon.label>
+  <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren an orbitale Händler verkaufen, die sich im Lagerbereich eines Funkfeuers befinden. Kann auch drinnen platziert werden.</OrbitalTradeBeacon.description>
+  
+  <!-- EN: party spot -->
+  <PartySpot.label>Partys</PartySpot.label>
+  <!-- EN: Designates a spot for throwing parties. -->
+  <PartySpot.description>Kennzeichnet einen Ort, an dem Partys abgehalten werden können.</PartySpot.description>
+  
+  <!-- EN: pod launcher -->
+  <PodLauncher.label>Startrampe</PodLauncher.label>
+  <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
+  <PodLauncher.description>Eine Vorrichtung zum Betanken und Starten einer Kapsel. Startrampen können eine Gruppe von Kapseln gleichzeitig abschießen - müssen dafür jedoch nebeneinander gebaut werden.</PodLauncher.description>
+  
+  <!-- EN: sarcophagus -->
+  <Sarcophagus.label>Sarkophag</Sarcophagus.label>
+  <!-- EN: An ornamented burial receptacle for the honored dead. -->
+  <Sarcophagus.description>Eine verzierte letzte Ruhestätte für die geehrten Toten.</Sarcophagus.description>
+  
+  <!-- EN: tool cabinet -->
+  <ToolCabinet.label>Werkzeugschrank</ToolCabinet.label>
+  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <ToolCabinet.description>Erhöht die Arbeitsgeschwindigkeit wenn er neben einem Arbeitstisch platziert wird. Einem Arbeitstisch können bis zu zwei Werkzeugschränke zugeordnet werden.</ToolCabinet.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>Transportkapsel</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Eine Transportkapsel für den Sub-Orbitalen Warentransport. Sie kann Personen, Gegenstände oder Tiere transportieren. Einsetzbar für Geschenklieferungen, den Transport von Personen und Waren, Überraschungsangriffe oder zum Senden von Verstärkung für laufende Kampfhandlungen. Hinweis: Benötigt eine Abschussrampe zum Start.</TransportPod.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>Vitalmonitor</VitalsMonitor.label>
+  <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
+  <VitalsMonitor.description>Verbessert die Behandlungsqualität, Operationserfolgschance und Immunisierungsgeschwindigkeit. Muss neben einem Krankenbett platziert werden, normale Betten profitieren nicht davon. Mehr als einen Vitalmonitor pro Bett aufzustellen hat keinen zusätzlichen Effekt.</VitalsMonitor.description>
+  
+</LanguageData>

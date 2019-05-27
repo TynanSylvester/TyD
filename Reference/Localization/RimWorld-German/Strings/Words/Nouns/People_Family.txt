@@ -1,0 +1,13 @@
+﻿Opa
+Oma
+Vater
+Mutter
+Sohn
+Tochter
+Bruder
+Schwester
+Onkel
+Tante
+Neffe
+Nichte
+

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astragalus -->
+  <Plant_Astragalus.label>Tragant</Plant_Astragalus.label>
+  <!-- EN: A small perennial wildflower that grows in alpine climates. -->
+  <Plant_Astragalus.description>Eine beständige, kleine Wildpflanze, die in alpinen Gegenden wächst.</Plant_Astragalus.description>
+  
+  <!-- EN: berry bush -->
+  <Plant_Berry.label>Wilde Beeren</Plant_Berry.label>
+  <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
+  <Plant_Berry.description>Ein wilder Busch mit leckeren Beeren. Die Beeren können gekocht werden, man kann sie aber genauso gut roh essen.</Plant_Berry.description>
+  
+  <!-- EN: dandelions -->
+  <Plant_Dandelion.label>Löwenzahn</Plant_Dandelion.label>
+  <!-- EN: A tiny yellow flower which grows in large clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful. -->
+  <Plant_Dandelion.description>Eine kleine gelbe Pflanze, die in Gruppen wächst. Auch wenn sie aufgrund ihrer Fruchtbarkeit oft als Unkraut angesehen werden, sieht der blühende Löwenzahn sehr hübsch aus.</Plant_Dandelion.description>
+  
+  <!-- EN: moss -->
+  <Plant_Moss.label>Moos</Plant_Moss.label>
+  <!-- EN: Wild moss that grows in clumps in areas of low light and cool temperatures. Moss takes a long time to grow, but is very frost-resistant. -->
+  <Plant_Moss.description>Ein wildes Moos, das in Gebieten mit wenig Licht und kalten Temperaturen wächst. Auch wenn Moos nur sehr langsam wächst, ist es sehr widerstandsfähig und frostresistent.</Plant_Moss.description>
+  
+  <!-- EN: birch tree -->
+  <Plant_TreeBirch.label>Birke</Plant_TreeBirch.label>
+  <!-- EN: A temperate-biome tree known for its thin, white, paper-like bark. -->
+  <Plant_TreeBirch.description>Ein Baum der gemäßigten Zone, der für seine dünne, weiße, papierähnliche Rinde bekannt ist.</Plant_TreeBirch.description>
+  
+  <!-- EN: oak tree -->
+  <Plant_TreeOak.label>Eiche</Plant_TreeOak.label>
+  <!-- EN: A hardwood tree. Oaks take a long time to grow, but their wood is so strong that 'oak' is used as a metaphor for strength across many cultures. -->
+  <Plant_TreeOak.description>Ein Hartholzbaum. Eichen benötigen eine lange Zeit zum Wachsen, aber ihr Holz ist so hart, dass 'Eichenhart' in vielen Kulturen eine Metapher für Stärke ist.</Plant_TreeOak.description>
+  
+  <!-- EN: pine tree -->
+  <Plant_TreePine.label>Kiefer</Plant_TreePine.label>
+  <!-- EN: A large conifer covered with prickly pine cones. It grows in a distinctive conical shape. -->
+  <Plant_TreePine.description>Ein großer Nadelbaum der mit stacheligen Kieferzapfen übersäht ist. Die Kiefer hat eine charakteristische Kegelform.</Plant_TreePine.description>
+  
+  <!-- EN: poplar tree -->
+  <Plant_TreePoplar.label>Pappel</Plant_TreePoplar.label>
+  <!-- EN: A softwood tree that grows very fast. Unfortunately, its wood is weak and so it yields less useful material than hardwood trees. -->
+  <Plant_TreePoplar.description>Ein Weichholzbaum der sehr schnell wächst. Jedoch ist das Holz sehr schwach, sodass es viel weniger Holz als ein Hartholzbaum ergibt.</Plant_TreePoplar.description>
+  
+</LanguageData>

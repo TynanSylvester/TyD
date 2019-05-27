@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeedFactor.label>Konstruktionsfaktor</ConstructionSpeedFactor.label>
+  <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value. Some materials, like stone, are slow to build from, while others, like wood, are fast. -->
+  <ConstructionSpeedFactor.description>Die Geschwindigkeit, mit der Gebäude aus diesem Material errichtet werden, wird mit diesem Wert multipliziert. Einige Materialien, wie z.B. Stein sind nur langsam aufzubauen, während andere, wie z.B. Holz schnell gehen.</ConstructionSpeedFactor.description>
+  
+  <!-- EN: medical potency -->
+  <MedicalPotency.label>Heilpotential</MedicalPotency.label>
+  <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Medical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
+  <MedicalPotency.description>Wie effektiv dieses Objekt zum Versorgen von Wunden und Krankheiten, sowie bei Operationen ist. Je größer das Heilpotential, desto höher die Chance, dass die Wunden eines Patienten erfolgreich verarztet werden, und desto kleiner die Chance, dass bei Operationen Komplikationen auftreten können. Weitere Einflüsse auf den Erfolg einer Operation ist der Arzt, die Ausrüstung, die Sauberkeit, und ein wenig Glück.</MedicalPotency.description>
+  
+  <!-- EN: medical tend quality maximum -->
+  <MedicalQualityMax.label>Maximale Behandlungsqualität</MedicalQualityMax.label>
+  <!-- EN: The maximum quality of medical tending that can be achieved while using this. Better tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
+  <MedicalQualityMax.description>Die maximal mögliche Behandlungsqualität, die mit diesem Gegenstand erreicht werden kann. Bessere Qualität erlaubt es Ärzten Wunden besser und zuverlässiger zu behandeln.</MedicalQualityMax.description>
+  
+</LanguageData>

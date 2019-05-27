@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>Klimatechnik</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Baue Klimaanlagen, um es den Leuten bei heißem Wetter angenehmer zu machen, oder zum Erstellen von Kühlräumen, in denen man verderbliche Waren lagern kann.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>Automatische Türen</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Schaltet Türen frei, die sich automatisch öffnen, wenn sich jemand nähert, um einen verzögerungsfreien Durchgang zu gewährleisten.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>Batterien</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Baue Batterien zum Speichern von elektrischer Energie.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>Raffinieren (Biokraftstoff)</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Baue Raffinerien zum Verarbeiten von biologischem Material, wie Holz und Nahrung, zu chemischem Treibstoff.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>Rückstoßlader</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Produziere einfache halb- und vollautomatische Waffen, wie Automatik- und Maschinenpistolen.</BlowbackOperation.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>Elektrizität</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Verwende die Macht der Elektrizität für hundert unterschiedliche Aufgaben.</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>Löschschaum</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Errichte Löschschaumwerfer, automatische Brandschutzgeräte, die einen feuerhemmenden Schaum versprühen, um Flammen aufzuhalten.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>Schutzrüstung</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Produziere Kleidung mit eingearbeiteter Metallrüstung, um Kugeln und Explosionen widerstehen zu können. Diese Kleidung ist schwerer und verlangsamt den Benutzer etwas.</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>Gasdrucklader</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Produziere fortschrittlichere halb- und vollautomatische Waffen, wie die automatische Schrotflinte, schwere Maschinenpistolen und leichte Maschinengewehre.</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>Geothermale Energie</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Errichte Geothermal-Kraftwerke auf Dampf-Geysiren für eine kontinuierliche Stromerzeugung.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>Waffenschmiede</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Produziere einfache, manuell betätigte Waffen, wie Revolver, Schrotflinten, Repetiergewehre und Brandgeschosswerfer.</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>Geschütztürme</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Errichte einfache automatische Geschütztürme.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>Hydrokulturen</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Baue Hydrokulturbecken, um Pflanzen unabhängig vom Wetter und dem Boden in einem Raum wachsen zu lassen.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>Sprengfalle</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Baue unkonventionelle Sprengfallen, die mit vielen verfügbaren Mörsergranaten bestückt werden können.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>Mechanik</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to disassemble dead mechanoids for resources. -->
+  <Machining.description>Baue die Mechanikwerkbank, mit der Schusswaffen und andere Maschinen hergestellt oder tote Mechanoiden auseinandergenommen werden können.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>Mörser</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Baue den Mörser, der Granaten auf weit entfernte Ziele, auch über Wände hinweg, verschießen kann.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>Nährstoffpaste</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Schaltet Nährstoffpastenspender frei, die aus nahrhaften Rohstoffen genießbare Mahlzeiten herstellen können, ohne dass jemand hierfür arbeiten muss.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>Überlebensrationen</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Stelle Nahrungsmittelkonserven her, die nie schlecht werden. Sehr gut für Reisen geeignet.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>Prothesen</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Stelle einfache künstliche Körperteile her, um verlorene Gliedmaßen zu ersetzen. Zum Einbau wird ein fähiger Arzt benötigt.</Prosthetics.description>
+  
+  <!-- EN: smokepop belts -->
+  <SmokepopBelt.label>Rauchwandgürtel</SmokepopBelt.label>
+  <!-- EN: Build smokepop belts which generate an automatic defensive smokescreen when the user is shot. -->
+  <SmokepopBelt.description>Stelle Rauchwandgürtel her, die den Benutzer bei Beschuss automatisch hinter einer Rauchwand verstecken.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>Solarzellen</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Schaltet Solarzellen frei, welche durch Sonnenstrahlen elektrische Energie erzeugen können.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>Sterile Materialien</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Erstelle sterile Kacheln für sterile Räume, in denen man effektiver medizinische Behandlungen und Forschung durchführen kann.</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>Röhrenfernseher</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Stelle Röhrenfernseher her. Es geht nichts über einen guten Film zum Entspannen.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Wasserkraft- Generator</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Erlaubt den Bau von Wasserkraft-Generatoren an Flüssen für eine stetige Energieversorgung.</WatermillGenerator.description>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colored lights -->
+  <ColoredLights.label>Farbige Beleuchtung</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Baue farbige Lampen zur Dekoration.</ColoredLights.description>
+  
+  <!-- EN: flatscreen television -->
+  <FlatscreenTelevision.label>Flachbildfernseher</FlatscreenTelevision.label>
+  <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
+  <FlatscreenTelevision.description>Stelle hochauflösende Flachbildschirm-Fernseher her. Hiermit kann man sich noch besser entspannen.</FlatscreenTelevision.description>
+  
+  <!-- EN: autocannon turret -->
+  <HeavyTurrets.label>Schwere Geschütztürme</HeavyTurrets.label>
+  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <HeavyTurrets.description>Errichte schwere automatische Geschütztürme.</HeavyTurrets.description>
+  
+  <!-- EN: hospital bed -->
+  <HospitalBed.label>Krankenbetten</HospitalBed.label>
+  <!-- EN: Construct hospital beds which improve medical outcomes. -->
+  <HospitalBed.description>Errichte spezielle Krankenbetten, die das Ergebnis medizinischer Behandlungen verbessern.</HospitalBed.description>
+  
+  <!-- EN: long-range mineral scanner -->
+  <LongRangeMineralScanner.label>Langstrecken- Mineralienscanner</LongRangeMineralScanner.label>
+  <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
+  <LongRangeMineralScanner.description>Schaltet den Langstrecken-Mineralien-Scanner frei, welcher von einem Forscher bedient werden kann, um nach wertvollen Mineralien in anderen Gebieten des Planeten zu suchen. Kann auf einen speziellen Rohstoff eingestellt werden. Für die Konstruktion werden Hightech-Bauteile benötigt.</LongRangeMineralScanner.description>
+  
+  <!-- EN: medicine production -->
+  <MedicineProduction.label>Medizinherstellung</MedicineProduction.label>
+  <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
+  <MedicineProduction.description>Stelle industrielle Medizin aus Kräutermedizin, Neutramin und Stoff her.</MedicineProduction.description>
+  
+  <!-- EN: microelectronics -->
+  <MicroelectronicsBasics.label>Grundlagen der Mikroelektronik</MicroelectronicsBasics.label>
+  <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
+  <MicroelectronicsBasics.description>Arbeite mit komplexen Mikroelektroniken. Schaltet den Hightech-Labortisch und die Funkanlage frei.</MicroelectronicsBasics.description>
+  
+  <!-- EN: moisture pump -->
+  <MoisturePump.label>Entwässerung</MoisturePump.label>
+  <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
+  <MoisturePump.description>Errichte die Entwässerungspumpe, die feuchten Boden und feuchten Sand langsam trockenlegt.</MoisturePump.description>
+  
+  <!-- EN: multibarrel weapons -->
+  <MultibarrelWeapons.label>Mehrläufige Waffen</MultibarrelWeapons.label>
+  <!-- EN: Assemble miniguns. -->
+  <MultibarrelWeapons.description>Baue Miniguns.</MultibarrelWeapons.description>
+  
+  <!-- EN: precision rifling -->
+  <PrecisionRifling.label>Präzisionswaffen</PrecisionRifling.label>
+  <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
+  <PrecisionRifling.description>Produziere präzise verarbeitete Waffen, wie Sturm- und Präzisionsgewehre.</PrecisionRifling.description>
+  
+  <!-- EN: shield belt -->
+  <ShieldBelt.label>Energieschild</ShieldBelt.label>
+  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <ShieldBelt.description>Impulsabstoßungstechnologie erlaubt die Herstellung von Energieschild-Gürteln, die ein- oder ausgehende Fernkampfangriffe blockieren.</ShieldBelt.description>
+  
+  <!-- EN: transport pod -->
+  <TransportPod.label>Transportkapseln</TransportPod.label>
+  <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
+  <TransportPod.description>Baue Sub-Orbitale Transportkapseln, mit denen Personen und Vorräte schnell über weite Strecken transportiert werden können. Kann für Überfälle, schnelle Reisen, das Verschicken von Geschenken und vielem mehr verwendet werden.</TransportPod.description>
+  
+</LanguageData>

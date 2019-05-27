@@ -1,0 +1,14 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+rot
+blau
+grün
+violett
+schwarz
+weiß
+grau
+gelb
+braun
+türkis

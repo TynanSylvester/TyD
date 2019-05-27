@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cloth -->
+  <Cloth.label>Stoff</Cloth.label>
+  <!-- EN: Cloth woven from organic fibers. -->
+  <Cloth.description>Einfacher Stoff, gewebt aus organischen Fasern.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>Stoff</Cloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: devilstrand -->
+  <DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
+  <DevilstrandCloth.description>Ein sehr strapazierfähiger Mikrofaserstoff, der aus den Teufelsgarnpilzen gewonnen wird. Es ist sehr zäh, isoliert und schützt besonders gut vor Feuer.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>Teufelsgarn</DevilstrandCloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: gold -->
+  <Gold.label>Gold</Gold.label>
+  <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
+  <Gold.description>Das verführerischste aller Metalle. Das weiche Metall hat fast keinen eigenen Nutzen, ist aber sehr schön und verblasst nicht. Millionen sind in der endlosen Gier der Menschheit nach Gold gestorben.</Gold.description>
+  <!-- EN: golden -->
+  <Gold.stuffProps.stuffAdjective>Gold</Gold.stuffProps.stuffAdjective>
+  
+  <!-- EN: hyperweave -->
+  <Hyperweave.label>Nanofaser</Hyperweave.label>
+  <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
+  <Hyperweave.description>Nano-Fasern, die, Molekül an Molekül, von speziellen Nano-Mechanoiden zu einem Stoff verwoben wurden. Das Material ist die meiste Zeit flexibel, verhärtet sich aber blitzschnell, um einwirkende Schläge abzufangen und ist sehr widerstandsfähig. Allerdings kennen nur Glitzerwelten das Geheimnis um die Herstellung dieser Faser.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>Nanofaser</Hyperweave.stuffProps.stuffAdjective>
+  
+  <!-- EN: jade -->
+  <Jade.label>Jade</Jade.label>
+  <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
+  <Jade.description>Ein harter grüner Stein. Aufgrund seines Aussehens und der Seltenheit wird Jade oft als Verzierung und zur Dekoration verwendet. Ihre Härte und Dichte macht sie außerdem zu einem sehr guten Material für stumpfe Waffen.</Jade.description>
+  <Jade.stuffProps.stuffAdjective>Jade</Jade.stuffProps.stuffAdjective>
+  
+  <!-- EN: plasteel -->
+  <Plasteel.label>Plastahl</Plasteel.label>
+  <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
+  <Plasteel.description>Fortschrittliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
+  
+  <!-- EN: silver -->
+  <Silver.label>Silber</Silver.label>
+  <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
+  <Silver.description>Wird hauptsächlich als Währung beim Handeln akzeptiert, kann aber auch für Dekorationen verwendet werden.</Silver.description>
+  <Silver.stuffProps.stuffAdjective>Silber</Silver.stuffProps.stuffAdjective>
+  
+  <!-- EN: steel -->
+  <Steel.label>Stahl</Steel.label>
+  <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
+  <Steel.description>Eine Metall-Kohle-Legierung, die zum Bau von allerlei Strukturen, Waffen und Maschinen verwendet wird.</Steel.description>
+  <Steel.stuffProps.stuffAdjective>Stahl</Steel.stuffProps.stuffAdjective>
+  
+  <!-- EN: synthread -->
+  <Synthread.label>Syngarn</Synthread.label>
+  <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
+  <Synthread.description>Stoff aus der Raumfahrttechnik, der für normale Kleidung entwickelt wurde. Er ist weich, leicht, stark und isoliert gut.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>Syngarn</Synthread.stuffProps.stuffAdjective>
+  
+  <!-- EN: uranium -->
+  <Uranium.label>Uran</Uranium.label>
+  <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
+  <Uranium.description>Ein hartes, schweres Material. Während der Einsatzzweck als Reaktormaterial am bekanntesten ist, machen die extreme Härte und Dichte es zu einem hervorragenden Material für Waffen, Munition und auch Rüstungen.</Uranium.description>
+  <Uranium.stuffProps.stuffAdjective>Uran</Uranium.stuffProps.stuffAdjective>
+  
+  <!-- EN: wood -->
+  <WoodLog.label>Holz</WoodLog.label>
+  <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
+  <WoodLog.description>Holz von Bäumen oder anderen holzartigen Gewächsen. Brauchbar, um hölzerne Strukturen und Waffen zu bauen. Es ist ein guter Brennstoff für Lagerfeuer und Generatoren und kann auch zu Treibstoff verarbeitet werden. Im Fall der Fälle kann ein Holzstück auch als Waffe eingesetzt werden.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>Holz</WoodLog.stuffProps.stuffAdjective>
+  <!-- EN: log -->
+  <WoodLog.tools.log.label>Holzstück</WoodLog.tools.log.label>
+  
+  <!-- EN: alpaca wool -->
+  <WoolAlpaca.label>Alpakawolle</WoolAlpaca.label>
+  <!-- EN: The remarkably soft wool of an alpaca. It is very warm. -->
+  <WoolAlpaca.description>Die unglaublich weiche Wolle eines Alpakas. Sie ist sehr warm.</WoolAlpaca.description>
+  <WoolAlpaca.stuffProps.stuffAdjective>Alpakawolle</WoolAlpaca.stuffProps.stuffAdjective>
+  
+  <!-- EN: camelhair -->
+  <WoolCamel.label>Kamelhaar</WoolCamel.label>
+  <!-- EN: Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent heat insulation due to its thermostatic properties. -->
+  <WoolCamel.description>Kleidung aus Kamelhaar wird normalerweise von Wüstenreisenden getragen, um sich vor der Hitze zu schützen. Es ist aufgrund seiner thermostatischen Eigenschaften ein ausgezeichneter Wärme-Isolator.</WoolCamel.description>
+  <WoolCamel.stuffProps.stuffAdjective>Kamelhaar</WoolCamel.stuffProps.stuffAdjective>
+  
+  <!-- EN: megasloth wool -->
+  <WoolMegasloth.label>Faultierwolle</WoolMegasloth.label>
+  <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
+  <WoolMegasloth.description>Wenn auch recht grob, so ist die Wolle des Riesenfaultieres doch sehr widerstandsfähig. Sie ist auch besonders warm.</WoolMegasloth.description>
+  <WoolMegasloth.stuffProps.stuffAdjective>Faultierwolle</WoolMegasloth.stuffProps.stuffAdjective>
+  
+  <!-- EN: muffalo wool -->
+  <WoolMuffalo.label>Muffalowolle</WoolMuffalo.label>
+  <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
+  <WoolMuffalo.description>Weich, leicht und ist ein sehr guter Isolator. Kleidung aus Muffalowolle kann den Körper selbst unter sehr kalten Bedingungen warm halten.</WoolMuffalo.description>
+  <WoolMuffalo.stuffProps.stuffAdjective>Muffalowolle</WoolMuffalo.stuffProps.stuffAdjective>
+  
+</LanguageData>

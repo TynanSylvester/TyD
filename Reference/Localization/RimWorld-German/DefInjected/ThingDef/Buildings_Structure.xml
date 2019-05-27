@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autodoor -->
+  <Autodoor.label>Autotür</Autodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Autodoor.description>
+  
+  <!-- EN: door -->
+  <Door.label>Tür</Door.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <Door.description>Trennt Räume. Einfache Türen müssen von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden. Wie stark die Verlangsamung ist, hängt vom verwendeten Material ab.</Door.description>
+  
+  <!-- EN: wall -->
+  <Wall.label>Wand</Wall.label>
+  <!-- EN: An impassable wall. Capable of holding up a roof. -->
+  <Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
+  
+</LanguageData>

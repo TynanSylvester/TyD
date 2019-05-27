@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
+  -->
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] hat zugestimmt und die beiden sind jetzt verlobt.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
+  -->
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] hat abgelehnt.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
+  -->
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->Das war zu viel für die Beziehung und sie haben sich getrennt.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
+  -->
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] fühlte sich davon angezogen und ist jetzt mit [INITIATOR_nameDef] zusammen.</li>
+    <li>sent->[RECIPIENT_nameDef] sprach darauf an und ist jetzt mit [INITIATOR_nameDef] zusammen.</li>
+    <li>sent->[RECIPIENT_nameDef] gefiel das und [RECIPIENT_pronoun] ist jetzt mit [INITIATOR_nameDef] zusammen.</li>
+    <li>sent->[RECIPIENT_nameDef] wurde davon erregt und ist jetzt mit [INITIATOR_nameDef] zusammen.</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the advance.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
+  -->
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] hat das Vorgehen abgelehnt.</li>
+    <li>sent->[RECIPIENT_nameDef] hat das Vorgehen ignoriert.</li>
+    <li>sent->[RECIPIENT_nameDef] zeigte [INITIATOR_nameDef] [RECIPIENT_possessive]en Rücken.</li>
+    <li>sent->[RECIPIENT_nameDef] drehte sich weg.</li>
+    <li>sent->[RECIPIENT_nameDef] reagierte kaum.</li>
+    <li>sent->[RECIPIENT_nameDef] antwortete nicht.</li>
+    <li>sent->[RECIPIENT_nameDef] wies [INITIATOR_objective] ab.</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

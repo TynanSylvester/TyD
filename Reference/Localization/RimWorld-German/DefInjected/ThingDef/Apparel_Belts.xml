@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shield belt -->
+  <Apparel_ShieldBelt.label>Schildgürtel</Apparel_ShieldBelt.label>
+  <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
+  <Apparel_ShieldBelt.description>Ein Gerät zum Abstoßen von Projektilen. Es wird versuchen, ankommende Geschosse oder Granaten zu stoppen, doch es schützt nicht vor Nahkampfangriffen oder Hitze. Das Gerät verhindert, dass der Träger eine Fernkampfwaffe einsetzen kann, und schaltet sich umgehend aus, wenn es einem elektromagnetischen Impuls (EMP) ausgesetzt wird.</Apparel_ShieldBelt.description>
+  
+  <!-- EN: smokepop belt -->
+  <Apparel_SmokepopBelt.label>Rauchwandgürtel</Apparel_SmokepopBelt.label>
+  <!-- EN: An automatic single-use defensive smokescreen. If the wearer is hit by a projectile, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
+  <Apparel_SmokepopBelt.description>Eine automatische Einweg-Verteidigung in Form einer Rauchwolke. Wenn der Träger von einer Kugel getroffen wird, wird eine dicke Rauchwand erzeugt, welche Sichtschutz bietet und verhindert, dass man von Geschützen erfasst wird. Nur einmal verwendbar.</Apparel_SmokepopBelt.description>
+  
+</LanguageData>

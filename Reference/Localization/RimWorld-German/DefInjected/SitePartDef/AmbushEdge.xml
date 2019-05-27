@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <AmbushEdge.label>Hinterhalt</AmbushEdge.label>
+  <!-- EN: An ambush. -->
+  <AmbushEdge.description>Ein Hinterhalt.</AmbushEdge.description>
+  <!-- EN: an enemy force is waiting to ambush anyone who comes near -->
+  <AmbushEdge.descriptionDialogue>eine feindliche Truppe einen Hinterhalt vorbereitet hat und jeden überfallen wird, der sich nähert</AmbushEdge.descriptionDialogue>
+  
+</LanguageData>

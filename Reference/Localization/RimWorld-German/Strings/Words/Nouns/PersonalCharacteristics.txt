@@ -1,0 +1,93 @@
+﻿//Example: "Die ..."
+Kleidung
+Kleidungswahl
+Mode
+Eleganz
+
+Erscheinung
+Größe
+Maße
+Haare
+Frisur
+Gesichtsbehaarung
+Beinbehaarung
+Gesichtsform
+Augen
+Nase
+Ohren
+Stirn
+Hände
+Körperhaltung
+Muskeln
+
+Stimme
+Sprache
+Akzente
+
+Fernkampffähigkeit
+Nahkampffähigkeit
+sozialen Fähigkeiten
+Gärtnerfähigkeit
+medizinischen Fähigkeiten
+Tierfähigkeit
+Kochfähigkeit
+Konstruktionsfähigkeit
+Abbaufähigkeit
+Kunstfähigkeit
+Bastelfähigkeit
+intellektuellen Fähigkeiten
+
+Kenntnisse
+Fähigkeiten
+Intelligenz
+Gehirnleistung
+emotionale Stabilität
+Selbstbeherrschung
+Nützlichkeit
+Art zu Gehen
+Art zu Denken
+Kampfmethoden
+Lernfähigkeit
+Essgewohnheiten
+Lieblingsspeise
+Lebensjahre
+Kostbarkeit als Mensch
+Disziplin
+Gewissenhaftigkeit
+Ehre
+Ehrlichkeit
+Tapferkeit
+Ansichten
+Glaubensinhalte
+Ideen
+Hoffnungen und Träume
+Ziele
+persönlichen Gewohnheiten
+persönliche Hygiene
+Ausdauer
+Persönlichkeit
+Klasse
+Kultur
+Hobbys
+Pünktlichkeit
+Großzügigkeit
+Tapferkeit
+Loyalität
+Freundlichkeit
+Redegewandtheit
+Toleranz
+charmante Art
+Aufrichtigkeit
+Aufgeschlossenheit
+Reizbarkeit
+Leichtgläubigkeit
+Hochnäsigkeit
+
+Herkunft
+Eltern
+Großeltern
+Freunde
+Familie
+Familien-Hintergründe
+Liebesbeziehungen
+

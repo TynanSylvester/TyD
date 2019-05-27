@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>Alpha-Biber</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>Ambrosia Hain</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>Ambrosia Hain</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Ein Hain des mysteriösen Ambrosia-Buschs ist in der Nähe aufgekeimt! Wenn Du ein wenig wartest, bis die Pflanzen weiter gewachsen sind, kannst Du die wohlschmeckende, ergötzliche und geringfügig süchtig machende Frucht ernten.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>Kältewelle</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Kältewelle</ColdSnap.letterLabel>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>Eine ungewöhnliche Kältewelle hat begonnen.\n\nKältewellen können Hypothermie hervorrufen, was schnell zum Tode führen kann. Stelle sicher, dass Du einen beheizten Raum besitzt, Deine Kolonisten warme Kleidung tragen und Du Dich um Deine Ernte kümmerst, bevor sie erfriert und abstirbt.</ColdSnap.letterText>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>Fäule</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>Farmtiere</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Blitzsturm</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Blitzsturm</Flashstorm.letterLabel>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Eine ungewöhnlich hohe Anzahl von Blitzen schlägt in einem kleinen Gebiet ein. Hierdurch können große Feuer verursacht werden.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>Hitzewelle</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Hitzewelle</HeatWave.letterLabel>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
+  <HeatWave.letterText>Eine ungewöhnliche Hitzewelle hat begonnen.\n\nHitzewellen können Hitzschläge hervorrufen, die schnell zum Tode führen können. Kühl Dich ab, indem Du eine Klimaanlage baust oder Dich tief in einen Berg gräbst.</HeatWave.letterText>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>Herdenwanderung</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>Herdenwanderung {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Eine Herde {0} wandert durch das Gebiet.\n\nSolange man sie nicht provoziert, werden sie nicht angreifen.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>Meteoriteneinschlag</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Ein großer Meteorit ist in dem Gebiet eingeschlagen. Er hat ein großes Stück {0} zurückgelassen.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>Psychisches Dröhnen</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>Psychische Beruhigung</PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>Lösegeldforderung</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Lösegeldforderung</RansomDemand.letterLabel>
+  
+  <!-- EN: chased refugee -->
+  <RefugeeChased.label>Verfolgter Flüchtling</RefugeeChased.label>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>Absturz Rettungskapsel</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>Absturz Rohstoffkapsel</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>Selbstzähmung</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>Kurzschluss</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>Thrumbos</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Giftiger Niederschlag</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Giftiger Niederschlag</ToxicFallout.letterLabel>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
+  <ToxicFallout.letterText>Ein entferntes chemisches Feuer hat eine Giftwolke über die ganze Region verbreitet.\n\nJede Person und Kreatur, die nicht von einem Dach geschützt wird, wird sich langsam an dem Staub in der Atmosphäre vergiften.\n\nEs wird für ein paar Tage oder bis über eine Saison anhalten.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>Vulkanischer Winter</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Vulkanischer Winter</VolcanicWinter.letterLabel>
+  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>Ein entfernter Supervulkan ist ausgebrochen und speit Millionen Tonnen Asche in die Atmosphäre.\n\nAtmosphärische Asche reflektiert einen Teil der Sonneneinstrahlung, was einen Temperatursturz zur Folge hat. Pflanzen werden aufgrund des fehlenden Sonnenlichts leiden und eventuell eingehen. Dieser Zustand kann in ein paar Wochen wieder enden oder er hält mehrere Saisons an.</VolcanicWinter.letterText>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>Wanderer bleibt</WandererJoin.label>
+  <!-- EN: Wanderer joins -->
+  <WandererJoin.letterLabel>Wanderer bleibt</WandererJoin.letterLabel>
+  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <WandererJoin.letterText>{PAWN_gender ? Ein : Eine} {PAWN_kind} namens {PAWN_nameDef} ist angekommen und tritt der Kolonie bei.\n{PAWN_possessive} Titel ist: '{PAWN_title}'.\n\n{PAWN_pronoun} wird {PAWN_possessive}en Teil beitragen, aber nicht freiwillig gehen. Wenn Du {PAWN_nameDef} nicht haben willst, kannst Du {PAWN_objective} verbannen, {PAWN_objective} als Sklaven verkaufen oder {PAWN_objective} einfach töten. Allerdings kann es sein, dass sich Deine Kolonisten daran stören werden.</WandererJoin.letterText>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>Wilder Mensch im Gebiet</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>{PAWN_kind} betritt das Gebiet</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Ein Mensch, der wie die Tiere lebt, hat das Gebiet betreten. {PAWN_pronoun} wird {0} genannt.\n\nDu kannst versuchen, {PAWN_objective} zu zähmen oder gefangen zu nehmen.</WildManWandersIn.letterText>
+  
+</LanguageData>

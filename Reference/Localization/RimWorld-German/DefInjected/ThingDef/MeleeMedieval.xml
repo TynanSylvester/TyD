@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gladius -->
+  <MeleeWeapon_Gladius.label>Gladius</MeleeWeapon_Gladius.label>
+  <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
+  <MeleeWeapon_Gladius.description>Ein antikes Kurzschwert. Gut zum Schlagen und Stechen. Es ist leicht und schnell, wodurch es gelegentlich größere und schwerere Waffen schlägt.</MeleeWeapon_Gladius.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Gladius.tools.handle.label>Griff</MeleeWeapon_Gladius.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_Gladius.tools.point.label>Spitze</MeleeWeapon_Gladius.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_Gladius.tools.edge.label>Schneide</MeleeWeapon_Gladius.tools.edge.label>
+  
+  <!-- EN: longsword -->
+  <MeleeWeapon_LongSword.label>Langschwert</MeleeWeapon_LongSword.label>
+  <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
+  <MeleeWeapon_LongSword.description>Die antike Waffe der Könige, das Langschwert, kann zum Schlagen oder Stechen benutzt werden.</MeleeWeapon_LongSword.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_LongSword.tools.handle.label>Griff</MeleeWeapon_LongSword.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeapon_LongSword.tools.point.label>Spitze</MeleeWeapon_LongSword.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeapon_LongSword.tools.edge.label>Klinge</MeleeWeapon_LongSword.tools.edge.label>
+  
+  <!-- EN: mace -->
+  <MeleeWeapon_Mace.label>Streitkolben</MeleeWeapon_Mace.label>
+  <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
+  <MeleeWeapon_Mace.description>Ein verbesserter Knüppel, entwickelt für effiziente Schwünge und tödliche Einschläge.</MeleeWeapon_Mace.description>
+  <!-- EN: handle -->
+  <MeleeWeapon_Mace.tools.handle.label>Griff</MeleeWeapon_Mace.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeapon_Mace.tools.head.label>Kopf</MeleeWeapon_Mace.tools.head.label>
+  
+</LanguageData>

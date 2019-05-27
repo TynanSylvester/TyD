@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: antigrain warhead -->
+  <Bullet_Shell_AntigrainWarhead.label>Antimaterie Gefechtskopf</Bullet_Shell_AntigrainWarhead.label>
+  
+  <!-- EN: EMP shell -->
+  <Bullet_Shell_EMP.label>EMP-Granate</Bullet_Shell_EMP.label>
+  
+  <!-- EN: firefoam shell -->
+  <Bullet_Shell_Firefoam.label>Löschschaum Granate</Bullet_Shell_Firefoam.label>
+  
+  <!-- EN: high-explosive shell -->
+  <Bullet_Shell_HighExplosive.label>HE-Granate</Bullet_Shell_HighExplosive.label>
+  
+  <!-- EN: incendiary shell -->
+  <Bullet_Shell_Incendiary.label>Brandgranate</Bullet_Shell_Incendiary.label>
+  
+  <!-- EN: antigrain warhead -->
+  <Shell_AntigrainWarhead.label>Antimaterie Gefechtskopf</Shell_AntigrainWarhead.label>
+  <!-- EN: An ultra-tech warhead powered by a grain of antimatter. Usually used by spacecraft or glitterworld war machines, it creates a huge explosion and starts fires around the target. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_AntigrainWarhead.description>Ein miniatur Ultra-Tech Gefechtskopf, der normalerweise in Raumschiffen oder Glitzerwelt-Kriegsmaschinen eingesetzt wird. Angetrieben durch ein Anti-Materie Korn entsteht eine riesige Explosion. Kann mit Granatwerfern verschossen oder in Fallen eingebaut werden. Explodiert, wenn sie beschädigt wird.</Shell_AntigrainWarhead.description>
+  
+  <!-- EN: EMP shell -->
+  <Shell_EMP.label>EMP-Granate</Shell_EMP.label>
+  <!-- EN: A shell filled with batteries and antennas, for generating an electromagnetic pulse when detonated. Electromagnetic pulses temporarily disable electrical devices and mechanoids. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_EMP.description>Eine Granate gefüllt mit einer Batterie, Elektronik und einer Antenne um den Elektromagnetischen Impuls zu erzeugen. EM-Pulse deaktivieren kurzzeitig elektronische Geräte und Mechanoiden. Kann mit Granatwerfern verschossen oder in Fallen eingebaut werden. Explodiert, wenn sie beschädigt wird.</Shell_EMP.description>
+  
+  <!-- EN: firefoam shell -->
+  <Shell_Firefoam.label>Löschschaum Granate</Shell_Firefoam.label>
+  <!-- EN: A pressurized shell filled with fire-retardant foam. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Firefoam.description>Eine Granate gefüllt mit feuerlöschendem Schaum. Kann mit Granatwerfern verschossen oder in Fallen eingebaut werden. Explodiert, wenn sie beschädigt wird.</Shell_Firefoam.description>
+  
+  <!-- EN: high-explosive shell -->
+  <Shell_HighExplosive.label>HE-Granate</Shell_HighExplosive.label>
+  <!-- EN: A shell filled with high explosives. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_HighExplosive.description>Eine Granate gefüllt mit Sprengstoff. Kann mit Granatwerfern verschossen oder in Fallen eingebaut werden. Explodiert, wenn sie beschädigt wird.</Shell_HighExplosive.description>
+  
+  <!-- EN: incendiary shell -->
+  <Shell_Incendiary.label>Brandgranate</Shell_Incendiary.label>
+  <!-- EN: A shell filled with flammable gel and a small explosive charge. Starts fires when detonated. Can be fired from mortars or installed as a trap. Explodes when damaged. -->
+  <Shell_Incendiary.description>Eine Granate gefüllt mit einem brennbaren Gel und einer kleinen Explosivladung. Kann mit Granatwerfern verschossen oder in Fallen eingebaut werden. Explodiert, wenn sie beschädigt wird.</Shell_Incendiary.description>
+  
+</LanguageData>

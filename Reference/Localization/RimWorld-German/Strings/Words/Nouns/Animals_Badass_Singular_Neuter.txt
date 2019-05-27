@@ -1,0 +1,10 @@
+﻿//Example: "Das ..."
+Panzerschwein
+Kamel
+Krokodil
+Känguru
+Schwein
+Stachelschwein
+Rhinozeros
+Stinktier
+Wiesel

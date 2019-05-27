@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>Zum Hinspringen klicken</ClickToJumpToProblem>
+
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>Risiko: Zusammenbruch (leicht)</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>Risiko: Zusammenbruch (schwer)</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>Risiko: Zusammenbruch (extrem)</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <BreakRiskMinorDesc>Die folgenden Kolonisten haben schlechte Laune und könnten jederzeit einen leichten Nervenzusammenbruch erleiden:\n\n{0}</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <BreakRiskMajorDesc>Die folgenden Kolonisten sind sehr schlecht gelaunt und könnten jederzeit einen schweren Nervenzusammenbruch erleiden:\n\n{0}</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <BreakRiskExtremeDesc>Die folgenden Kolonisten sind sehr stark gestresst und könnten jeden Moment einen extremen (und potenziell gewalttätigen) Nervenzusammenbruch erleiden:\n\n{0}</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>Überprüfe ihre Wünsche, um herauszufinden, was sie stört.\n\nDamit die Kolonisten sich besser fühlen, kannst Du ihnen üppige Mahlzeiten oder mehr Zeit zum Entspannen geben. Du kannst sie in einer schönen Umgebung unterbringen oder ihnen etwas zu trinken oder zu rauchen geben, und vieles mehr.</BreakRiskDescEnding>
+  
+  <!-- EN: Colonist needs rescue -->
+  <ColonistNeedsRescue>Bewusstloser Kolonist</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
+  <ColonistsNeedRescue>Bewusstlose Kolonisten</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
+  <ColonistsNeedRescueDesc>Die folgenden Kolonisten liegen bewusstlos am Boden:\n\n{0}\nSchicke einen anderen Kolonisten zu ihnen, damit er sie ins Bett tragen kann.\n\n(Zum Retten mit der rechten Maustaste auf den verwundeten Kolonisten klicken).</ColonistsNeedRescueDesc>
+
+  <!-- EN: Need defenses -->
+  <NeedDefenses>Verteidigung benötigt</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
+  <NeedDefensesDesc>Piraten und feindliche Fraktionen haben es auf Dich abgesehen.\n\nDu solltest etwas zur Verteidigung errichten, wie z.B. Sandsäcke oder Fallen.</NeedDefensesDesc>
+
+  <!-- EN: Need doctor -->
+  <NeedDoctor>Arzt benötigt</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <NeedDoctorDesc>Diese Patienten benötigen medizinische Behandlung. Sie müssen versorgt werden, allerdings gibt es keinen Arzt:\n\n{0}\nWeise einem gesunden Kolonisten den Arbeitstyp 'Arzt' zu. Wenn Wunden nicht behandelt werden, können sie bleibende Schäden verursachen.</NeedDoctorDesc>
+
+  <!-- EN: Need miner -->
+  <NeedMiner>Bergarbeiter benötigt</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
+  <NeedMinerDesc>Es soll etwas abgebaut werden, aber es ist kein Kolonist hierfür eingeteilt.\n\nWeise einem Kolonisten den Arbeitstyp 'Bergbau' zu.</NeedMinerDesc>
+
+  <!-- EN: Need warden -->
+  <NeedWarden>Aufseher benötigt</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
+  <NeedWardenDesc>Du hast Gefangene, aber niemanden, der sich um sie kümmert.\n\nWeise einem Kolonisten den Arbeitstyp 'Aufsehen' zu.</NeedWardenDesc>
+
+  <!-- EN: Low food -->
+  <LowFood>Wenig Nahrung</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
+  <LowFoodDesc>Du hast gefährlich wenig Lebensmittel im Lager!\n\nAnzahl Nahrung für komplette Balken im Lager: {0}\n    Nahrung für Kolonisten und Gefangene: {1}\n    Anzahl der Tage bis die Reserven aufgebraucht sind: {2}\n\nZüchte, kaufe, suche oder töte etwas Nahrhaftes!</LowFoodDesc>
+
+  <!-- EN: Low medicine -->
+  <LowMedicine>Wenig Medizin</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>Du hast nur noch {0}x Medizin im Lager.\n\nKaufe Medizin von Händlern.</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>Du hast keine Medizin mehr im Lager.\n\nKaufe Medizin von Händlern.</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
+  <NeedColonistBeds>Betten benötigt</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
+  <NeedColonistBedsDesc>Du hast mehr Kolonisten als Betten. Einige haben keinen Schlafplatz.\n\nBaue mehr Betten oder ändere Gefängnisbetten in Betten für Kolonisten um.</NeedColonistBedsDesc>
+
+  <!-- EN: Hunter lacks ranged weapon -->
+  <HunterLacksWeapon>Jäger ohne Fernkampfwaffe</HunterLacksWeapon>
+  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
+  <HunterLacksWeaponDesc>Ein Kolonist ist als 'Jäger' eingeteilt, hat aber keine Fernkampfwaffe.\n\nEr wird nicht jagen, bis er eine Fernkampfwaffe bekommt.</HunterLacksWeaponDesc>
+
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>Zerrissene Kleidung</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>Die folgenden Kolonisten tragen zerrissene Kleidung, was sie unzufrieden macht:\n\n{0}\nGib ihnen Kleidung, die nicht ganz so stark beschädigt ist.\n\nDu kannst Kleidung am Schneidertisch herstellen, oder auch von Händlern kaufen.</AlertTatteredApparelDesc>
+
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>Nacktheit</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>Die folgenden Kolonisten sind nackt und unzufrieden:\n\n{0}\nGib ihnen etwas Kleidung.\n\nDu kannst Kleidung am Schneidertisch schneidern oder neue Kleidung von Händlern kaufen.</AlertUnhappyNudityDesc>
+
+  <!-- EN: Starvation -->
+  <Starvation>Hunger</Starvation>
+  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <StarvationDesc>Die folgenden Kolonisten sind am Verhungern:\n\n{0}\nBeschaffe etwas Nahrung.</StarvationDesc>
+
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>Hungerndes Tier</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <StarvationAnimalsDesc>Die folgenden Tiere der Kolonie sind am Verhungern:\n\n{0}\nBeschaffe etwas Nahrung.</StarvationAnimalsDesc>
+
+  <!-- EN: Exhaustion -->
+  <Exhaustion>Erschöpfung</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <ExhaustionDesc>Die folgenden Kolonisten sind erschöpft und brauchen eine Pause:\n\n{0}\nLass sie sich ein bisschen ausruhen. Hierzu benötigen sie ein Kolonistenbett. Stelle außerdem sicher, dass sie nicht im Militärdienst sind.</ExhaustionDesc>
+
+  <!-- EN: Need food hopper -->
+  <NeedFoodHopper>Trichter benötigt</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
+  <NeedFoodHopperDesc>Du hast einen Nährstoffpastenspender, aber keinen angebauten Trichter.\n\nDamit er funktioniert, braucht er einen Trichter mit rohen Lebensmitteln.\n\nBaue einen Trichter direkt neben dem Spender.</NeedFoodHopperDesc>
+
+  <!-- EN: Need meal source -->
+  <NeedMealSource>Kochgelegenheit benötigt</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>Du hast keine Möglichkeit, vernünftige Mahlzeiten aus rohen Zutaten herzustellen.\n\nBaue ein Lagerfeuer, eine Kochstelle oder einen Nährstoffpastenspender\n\n(Der Spender darf nicht in einer Gefängniszelle stehen. Dort können die Kolonisten ihn nicht verwenden.)</NeedMealSourceDesc>
+
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>Abwechslungsreiche Entspannung benötigt</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>Es sind nur {0} verschiedene Entspannungsmöglichkeiten in {1} vorhanden, aber beim aktuellen Level der Erwartungshaltung ({2}) benötigen die Kolonisten {3} unterschiedliche Entspannungsmöglichkeiten um zufrieden zu bleiben.\n\nStelle unterschiedliche Entspannungsmöglichkeiten zur Verfügung.\n\n{4}\n\n{5}\n\nHinweis: Du kannst den Entspannungstyp erfahren, indem Du auf die Status-Seite des jeweiligen Gegenstandes schaust - Erreichbar über die 'i' Schaltfläche.</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>Verfügbare Entspannungsarten</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>Fehlende Entspannungsarten</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>Bei der aktuellen Erwartungshaltung ({0}) fällt jede Toleranz um {1} pro Tag (wach). Es wird empfohlen {2} Entspannungsarten zu haben.</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>gelangweilt</bored>
+
+  <!-- EN: Boredom -->
+  <Boredom>Langeweile</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <BoredomDesc>Die folgenden Personen benötigen entweder Entspannung, oder sollen sich entspannen, sind aber von den verfügbaren Möglichkeiten gelangweilt:\n\n{0}\n\nOrganisiere unterschiedliche Entspannungsmöglichkeiten.\n\nAktuell verfügbare Entspannungsarten für {PAWN_labelShort}:\n\n{2}</BoredomDesc>
+
+  <!-- EN: Need batteries -->
+  <NeedBatteries>Batterien benötigt</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
+  <NeedBatteriesDesc>Du hast Solar- oder Windenergie, aber keine Batterien. Das bedeutet, dass Du nach Sonnenuntergang oder bei Windstille keinen Strom mehr hast.\n\nBaue ein oder zwei Batterien mit denen Du eine konstante Stromversorgung sichern kannst.</NeedBatteriesDesc>
+
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>Raufbold trägt Fernkampfwaffe</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>Einer Deiner Kolonisten hat die 'Raufbold'-Eigenschaft, aber trägt eine Fernkampfwaffe. Das wird ihn unzufrieden stimmen.</BrawlerHasRangedWeaponDesc>
+
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>Schildgürtelträger hat Fernkampfwaffe</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>Einer Deiner Kolonisten hat einen Schildgürtel und trägt eine Fernkampfwaffe. Der Energieschild verhindert, dass er die Waffe gegen Gegner einsetzen kann (außer gegen Ziele, die den Energieschild berühren).</ShieldUserHasRangedWeaponDesc>
+
+  <!-- EN: Need research project -->
+  <NeedResearchProject>Keine Forschung</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <NeedResearchProjectDesc>Du hast die Ausrüstung zum Forschen, aber kein Forschungsprojekt.\n\nÖffne das Forschungsmenü und wähle eines aus.</NeedResearchProjectDesc>
+  
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>{0} Kolonisten untätig</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>Die folgenden Kolonisten laufen untätig herum:\n\n{0}\nDu solltest ihnen eine Arbeit zuweisen.</ColonistsIdleDesc>
+
+  <!-- EN: Colonist needs treatment -->
+  <ColonistNeedsTreatment>Behandlung benötigt</ColonistNeedsTreatment>
+  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>Die folgenden Kolonisten benötigen medizinische Behandlung. Ohne diese können sie an ihren Verletzungen sterben oder bekommen bleibende Schäden.\n\n{0}\nBehandle sie, indem Du sie in ein Krankenbett schickst.\n\n(Definiere zuerst ein Krankenbett, indem Du ein Bett anwählst und es in ein Krankenbett umwandelst. Wähle danach den verwundeten Kolonisten aus und rechtsklicke auf das Krankenbett, um ihn zum Patienten zu machen.)</ColonistNeedsTreatmentDesc>
+
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>Hypothermie</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia.\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>Die folgenden Kolonisten leiden an Unterkühlung.\n\n{0}\nStelle sicher, dass sie entsprechend der Jahreszeit gekleidet und Innenräume gut geheizt sind.</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>{0} Patient(en) warten auf ihre Operation</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>Diese Patienten warten auf einen chirurgischen Eingriff:\n\n{0}\nStelle sicher, dass Du das benötigte medizinische Material sowie einen Arzt zur Verfügung stehen hast.</PatientsAwaitingMedicalOperationDesc>
+
+  <!-- EN: Fire! -->
+  <FireInHomeArea>Feuer!</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>Im Heimatgebiet ist ein Feuer ausgebrochen.</FireInHomeAreaDesc>
+
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>Medizinischer Notfall</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>Die folgenden Personen stehen kurz davor, an ihrer schweren Krankheit zu sterben:\n\n{0}\nSorge dafür, dass sie die bestmögliche ärztliche Versorgung erhalten.</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Die folgenden Personen stehen kurz davor, an ihrer schweren Krankheit zu sterben:\n\n{0}\nZiehe in Betracht, die infizierten Körperteile, soweit möglich, zu ersetzen oder zumindest zu amputieren.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>Billard braucht Platz</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>Einer Deiner Billardtische steht an einer Blockade. Das verhindert, dass Deine Kolonisten ihn benutzen können.\n\nEin Billardtisch braucht rundherum freien Platz, um benutzt werden zu können.</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>Jäger hat Schild und Fernwaffe</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>Einer Deiner Jäger benutzt eine Fernkampfwaffe und trägt einen Schildgürtel, der Schüsse verhindert.\n\nSolange er den Schildgürtel trägt, kann er nicht jagen gehen.</HunterHasShieldAndRangedWeaponDesc>
+
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>Warme Kleidung benötigt</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>Mindestens {0} Deiner Kolonisten wird/werden in der kalten Jahreszeit keine warme Kleidung haben.</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>Alle Deine Kolonisten werden in der kalten Jahreszeit keine warme Kleidung haben.</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>Die Außentemperatur wird {0} erreichen.\n\nDu kannst warme Kleidung am Schneidertisch herstellen oder von Händlern kaufen.</NeedWarmClothesDesc2>
+  
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>Unbewegliche Karawane</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>Eine Deiner Karawanen kann sich nicht bewegen, da sie zu viel transportiert.\n\nDu kannst sie wieder mobil machen, indem Du einige Gegenstände über den GEGENSTÄNDE-Tab entfernst.</ImmobileCaravanDesc>
+  
+</LanguageData>

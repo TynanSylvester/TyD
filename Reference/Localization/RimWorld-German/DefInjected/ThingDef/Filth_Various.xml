@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amniotic fluid -->
+  <Filth_AmnioticFluid.label>Fruchtwasser</Filth_AmnioticFluid.label>
+  
+  <!-- EN: animal filth -->
+  <Filth_AnimalFilth.label>Tierischer Abfall</Filth_AnimalFilth.label>
+  
+  <!-- EN: ash -->
+  <Filth_Ash.label>Asche</Filth_Ash.label>
+  
+  <!-- EN: blood -->
+  <Filth_Blood.label>Blut</Filth_Blood.label>
+  
+  <!-- EN: bugblood -->
+  <Filth_BloodInsect.label>Käferblut</Filth_BloodInsect.label>
+  
+  <!-- EN: corpse bile -->
+  <Filth_CorpseBile.label>Leichenflüssigkeit</Filth_CorpseBile.label>
+  
+  <!-- EN: dirt -->
+  <Filth_Dirt.label>Dreck</Filth_Dirt.label>
+  
+  <!-- EN: firefoam -->
+  <Filth_FireFoam.label>Löschschaum</Filth_FireFoam.label>
+  
+  <!-- EN: chemfuel puddle -->
+  <Filth_Fuel.label>Treibstoffpfütze</Filth_Fuel.label>
+  <!-- EN: A puddle of flammable chemfuel. -->
+  <Filth_Fuel.description>Eine Pfütze aus brennbarem Treibstoff.</Filth_Fuel.description>
+  
+  <!-- EN: building rubble -->
+  <Filth_RubbleBuilding.label>Schutt</Filth_RubbleBuilding.label>
+  
+  <!-- EN: rock rubble -->
+  <Filth_RubbleRock.label>Geröll</Filth_RubbleRock.label>
+  
+  <!-- EN: sand -->
+  <Filth_Sand.label>Sand</Filth_Sand.label>
+  
+  <!-- EN: slime -->
+  <Filth_Slime.label>Schleim</Filth_Slime.label>
+  
+  <!-- EN: trash -->
+  <Filth_Trash.label>Müll</Filth_Trash.label>
+  
+  <!-- EN: vomit -->
+  <Filth_Vomit.label>Erbrochenes</Filth_Vomit.label>
+  
+  <!-- EN: scattered sandbags -->
+  <SandbagRubble.label>Zerstörte Sandsäcke</SandbagRubble.label>
+  
+  <!-- EN: scattered slag -->
+  <SlagRubble.label>Schlacke</SlagRubble.label>
+  
+</LanguageData>

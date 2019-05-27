@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>Dromedar</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <Dromedary.description>Ein großes Landsäugetier, dass an die trockenen Bedingungen der Savannen angepasst ist. Seit frühester Zeit wird es schon gezähmt und liefert Wolle und Leder, das sehr gut gegen die Hitze isoliert, auch die Milch ist sehr erfrischend. Es kann als Lasttier eingesetzt werden, aber sein hüpfender Gang macht es nicht angenehm, auf ihm größere Entfernungen zurück zu legen.\n\nIndem es Wasser in seinen großen Höckern speichert und Feuchtigkeit aus der Atemluft zurückgewinnt, kann es wochenlang ohne Wasser auskommen.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>linkem Huf</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>rechtem Huf</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>Kopf</Dromedary.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>Gazelle</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>Eine kleine, extrem schnelle Antilope, die für ihre unglaublich weiten Sprünge bekannt ist.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>linkem Huf</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>rechtem Huf</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>Kopf</Gazelle.tools.head.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>Leguan</Iguana.label>
+  <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
+  <Iguana.description>Diese großen Echsen ernähren sich normalerweise von Pflanzen. Wenn man sie verärgert, stellen sie aufgrund ihrer zähen Haut und scharfen Krallen eine ziemliche Bedrohung dar.\n\nRuhende Leguane halten ihren Kopf hoch, was ihnen einen 'stolzen' Ausdruck verleiht. Aber sie sind nicht stolz: Sie versuchen nur rechtzeitig Räuber zu erkennen, sodass sie nicht gefressen werden.</Iguana.description>
+  <!-- EN: left claw -->
+  <Iguana.tools.left_claw.label>linker Klaue</Iguana.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Iguana.tools.right_claw.label>rechter Klaue</Iguana.tools.right_claw.label>
+  <!-- EN: head -->
+  <Iguana.tools.head.label>Kopf</Iguana.tools.head.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>Muffalo</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Ein großes, pflanzenfressendes, vom Büffel abstammendes Herdentier, welches sich an die kalte und warme Umgebungen angepasst hat. Wütend sind Muffalos tödlich, aber gezähmte Muffalos sind recht friedlich und können als Lasttiere eingesetzt werden.\n\nNiemand ist sich sicher, warum sie blau sind. Es kann eventuell auch ein früher Gen-Versuch sein, der nie rückgängig gemacht wurde.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>Kopf</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>linkem Huf</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>rechtem Huf</Muffalo.tools.right_hoof.label>
+  
+</LanguageData>

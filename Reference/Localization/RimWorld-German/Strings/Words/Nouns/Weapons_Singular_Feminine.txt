@@ -1,0 +1,20 @@
+﻿//Example: "Die ..."
+Klinge
+Rasierklinge
+Sense
+Sichel
+Lanze
+Axt
+Peitsche
+Säge
+Armbrust
+Waffe
+Pistole
+Kanone
+Haubitze
+Bombe
+Atombombe
+Landmine
+Granate
+Rakete
+Handgranate

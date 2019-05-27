@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bird -->
+  <Bird.label>Vogel</Bird.label>
+  <!-- EN: left lung -->
+  <Bird.corePart.parts.left_lung.customLabel>Linke Lunge</Bird.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Bird.corePart.parts.right_lung.customLabel>Rechte Lunge</Bird.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Bird.corePart.parts.left_kidney.customLabel>Linke Niere</Bird.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Bird.corePart.parts.right_kidney.customLabel>Rechte Niere</Bird.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Linkes Auge</Bird.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Rechtes Auge</Bird.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left leg -->
+  <Bird.corePart.parts.left_leg.customLabel>Linkes Bein</Bird.corePart.parts.left_leg.customLabel>
+  <!-- EN: left foot -->
+  <Bird.corePart.parts.left_leg.parts.left_foot.customLabel>Linker Fuß</Bird.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <Bird.corePart.parts.right_leg.customLabel>Rechtes Bein</Bird.corePart.parts.right_leg.customLabel>
+  <!-- EN: right foot -->
+  <Bird.corePart.parts.right_leg.parts.right_foot.customLabel>Rechter Fuß</Bird.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+</LanguageData>

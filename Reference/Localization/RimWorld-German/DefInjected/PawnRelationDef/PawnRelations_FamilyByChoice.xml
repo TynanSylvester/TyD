@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son-in-law -->
+  <ChildInLaw.label>Schwiegersohn</ChildInLaw.label>
+  <!-- EN: daughter-in-law -->
+  <ChildInLaw.labelFemale>Schwiegertochter</ChildInLaw.labelFemale>
+  
+  <!-- EN: ex-lover -->
+  <ExLover.label>Ex-Liebhaber</ExLover.label>
+  <ExLover.labelFemale>Ex-Geliebte</ExLover.labelFemale>
+  
+  <!-- EN: ex-husband -->
+  <ExSpouse.label>Ex-Mann</ExSpouse.label>
+  <!-- EN: ex-wife -->
+  <ExSpouse.labelFemale>Ex-Frau</ExSpouse.labelFemale>
+  
+  <!-- EN: fiance -->
+  <Fiance.label>Verlobter</Fiance.label>
+  <!-- EN: fiancée -->
+  <Fiance.labelFemale>Verlobte</Fiance.labelFemale>
+  
+  <!-- EN: lover -->
+  <Lover.label>Liebhaber</Lover.label>
+  <Lover.labelFemale>Geliebte</Lover.labelFemale>
+  
+  <!-- EN: father-in-law -->
+  <ParentInLaw.label>Schwiegervater</ParentInLaw.label>
+  <!-- EN: mother-in-law -->
+  <ParentInLaw.labelFemale>Schwiegermutter</ParentInLaw.labelFemale>
+  
+  <!-- EN: husband -->
+  <Spouse.label>Ehemann</Spouse.label>
+  <!-- EN: wife -->
+  <Spouse.labelFemale>Ehefrau</Spouse.labelFemale>
+  
+  <!-- EN: stepson -->
+  <Stepchild.label>Stiefsohn</Stepchild.label>
+  <!-- EN: stepdaughter -->
+  <Stepchild.labelFemale>Stieftochter</Stepchild.labelFemale>
+  
+  <!-- EN: stepfather -->
+  <Stepparent.label>Stiefvater</Stepparent.label>
+  <!-- EN: stepmother -->
+  <Stepparent.labelFemale>Stiefmutter</Stepparent.labelFemale>
+  
+</LanguageData>

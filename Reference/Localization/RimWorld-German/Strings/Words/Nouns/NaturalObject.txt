@@ -1,0 +1,34 @@
+﻿//Intended as small-scale objects, not major terrain formations
+//Includes animal, vegetable, and mineral
+Felsen
+Stein
+Brocken
+Baum
+Gebüsch
+Busch
+Teich
+Becken
+See
+Hügel
+Höhle
+Stumpf
+Spitze
+Panzer
+Feder
+Samen
+Stamm
+Rinde
+Frucht
+Nadel
+Käfer
+Insekt
+Huf
+Klaue
+Schwanz
+Fell
+Haut
+Horn
+Zahn
+Flügel
+Kamm
+Holz

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elephant -->
+  <Elephant.label>Elefant</Elephant.label>
+  <Elephant.labelPlural>Elefanten</Elephant.labelPlural>
+  <!-- EN: elephant calf -->
+  <Elephant.lifeStages.elephant_calf.label>Elefantenbaby</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.lifeStages.1.label>junger Elefant</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.2.label>Elefant</Elephant.lifeStages.2.label>
+  
+  <!-- EN: megasloth -->
+  <Megasloth.label>Riesenfaultier</Megasloth.label>
+  <Megasloth.labelPlural>Riesenfaultiere</Megasloth.labelPlural>
+  <Megasloth.lifeStages.0.label>Riesenfaultierbaby</Megasloth.lifeStages.0.label>
+  <Megasloth.lifeStages.1.label>junges Riesenfaultier</Megasloth.lifeStages.1.label>
+  <Megasloth.lifeStages.2.label>Riesenfaultier</Megasloth.lifeStages.2.label>
+  
+  <!-- EN: rhinoceros -->
+  <Rhinoceros.label>Nashorn</Rhinoceros.label>
+  <!-- EN: rhinoceroses -->
+  <Rhinoceros.labelPlural>Nashörner</Rhinoceros.labelPlural>
+  <Rhinoceros.lifeStages.0.label>Nashornkalb</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.0.labelPlural>Nashornkälber</Rhinoceros.lifeStages.0.labelPlural>
+  <Rhinoceros.lifeStages.1.label>junges Nashorn</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.2.label>Nashorn</Rhinoceros.lifeStages.2.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>Thrumbo</Thrumbo.label>
+  <Thrumbo.labelPlural>Thrumbos</Thrumbo.labelPlural>
+  <!-- EN: thrumbo calf -->
+  <Thrumbo.lifeStages.thrumbo_calf.label>Thrumbo-Baby</Thrumbo.lifeStages.thrumbo_calf.label>
+  <!-- EN: thrumbo calves -->
+  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>Thrumbo-Babys</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.lifeStages.1.label>junger Thrumbo</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>Alphathrumbo</Thrumbo.lifeStages.2.label>
+  
+</LanguageData>

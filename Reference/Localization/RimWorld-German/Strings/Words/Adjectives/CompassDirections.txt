@@ -1,0 +1,8 @@
+﻿nördl.
+nordöstl.
+östl.
+südöstl.
+südl.
+südwestl.
+westl.
+nordwestl.

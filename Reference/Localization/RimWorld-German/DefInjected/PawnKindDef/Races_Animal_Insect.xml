@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>Riesenskarabäus</Megascarab.label>
+  <Megascarab.labelPlural>Riesenskarabäen</Megascarab.labelPlural>
+  <Megascarab.lifeStages.0.label>Riesenskarabäuslarve</Megascarab.lifeStages.0.label>
+  <Megascarab.lifeStages.1.label>junger Riesenskarabäus</Megascarab.lifeStages.1.label>
+  <Megascarab.lifeStages.2.label>Riesenskarabäus</Megascarab.lifeStages.2.label>
+  
+  <!-- EN: megaspider -->
+  <Megaspider.label>Riesenspinne</Megaspider.label>
+  <Megaspider.labelPlural>Riesenspinnen</Megaspider.labelPlural>
+  <Megaspider.lifeStages.0.label>Riesenspinnenlarve</Megaspider.lifeStages.0.label>
+  <Megaspider.lifeStages.1.label>junge Riesenspinne</Megaspider.lifeStages.1.label>
+  <Megaspider.lifeStages.2.label>Riesenspinne</Megaspider.lifeStages.2.label>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>Höhlenkäfer</Spelopede.label>
+  <Spelopede.labelPlural>Höhlenkäfer</Spelopede.labelPlural>
+  <Spelopede.lifeStages.0.label>Höhlenkäferlarve</Spelopede.lifeStages.0.label>
+  <Spelopede.lifeStages.1.label>junger Höhlenkäfer</Spelopede.lifeStages.1.label>
+  <Spelopede.lifeStages.2.label>Höhlenkäfer</Spelopede.lifeStages.2.label>
+  
+</LanguageData>

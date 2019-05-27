@@ -1,0 +1,136 @@
+﻿//Example: "Das Thema: ..." 
+Kindheit
+Kindheitsängste
+Jugendliebe
+Kindheitserfahrungen
+Leben
+Die Herausforderungen des Lebens
+Die Belohnungen des Lebens
+Die Erinnerungen des Lebens
+Die Ziele des Lebens
+Die Fehlentscheidungen des Lebens
+Der Stress im Leben
+Die Enttäuschungen des Lebens
+Die Sinnlosigkeit des Lebens
+Die Zufälligkeit des Lebens
+Hoffnung
+Reifheit
+Erwachsen-sein
+Kinder
+Ängste
+Alpträume
+Erfolg
+Die Moral der Armut
+Die Moral des Reichtums
+
+Tod
+Die Unabdinglichkeit des Todes
+Die Erlösung des Todes
+Das Leben nach dem Tode
+Der Tod von geliebten Menschen
+Abwesende Freunde
+
+Wohltätigkeit
+Philanthropismus
+Hilfe für die Unterdrückten
+Hilfe für die Kranken
+Hilfe für die Armen
+
+Außerirdische
+Der Kontakt mit Außerirdischen
+Alien-Verschwörungen
+Das Fehlen von Außerirdischen
+Verschwörungen der Regierung
+Verschwörungen der Religion
+
+Sterne
+Andere Planeten
+Dieser Planet
+Die Größe des Universums
+Das Alter des Universums
+Die Eroberung des Universums durch die Menschheit
+
+Primitivismus
+Luddismus
+Technologie
+Maschinen-Intelligenz
+Künstliche Intelligenz
+Computertechnologie
+Waffentechnologie
+
+Gesellschaft
+Moral
+Freiheit
+Gesetz
+Regierung
+Rechte
+
+Geschichte
+Terror
+Terrorismus
+Politik
+Ehre
+Gesellschaftliche Probleme
+Markt
+Anarchie
+Ungerechtigkeit
+Gerechtigkeit
+Wahrheit
+Stammesleben
+Vorlieben
+
+Philosophie
+Realität
+Kultur
+Kulturelle Differenzen
+Kulturschock
+Die menschliche Natur
+Menschlichkeit
+Religion
+Der Sinn des Lebens
+Identität
+Unendlichkeit
+Monismus
+Dualismus
+Erkenntnistheorie
+Ehrlichkeit
+Redefreiheit
+Ethnie
+Liberalismus
+Die Unabwendbarkeit des Leidens
+Die Natur des Wissens
+Die Natur der Emotionen
+
+Schicksal
+Das Schicksal der Menschheit
+Das Schicksal des Universums
+
+Kunst
+Kunstbewegungen
+Künstlerische Ambitionen
+Menschliche Ästhetik
+Kunsthistorie
+
+Liebe
+Romantik
+Sexualität
+sexuelle Moral
+Männlichkeit
+Weiblichkeit
+
+Selbstreplizierende Maschinen
+Generationenraumschiffe
+Von-Neumann-Sonden
+
+Archotechnologie
+Archotechs
+KI-Persönlichkeiten
+Der Johnson-Tanaka-Antrieb
+Die Ordo Historia
+Alte Erde
+Randwelten
+Kernwelten
+Kryptoschlaf
+Kryptoschlafkapseln
+Mechanoiden
+Kannibalismus

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dromedary -->
+  <Dromedary.label>Dromedar</Dromedary.label>
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>Dromedare</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>Dromedarkalb</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>Dromedarkälber</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.1.label>junges Dromedar</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.2.label>Dromedar</Dromedary.lifeStages.2.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>Gazelle</Gazelle.label>
+  <Gazelle.labelPlural>Gazellen</Gazelle.labelPlural>
+  <Gazelle.lifeStages.0.label>Gazellenjunges</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.0.labelPlural>Gazellenjunge</Gazelle.lifeStages.0.labelPlural>
+  <Gazelle.lifeStages.1.label>junge Gazelle</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.2.label>Gazelle</Gazelle.lifeStages.2.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>Leguan</Iguana.label>
+  <Iguana.labelPlural>Leguane</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>Leguanjunges</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelPlural>Leguanjunge</Iguana.lifeStages.0.labelPlural>
+  <Iguana.lifeStages.1.label>junger Leguan</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.2.label>Leguan</Iguana.lifeStages.2.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>Muffalo</Muffalo.label>
+  <Muffalo.labelPlural>Muffalos</Muffalo.labelPlural>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>Muffalokalb</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>Muffalokälber</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.1.label>junger Muffalo</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.2.label>Muffalo</Muffalo.lifeStages.2.label>
+  
+</LanguageData>

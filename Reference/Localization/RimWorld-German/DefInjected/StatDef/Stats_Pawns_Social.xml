@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: negotiation ability -->
+  <NegotiationAbility.label>Verhandlungsgeschick</NegotiationAbility.label>
+  <!-- EN: How effective this person is as a negotiator. This affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
+  <NegotiationAbility.description>Wie effektiv diese Person beim Verhandeln ist. Das beeinflusst die Geschwindigkeit einen Gefangenen zu überzeugen und den Effekt auf den Ruf bei einer Fraktion, wenn sie ein Geschenk übergibt. Weiterhin bestimmt es auch den Ausgang von Friedensverhandlungen mit anderen Fraktionen.</NegotiationAbility.description>
+  
+  <!-- EN: social impact -->
+  <SocialImpact.label>Überzeugungskraft</SocialImpact.label>
+  <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
+  <SocialImpact.description>Ein Multiplikator auf wie hoch die Auswirkung sozialer Interaktionen dieser Person gegenüber anderen Personen ist.</SocialImpact.description>
+  
+  <!-- EN: tame animal chance -->
+  <TameAnimalChance.label>Tierzähmungschance</TameAnimalChance.label>
+  <!-- EN: The base chance this person will successfully tame an animal on any given attempt. The actual chance is also affected by the animal's wildness. Failed tame attempt can induce animal attacks, especially for more vicious animals. -->
+  <TameAnimalChance.description>Wie hoch die Chance ist, ein Tier pro Versuch erfolgreich zähmen zu können. Die aktuelle Chance ist zusätzlich abhängig davon, wie wild das Tier ist. Fehlgeschlagene Versuche können gerade bei bösartigen Tieren zu einem Angriff führen.</TameAnimalChance.description>
+  
+  <!-- EN: trade price improvement -->
+  <TradePriceImprovement.label>Handelspreisverbesserung</TradePriceImprovement.label>
+  <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
+  <TradePriceImprovement.description>Um wie viel die Kauf- und Verkaufspreise beim Handeln angepasst werden.</TradePriceImprovement.description>
+  
+  <!-- EN: train animal chance -->
+  <TrainAnimalChance.label>Tiertrainingschance</TrainAnimalChance.label>
+  <!-- EN: The base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
+  <TrainAnimalChance.description>Wie hoch die Chance ist, ein Tier erfolgreich trainieren zu können. Die aktuelle Chance ist zusätzlich abhängig davon, wie wild das Tier ist, ob es das Haustier des Trainers ist, und so weiter.</TrainAnimalChance.description>
+  
+</LanguageData>

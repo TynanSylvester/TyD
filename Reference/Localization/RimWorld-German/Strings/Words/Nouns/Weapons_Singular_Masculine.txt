@@ -1,0 +1,21 @@
+﻿//Example: "Der ..."
+Dolch
+Säbel
+Rapier
+Flamberg
+Speer
+Ikwa
+Wurfspeer
+Tomahawk
+Knüppel
+Hammer
+Vorschlaghammer
+Morgenstern
+Schlagring
+Handschuh
+Wurfpfeil
+Pfeil
+Bogen
+Revolver
+Mörser
+Lenkflugkörper

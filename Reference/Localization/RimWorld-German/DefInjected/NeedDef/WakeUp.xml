@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: wake-up -->
+  <Chemical_WakeUp.label>Muntermacher</Chemical_WakeUp.label>
+  <!-- EN: Because of an wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_WakeUp.description>Wegen einer Sucht nach Muntermacher muss diese Person diese Droge regelmäßig konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_WakeUp.description>
+  
+</LanguageData>

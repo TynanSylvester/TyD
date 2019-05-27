@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: creek -->
+  <Creek.label>Bach</Creek.label>
+  
+  <!-- EN: huge river -->
+  <HugeRiver.label>Riesiger Fluss</HugeRiver.label>
+  
+  <!-- EN: large river -->
+  <LargeRiver.label>Großer Fluss</LargeRiver.label>
+  
+  <!-- EN: river -->
+  <River.label>Fluss</River.label>
+  
+</LanguageData>

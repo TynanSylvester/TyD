@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arid shrubland -->
+  <AridShrubland.label>Savanne</AridShrubland.label>
+  <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
+  <AridShrubland.description>Eine trockene Gegend, aber nicht trocken genug für eine echte Sandwüste. Offene Ebenen mit Gras und Büschen sowie einzelnen Baumgruppen. Hier wachsen widerstandsfähige Pflanzen und es gibt sogar einige Tiere, aber landwirtschaftlich nutzbarer Boden ist hier schwer zu finden.</AridShrubland.description>
+  
+  <!-- EN: desert -->
+  <Desert.label>Wüste</Desert.label>
+  <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
+  <Desert.description>Eine sehr trockene Gegend, in der es nur sehr wenige Tiere und Pflanzen gibt. Auch landwirtschaftlich nutzbarer Boden ist kaum vorhanden. Wüsten können sehr heiß, aber auch sehr kalt sein.</Desert.description>
+  
+  <!-- EN: extreme desert -->
+  <ExtremeDesert.label>Extreme Wüste</ExtremeDesert.label>
+  <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
+  <ExtremeDesert.description>Eine extrem trockene und heiße Gegend, in der es nahezu kein Leben gibt. Versengende Hitze und sehr wenig fruchtbarer Boden machen es extrem schwer, hier zu überleben.</ExtremeDesert.description>
+  
+</LanguageData>

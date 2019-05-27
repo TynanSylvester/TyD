@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass animal insanity -->
+  <AnimalInsanityMass.label>Massenpanik (Tier)</AnimalInsanityMass.label>
+  
+  <!-- EN: single animal insanity -->
+  <AnimalInsanitySingle.label>Panik (Tier)</AnimalInsanitySingle.label>
+  
+  <!-- EN: deep drill infestation -->
+  <DeepDrillInfestation.label>Tiefenbohrung: Käferbefall</DeepDrillInfestation.label>
+  <!-- EN: Too deep: Infestation -->
+  <DeepDrillInfestation.letterLabel>Zu Tief: Käferbefall</DeepDrillInfestation.letterLabel>
+  <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
+  <DeepDrillInfestation.letterText>Vibrationen von Deinem Tiefenbohrer haben eine unterirdische Insektenkolonie verärgert. Sie wollen Rache und graben sich jetzt an die Oberfläche!\n\nVorsicht: Die Insekten wurden verärgert und werden versuchen Deine Basis zu zerstören.</DeepDrillInfestation.letterText>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>Käferbefall</Infestation.label>
+  <!-- EN: Infestation -->
+  <Infestation.letterLabel>Käferbefall</Infestation.letterLabel>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <Infestation.letterText>Riesige Käfer graben sich zu Dir durch. Sie werden jeden Moment durchbrechen und eine Kolonie errichten.\n\nDie Käferkolonien werden langsam Käfer und weitere Kolonien generieren.\n\nWenn Du nicht willst, dass sie das ganze Gebiet befallen, nimm Deine Truppen und zerstöre die Kolonien. Aber Vorsicht: Die Käfer werden ihre Wohnungen verteidigen.</Infestation.letterText>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>Menschenjäger-Rudel</ManhunterPack.label>
+  
+  <!-- EN: ship part crash (poison) -->
+  <PoisonShipPartCrash.label>Schiffs-Fragment (Giftig)</PoisonShipPartCrash.label>
+  <!-- EN: Poison ship -->
+  <PoisonShipPartCrash.letterLabel>Giftiges Schiff</PoisonShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIt's mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PoisonShipPartCrash.letterText>Ein großes Fragment eines uralten Schiffes ist in der Nähe eingeschlagen. Dessen mysteriöser Einfluss lässt die Pflanzen in einem immer größer werdenden Bereich absterben.\n\nZerstöre es so bald wie möglich. Aber Vorsicht: Es wird sich wahrscheinlich verteidigen.</PoisonShipPartCrash.letterText>
+  
+  <!-- EN: ship part crash (psychic) -->
+  <PsychicEmanatorShipPartCrash.label>Schiffs-Fragment (Übersinnlich)</PsychicEmanatorShipPartCrash.label>
+  <!-- EN: Psychic ship -->
+  <PsychicEmanatorShipPartCrash.letterLabel>Übersinnliches Schiff</PsychicEmanatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard AI persona with psychic projection ability. And this AI is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PsychicEmanatorShipPartCrash.letterText>Ein großes Fragment eines uralten Schiffes ist in der Nähe eingeschlagen.\n\nDeine Kolonisten spüren instinktiv, wie es Unaussprechliches mit ihrem Geist anstellt. An Bord muss sich eine aktive KI mit psychisch projizierenden Fähigkeiten befinden. Und diese KI ist Dir nicht freundlich gesinnt.\n\nZerstöre sie so bald wie möglich. Aber Vorsicht: Es wird sich wahrscheinlich verteidigen.</PsychicEmanatorShipPartCrash.letterText>
+  
+  <!-- EN: enemy raid -->
+  <RaidEnemy.label>Überfall</RaidEnemy.label>
+  
+</LanguageData>

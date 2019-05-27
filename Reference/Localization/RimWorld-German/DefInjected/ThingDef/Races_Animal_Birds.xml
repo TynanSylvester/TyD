@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>Kasuar</Cassowary.label>
+  <!-- EN: A large flightless bird with brightly-colored feathers. While it looks beautiful, its kick is vicious. It's known for being quick to aggression when harmed by violence or confronted by incompetent animal tamers. -->
+  <Cassowary.description>Ein großer, flugunfähiger Vogel mit einem hell leuchtendem Federkleid. Auch wenn es wunderschön aussieht, sollte man seinem Tritt möglichst aus dem Weg gehen. Er ist bekannt dafür schnell aggressiv zu werden wenn er verletzt wird oder von unfähigen Tierzähmern konfrontiert wird.</Cassowary.description>
+  <!-- EN: bird meat -->
+  <Cassowary.race.meatLabel>Vogelfleisch</Cassowary.race.meatLabel>
+  <!-- EN: claws -->
+  <Cassowary.tools.claws.label>Klauen</Cassowary.tools.claws.label>
+  <!-- EN: beak -->
+  <Cassowary.tools.beak.label>Schnabel</Cassowary.tools.beak.label>
+  <!-- EN: head -->
+  <Cassowary.tools.head.label>Kopf</Cassowary.tools.head.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>Emu</Emu.label>
+  <!-- EN: A large flightless bird with beady eyes on its ugly face. With its bad attitude, it is the jerk of the natural world. Bother it, and it is guaranteed to seek revenge. -->
+  <Emu.description>Ein großer, flugunfähiger Vogel mit Knopfaugen in seinem hässlichen Gesicht. Mit seiner üblen Einstellung ist er der Trottel der natürlichen Welt. Ärgere ihn und er wird sich sofort rächen.</Emu.description>
+  <!-- EN: claws -->
+  <Emu.tools.claws.label>Klauen</Emu.tools.claws.label>
+  <!-- EN: beak -->
+  <Emu.tools.beak.label>Schnabel</Emu.tools.beak.label>
+  <!-- EN: head -->
+  <Emu.tools.head.label>Kopf</Emu.tools.head.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>Strauß</Ostrich.label>
+  <!-- EN: The largest unmodified bird species, ostriches are known for their fast run, huge eggs, and powerful kick. It is easily angered. -->
+  <Ostrich.description>Der größte flugunfähige Vogel der alten Erde ist aufgrund seines begehrten Fleisches, der Federn und des Leders nahezu ausgestorben gewesen. Kann leicht verärgert werden.</Ostrich.description>
+  <!-- EN: claws -->
+  <Ostrich.tools.claws.label>Klauen</Ostrich.tools.claws.label>
+  <!-- EN: beak -->
+  <Ostrich.tools.beak.label>Schnabel</Ostrich.tools.beak.label>
+  <!-- EN: head -->
+  <Ostrich.tools.head.label>Kopf</Ostrich.tools.head.label>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>Truthahn</Turkey.label>
+  <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
+  <Turkey.description>Ein kleiner, fetter, flugunfähiger Vogel, der für seinen urkomischen Paarungsruf bekannt ist. Er ist schon lange domestiziert, lebt aber auch in freier Wildbahn.</Turkey.description>
+  <!-- EN: claws -->
+  <Turkey.tools.claws.label>Klauen</Turkey.tools.claws.label>
+  <!-- EN: beak -->
+  <Turkey.tools.beak.label>Schnabel</Turkey.tools.beak.label>
+  <!-- EN: head -->
+  <Turkey.tools.head.label>Kopf</Turkey.tools.head.label>
+  
+</LanguageData>

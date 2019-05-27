@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <AnimalAdult.label>Erwachsen</AnimalAdult.label>
+  
+  <!-- EN: baby -->
+  <AnimalBaby.label>Neugeborenes</AnimalBaby.label>
+  
+  <!-- EN: baby -->
+  <AnimalBabyTiny.label>Neugeborenes</AnimalBabyTiny.label>
+  
+  <!-- EN: juvenile -->
+  <AnimalJuvenile.label>Jugendlich</AnimalJuvenile.label>
+  
+  <!-- EN: adult -->
+  <EusocialInsectAdult.label>Erwachsen</EusocialInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <EusocialInsectJuvenile.label>Unreif</EusocialInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <EusocialInsectLarva.label>Larve</EusocialInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <HumanlikeAdult.label>Erwachsen</HumanlikeAdult.label>
+  
+  <!-- EN: baby -->
+  <HumanlikeBaby.label>Neugeborenes</HumanlikeBaby.label>
+  
+  <!-- EN: child -->
+  <HumanlikeChild.label>Kind</HumanlikeChild.label>
+  
+  <!-- EN: teenager -->
+  <HumanlikeTeenager.label>Jugendlich</HumanlikeTeenager.label>
+  <!-- EN: teenage -->
+  <HumanlikeTeenager.adjective>jugendl.</HumanlikeTeenager.adjective>
+  
+  <!-- EN: toddler -->
+  <HumanlikeToddler.label>Kleinkind</HumanlikeToddler.label>
+  
+  <!-- EN: fully-formed -->
+  <MechanoidFullyFormed.label>Voll entwickelt</MechanoidFullyFormed.label>
+  
+</LanguageData>

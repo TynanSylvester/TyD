@@ -1,0 +1,11 @@
+﻿//Example: "Die ..."
+Jacke
+Abendgarderobe
+Energierüstung
+Fliege
+Krawatte
+Baseballmütze
+Strickmütze
+Sandale
+Socke
+Sonnenbrille

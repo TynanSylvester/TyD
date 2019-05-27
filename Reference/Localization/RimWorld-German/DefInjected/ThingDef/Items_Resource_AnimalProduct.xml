@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary egg (fert.) -->
+  <EggCassowaryFertilized.label>Kasuarei (befr.)</EggCassowaryFertilized.label>
+  <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
+  <EggCassowaryFertilized.description>Ein befruchtetes Kasuarei. Wenn alles gut läuft, schlüpft daraus ein junger Kasuar. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCassowaryFertilized.description>
+  
+  <!-- EN: chicken egg (fert.) -->
+  <EggChickenFertilized.label>Hühnerei (befr.)</EggChickenFertilized.label>
+  <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
+  <EggChickenFertilized.description>Ein befruchtetes Hühnerei. Wenn alles gut läuft, schlüpft daraus ein kleines Küken. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenFertilized.description>
+  
+  <!-- EN: chicken egg (unfert.) -->
+  <EggChickenUnfertilized.label>Hühnerei (unbefr.)</EggChickenUnfertilized.label>
+  <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
+  <EggChickenUnfertilized.description>Ein unbefruchtetes Hühnerei. Es kann roh gegessen werden, ist gekocht aber viel besser.</EggChickenUnfertilized.description>
+  
+  <!-- EN: cobra egg (fert.) -->
+  <EggCobraFertilized.label>Kobra-Ei (befr.)</EggCobraFertilized.label>
+  <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
+  <EggCobraFertilized.description>Ein befruchtetes Kobra-Ei. Wenn alles gut läuft, schlüpft daraus eine junge Kobra. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggCobraFertilized.description>
+  
+  <!-- EN: emu egg (fert.) -->
+  <EggEmuFertilized.label>Emuei (befr.)</EggEmuFertilized.label>
+  <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
+  <EggEmuFertilized.description>Ein befruchtetes Emuei. Wenn alles gut läuft, schlüpft daraus ein junges Emu. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggEmuFertilized.description>
+  
+  <!-- EN: iguana egg (fert.) -->
+  <EggIguanaFertilized.label>Leguanei (befr.)</EggIguanaFertilized.label>
+  <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
+  <EggIguanaFertilized.description>Ein befruchtetes Leguanei. Wenn alles gut läuft, schlüpft daraus ein junger Leguan. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggIguanaFertilized.description>
+  
+  <!-- EN: ostrich egg (fert.) -->
+  <EggOstrichFertilized.label>Straußenei (befr.)</EggOstrichFertilized.label>
+  <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
+  <EggOstrichFertilized.description>Ein befruchtetes Straußenei. Wenn alles gut läuft, schlüpft daraus ein junger Strauß. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggOstrichFertilized.description>
+  
+  <!-- EN: tortoise egg (fert.) -->
+  <EggTortoiseFertilized.label>Schildkrötenei (befr.)</EggTortoiseFertilized.label>
+  <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
+  <EggTortoiseFertilized.description>Ein befruchtetes Schildkrötenei. Wenn alles gut läuft, schlüpft daraus eine junge Schildkröte. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTortoiseFertilized.description>
+  
+  <!-- EN: turkey egg (fert.) -->
+  <EggTurkeyFertilized.label>Truthahnei (befr.)</EggTurkeyFertilized.label>
+  <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
+  <EggTurkeyFertilized.description>Ein befruchtetes Truthahnei. Wenn alles gut läuft, schlüpft daraus ein junger Truthahn. Das Ei kann roh gegessen werden, ist gekocht aber viel besser.</EggTurkeyFertilized.description>
+  
+  <!-- EN: insect jelly -->
+  <InsectJelly.label>Insekten Gelee</InsectJelly.label>
+  <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
+  <InsectJelly.description>Gelee als Nahrung von überdimensionierten Insekten gehortet. Es ist süffig, reich und hat eine entspannende Wirkung. Aufgrund ihrer einzigartigen biologischen Eigenschaften kann es nahezu jede Kreatur ernähren und es verdirbt nicht.</InsectJelly.description>
+  
+  <!-- EN: milk -->
+  <Milk.label>Milch</Milk.label>
+  <!-- EN: Milk from an animal. -->
+  <Milk.description>Milch von einem Tier.</Milk.description>
+  
+</LanguageData>

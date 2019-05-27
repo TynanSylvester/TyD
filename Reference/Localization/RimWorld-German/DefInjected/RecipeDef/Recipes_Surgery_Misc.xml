@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administer healer mech serum -->
+  <AdministerMechSerumHealer.label>Verabreiche Heilungsnaniten</AdministerMechSerumHealer.label>
+  <!-- EN: Administer a healer mech serum. -->
+  <AdministerMechSerumHealer.description>Verabreiche Heilungsnaniten.</AdministerMechSerumHealer.description>
+  <!-- EN: Administering healer mech serum. -->
+  <AdministerMechSerumHealer.jobString>Verabreicht Heilungsnaniten.</AdministerMechSerumHealer.jobString>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>Betäuben</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Betäubt eine Kreatur durch Verabreichung eines Betäubungsmittels.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>Betäubt.</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>Einschläfern</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Gib aktive Sterbehilfe.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Schläfert ein.</Euthanize.jobString>
+  
+  <!-- EN: excise carcinoma -->
+  <ExciseCarcinoma.label>Entferne Geschwür</ExciseCarcinoma.label>
+  <!-- EN: Excise a carcinoma. -->
+  <ExciseCarcinoma.description>Entferne das Krebsgeschwür.</ExciseCarcinoma.description>
+  <!-- EN: Excising carcinoma. -->
+  <ExciseCarcinoma.jobString>Entfernt Geschwür.</ExciseCarcinoma.jobString>
+  <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} hat das Geschwür von {1} erfolgreich entfernt.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>Entferne Körperteil</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Entferne ein Körperteil.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Entfernt Körperteil.</RemoveBodyPart.jobString>
+  
+</LanguageData>

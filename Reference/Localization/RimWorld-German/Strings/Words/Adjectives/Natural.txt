@@ -1,0 +1,26 @@
+﻿// Things that natural objects could conceivably be (with some flex for poetry)
+//Example: "...es Tal"
+brutal
+dunkl
+fern
+finster
+groß
+rau
+scharf
+felsig
+frei
+grell
+primär
+klein
+alt
+ruhig
+rund
+seltsam
+weise
+eisig
+schlecht
+gut
+stürmisch
+tödlich
+verloren
+zäh

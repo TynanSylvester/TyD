@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: smokeleaf -->
+  <Chemical_Smokeleaf.label>Rauchblatt</Chemical_Smokeleaf.label>
+  <!-- EN: Because of a smokeleaf dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+  <Chemical_Smokeleaf.description>Wegen einer Sucht nach Rauchblatt muss diese Person diese Droge regelmäßig konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_Smokeleaf.description>
+  
+</LanguageData>

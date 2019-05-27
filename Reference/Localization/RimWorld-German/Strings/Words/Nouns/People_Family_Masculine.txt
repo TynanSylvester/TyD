@@ -1,0 +1,8 @@
+﻿//Example:"Ein ..."
+Opa
+Vater
+Sohn
+Bruder
+Onkel
+Neffe
+

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>Polarfuchs</Fox_Arctic.label>
+  <!-- EN: arctic foxes -->
+  <Fox_Arctic.labelPlural>Polarfüchse</Fox_Arctic.labelPlural>
+  <!-- EN: arctic fox puppy -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>Polarfuchswelpe</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <!-- EN: arctic fox puppies -->
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>Polarfuchswelpen</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.1.label>junger Polarfuchs</Fox_Arctic.lifeStages.1.label>
+  <Fox_Arctic.lifeStages.2.label>Polarfuchs</Fox_Arctic.lifeStages.2.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>Wüstenfuchs</Fox_Fennec.label>
+  <!-- EN: fennec foxes -->
+  <Fox_Fennec.labelPlural>Wüstenfüchse</Fox_Fennec.labelPlural>
+  <!-- EN: fennec fox puppy -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>Wüstenfuchswelpe</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <!-- EN: fennec fox puppies -->
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>Wüstenfuchswelpen</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.1.label>junger Wüstenfuchs</Fox_Fennec.lifeStages.1.label>
+  <Fox_Fennec.lifeStages.2.label>Wüstenfuchs</Fox_Fennec.lifeStages.2.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>Rotfuchs</Fox_Red.label>
+  <!-- EN: red foxes -->
+  <Fox_Red.labelPlural>Rotfüchse</Fox_Red.labelPlural>
+  <!-- EN: red fox puppy -->
+  <Fox_Red.lifeStages.red_fox_puppy.label>Rotfuchswelpe</Fox_Red.lifeStages.red_fox_puppy.label>
+  <!-- EN: red fox puppies -->
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>Rotfuchswelpen</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.1.label>junger Rotfuchs</Fox_Red.lifeStages.1.label>
+  <Fox_Red.lifeStages.2.label>Rotfuchs</Fox_Red.lifeStages.2.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>Warg</Warg.label>
+  <Warg.labelPlural>Warge</Warg.labelPlural>
+  <!-- EN: warg puppy -->
+  <Warg.lifeStages.warg_puppy.label>Wargwelpe</Warg.lifeStages.warg_puppy.label>
+  <!-- EN: warg puppies -->
+  <Warg.lifeStages.warg_puppy.labelPlural>Wargwelpen</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.1.label>junger Warg</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>Warg</Warg.lifeStages.2.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>Polarwolf</Wolf_Arctic.label>
+  <!-- EN: arctic wolves -->
+  <Wolf_Arctic.labelPlural>Polarwölfe</Wolf_Arctic.labelPlural>
+  <!-- EN: arctic wolf puppy -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>Polarwolfswelpe</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <!-- EN: arctic wolf puppies -->
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>Polarwolfswelpen</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.1.label>junger Polarwolf</Wolf_Arctic.lifeStages.1.label>
+  <Wolf_Arctic.lifeStages.2.label>Polarwolf</Wolf_Arctic.lifeStages.2.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>Timberwolf</Wolf_Timber.label>
+  <!-- EN: timber wolves -->
+  <Wolf_Timber.labelPlural>Timberwölfe</Wolf_Timber.labelPlural>
+  <!-- EN: timber wolf puppy -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>Timberwolfswelpe</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <!-- EN: timber wolf puppies -->
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>Timberwolfswelpen</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.1.label>junger Timberwolf</Wolf_Timber.lifeStages.1.label>
+  <Wolf_Timber.lifeStages.2.label>Timberwolf</Wolf_Timber.lifeStages.2.label>
+  
+</LanguageData>

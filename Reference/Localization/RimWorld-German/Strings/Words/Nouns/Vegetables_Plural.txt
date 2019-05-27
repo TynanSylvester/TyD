@@ -1,0 +1,19 @@
+﻿//Example: "Die ..."
+Karotten
+Zwiebeln
+Steckrüben
+Flaschenkürbisse
+Kürbisse
+Blumenkohle
+Paprikas
+Pfefferkörner
+Pilze
+Erbsen
+Artischocken
+Auberginen
+Linsen
+Weißkohle
+Rüben
+Maiskolben
+Süßkartoffeln
+Zucchinis

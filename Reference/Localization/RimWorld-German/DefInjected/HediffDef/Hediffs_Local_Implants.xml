@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>Glücklichmacher</Joywire.label>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>ein Glücklichmacher-Implantat</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>Schmerzstopper</Painstopper.label>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>ein Schmerzstopper-Implantat</Painstopper.labelNoun>
+  
+</LanguageData>

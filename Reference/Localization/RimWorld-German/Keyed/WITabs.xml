@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>Gelände</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>Planet</TabPlanet>
+  <!-- EN: Social -->
+  <TabCaravanSocial>Sozial</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>Gesundh.</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>Bedürfnis</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>Ausrüstung</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>Waren</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>Abwerfen {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>Willst Du {0} wirklich abwerfen?\n\nAbgeworfene Gegenstände verschwinden und sind für immer verloren.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>Abwerfen</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>Verbannen</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>Wirf eine bestimmte Anzahl ab</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>Abwerfen (alles)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>Abgeworfene Gegenstände verschwinden und sind für immer verloren.</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>{1_labelShort} wird wahrscheinlich sterben.</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>Kolonisten</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>Gefangene und Tiere</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>Inventar</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>Anklicken, um einen Tab mit genaueren Angaben zu öffnen.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>Gefangene</CaravanPrisoners>
+  <!-- EN: Inventory -->
+  <CaravanWeaponsAndApparel>Inventar</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>Niemand fähig</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Karawane rastet</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>Ziehen zum Umsortieren.</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Drogenrichtlinien zuweisen</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Ob diese Person / dieses Tier von anderen Mitgliedern der Karawane getragen werden soll, wenn sie/es krank ist.\n\nGetragene Karawanen-Mitglieder können sich erholen, auch wenn die Karawane unterwegs ist, aber sie verlangsamen sie.</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>Seed</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>Abdeckung</PlanetCoverageShort>
+
+</LanguageData>

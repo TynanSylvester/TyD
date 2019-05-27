@@ -1,0 +1,138 @@
+﻿Randburg
+Randstadt
+Jamestown
+Rettung
+Neu Berlin
+Mikroville
+Hoffnung
+Ellis
+Die Siedlung
+Am A.. der Welt
+Ludeon
+Neu Montréal
+Banthos
+Parthos
+Lutin
+Shemston
+Kraterton
+Wesselton
+Stinky
+Die Festung
+Planeton
+Bruchlandung
+Congers
+Colome
+Sparks
+Bedias
+Rhine
+Hialeah
+Qulin
+Hope
+Mayaguez
+Seagraves
+Whitaker
+Welsh
+Braselton
+Colwyn
+Sparta
+La Minita
+Lepanto
+Graton
+Progreso
+Antioch
+Nemacolin
+Dannebrog
+Palo Pinto
+Roanoke
+Alturas
+Pottstown
+Caro
+Sparland
+
+//Real Texas ghost towns
+Acala
+Adobes
+Angeles
+Arden
+Arno
+Badger
+Bakersfield
+Best
+Boquillas
+Boracho
+Culberson
+Buena Suerte
+Candelaria
+Casa Piedra
+Castolon
+Cedar Station
+Chispa
+Cheyenne
+Devil’s River
+Dixieland
+Dryden
+Terrell
+Duval
+Winkler
+Edruvera
+Crockett
+Etholen
+Hudspeth
+Eureka
+Finlay
+Holland
+Presidio
+Terrett
+Sutton
+Frankel City
+Andrew
+Frijole
+Girvin
+Grube
+Hembrie
+Hovey
+Judkins
+Juno
+Kent
+Konohassett
+LaTuna
+Lajitas
+Langtry
+Lees
+Lindsey City
+Lobo
+Longfellow
+Mariscal Mine
+Mentone
+Orla
+Owenville
+Pandale
+Penwell
+Plata
+Plateau
+Porterville
+Pumpville
+Pyote
+Quito
+Royalty
+Ruidosa
+Salt Flat
+Saragosa
+Shafter
+Sherwood
+Shumla
+Sprayberry
+Stiles
+Study Butte
+Terlingua
+Tesnus
+Texon
+Theodore
+Tinaja
+Toyah
+Tulsa
+Upland
+Verhalen
+Vinegarroon
+Wentworth
+White Spu

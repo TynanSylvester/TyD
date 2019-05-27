@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>image->a solitary [Character] [desc_pawn]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [TerrainFeature]</li>
+    <li>image->a solitary [Character] [desc_pawn] near a [Community]</li>
+    <li>image->a [Character] [desc_pawn] surrounded by [Character]s</li>
+    <li>image->[Character]s playing [Game]</li>
+    <li>image->a [Character] [desc_pawn] playing [Game] with [Quantity_adjphrase] [Character]s</li>
+    <li>image->a [Character] [desc_pawn] holding a [Weapon]</li>
+    <li>image->a [Character] [desc_pawn] eating a [Vegetable]</li>
+    <li>image->[Quantity_adjphrase] [PersonJob]s and [PersonJob]s eating [Vegetable]s together</li>
+    <li>image->the minor celebrity [NamePerson] [desc_pawn]</li>
+    <li>image->a [Character] wearing a [Apparel] [desc_pawn]</li>
+    <li>image->a [Community]</li>
+    <li>image->a [TerrainFeature]</li>
+    <li>image->a [Weapon]</li>
+    <li>image->a [TreeType] tree</li>
+    <li>image->a [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] [Weapon]s</li>
+    <li>image->[Quantity_adjphrase] [Vegetable]s</li>
+    <li>image->an empty [Apparel]</li>
+    <li>image->a [Shape]</li>
+    <li>image->a [Shape] surrounded by [Shape]s</li>
+    <li>image->an abstracted rendering of [ConceptAny]</li>
+    <li>image->a [AdjectiveAny] abstract shape</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->flying through the air</li>
+    <li>desc_pawn->suspended in the air</li>
+    <li>desc_pawn->moving to the left</li>
+    <li>desc_pawn->moving to the right</li>
+    <li>desc_pawn->sitting on a table</li>
+    <li>desc_pawn->seen through a looking glass</li>
+    <li>desc_pawn->rendered in silhouette</li>
+    <li>desc_pawn->riding on a [Animal] wearing a [Apparel]</li>
+    <li>desc_pawn->looking [AdjectiveAny]</li>
+    <li>desc_pawn->covered in [Gore]</li>
+  -->
+  <TalelessImages.rulePack.rulesStrings>
+    <!-- pawns -->
+    <li>image->einem einsamen, [desc_pawn] [Character]</li>
+    <li>image(p=0.5)->einem einsamen, [desc_pawn] [Character] in der Nähe von einer [TerrainFeatureFem]</li>
+    <li>image(p=0.5)->einem einsamen, [desc_pawn] [Character] in der Nähe von einem [TerrainFeatureMas]</li>
+    <li>image(p=0.5)->einem einsamen, [desc_pawn] [Character] in der Nähe von einem [TerrainFeatureNeu]</li>
+    <li>image->einem einsamen, [desc_pawn] [Character] in der Nähe einer [Community]</li>
+    <li>image->einem [desc_pawn] [Character], der von [CharacterPluralDat] umstellt ist</li>
+    <li>image->[CharacterPlural], die [Game] spielen</li>
+    <li>image->einem [desc_pawn] [Character], der [Game] mit [Quantity_adjphrase_Dat] [CharacterPluralDat] spielt</li>
+    <li>image(p=0.5)->einem [desc_pawn] [Character], der eine [WeaponSingularFem] hält</li>
+    <li>image(p=0.5)->einem [desc_pawn] [Character], der einen [WeaponSingularMas] hält</li>
+    <li>image(p=0.5)->einem [desc_pawn] [Character], der ein [WeaponSingularNeu] hält</li>
+    <li>image->einem [desc_pawn] [Character], der einen [VegetableSingularMas] isst</li>
+    <li>image->einem [desc_pawn] [Character], der eine [VegetableSingularFem] isst</li>
+    <li>image->[Quantity_adjphrase_Dat] [PersonJobPluralDat] und [PersonJobPluralDat], die gemeinsam [VegetablePlural] essen</li>
+    <li>image->der kleinen, [desc_pawn] Berühmtheit [NamePerson]</li>
+    <li>image(p=0.5)->einem [desc_pawn] [Character], der eine [ApparelSingularFem] trägt</li>
+    <li>image(p=0.5)->einem [desc_pawn] [Character], der einen [ApparelSingularMas] trägt</li>
+    <li>image(p=0.2)->einem [desc_pawn] [Character], der ein [ApparelSingularNeu] trägt</li>
+    <!-- terrain -->
+    <li>image->einer [Community]</li>
+    <li>image->einem [TerrainFeature]</li>
+    <!-- objects -->
+    <li>image->einer [Weapon]</li>
+    <li>image->einer [TreeType]</li>
+    <li>image->einem [NaturalObject]</li>
+    <li>image->[Quantity_adjphrase_Dat] [WeaponPluralDat]</li>
+    <li>image->[Quantity_adjphrase_Dat] [VegetablePluralDat]</li>
+    <li>image(p=0.5)->einer leeren [ApparelSingularFem]</li>
+    <li>image(p=0.5)->einem leeren [ApparelSingularMas]</li>
+    <li>image(p=0.2)->einem leeren [ApparelSingularNeu]</li>
+    <!-- abstract -->
+    <li>image->einem [ShapeMas]</li>
+    <li>image->einer [ShapeFem]</li>
+    <li>image->einem von [ShapePluralDat] umgebenen [ShapeMas]</li>
+    <li>image->einer von [ShapePluralDat] umgebenen [ShapeFem]</li>
+    <li>image->einer abstrakten Darstellung von [ConceptAny]</li>
+    <li>image->einer [AdjectiveAny]en, abstrakten Figur</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->durch die Luft fliegenden</li>
+    <li>desc_pawn->in der Luft schwebenden</li>
+    <li>desc_pawn->nach links bewegenden</li>
+    <li>desc_pawn->nach rechts bewegenden</li>
+    <li>desc_pawn->auf einem Tisch sitzenden</li>
+    <li>desc_pawn->hinter einem Fenster zu sehenden</li>
+    <li>desc_pawn->als Silhouette dargestellten</li>
+    <li>desc_pawn(p=0.5)->auf einer [AnimalSingularFem] reitenden</li>
+    <li>desc_pawn(p=0.5)->auf einem [AnimalSingularMas] reitenden</li>
+    <li>desc_pawn(p=0.5)->auf einem [AnimalSingularNeu] reitenden</li>
+    <li>desc_pawn->[AdjectiveAny] schauenden</li>
+    <li>desc_pawn->mit [Gore] bedeckten</li>
+  </TalelessImages.rulePack.rulesStrings>
+  
+</LanguageData>

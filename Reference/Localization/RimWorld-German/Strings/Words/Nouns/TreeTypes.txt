@@ -1,0 +1,14 @@
+﻿//Example: "Die ..."
+Eiche
+Pappel
+Kiefer
+Birke
+Palme
+Esche
+Espe
+Buche
+Ulme
+Tanne
+Lärche
+Zeder
+Fichte

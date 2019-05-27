@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>Grizzlybär</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>Grizzlybären</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>Bärenjunges</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.1.label>Junger Grizzly</Bear_Grizzly.lifeStages.1.label>
+  <Bear_Grizzly.lifeStages.2.label>Grizzlybär</Bear_Grizzly.lifeStages.2.label>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>Eisbär</Bear_Polar.label>
+  <Bear_Polar.labelPlural>Eisbären</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>Eisbärenjunges</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.1.label>Junger Eisbär</Bear_Polar.lifeStages.1.label>
+  <Bear_Polar.lifeStages.2.label>Eisbär</Bear_Polar.lifeStages.2.label>
+  
+</LanguageData>

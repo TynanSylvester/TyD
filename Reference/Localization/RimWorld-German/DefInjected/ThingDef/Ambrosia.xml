@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia -->
+  <Ambrosia.label>Ambrosia</Ambrosia.label>
+  <!-- EN: A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction. -->
+  <Ambrosia.description>Eine seltene, weiche Frucht. Ambrosia hat einen wunderbaren Geruch und Geschmack und verursacht ein leichtes High-Gefühl, das die Laune verbessert. Allerdings gibt es eine geringe Chance einer leichten Abhängigkeit, wenn man sie zu häufig isst.</Ambrosia.description>
+  <Ambrosia.ingestible.ingestCommandString>Iss Ambrosia.</Ambrosia.ingestible.ingestCommandString>
+  <Ambrosia.ingestible.ingestReportString>Isst Ambrosia.</Ambrosia.ingestible.ingestReportString>
+  
+</LanguageData>

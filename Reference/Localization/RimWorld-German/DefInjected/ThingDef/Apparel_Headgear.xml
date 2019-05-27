@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced helmet -->
+  <Apparel_AdvancedHelmet.label>Moderner Helm</Apparel_AdvancedHelmet.label>
+  <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
+  <Apparel_AdvancedHelmet.description>Ein leichter Kampfhelm mit einem komplexen Design, verbessert mit Plastahl. Nicht effektiv gegen stumpfe Waffen.</Apparel_AdvancedHelmet.description>
+  
+  <!-- EN: bowler hat -->
+  <Apparel_BowlerHat.label>Melone</Apparel_BowlerHat.label>
+  <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
+  <Apparel_BowlerHat.description>Ein gut aussehender Hut, welcher einen leicht urbanen, Geld liebenden Stil vermittelt. Verbessert sozialen Eindruck.</Apparel_BowlerHat.description>
+  
+  <!-- EN: cowboy hat -->
+  <Apparel_CowboyHat.label>Cowboyhut</Apparel_CowboyHat.label>
+  <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
+  <Apparel_CowboyHat.description>Stylisch und doch wild hält dieser Hut die Sonne und den Regen ab - und gibt jedem, der ihn trägt, das gewisse Etwas. Er ist der wichtigste Teil eines traditionellen Western-Outfits.</Apparel_CowboyHat.description>
+  
+  <!-- EN: marine helmet -->
+  <Apparel_PowerArmorHelmet.label>Energierüstungshelm</Apparel_PowerArmorHelmet.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <Apparel_PowerArmorHelmet.description>Der Helm passend zur Energierüstung mit einem eingebauten Status-Computer und mehreren Lagen Plastahl verstärkt.\n\n Diese Art der Rüstung wird hauptsächlich von imperialen Janitscharen und der schnellen Eingreifstruppe der Space-Marines getragen.</Apparel_PowerArmorHelmet.description>
+  
+  <!-- EN: psychic foil helmet -->
+  <Apparel_PsychicFoilHelmet.label>Anti-Psycho Folienhelm</Apparel_PsychicFoilHelmet.label>
+  <!-- EN: A thin helmet containing finely-tuned sheets of psychically-absorptive foil. Reduces the impact of psychic waves. -->
+  <Apparel_PsychicFoilHelmet.description>Ein dünner Helm, der mit feinen Lagen psychisch absorbierender Folie ausgekleidet ist. Reduziert die Auswirkung von psychischen Wellen.</Apparel_PsychicFoilHelmet.description>
+  
+  <!-- EN: simple helmet -->
+  <Apparel_SimpleHelmet.label>Einfacher Helm</Apparel_SimpleHelmet.label>
+  <!-- EN: A simple helmet which gives moderate protection against sharp attacks. Not effective against blunt weapons. -->
+  <Apparel_SimpleHelmet.description>Ein einfacher Helm, der mittelmäßigen Schutz gegen scharfe Angriffe bietet. Nicht effektiv gegen stumpfe Waffen.</Apparel_SimpleHelmet.description>
+  
+  <!-- EN: tribal headdress -->
+  <Apparel_TribalHeaddress.label>Stammeskopftuch</Apparel_TribalHeaddress.label>
+  <!-- EN: Elegant traditional garb, often with religious significance. Improves social impact. -->
+  <Apparel_TribalHeaddress.description>Elegante traditionelle Kopfbedeckung, die häufig eine religiöse Bedeutung hat. Verbessert sozialen Eindruck.</Apparel_TribalHeaddress.description>
+  
+  <!-- EN: tuque -->
+  <Apparel_Tuque.label>Mütze</Apparel_Tuque.label>
+  <!-- EN: A soft, thick cap. Great for keeping warm in winter. -->
+  <Apparel_Tuque.description>Eine weiche Wollmütze. Sehr gut, um im Winter warm zu bleiben.</Apparel_Tuque.description>
+  
+  <!-- EN: war mask -->
+  <Apparel_WarMask.label>Kriegsmaske</Apparel_WarMask.label>
+  <!-- EN: An artistically terrifying war mask. Hides the wearer's face and makes them more confident. -->
+  <Apparel_WarMask.description>Eine künstlerisch erschreckende Kriegsmaske. Versteckt das Gesicht des Trägers und verleiht ihm mehr Selbstbewusstsein.</Apparel_WarMask.description>
+  
+  <!-- EN: war veil -->
+  <Apparel_WarVeil.label>Kriegsschleier</Apparel_WarVeil.label>
+  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <Apparel_WarVeil.description>Ein Kriegsschleier aus verstärktem Tuch. Er wurde angerissen, um dem Träger das Aussehen eines Schlachtveteranen zu geben. Einige glauben daran, das es ein Talisman des Mutes ist.</Apparel_WarVeil.description>
+  
+</LanguageData>

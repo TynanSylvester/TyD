@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>Aurora</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>Ein leuchtendes Polarlicht erhellt den Himmel. Die atemberaubenden Farben werden bei allen, die im Freien sind und sie sehen können, die Laune verbessern.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>Die Aurora ist vorbei.</Aurora.endMessage>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>Klimazyklus</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>Ein mehrjähriger Klimazyklus aufgrund der stark elliptischen Umlaufbahn.</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>Kältewelle</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Eine ungewöhnliche Kältewelle friert die Region ein. Deine Kolonisten sollten sich nicht zu lange ungeschützt in der Kälte aufhalten.</ColdSnap.description>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>Die Kältewelle ist vorbei.</ColdSnap.endMessage>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>Sonnenfinsternis</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Eine Sonnenfinsternis verdunkelt die Region. Es wird selbst am Tag dunkel bleiben.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>Die Sonnenfinsternis ist vorbei.</Eclipse.endMessage>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>Blitzsturm</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Ein ungewöhnlicher Sturm lässt eine hohe Anzahl von Blitzen in einem kleinen Gebiet einschlagen.</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>Der Blitzsturm ist vorbei.</Flashstorm.endMessage>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>Hitzewelle</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Eine extreme Hitzewelle kocht die Region. Die Kolonisten sollten sich an kühleren Orten aufhalten.</HeatWave.description>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>Die Hitzewelle ist vorbei.</HeatWave.endMessage>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>Planetenzerstörer</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>Eine interstellare Planetenzerstörerrakete ist im Anflug auf diesen Planeten. Sie wird den Planeten zerstören, wie eine Gewehrkugel ein frisches Ei. Jedwedes Leben wird ausgelöscht.</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>Psychisches Brummen</PsychicDrone.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity. -->
+  <PsychicDrone.description>Eine weit entfernte künstliche Intelligenz sendet psychische Wellen aus. Dieses Brummen beeinflusst auf Dauer den psychischen Zustand der Kolonisten und kann zu Nervenzusammenbrüchen führen.</PsychicDrone.description>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>Das psychische Brummen hat aufgehört.</PsychicDrone.endMessage>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>Psychische Beruhigung</PsychicSoothe.label>
+  <!-- EN: A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Eine weit entfernte künstliche Intelligenz sendet psychische Beruhigungswellen aus. Diese entspannenden Wellen beruhigen Kolonisten und stabilisieren ihr Bewusstsein.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>Die psychische Beruhigung hat aufgehört.</PsychicSoothe.endMessage>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>Sonnensturm</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference prevents most electrical devices from working. -->
+  <SolarFlare.description>Der Teilchenschauer einer Sonneneruption bestrahlt den Planeten. Dieser starke Solarwind verursacht extreme elektromagnetische Störungen. Um größere Schäden zu vermeiden, schalten sich alle elektrischen Geräte automatisch ab.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>Der Sonnensturm ist vorbei.</SolarFlare.endMessage>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>Giftiger Niederschlag</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Eine giftige Wolke legt sich langsam über die ganze Region. Jeder, der nicht unter einem Dach ist, wird langsam vergiftet und vergessene Gegenstände werden korrodieren.</ToxicFallout.description>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>Der giftige Niederschlag hat sich gelegt.</ToxicFallout.endMessage>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>Vulkanischer Winter</VolcanicWinter.label>
+  <!-- EN: A distant volcano has choked the atmosphere with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Eine starke Eruption hat die Atmosphäre mit vulkanischen Staubpartikeln gesättigt, die den Großteil der Sonneneinstrahlung abfangen. Es wird kälter und Pflanzen werden langsamer wachsen.</VolcanicWinter.description>
+  <!-- EN: Most of the volcanic ash has settled. -->
+  <VolcanicWinter.endMessage>Der Großteil der vulkanischen Asche hat sich gelegt.</VolcanicWinter.endMessage>
+  
+</LanguageData>

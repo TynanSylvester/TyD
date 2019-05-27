@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>Blutreinheit</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>Wasseraufbereitung</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>Blutproduktion</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>Stromerzeugung</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>Atmen</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>Bewusstsein</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Datenverarbeitung</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>Essen</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>Hören</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>Arbeiten</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>Stoffwechsel</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>Bewegen</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>Sehen</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>Sprechen</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Kommunizieren</Talking.labelMechanoids>
+  
+</LanguageData>

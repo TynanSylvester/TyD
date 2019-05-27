@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>Archotech-Arm</ArchotechArm.label>
+  <!-- EN: fist -->
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>Faust</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an archotech arm -->
+  <ArchotechArm.labelNoun>ein archotechnologischer Arm</ArchotechArm.labelNoun>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>Archotech-Auge</ArchotechEye.label>
+  <!-- EN: an archotech eye -->
+  <ArchotechEye.labelNoun>ein archotechnologisches Auge</ArchotechEye.labelNoun>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>Archotech-Bein</ArchotechLeg.label>
+  <!-- EN: an archotech leg -->
+  <ArchotechLeg.labelNoun>ein archotechnologisches Bein</ArchotechLeg.labelNoun>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>Bionischer Arm</BionicArm.label>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>Faust</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>ein bionischer Arm</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>Bionisches Ohr</BionicEar.label>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>ein bionisches Ohr</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>Bionisches Auge</BionicEye.label>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>ein bionisches Auge</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>Bionisches Herz</BionicHeart.label>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>ein bionisches Herz</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>Bionisches Bein</BionicLeg.label>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>ein bionisches Bein</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>Bionische Wirbelsäule</BionicSpine.label>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>eine bionische Wirbelsäule</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>Bionischer Magen</BionicStomach.label>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>ein bionischer Magen</BionicStomach.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>Cochlea-Implantat</CochlearImplant.label>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>ein Cochlea-Implantat</CochlearImplant.labelNoun>
+  
+  <!-- EN: denture -->
+  <Denture.label>Zahnprothese</Denture.label>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>eine Zahnprothese</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>Holzbein</PegLeg.label>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>ein Holzbein</PegLeg.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>Powerkralle</PowerClaw.label>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>Kralle</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>eine Powerkralle</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>Armprothese</SimpleProstheticArm.label>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>Faust</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>eine Armprothese</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>Herzprothese</SimpleProstheticHeart.label>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>ein künstliches Herz</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>Beinprothese</SimpleProstheticLeg.label>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>eine Beinprothese</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>Holzfuß</WoodenFoot.label>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>ein Holzfuß</WoodenFoot.labelNoun>
+  
+</LanguageData>

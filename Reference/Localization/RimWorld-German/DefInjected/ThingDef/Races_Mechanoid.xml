@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: centipede -->
+  <Mech_Centipede.label>Raupe</Mech_Centipede.label>
+  <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
+  <Mech_Centipede.description>Schwerer Kampfmechanoid, der auf dutzenden kleinen Beinen dahingleitet. Ihr schwerer Panzer und starke Bewaffnung macht sie sehr effektiv gegen unbewegliche, eng beieinander stehende Ziele. Sie sind etwas empfindlich gegen mobile Hit-and-Run-Taktiken.</Mech_Centipede.description>
+  <!-- EN: head -->
+  <Mech_Centipede.tools.head.label>Kopf</Mech_Centipede.tools.head.label>
+  
+  <!-- EN: lancer -->
+  <Mech_Lancer.label>Lanzer</Mech_Lancer.label>
+  <!-- EN: A human-sized combat mechanoid with huge optical sensors on its face for aiming weapons at long range. While effective at distance, it is weaker in melee combat. Veterans of mechanoid wars know that often, the safest thing to do against a lancer is to charge. -->
+  <Mech_Lancer.description>Ein menschenähnlicher Kampfmechanoid mit großen optischen Sensoren um über große Entfernungen Fernkampfwaffen einsetzen zu können. Er ist über große Entfernungen sehr effektiv, aber schwach im Nahkampf. Veteranen der Mechanoiden-Kriege wissen, dass es oft am sichersten im Kampf gegen den Lanzer ist, hinzustürmen und ihn im Nahkampf zu bekämpfen.</Mech_Lancer.description>
+  <!-- EN: left fist -->
+  <Mech_Lancer.tools.left_fist.label>linker Faust</Mech_Lancer.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <Mech_Lancer.tools.right_fist.label>rechter Faust</Mech_Lancer.tools.right_fist.label>
+  <!-- EN: head -->
+  <Mech_Lancer.tools.head.label>Kopf</Mech_Lancer.tools.head.label>
+  
+  <!-- EN: scyther -->
+  <Mech_Scyther.label>Schnitter</Mech_Scyther.label>
+  <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
+  <Mech_Scyther.description>Ein dürrer und schneller, menschengroßer Kampfmechanoid, der auf einen schnellen Ansturm mit folgendem Nahkampf spezialisiert ist. Sein Körper ist mit scharfen Spitzen übersäht, aber primär greift er mit seinen beiden Arm-Klingen an und hacken Körperteile ab oder weidet den Gegner bei lebendigem Leibe aus.</Mech_Scyther.description>
+  <!-- EN: left blade -->
+  <Mech_Scyther.tools.left_blade.label>linker Klinge</Mech_Scyther.tools.left_blade.label>
+  <!-- EN: right blade -->
+  <Mech_Scyther.tools.right_blade.label>rechter Klinge</Mech_Scyther.tools.right_blade.label>
+  <!-- EN: head -->
+  <Mech_Scyther.tools.head.label>Kopf</Mech_Scyther.tools.head.label>
+  
+</LanguageData>

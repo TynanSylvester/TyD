@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caribou -->
+  <Caribou.label>Rentier</Caribou.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
+  <Caribou.description>Ein großes Mitglied der Rotwild-Familie, das sich sehr gut an das kalte Klima angepasst hat. Gezähmte Rentiere geben Milch, aber weigern sich Lasten zu tragen.</Caribou.description>
+  <!-- EN: left hoof -->
+  <Caribou.tools.left_hoof.label>linkem Huf</Caribou.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Caribou.tools.right_hoof.label>rechtem Huf</Caribou.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Caribou.tools.head.label>Kopf</Caribou.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>Rotwild</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Ein mittelgroßes, pflanzenfressendes Herdentier das in Ebenen und Wäldern lebt. Rotwild ist sehr schnell.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>Wildfleisch</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>linkem Huf</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>rechtem Huf</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>Zähne</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>Kopf</Deer.tools.head.label>
+  
+  <!-- EN: elk -->
+  <Elk.label>Elch</Elk.label>
+  <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
+  <Elk.description>Ein großes Mitglied der Rotwild-Familie, das sich sehr gut an das kalte Klima angepasst hat. Gezähmte Elche geben Milch, aber weigern sich Lasten zu tragen.</Elk.description>
+  <!-- EN: left hoof -->
+  <Elk.tools.left_hoof.label>linkem Huf</Elk.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Elk.tools.right_hoof.label>rechtem Huf</Elk.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Elk.tools.head.label>Kopf</Elk.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>Steinbock</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Ein widerstandsfähiger, wilder Verwandter der Hausziege. Steinböcke leben in kargen Gebieten, in denen keine Antilope überleben könnte, und ernähren sich von Moosen und seltenen Bergpflanzen. Sie sind bekannt dafür, an steilsten Klippen herumzuhüpfen, wie auch für ihren aggressiven Ramm-Angriff.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>linkem Huf</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>rechtem Huf</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>Kopf</Ibex.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>Landschildkröte</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Dieses stark gepanzerte, an Land lebende Reptil, ist bekannt für seine langsame Gangart und seinen überraschend heftigen Biss. Aufgrund ihrer natürlichen Rüstung sind sie schwer zu töten und können in einem längeren Kampf schwere Schäden verursachen.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>Schnabel</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>Kopf</Tortoise.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>Wildschwein</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Auch wenn einige Kulturen es als unrein ansehen, ist dieser verwilderte Nachfahre des Hausschweins bekannt für den speziellen Geschmack seines Fleisches.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>Hauer</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>Kopf</WildBoar.tools.head.label>
+  
+</LanguageData>

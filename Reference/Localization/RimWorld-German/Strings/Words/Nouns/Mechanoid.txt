@@ -1,0 +1,17 @@
+﻿Schnitter
+Lanzer
+Raupe
+
+Mechanoid
+Roboter
+Automat
+Drohne
+Kampfdrohne
+Butlerdrohne
+Reparaturdrohne
+Sexbot
+Wachdrohne
+
+
+Avatar einer KI
+Archotech-Hologramm

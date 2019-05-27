@@ -1,0 +1,1695 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bett (Tier) (Entwurf) -->
+  <Blueprint_AnimalBed.label>Bett (Tier) (Entwurf)</Blueprint_AnimalBed.label>
+  
+  <!-- EN: Schlafkiste (Tier) (Entwurf) -->
+  <Blueprint_AnimalSleepingBox.label>Schlafkiste (Tier) (Entwurf)</Blueprint_AnimalSleepingBox.label>
+  
+  <!-- EN: Schlafplatz (Tier) (Entwurf) -->
+  <Blueprint_AnimalSleepingSpot.label>Schlafplatz (Tier) (Entwurf)</Blueprint_AnimalSleepingSpot.label>
+  
+  <!-- EN: Sessel (Entwurf) -->
+  <Blueprint_Armchair.label>Sessel (Entwurf)</Blueprint_Armchair.label>
+  
+  <!-- EN: Autotür (Entwurf) -->
+  <Blueprint_Autodoor.label>Autotür (Entwurf)</Blueprint_Autodoor.label>
+  
+  <!-- EN: Batterie (Entwurf) -->
+  <Blueprint_Battery.label>Batterie (Entwurf)</Blueprint_Battery.label>
+  
+  <!-- EN: Bett (Entwurf) -->
+  <Blueprint_Bed.label>Bett (Entwurf)</Blueprint_Bed.label>
+  
+  <!-- EN: Schlafsack (Entwurf) -->
+  <Blueprint_Bedroll.label>Schlafsack (Entwurf)</Blueprint_Bedroll.label>
+  
+  <!-- EN: Großer Schlafsack (Entwurf) -->
+  <Blueprint_BedrollDouble.label>Doppel-Schlafsack (Entwurf)</Blueprint_BedrollDouble.label>
+  
+  <!-- EN: Billardtisch (Entwurf) -->
+  <Blueprint_BilliardsTable.label>Billardtisch (Entwurf)</Blueprint_BilliardsTable.label>
+  
+  <!-- EN: Biotreibstoff Raffinerie (Entwurf) -->
+  <Blueprint_BiofuelRefinery.label>Biotreibstoffraffinerie (Entwurf)</Blueprint_BiofuelRefinery.label>
+  
+  <!-- EN: Brauerei (Entwurf) -->
+  <Blueprint_Brewery.label>Brauerei (Entwurf)</Blueprint_Brewery.label>
+  
+  <!-- EN: Schlachtplatz (Entwurf) -->
+  <Blueprint_ButcherSpot.label>Schlachtplatz (Entwurf)</Blueprint_ButcherSpot.label>
+  
+  <!-- EN: Lagerfeuer (Entwurf) -->
+  <Blueprint_Campfire.label>Lagerfeuer (Entwurf)</Blueprint_Campfire.label>
+  
+  <!-- EN: Karawanen (Entwurf) -->
+  <Blueprint_CaravanPackingSpot.label>Karawanplatz (Entwurf)</Blueprint_CaravanPackingSpot.label>
+  
+  <!-- EN: Blauer Teppich (Entwurf) -->
+  <Blueprint_CarpetBlue.label>Blauer Teppich (Entwurf)</Blueprint_CarpetBlue.label>
+  
+  <!-- EN: Creme Teppich (Entwurf) -->
+  <Blueprint_CarpetCream.label>Creme Teppich (Entwurf)</Blueprint_CarpetCream.label>
+  
+  <!-- EN: Grauer Teppich (Entwurf) -->
+  <Blueprint_CarpetDark.label>Grauer Teppich (Entwurf)</Blueprint_CarpetDark.label>
+  
+  <!-- EN: Grüner Teppich (Entwurf) -->
+  <Blueprint_CarpetGreen.label>Grüner Teppich (Entwurf)</Blueprint_CarpetGreen.label>
+  
+  <!-- EN: Roter Teppich (Entwurf) -->
+  <Blueprint_CarpetRed.label>Roter Teppich (Entwurf)</Blueprint_CarpetRed.label>
+  
+  <!-- EN: Kraftstoff Generator (Entwurf) -->
+  <Blueprint_ChemfuelPoweredGenerator.label>Kraftstoffgenerator (Entwurf)</Blueprint_ChemfuelPoweredGenerator.label>
+  
+  <!-- EN: Schachtisch (Entwurf) -->
+  <Blueprint_ChessTable.label>Schachtisch (Entwurf)</Blueprint_ChessTable.label>
+  
+  <!-- EN: Funkanlage (Entwurf) -->
+  <Blueprint_CommsConsole.label>Funkanlage (Entwurf)</Blueprint_CommsConsole.label>
+  
+  <!-- EN: Beton (Entwurf) -->
+  <Blueprint_Concrete.label>Beton (Entwurf)</Blueprint_Concrete.label>
+  
+  <!-- EN: Kühlung (Entwurf) -->
+  <Blueprint_Cooler.label>Kühlung (Entwurf)</Blueprint_Cooler.label>
+  
+  <!-- EN: Arbeitsplatz (Entwurf) -->
+  <Blueprint_CraftingSpot.label>Arbeitsplatz (Entwurf)</Blueprint_CraftingSpot.label>
+  
+  <!-- EN: Kryptoschlafkapsel (Entwurf) -->
+  <Blueprint_CryptosleepCasket.label>Kryptoschlafkapsel (Entwurf)</Blueprint_CryptosleepCasket.label>
+  
+  <!-- EN: Tiefenbohrer (Entwurf) -->
+  <Blueprint_DeepDrill.label>Tiefenbohrer (Entwurf)</Blueprint_DeepDrill.label>
+  
+  <!-- EN: Stuhl (Entwurf) -->
+  <Blueprint_DiningChair.label>Stuhl (Entwurf)</Blueprint_DiningChair.label>
+  
+  <!-- EN: Tür (Entwurf) -->
+  <Blueprint_Door.label>Tür (Entwurf)</Blueprint_Door.label>
+  
+  <!-- EN: Doppelbett (Entwurf) -->
+  <Blueprint_DoubleBed.label>Doppelbett (Entwurf)</Blueprint_DoubleBed.label>
+  
+  <!-- EN: Kommode (Entwurf) -->
+  <Blueprint_Dresser.label>Kommode (Entwurf)</Blueprint_Dresser.label>
+  
+  <!-- EN: Drogenlabor (Entwurf) -->
+  <Blueprint_DrugLab.label>Drogenlabor (Entwurf)</Blueprint_DrugLab.label>
+  
+  <!-- EN: Krematorium (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricCrematorium.label>Krematorium (elektrisch) (Entwurf)</Blueprint_ElectricCrematorium.label>
+  
+  <!-- EN: Schmelzofen (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricSmelter.label>Schmelzofen (elektrisch) (Entwurf)</Blueprint_ElectricSmelter.label>
+  
+  <!-- EN: Schmiede (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricSmithy.label>Schmiede (elektrisch) (Entwurf)</Blueprint_ElectricSmithy.label>
+  
+  <!-- EN: Herd (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricStove.label>Herd (elektrisch) (Entwurf)</Blueprint_ElectricStove.label>
+  
+  <!-- EN: Nähmaschine (elektrisch) (Entwurf) -->
+  <Blueprint_ElectricTailoringBench.label>Nähmaschine (elektrisch) (Entwurf)</Blueprint_ElectricTailoringBench.label>
+  
+  <!-- EN: Nachttisch (Entwurf) -->
+  <Blueprint_EndTable.label>Nachttisch (Entwurf)</Blueprint_EndTable.label>
+  
+  <!-- EN: Arbeitstisch (Entwurf) -->
+  <Blueprint_FabricationBench.label>Arbeitstisch (Entwurf)</Blueprint_FabricationBench.label>
+  
+  <!-- EN: Fermentier Fass (Entwurf) -->
+  <Blueprint_FermentingBarrel.label>Fermentierfass (Entwurf)</Blueprint_FermentingBarrel.label>
+  
+  <!-- EN: Löschschaumwerfer (Entwurf) -->
+  <Blueprint_FirefoamPopper.label>Löschschaumwerfer (Entwurf)</Blueprint_FirefoamPopper.label>
+  
+  <!-- EN: Granitplatte (Entwurf) -->
+  <Blueprint_FlagstoneGranite.label>Granitplatte (Entwurf)</Blueprint_FlagstoneGranite.label>
+  
+  <!-- EN: Kalksteinplatte (Entwurf) -->
+  <Blueprint_FlagstoneLimestone.label>Kalksteinplatte (Entwurf)</Blueprint_FlagstoneLimestone.label>
+  
+  <!-- EN: Marmorplatte (Entwurf) -->
+  <Blueprint_FlagstoneMarble.label>Marmorplatte (Entwurf)</Blueprint_FlagstoneMarble.label>
+  
+  <!-- EN: Sandsteinplatte (Entwurf) -->
+  <Blueprint_FlagstoneSandstone.label>Sandsteinplatte (Entwurf)</Blueprint_FlagstoneSandstone.label>
+  
+  <!-- EN: Schieferplatte (Entwurf) -->
+  <Blueprint_FlagstoneSlate.label>Schieferplatte (Entwurf)</Blueprint_FlagstoneSlate.label>
+  
+  <!-- EN: Schmiede (Feuer) (Entwurf) -->
+  <Blueprint_FueledSmithy.label>Schmiede (Feuer) (Entwurf)</Blueprint_FueledSmithy.label>
+  
+  <!-- EN: Herd (Feuer) (Entwurf) -->
+  <Blueprint_FueledStove.label>Herd (Feuer) (Entwurf)</Blueprint_FueledStove.label>
+  
+  <!-- EN: Geothermie Kraftwerk (Entwurf) -->
+  <Blueprint_GeothermalGenerator.label>Geothermiekraftwerk (Entwurf)</Blueprint_GeothermalGenerator.label>
+  
+  <!-- EN: Goldfliese (Entwurf) -->
+  <Blueprint_GoldTile.label>Goldfliese (Entwurf)</Blueprint_GoldTile.label>
+  
+  <!-- EN: Grab (Entwurf) -->
+  <Blueprint_Grave.label>Grab (Entwurf)</Blueprint_Grave.label>
+  
+  <!-- EN: Tiefenradar (Entwurf) -->
+  <Blueprint_GroundPenetratingScanner.label>Tiefenscanner (Entwurf)</Blueprint_GroundPenetratingScanner.label>
+  
+  <!-- EN: Nähtisch (Entwurf) -->
+  <Blueprint_HandTailoringBench.label>Schneidertisch (Entwurf)</Blueprint_HandTailoringBench.label>
+  
+  <!-- EN: Heizung (Entwurf) -->
+  <Blueprint_Heater.label>Heizung (Entwurf)</Blueprint_Heater.label>
+  
+  <!-- EN: Hightech Labortisch (Entwurf) -->
+  <Blueprint_HiTechResearchBench.label>Hightech-Labortisch (Entwurf)</Blueprint_HiTechResearchBench.label>
+  
+  <!-- EN: Wurfstein Ring (Entwurf) -->
+  <Blueprint_HoopstoneRing.label>Wurfsteinring (Entwurf)</Blueprint_HoopstoneRing.label>
+  
+  <!-- EN: Trichter (Entwurf) -->
+  <Blueprint_Hopper.label>Trichter (Entwurf)</Blueprint_Hopper.label>
+  
+  <!-- EN: Hufeisen Stab (Entwurf) -->
+  <Blueprint_HorseshoesPin.label>Hufeisenstab (Entwurf)</Blueprint_HorseshoesPin.label>
+  
+  <!-- EN: Krankenbett (Entwurf) -->
+  <Blueprint_HospitalBed.label>Krankenbett (Entwurf)</Blueprint_HospitalBed.label>
+  
+  <!-- EN: Hydrokultur Becken (Entwurf) -->
+  <Blueprint_HydroponicsBasin.label>Hydrokulturbecken (Entwurf)</Blueprint_HydroponicsBasin.label>
+  
+  <!-- EN: Bett (Tier) (Entwurf) -->
+  <Blueprint_Install_AnimalBed.label>Bett (Tier) (Entwurf)</Blueprint_Install_AnimalBed.label>
+  
+  <!-- EN: Schlafkiste (Tier) (Entwurf) -->
+  <Blueprint_Install_AnimalSleepingBox.label>Schlafkiste (Tier) (Entwurf)</Blueprint_Install_AnimalSleepingBox.label>
+  
+  <!-- EN: Sessel (Entwurf) -->
+  <Blueprint_Install_Armchair.label>Sessel (Entwurf)</Blueprint_Install_Armchair.label>
+  
+  <!-- EN: Batterie (Entwurf) -->
+  <Blueprint_Install_Battery.label>Batterie (Entwurf)</Blueprint_Install_Battery.label>
+  
+  <!-- EN: Bett (Entwurf) -->
+  <Blueprint_Install_Bed.label>Bett (Entwurf)</Blueprint_Install_Bed.label>
+  
+  <!-- EN: Schlafsack (Entwurf) -->
+  <Blueprint_Install_Bedroll.label>Schlafsack (Entwurf)</Blueprint_Install_Bedroll.label>
+  
+  <!-- EN: Großer Schlafsack (Entwurf) -->
+  <Blueprint_Install_BedrollDouble.label>Doppel-Schlafsack (Entwurf)</Blueprint_Install_BedrollDouble.label>
+  
+  <!-- EN: Billardtisch (Entwurf) -->
+  <Blueprint_Install_BilliardsTable.label>Billardtisch (Entwurf)</Blueprint_Install_BilliardsTable.label>
+  
+  <!-- EN: Schachtisch (Entwurf) -->
+  <Blueprint_Install_ChessTable.label>Schachtisch (Entwurf)</Blueprint_Install_ChessTable.label>
+  
+  <!-- EN: Stuhl (Entwurf) -->
+  <Blueprint_Install_DiningChair.label>Stuhl (Entwurf)</Blueprint_Install_DiningChair.label>
+  
+  <!-- EN: Doppelbett (Entwurf) -->
+  <Blueprint_Install_DoubleBed.label>Doppelbett (Entwurf)</Blueprint_Install_DoubleBed.label>
+  
+  <!-- EN: Kommode (Entwurf) -->
+  <Blueprint_Install_Dresser.label>Kommode (Entwurf)</Blueprint_Install_Dresser.label>
+  
+  <!-- EN: Nachttisch (Entwurf) -->
+  <Blueprint_Install_EndTable.label>Nachttisch (Entwurf)</Blueprint_Install_EndTable.label>
+  
+  <!-- EN: Fermentier Fass (Entwurf) -->
+  <Blueprint_Install_FermentingBarrel.label>Fermentierfass (Entwurf)</Blueprint_Install_FermentingBarrel.label>
+  
+  <!-- EN: Löschschaumwerfer (Entwurf) -->
+  <Blueprint_Install_FirefoamPopper.label>Löschschaumwerfer (Entwurf)</Blueprint_Install_FirefoamPopper.label>
+  
+  <!-- EN: Fernseher (Flachbild) (Entwurf) -->
+  <Blueprint_Install_FlatscreenTelevision.label>Fernseher (Flachbild) (Entwurf)</Blueprint_Install_FlatscreenTelevision.label>
+  
+  <!-- EN: Leuchtkapsel (Entwurf) -->
+  <Blueprint_Install_GlowPod.label>Leuchtkapsel (Entwurf)</Blueprint_Install_GlowPod.label>
+  
+  <!-- EN: Heizung (Entwurf) -->
+  <Blueprint_Install_Heater.label>Heizung (Entwurf)</Blueprint_Install_Heater.label>
+  
+  <!-- EN: Wurfstein Ring (Entwurf) -->
+  <Blueprint_Install_HoopstoneRing.label>Wurfsteinring (Entwurf)</Blueprint_Install_HoopstoneRing.label>
+  
+  <!-- EN: Hufeisen Stab (Entwurf) -->
+  <Blueprint_Install_HorseshoesPin.label>Hufeisenstab (Entwurf)</Blueprint_Install_HorseshoesPin.label>
+  
+  <!-- EN: Krankenbett (Entwurf) -->
+  <Blueprint_Install_HospitalBed.label>Krankenbett (Entwurf)</Blueprint_Install_HospitalBed.label>
+  
+  <!-- EN: Unendlicher Kraftstoffreaktor (Entwurf) -->
+  <Blueprint_Install_InfiniteChemreactor.label>Unendl. Kraftstoffreaktor (Entwurf)</Blueprint_Install_InfiniteChemreactor.label>
+  
+  <!-- EN: Riesen Flachbildfernseher (Entwurf) -->
+  <Blueprint_Install_MegascreenTelevision.label>Riesenflachbildfernseher (Entwurf)</Blueprint_Install_MegascreenTelevision.label>
+  
+  <!-- EN: Analysator (Entwurf) -->
+  <Blueprint_Install_MultiAnalyzer.label>Analysator (Entwurf)</Blueprint_Install_MultiAnalyzer.label>
+  
+  <!-- EN: Orbitales Funkfeuer (Entwurf) -->
+  <Blueprint_Install_OrbitalTradeBeacon.label>Orbitales Funkfeuer (Entwurf)</Blueprint_Install_OrbitalTradeBeacon.label>
+  
+  <!-- EN: Blumentopf (Entwurf) -->
+  <Blueprint_Install_PlantPot.label>Blumentopf (Entwurf)</Blueprint_Install_PlantPot.label>
+  
+  <!-- EN: Pokertisch (Entwurf) -->
+  <Blueprint_Install_PokerTable.label>Pokertisch (Entwurf)</Blueprint_Install_PokerTable.label>
+  
+  <!-- EN: Psychischer Strahler (Entwurf) -->
+  <Blueprint_Install_PsychicEmanator.label>Psychischer Strahler (Entwurf)</Blueprint_Install_PsychicEmanator.label>
+  
+  <!-- EN: Königliches Bett (Entwurf) -->
+  <Blueprint_Install_RoyalBed.label>Königliches Bett (Entwurf)</Blueprint_Install_RoyalBed.label>
+  
+  <!-- EN: Skulptur (gewaltig) (Entwurf) -->
+  <Blueprint_Install_SculptureGrand.label>Skulptur (gewaltig) (Entwurf)</Blueprint_Install_SculptureGrand.label>
+  
+  <!-- EN: Skulptur (groß) (Entwurf) -->
+  <Blueprint_Install_SculptureLarge.label>Skulptur (groß) (Entwurf)</Blueprint_Install_SculptureLarge.label>
+  
+  <!-- EN: Skulptur (klein) (Entwurf) -->
+  <Blueprint_Install_SculptureSmall.label>Skulptur (klein) (Entwurf)</Blueprint_Install_SculptureSmall.label>
+  
+  <!-- EN: Regal (Entwurf) -->
+  <Blueprint_Install_Shelf.label>Regal (Entwurf)</Blueprint_Install_Shelf.label>
+  
+  <!-- EN: Stehlampe (Entwurf) -->
+  <Blueprint_Install_StandingLamp.label>Stehlampe (Entwurf)</Blueprint_Install_StandingLamp.label>
+  
+  <!-- EN: Stehlampe (blau) (Entwurf) -->
+  <Blueprint_Install_StandingLamp_Blue.label>Stehlampe (blau) (Entwurf)</Blueprint_Install_StandingLamp_Blue.label>
+  
+  <!-- EN: Stehlampe (grün) (Entwurf) -->
+  <Blueprint_Install_StandingLamp_Green.label>Stehlampe (grün) (Entwurf)</Blueprint_Install_StandingLamp_Green.label>
+  
+  <!-- EN: Stehlampe (rot) (Entwurf) -->
+  <Blueprint_Install_StandingLamp_Red.label>Stehlampe (rot) (Entwurf)</Blueprint_Install_StandingLamp_Red.label>
+  
+  <!-- EN: Hocker (Entwurf) -->
+  <Blueprint_Install_Stool.label>Hocker (Entwurf)</Blueprint_Install_Stool.label>
+  
+  <!-- EN: Künstl. Sonne (Entwurf) -->
+  <Blueprint_Install_SunLamp.label>Künstl. Sonne (Entwurf)</Blueprint_Install_SunLamp.label>
+  
+  <!-- EN: Tisch (1x2) (Entwurf) -->
+  <Blueprint_Install_Table1x2c.label>Tisch (1x2) (Entwurf)</Blueprint_Install_Table1x2c.label>
+  
+  <!-- EN: Tisch (2x2) (Entwurf) -->
+  <Blueprint_Install_Table2x2c.label>Tisch (2x2) (Entwurf)</Blueprint_Install_Table2x2c.label>
+  
+  <!-- EN: Tisch (2x4) (Entwurf) -->
+  <Blueprint_Install_Table2x4c.label>Tisch (2x4) (Entwurf)</Blueprint_Install_Table2x4c.label>
+  
+  <!-- EN: Tisch (3x3) (Entwurf) -->
+  <Blueprint_Install_Table3x3c.label>Tisch (3x3) (Entwurf)</Blueprint_Install_Table3x3c.label>
+  
+  <!-- EN: Schlachtbank (Entwurf) -->
+  <Blueprint_Install_TableButcher.label>Schlachtbank (Entwurf)</Blueprint_Install_TableButcher.label>
+  
+  <!-- EN: Bildhauer Werkbank (Entwurf) -->
+  <Blueprint_Install_TableSculpting.label>Bildhauertisch (Entwurf)</Blueprint_Install_TableSculpting.label>
+  
+  <!-- EN: Teleskop (Entwurf) -->
+  <Blueprint_Install_Telescope.label>Teleskop (Entwurf)</Blueprint_Install_Telescope.label>
+  
+  <!-- EN: Werkzeugschrank (Entwurf) -->
+  <Blueprint_Install_ToolCabinet.label>Werkzeugschrank (Entwurf)</Blueprint_Install_ToolCabinet.label>
+  
+  <!-- EN: Fernseher (Röhre) (Entwurf) -->
+  <Blueprint_Install_TubeTelevision.label>Fernseher (Röhre) (Entwurf)</Blueprint_Install_TubeTelevision.label>
+  
+  <!-- EN: Mini Geschütz (Entwurf) -->
+  <Blueprint_Install_Turret_MiniTurret.label>Mini Geschütz (Entwurf)</Blueprint_Install_Turret_MiniTurret.label>
+  
+  <!-- EN: Mörser (Entwurf) -->
+  <Blueprint_Install_Turret_Mortar.label>Mörser (Entwurf)</Blueprint_Install_Turret_Mortar.label>
+  
+  <!-- EN: Vanometrische Energiezelle (Entwurf) -->
+  <Blueprint_Install_VanometricPowerCell.label>Vanom. Energiezelle (Entwurf)</Blueprint_Install_VanometricPowerCell.label>
+  
+  <!-- EN: Vitalmonitor (Entwurf) -->
+  <Blueprint_Install_VitalsMonitor.label>Vitalmonitor (Entwurf)</Blueprint_Install_VitalsMonitor.label>
+  
+  <!-- EN: Langstrecken Mineralienscanner (Entwurf) -->
+  <Blueprint_LongRangeMineralScanner.label>Langstrecken Mineralienscanner (Entwurf)</Blueprint_LongRangeMineralScanner.label>
+  
+  <!-- EN: Hochzeiten (Entwurf) -->
+  <Blueprint_MarriageSpot.label>Hochzeitsplatz (Entwurf)</Blueprint_MarriageSpot.label>
+  
+  <!-- EN: Metallfliese (Entwurf) -->
+  <Blueprint_MetalTile.label>Metallfliese (Entwurf)</Blueprint_MetalTile.label>
+  
+  <!-- EN: Trockenpumpe (Entwurf) -->
+  <Blueprint_MoisturePump.label>Entwässerungspumpe (Entwurf)</Blueprint_MoisturePump.label>
+  
+  <!-- EN: Analysator (Entwurf) -->
+  <Blueprint_MultiAnalyzer.label>Analysator (Entwurf)</Blueprint_MultiAnalyzer.label>
+  
+  <!-- EN: Nährstoffspender (Entwurf) -->
+  <Blueprint_NutrientPasteDispenser.label>Nährstoffspender (Entwurf)</Blueprint_NutrientPasteDispenser.label>
+  
+  <!-- EN: Orbitales Funkfeuer (Entwurf) -->
+  <Blueprint_OrbitalTradeBeacon.label>Orbitales Funkfeuer (Entwurf)</Blueprint_OrbitalTradeBeacon.label>
+  
+  <!-- EN: Partys (Entwurf) -->
+  <Blueprint_PartySpot.label>Partyplatz (Entwurf)</Blueprint_PartySpot.label>
+  
+  <!-- EN: Passive Kühlung (Entwurf) -->
+  <Blueprint_PassiveCooler.label>Passive Kühlung (Entwurf)</Blueprint_PassiveCooler.label>
+  
+  <!-- EN: Betonplatte (Entwurf) -->
+  <Blueprint_PavedTile.label>Betonplatte (Entwurf)</Blueprint_PavedTile.label>
+  
+  <!-- EN: Blumentopf (Entwurf) -->
+  <Blueprint_PlantPot.label>Blumentopf (Entwurf)</Blueprint_PlantPot.label>
+  
+  <!-- EN: Startrampe (Entwurf) -->
+  <Blueprint_PodLauncher.label>Abschussrampe (Kapsel)(Entwurf)</Blueprint_PodLauncher.label>
+  
+  <!-- EN: Pokertisch (Entwurf) -->
+  <Blueprint_PokerTable.label>Pokertisch (Entwurf)</Blueprint_PokerTable.label>
+  
+  <!-- EN: Stromkabel (Entwurf) -->
+  <Blueprint_PowerConduit.label>Stromkabel (Entwurf)</Blueprint_PowerConduit.label>
+  
+  <!-- EN: Schalter (Entwurf) -->
+  <Blueprint_PowerSwitch.label>Schalter (Entwurf)</Blueprint_PowerSwitch.label>
+  
+  <!-- EN: Königliches Bett (Entwurf) -->
+  <Blueprint_RoyalBed.label>Königliches Bett (Entwurf)</Blueprint_RoyalBed.label>
+  
+  <!-- EN: Sandsäcke (Entwurf) -->
+  <Blueprint_Sandbags.label>Sandsäcke (Entwurf)</Blueprint_Sandbags.label>
+  
+  <!-- EN: Sarkophag (Entwurf) -->
+  <Blueprint_Sarcophagus.label>Sarkophag (Entwurf)</Blueprint_Sarcophagus.label>
+  
+  <!-- EN: Regal (Entwurf) -->
+  <Blueprint_Shelf.label>Regal (Entwurf)</Blueprint_Shelf.label>
+  
+  <!-- EN: Raumschiff Träger (Entwurf) -->
+  <Blueprint_Ship_Beam.label>Raumschiffträger (Entwurf)</Blueprint_Ship_Beam.label>
+  
+  <!-- EN: Raumschiff Computer Kern (Entwurf) -->
+  <Blueprint_Ship_ComputerCore.label>Raumschiff Computer Kern (Entwurf)</Blueprint_Ship_ComputerCore.label>
+  
+  <!-- EN: Raumschiff Kryptokapsel (Entwurf) -->
+  <Blueprint_Ship_CryptosleepCasket.label> Raumschiffkryptokapsel (Entwurf)</Blueprint_Ship_CryptosleepCasket.label>
+  
+  <!-- EN: Raumschiff Triebwerk (Entwurf) -->
+  <Blueprint_Ship_Engine.label>Raumschifftriebwerk (Entwurf)</Blueprint_Ship_Engine.label>
+  
+  <!-- EN: Raumschiff Reaktor (Entwurf) -->
+  <Blueprint_Ship_Reactor.label>Raumschiffreaktor (Entwurf)</Blueprint_Ship_Reactor.label>
+  
+  <!-- EN: Raumschiff Sensoren (Entwurf) -->
+  <Blueprint_Ship_SensorCluster.label>Raumschiffsensoren (Entwurf)</Blueprint_Ship_SensorCluster.label>
+  
+  <!-- EN: Silberfliese (Entwurf) -->
+  <Blueprint_SilverTile.label>Silberfliese (Entwurf)</Blueprint_SilverTile.label>
+  
+  <!-- EN: Einfacher Labortisch (Entwurf) -->
+  <Blueprint_SimpleResearchBench.label>Einfacher Labortisch (Entwurf)</Blueprint_SimpleResearchBench.label>
+  
+  <!-- EN: Schlafplatz (Entwurf) -->
+  <Blueprint_SleepingSpot.label>Schlafplatz (Entwurf)</Blueprint_SleepingSpot.label>
+  
+  <!-- EN: Solaranlage (Entwurf) -->
+  <Blueprint_SolarGenerator.label>Solaranlage (Entwurf)</Blueprint_SolarGenerator.label>
+  
+  <!-- EN: Stehlampe (Entwurf) -->
+  <Blueprint_StandingLamp.label>Stehlampe (Entwurf)</Blueprint_StandingLamp.label>
+  
+  <!-- EN: Stehlampe (blau) (Entwurf) -->
+  <Blueprint_StandingLamp_Blue.label>Stehlampe (blau) (Entwurf)</Blueprint_StandingLamp_Blue.label>
+  
+  <!-- EN: Stehlampe (grün) (Entwurf) -->
+  <Blueprint_StandingLamp_Green.label>Stehlampe (grün) (Entwurf)</Blueprint_StandingLamp_Green.label>
+  
+  <!-- EN: Stehlampe (rot) (Entwurf) -->
+  <Blueprint_StandingLamp_Red.label>Stehlampe (rot) (Entwurf)</Blueprint_StandingLamp_Red.label>
+  
+  <!-- EN: Sterile Fliese (Entwurf) -->
+  <Blueprint_SterileTile.label>Sterile Fliese (Entwurf)</Blueprint_SterileTile.label>
+  
+  <!-- EN: Hocker (Entwurf) -->
+  <Blueprint_Stool.label>Hocker (Entwurf)</Blueprint_Stool.label>
+  
+  <!-- EN: Künstl. Sonne (Entwurf) -->
+  <Blueprint_SunLamp.label>Künstl. Sonne (Entwurf)</Blueprint_SunLamp.label>
+  
+  <!-- EN: Tisch (1x2) (Entwurf) -->
+  <Blueprint_Table1x2c.label>Tisch (1x2) (Entwurf)</Blueprint_Table1x2c.label>
+  
+  <!-- EN: Tisch (2x2) (Entwurf) -->
+  <Blueprint_Table2x2c.label>Tisch (2x2) (Entwurf)</Blueprint_Table2x2c.label>
+  
+  <!-- EN: Tisch (2x4) (Entwurf) -->
+  <Blueprint_Table2x4c.label>Tisch (2x4) (Entwurf)</Blueprint_Table2x4c.label>
+  
+  <!-- EN: Tisch (3x3) (Entwurf) -->
+  <Blueprint_Table3x3c.label>Tisch (3x3) (Entwurf)</Blueprint_Table3x3c.label>
+  
+  <!-- EN: Schlachtbank (Entwurf) -->
+  <Blueprint_TableButcher.label>Schlachtbank (Entwurf)</Blueprint_TableButcher.label>
+  
+  <!-- EN: Mechanik Werkbank (Entwurf) -->
+  <Blueprint_TableMachining.label>Mechanik Werkbank (Entwurf)</Blueprint_TableMachining.label>
+  
+  <!-- EN: Bildhauer Werkbank (Entwurf) -->
+  <Blueprint_TableSculpting.label>Bildhauertisch (Entwurf)</Blueprint_TableSculpting.label>
+  
+  <!-- EN: Steinmetz Werkbank (Entwurf) -->
+  <Blueprint_TableStonecutter.label>Steinmetztisch (Entwurf)</Blueprint_TableStonecutter.label>
+  
+  <!-- EN: Granitfliese (Entwurf) -->
+  <Blueprint_TileGranite.label>Granitfliese (Entwurf)</Blueprint_TileGranite.label>
+  
+  <!-- EN: Kalksteinfliese (Entwurf) -->
+  <Blueprint_TileLimestone.label>Kalksteinfliese (Entwurf)</Blueprint_TileLimestone.label>
+  
+  <!-- EN: Marmorfliese (Entwurf) -->
+  <Blueprint_TileMarble.label>Marmor Fliese (Entwurf)</Blueprint_TileMarble.label>
+  
+  <!-- EN: Sandsteinfliese (Entwurf) -->
+  <Blueprint_TileSandstone.label>Sandsteinfliese (Entwurf)</Blueprint_TileSandstone.label>
+  
+  <!-- EN: Schieferfliese (Entwurf) -->
+  <Blueprint_TileSlate.label>Schieferfliese (Entwurf)</Blueprint_TileSlate.label>
+  
+  <!-- EN: Werkzeugschrank (Entwurf) -->
+  <Blueprint_ToolCabinet.label>Werkzeug Schrank (Entwurf)</Blueprint_ToolCabinet.label>
+  
+  <!-- EN: Fackel (Entwurf) -->
+  <Blueprint_TorchLamp.label>Fackel (Entwurf)</Blueprint_TorchLamp.label>
+  
+  <!-- EN: Transportkapsel (Entwurf) -->
+  <Blueprint_TransportPod.label>Transportkapsel (Entwurf)</Blueprint_TransportPod.label>
+  
+  <!-- EN: USBV Gefechtskopf (Entwurf) -->
+  <Blueprint_TrapIED_AntigrainWarhead.label>USBV Gefechtskopf (Entwurf)</Blueprint_TrapIED_AntigrainWarhead.label>
+  
+  <!-- EN: USBV EMP (Entwurf) -->
+  <Blueprint_TrapIED_EMP.label>USBV EMP (Entwurf)</Blueprint_TrapIED_EMP.label>
+  
+  <!-- EN: USBV Löschschaum (Entwurf) -->
+  <Blueprint_TrapIED_Firefoam.label>USBV Löschschaum (Entwurf)</Blueprint_TrapIED_Firefoam.label>
+  
+  <!-- EN: USBV Sprengsatz (Entwurf) -->
+  <Blueprint_TrapIED_HighExplosive.label>USBV Sprengsatz (Entwurf)</Blueprint_TrapIED_HighExplosive.label>
+  
+  <!-- EN: USBV Brandsatz (Entwurf) -->
+  <Blueprint_TrapIED_Incendiary.label>USBV Brandsatz (Entwurf)</Blueprint_TrapIED_Incendiary.label>
+  
+  <!-- EN: Fernseher (Röhre) (Entwurf) -->
+  <Blueprint_TubeTelevision.label>Fernseher (Röhre) (Entwurf)</Blueprint_TubeTelevision.label>
+  
+  <!-- EN: Schweres Geschütz (Entwurf) -->
+  <Blueprint_Turret_Autocannon.label>Schweres Geschütz (Entwurf)</Blueprint_Turret_Autocannon.label>
+  
+  <!-- EN: Mini Geschütz (Entwurf) -->
+  <Blueprint_Turret_MiniTurret.label>Mini Geschütz (Entwurf)</Blueprint_Turret_MiniTurret.label>
+  
+  <!-- EN: Mörser (Entwurf) -->
+  <Blueprint_Turret_Mortar.label>Mörser (Entwurf)</Blueprint_Turret_Mortar.label>
+  
+  <!-- EN: Lüftung (Entwurf) -->
+  <Blueprint_Vent.label>Lüftung (Entwurf)</Blueprint_Vent.label>
+  
+  <!-- EN: Vitalmonitor (Entwurf) -->
+  <Blueprint_VitalsMonitor.label>Vitalmonitor (Entwurf)</Blueprint_VitalsMonitor.label>
+  
+  <!-- EN: Wand (Entwurf) -->
+  <Blueprint_Wall.label>Wand (Entwurf)</Blueprint_Wall.label>
+  
+  <!-- EN: Wasserkraft Generator (Entwurf) -->
+  <Blueprint_WatermillGenerator.label>Wasserkraftgenerator (Entwurf)</Blueprint_WatermillGenerator.label>
+  
+  <!-- EN: Stromkabel Wasserfest (Entwurf) -->
+  <Blueprint_WaterproofConduit.label>Stromkabel Wasserfest (Entwurf)</Blueprint_WaterproofConduit.label>
+  
+  <!-- EN: Windturbine (Entwurf) -->
+  <Blueprint_WindTurbine.label>Windturbine (Entwurf)</Blueprint_WindTurbine.label>
+  
+  <!-- EN: Holzfeuer Generator (Entwurf) -->
+  <Blueprint_WoodFiredGenerator.label>Holzfeuergenerator (Entwurf)</Blueprint_WoodFiredGenerator.label>
+  
+  <!-- EN: Holzboden (Entwurf) -->
+  <Blueprint_WoodPlankFloor.label>Holzboden (Entwurf)</Blueprint_WoodPlankFloor.label>
+  
+  <!-- EN: Alpaka (Leiche) -->
+  <Corpse_Alpaca.label>Totes Alpaka</Corpse_Alpaca.label>
+  <!-- EN: Toter Körper von Alpaka. -->
+  <Corpse_Alpaca.description>Die Leiche eines Alpakas.</Corpse_Alpaca.description>
+  
+  <!-- EN: Alphabiber (Leiche) -->
+  <Corpse_Alphabeaver.label>Toter Biber</Corpse_Alphabeaver.label>
+  <!-- EN: Toter Körper von Alphabiber. -->
+  <Corpse_Alphabeaver.description>Die Leiche eines Bibers.</Corpse_Alphabeaver.description>
+  
+  <!-- EN: Grizzlybär (Leiche) -->
+  <Corpse_Bear_Grizzly.label>Toter Grizzlybär</Corpse_Bear_Grizzly.label>
+  <!-- EN: Toter Körper von Grizzlybär. -->
+  <Corpse_Bear_Grizzly.description>Die Leiche eines Grizzlybären.</Corpse_Bear_Grizzly.description>
+  
+  <!-- EN: Eisbär (Leiche) -->
+  <Corpse_Bear_Polar.label>Toter Eisbär</Corpse_Bear_Polar.label>
+  <!-- EN: Toter Körper von Eisbär. -->
+  <Corpse_Bear_Polar.description>Die Leiche eines Eisbären.</Corpse_Bear_Polar.description>
+  
+  <!-- EN: Boomalope (Leiche) -->
+  <Corpse_Boomalope.label>Tote Boomalope</Corpse_Boomalope.label>
+  <!-- EN: Toter Körper von Boomalope. -->
+  <Corpse_Boomalope.description>Die Leiche einer Boomalope.</Corpse_Boomalope.description>
+  
+  <!-- EN: Boomratte (Leiche) -->
+  <Corpse_Boomrat.label>Tote Boomratte</Corpse_Boomrat.label>
+  <!-- EN: Toter Körper von Boomratte. -->
+  <Corpse_Boomrat.description>Die Leiche einer Boomratte.</Corpse_Boomrat.description>
+  
+  <!-- EN: Wasserschwein (Leiche) -->
+  <Corpse_Capybara.label>Totes Wasserschwein</Corpse_Capybara.label>
+  <!-- EN: Toter Körper von Wasserschwein. -->
+  <Corpse_Capybara.description>Die Leiche eines Wasserschweins.</Corpse_Capybara.description>
+  
+  <!-- EN: Rentier (Leiche) -->
+  <Corpse_Caribou.label>Totes Rentier</Corpse_Caribou.label>
+  <!-- EN: Toter Körper von Rentier. -->
+  <Corpse_Caribou.description>Die Leiche eines Rentieres.</Corpse_Caribou.description>
+  
+  <!-- EN: Kasuar (Leiche) -->
+  <Corpse_Cassowary.label>Toter Kasuar</Corpse_Cassowary.label>
+  <!-- EN: Toter Körper von Kasuar. -->
+  <Corpse_Cassowary.description>Die Leiche eines Kasuars.</Corpse_Cassowary.description>
+  
+  <!-- EN: Katze (Leiche) -->
+  <Corpse_Cat.label>Tote Katze</Corpse_Cat.label>
+  <!-- EN: Toter Körper von Katze. -->
+  <Corpse_Cat.description>Die Leiche einer Katze.</Corpse_Cat.description>
+  
+  <!-- EN: Huhn (Leiche) -->
+  <Corpse_Chicken.label>Totes Huhn</Corpse_Chicken.label>
+  <!-- EN: Toter Körper von Huhn. -->
+  <Corpse_Chicken.description>Die Leiche eines Huhns.</Corpse_Chicken.description>
+  
+  <!-- EN: Chinchilla (Leiche) -->
+  <Corpse_Chinchilla.label>Toter Chinchilla</Corpse_Chinchilla.label>
+  <!-- EN: Toter Körper von Chinchilla. -->
+  <Corpse_Chinchilla.description>Die Leiche eines Chinchillas.</Corpse_Chinchilla.description>
+  
+  <!-- EN: Kobra (Leiche) -->
+  <Corpse_Cobra.label>Tote Kobra</Corpse_Cobra.label>
+  <!-- EN: Toter Körper von Kobra. -->
+  <Corpse_Cobra.description>Die Leiche einer Kobra.</Corpse_Cobra.description>
+  
+  <!-- EN: Puma (Leiche) -->
+  <Corpse_Cougar.label>Toter Puma</Corpse_Cougar.label>
+  <!-- EN: Toter Körper von Puma. -->
+  <Corpse_Cougar.description>Die Leiche eines Pumas.</Corpse_Cougar.description>
+  
+  <!-- EN: Rind (Leiche) -->
+  <Corpse_Cow.label>Totes Rind</Corpse_Cow.label>
+  <!-- EN: Toter Körper von Rind. -->
+  <Corpse_Cow.description>Die Leiche eines Rinds.</Corpse_Cow.description>
+  
+  <!-- EN: Rotwild (Leiche) -->
+  <Corpse_Deer.label>Totes Rotwild</Corpse_Deer.label>
+  <!-- EN: Toter Körper von Rotwild. -->
+  <Corpse_Deer.description>Die Leiche eines Rotwildes.</Corpse_Deer.description>
+  
+  <!-- EN: Dromedar (Leiche) -->
+  <Corpse_Dromedary.label>Totes Dromedar</Corpse_Dromedary.label>
+  <!-- EN: Toter Körper von Dromedar. -->
+  <Corpse_Dromedary.description>Die Leiche eines Dromedars.</Corpse_Dromedary.description>
+  
+  <!-- EN: Elefant (Leiche) -->
+  <Corpse_Elephant.label>Toter Elefant</Corpse_Elephant.label>
+  <!-- EN: Toter Körper von Elefant. -->
+  <Corpse_Elephant.description>Die Leiche eines Elefanten.</Corpse_Elephant.description>
+  
+  <!-- EN: Elch (Leiche) -->
+  <Corpse_Elk.label>Toter Elch</Corpse_Elk.label>
+  <!-- EN: Toter Körper von Elch. -->
+  <Corpse_Elk.description>Die Leiche eines Elchs.</Corpse_Elk.description>
+  
+  <!-- EN: Emu (Leiche) -->
+  <Corpse_Emu.label>Toter Emu</Corpse_Emu.label>
+  <!-- EN: Toter Körper von Emu. -->
+  <Corpse_Emu.description>Die Leiche eines Emus.</Corpse_Emu.description>
+  
+  <!-- EN: Polarfuchs (Leiche) -->
+  <Corpse_Fox_Arctic.label>Toter Polarfuchs</Corpse_Fox_Arctic.label>
+  <!-- EN: Toter Körper von Polarfuchs. -->
+  <Corpse_Fox_Arctic.description>Die Leiche eines Polarfuchses.</Corpse_Fox_Arctic.description>
+  
+  <!-- EN: Wüstenfuchs (Leiche) -->
+  <Corpse_Fox_Fennec.label>Toter Wüstenfuchs</Corpse_Fox_Fennec.label>
+  <!-- EN: Toter Körper von Wüstenfuchs. -->
+  <Corpse_Fox_Fennec.description>Die Leiche eines Wüstenfuchses.</Corpse_Fox_Fennec.description>
+  
+  <!-- EN: Rotfuchs (Leiche) -->
+  <Corpse_Fox_Red.label>Toter Rotfuchs</Corpse_Fox_Red.label>
+  <!-- EN: Toter Körper von Rotfuchs. -->
+  <Corpse_Fox_Red.description>Die Leiche eines Rotfuchses.</Corpse_Fox_Red.description>
+  
+  <!-- EN: Gazelle (Leiche) -->
+  <Corpse_Gazelle.label>Tote Gazelle</Corpse_Gazelle.label>
+  <!-- EN: Toter Körper von Gazelle. -->
+  <Corpse_Gazelle.description>Die Leiche einer Gazelle.</Corpse_Gazelle.description>
+  
+  <!-- EN: Hase (Leiche) -->
+  <Corpse_Hare.label>Toter Hase</Corpse_Hare.label>
+  <!-- EN: Toter Körper von Hase. -->
+  <Corpse_Hare.description>Die Leiche eines Hasen.</Corpse_Hare.description>
+  
+  <!-- EN: Mensch (Leiche) -->
+  <Corpse_Human.label>Toter Mensch</Corpse_Human.label>
+  <!-- EN: Toter Körper von Mensch. -->
+  <Corpse_Human.description>Die Leiche eines Menschen.</Corpse_Human.description>
+  
+  <!-- EN: Husky (Leiche) -->
+  <Corpse_Husky.label>Toter Husky</Corpse_Husky.label>
+  <!-- EN: Toter Körper von Husky. -->
+  <Corpse_Husky.description>Die Leiche eines Huskys.</Corpse_Husky.description>
+  
+  <!-- EN: Steinbock (Leiche) -->
+  <Corpse_Ibex.label>Toter Steinbock</Corpse_Ibex.label>
+  <!-- EN: Toter Körper von Steinbock. -->
+  <Corpse_Ibex.description>Die Leiche eines Steinbocks.</Corpse_Ibex.description>
+  
+  <!-- EN: Leguan (Leiche) -->
+  <Corpse_Iguana.label>Toter Leguan</Corpse_Iguana.label>
+  <!-- EN: Toter Körper von Leguan. -->
+  <Corpse_Iguana.description>Die Leiche eines Leguans.</Corpse_Iguana.description>
+  
+  <!-- EN: Labrador-Retriever (Leiche) -->
+  <Corpse_LabradorRetriever.label>Toter Labrador-Retriever</Corpse_LabradorRetriever.label>
+  <!-- EN: Toter Körper von Labrador-Retriever. -->
+  <Corpse_LabradorRetriever.description>Die Leiche eines Labrador-Retrievers.</Corpse_LabradorRetriever.description>
+  
+  <!-- EN: Luchs (Leiche) -->
+  <Corpse_Lynx.label>Toter Luchs</Corpse_Lynx.label>
+  <!-- EN: Toter Körper von Luchs. -->
+  <Corpse_Lynx.description>Die Leiche eines Luchses.</Corpse_Lynx.description>
+  
+  <!-- EN: Raupe (Leiche) -->
+  <Corpse_Mech_Centipede.label>Tote Raupe</Corpse_Mech_Centipede.label>
+  <!-- EN: Toter Körper von Raupe. -->
+  <Corpse_Mech_Centipede.description>Ein deaktivierter Kampfmechanoid vom Typ 'Raupe'.</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: Lanzer (Leiche) -->
+  <Corpse_Mech_Lancer.label>Toter Lanzer</Corpse_Mech_Lancer.label>
+  <!-- EN: Toter Körper von Lanzer. -->
+  <Corpse_Mech_Lancer.description>Ein deaktivierter Kampfmechanoid vom Typ 'Lanzer'.</Corpse_Mech_Lancer.description>
+  
+  <!-- EN: Schnitter (Leiche) -->
+  <Corpse_Mech_Scyther.label>Toter Schnitter</Corpse_Mech_Scyther.label>
+  <!-- EN: Toter Körper von Schnitter. -->
+  <Corpse_Mech_Scyther.description>Ein deaktivierter Kampfmechanoid vom Typ 'Schnitter'.</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: Riesenskarabäus (Leiche) -->
+  <Corpse_Megascarab.label>Toter Skarabäus</Corpse_Megascarab.label>
+  <!-- EN: Toter Körper von Riesenskarabäus. -->
+  <Corpse_Megascarab.description>Die Leiche eines Skarabäus.</Corpse_Megascarab.description>
+  
+  <!-- EN: Riesenfaultier (Leiche) -->
+  <Corpse_Megasloth.label>Totes Faultier</Corpse_Megasloth.label>
+  <!-- EN: Toter Körper von Riesenfaultier. -->
+  <Corpse_Megasloth.description>Die Leiche eines Faultieres.</Corpse_Megasloth.description>
+  
+  <!-- EN: Riesenspinne (Leiche) -->
+  <Corpse_Megaspider.label>Tote Riesenspinne</Corpse_Megaspider.label>
+  <!-- EN: Toter Körper von Riesenspinne. -->
+  <Corpse_Megaspider.description>Die Leiche einer Riesenspinne.</Corpse_Megaspider.description>
+  
+  <!-- EN: Affe (Leiche) -->
+  <Corpse_Monkey.label>Toter Affe</Corpse_Monkey.label>
+  <!-- EN: Toter Körper von Affe. -->
+  <Corpse_Monkey.description>Die Leiche eines Affen.</Corpse_Monkey.description>
+  
+  <!-- EN: Muffalo (Leiche) -->
+  <Corpse_Muffalo.label>Totes Muffalo</Corpse_Muffalo.label>
+  <!-- EN: Toter Körper von Muffalo. -->
+  <Corpse_Muffalo.description>Die Leiche eines Muffalo.</Corpse_Muffalo.description>
+  
+  <!-- EN: Strauß (Leiche) -->
+  <Corpse_Ostrich.label>Toter Strauß</Corpse_Ostrich.label>
+  <!-- EN: Toter Körper von Strauß. -->
+  <Corpse_Ostrich.description>Die Leiche eines Straußes.</Corpse_Ostrich.description>
+  
+  <!-- EN: Panther (Leiche) -->
+  <Corpse_Panther.label>Toter Panther</Corpse_Panther.label>
+  <!-- EN: Toter Körper von Panther. -->
+  <Corpse_Panther.description>Die Leiche eines Panthers.</Corpse_Panther.description>
+  
+  <!-- EN: Schwein (Leiche) -->
+  <Corpse_Pig.label>Totes Schwein</Corpse_Pig.label>
+  <!-- EN: Toter Körper von Schwein. -->
+  <Corpse_Pig.description>Die Leiche eines Schweins.</Corpse_Pig.description>
+  
+  <!-- EN: Waschbär (Leiche) -->
+  <Corpse_Raccoon.label>Toter Waschbär</Corpse_Raccoon.label>
+  <!-- EN: Toter Körper von Waschbär. -->
+  <Corpse_Raccoon.description>Die Leiche eines Waschbären.</Corpse_Raccoon.description>
+  
+  <!-- EN: Ratte (Leiche) -->
+  <Corpse_Rat.label>Tote Ratte</Corpse_Rat.label>
+  <!-- EN: Toter Körper von Ratte. -->
+  <Corpse_Rat.description>Die Leiche einer Ratte.</Corpse_Rat.description>
+  
+  <!-- EN: Nashorn (Leiche) -->
+  <Corpse_Rhinoceros.label>Totes Nashorn</Corpse_Rhinoceros.label>
+  <!-- EN: Toter Körper von Nashorn. -->
+  <Corpse_Rhinoceros.description>Die Leiche eines Nashorns.</Corpse_Rhinoceros.description>
+  
+  <!-- EN: Schneehase (Leiche) -->
+  <Corpse_Snowhare.label>Toter Schneehase</Corpse_Snowhare.label>
+  <!-- EN: Toter Körper von Schneehase. -->
+  <Corpse_Snowhare.description>Die Leiche eines Schneehasen.</Corpse_Snowhare.description>
+  
+  <!-- EN: Höhlenkäfer (Leiche) -->
+  <Corpse_Spelopede.label>Toter Höhlenkäfer</Corpse_Spelopede.label>
+  <!-- EN: Toter Körper von Höhlenkäfer. -->
+  <Corpse_Spelopede.description>Die Leiche eines Höhlenkäfers.</Corpse_Spelopede.description>
+  
+  <!-- EN: Eichhörnchen (Leiche) -->
+  <Corpse_Squirrel.label>Totes Eichhörnchen</Corpse_Squirrel.label>
+  <!-- EN: Toter Körper von Eichhörnchen. -->
+  <Corpse_Squirrel.description>Die Leiche eines Eichhörnchens.</Corpse_Squirrel.description>
+  
+  <!-- EN: Thrumbo (Leiche) -->
+  <Corpse_Thrumbo.label>Toter Thrumbo</Corpse_Thrumbo.label>
+  <!-- EN: Toter Körper von Thrumbo. -->
+  <Corpse_Thrumbo.description>Die Leiche eines Thrumbos.</Corpse_Thrumbo.description>
+  
+  <!-- EN: Landschildkröte (Leiche) -->
+  <Corpse_Tortoise.label>Tote Landschildkröte</Corpse_Tortoise.label>
+  <!-- EN: Toter Körper von Landschildkröte. -->
+  <Corpse_Tortoise.description>Die Leiche einer Landschildkröte.</Corpse_Tortoise.description>
+  
+  <!-- EN: Truthahn (Leiche) -->
+  <Corpse_Turkey.label>Toter Truthahn</Corpse_Turkey.label>
+  <!-- EN: Toter Körper von Truthahn. -->
+  <Corpse_Turkey.description>Die Leiche eines Truthahns.</Corpse_Turkey.description>
+  
+  <!-- EN: Warg (Leiche) -->
+  <Corpse_Warg.label>Toter Warg</Corpse_Warg.label>
+  <!-- EN: Toter Körper von Warg. -->
+  <Corpse_Warg.description>Die Leiche eines Warges.</Corpse_Warg.description>
+  
+  <!-- EN: Wildschwein (Leiche) -->
+  <Corpse_WildBoar.label>Totes Wildschwein</Corpse_WildBoar.label>
+  <!-- EN: Toter Körper von Wildschwein. -->
+  <Corpse_WildBoar.description>Die Leiche eines Wildschweins.</Corpse_WildBoar.description>
+  
+  <!-- EN: Polarwolf (Leiche) -->
+  <Corpse_Wolf_Arctic.label>Toter Polarwolf</Corpse_Wolf_Arctic.label>
+  <!-- EN: Toter Körper von Polarwolf. -->
+  <Corpse_Wolf_Arctic.description>Die Leiche eines Polarwolfes.</Corpse_Wolf_Arctic.description>
+  
+  <!-- EN: Timberwolf (Leiche) -->
+  <Corpse_Wolf_Timber.label>Toter Timberwolf</Corpse_Wolf_Timber.label>
+  <!-- EN: Toter Körper von Timberwolf. -->
+  <Corpse_Wolf_Timber.description>Die Leiche eines Timberwolfes.</Corpse_Wolf_Timber.description>
+  
+  <!-- EN: Yorkshire-Terrier (Leiche) -->
+  <Corpse_YorkshireTerrier.label>Toter Yorkshire-Terrier</Corpse_YorkshireTerrier.label>
+  <!-- EN: Toter Körper von Yorkshire-Terrier. -->
+  <Corpse_YorkshireTerrier.description>Die Leiche eines Yorkshire-Terriers.</Corpse_YorkshireTerrier.description>
+  
+  <!-- EN: Bett (Tier) (wird gebaut) -->
+  <Frame_AnimalBed.label>Bett (Tier) (wird gebaut)</Frame_AnimalBed.label>
+  <!-- EN: Ein weiches Bett auf dem Tiere schlafen können. Passend für alle Tierarten. -->
+  <Frame_AnimalBed.description>Ein weiches Bett auf dem Tiere schlafen können. Passend für alle Tierarten.</Frame_AnimalBed.description>
+  
+  <!-- EN: Schlafkiste (Tier) (wird gebaut) -->
+  <Frame_AnimalSleepingBox.label>Schlafkiste (Tier) (wird gebaut)</Frame_AnimalSleepingBox.label>
+  <!-- EN: Eine kleine Kiste, in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde. -->
+  <Frame_AnimalSleepingBox.description>Eine kleine Kiste, in der Tiere schlafen können. Passend für kleinere Tiere, wie Hühner, Katzen oder kleine Hunde.</Frame_AnimalSleepingBox.description>
+  
+  <!-- EN: Schlafplatz (Tier) (wird gebaut) -->
+  <Frame_AnimalSleepingSpot.label>Schlafplatz (Tier) (wird gebaut)</Frame_AnimalSleepingSpot.label>
+  <!-- EN: Kennzeichnet einen Platz auf dem Boden, an dem Tiere schlafen sollen. -->
+  <Frame_AnimalSleepingSpot.description>Kennzeichnet einen Platz auf dem Boden, an dem Tiere schlafen sollen.</Frame_AnimalSleepingSpot.description>
+  
+  <!-- EN: Sessel (wird gebaut) -->
+  <Frame_Armchair.label>Sessel (wird gebaut)</Frame_Armchair.label>
+  <!-- EN: Ein großer, weicher und bequemer Sessel. Sehr gut zum Entspannen. Kann an Tischen, Arbeitsstationen und auch überall sonst verwendet werden. -->
+  <Frame_Armchair.description>Ein großer, weicher und bequemer Sessel. Sehr gut zum Entspannen.</Frame_Armchair.description>
+  
+  <!-- EN: Autotür (wird gebaut) -->
+  <Frame_Autodoor.label>Autotür (wird gebaut)</Frame_Autodoor.label>
+  <!-- EN: Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden. -->
+  <Frame_Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Frame_Autodoor.description>
+  
+  <!-- EN: Batterie (wird gebaut) -->
+  <Frame_Battery.label>Batterie (wird gebaut)</Frame_Battery.label>
+  <!-- EN: Speichert Strom für die spätere Verwendung. Geladene Batterien können explodieren, wenn sie Regen oder Feuer ausgesetzt werden. -->
+  <Frame_Battery.description>Speichert Strom, wenn ein Überschuss besteht und gibt ihn wieder ab, wenn er fehlt. Warnung - geladene Batterien können explodieren, wenn sie nass oder heiß werden.</Frame_Battery.description>
+  
+  <!-- EN: Bett (wird gebaut) -->
+  <Frame_Bed.label>Bett (wird gebaut)</Frame_Bed.label>
+  <!-- EN: Eine gemütliche Matratze mit Bettwäsche auf einem Rahmen. Ein guter Ort zum Ausruhen. -->
+  <Frame_Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einem Rahmen. Ein guter Ort zum Ausruhen.</Frame_Bed.description>
+  
+  <!-- EN: Schlafsack (wird gebaut) -->
+  <Frame_Bedroll.label>Schlafsack (wird gebaut)</Frame_Bedroll.label>
+  <!-- EN: Ein einfaches Bett, in dem man auf dem Boden schlafen kann. Es wird normalerweise aus Stoff oder Leder hergestellt und besitzt oft auch ein Innenfell. Der Schlafsack ist leicht und kann zum Transport zusammengerollt werden. Er ist aber nicht so bequem wie ein richtiges Bett. Karawanen können Schlafsäcke zur besseren Erholung verwenden. -->
+  <Frame_Bedroll.description>Ein Schlafsack, der auf dem Boden liegt. Er ist leicht und kann zum Transport zusammengerollt werden, ist aber nicht so bequem wie ein richtiges Bett.</Frame_Bedroll.description>
+  
+  <!-- EN: Großer Schlafsack (wird gebaut) -->
+  <Frame_BedrollDouble.label>Doppel-Schlafsack (wird gebaut)</Frame_BedrollDouble.label>
+  <!-- EN: Ein einfaches, extra breites Bett, in dem man auf dem Boden schlafen kann. Es wird normalerweise aus Stoff oder Leder hergestellt und besitzt oft auch ein Innenfell. Der Schlafsack ist leicht und kann zum Transport zusammengerollt werden. Er ist aber nicht so bequem wie ein richtiges Bett. Karawanen können Schlafsäcke zur besseren Erholung verwenden. -->
+  <Frame_BedrollDouble.description>Ein extra breiter Schlafsack, der auf dem Boden liegt. Er ist leicht und kann zum Transport zusammengerollt werden, ist aber nicht so bequem wie ein richtiges Bett.</Frame_BedrollDouble.description>
+  
+  <!-- EN: Billardtisch (wird gebaut) -->
+  <Frame_BilliardsTable.label>Billardtisch (wird gebaut)</Frame_BilliardsTable.label>
+  <!-- EN: Ein Tisch mit einer weichen Oberfläche zum Spielen der verschiedenen Billardarten. Es trainiert die Augen-Hand-Koordination (Schießen) -->
+  <Frame_BilliardsTable.description>Ein Tisch mit einer weichen Oberfläche zum Spielen der verschiedenen Billardarten.</Frame_BilliardsTable.description>
+  
+  <!-- EN: Biotreibstoff Raffinerie (wird gebaut) -->
+  <Frame_BiofuelRefinery.label>Biotreibstoff Raffinerie (wird gebaut)</Frame_BiofuelRefinery.label>
+  <!-- EN: Raffiniert biologische Materie, wie Holz und Pflanzen, zu Kraftstoff. -->
+  <Frame_BiofuelRefinery.description>Raffiniert biologische Materie, wie Holz und Pflanzen, zu Kraftstoff.</Frame_BiofuelRefinery.description>
+  
+  <!-- EN: Brauerei (wird gebaut) -->
+  <Frame_Brewery.label>Brauerei (wird gebaut)</Frame_Brewery.label>
+  <!-- EN: Ein Arbeitsplatz mit allem, was zum Herstellen der Bierwürze benötigt wird. Die Bierwürze muss anschließend fermentiert werden, um zu Bier zu werden. -->
+  <Frame_Brewery.description>Ein Arbeitsplatz mit allem, was zum Brauen benötigt wird.</Frame_Brewery.description>
+  
+  <!-- EN: Schlachtplatz (wird gebaut) -->
+  <Frame_ButcherSpot.label>Schlachtplatz (wird gebaut)</Frame_ButcherSpot.label>
+  <!-- EN: Ein Platz an dem Tiere geschlachtet werden können. Ergibt nur 70% vom Fleisch und Leder der geschlachteten Kreatur. -->
+  <Frame_ButcherSpot.description>Ein Platz an dem Tiere geschlachtet werden können. Ergibt nur 70% vom Fleisch und Leder der geschlachteten Kreatur.</Frame_ButcherSpot.description>
+  
+  <!-- EN: Lagerfeuer (wird gebaut) -->
+  <Frame_Campfire.label>Lagerfeuer (wird gebaut)</Frame_Campfire.label>
+  <!-- EN: Für das Zubereiten von Nahrung und Erzeugen von Wärme. Es brennt nach ein paar Tagen aus. Wie bei allen Wärmequellen muss es in einem geschlossenen Raum aufgestellt werden. Holz kann nachgelegt werden. -->
+  <Frame_Campfire.description>Für das Zubereiten von Nahrung und Erzeugen von Wärme. Es brennt nach ein paar Tagen aus. Wie bei allen Wärmequellen muss es in einem geschlossenen Raum aufgestellt werden. Holz kann nachgelegt werden.</Frame_Campfire.description>
+  
+  <!-- EN: Karawanen (wird gebaut) -->
+  <Frame_CaravanPackingSpot.label>Karawanplatz (wird gebaut)</Frame_CaravanPackingSpot.label>
+  <!-- EN: Kennzeichnet einen Ort, an dem Karawanen zusammengestellt werden. Setze diesen in die Nähe Deines Lagers um die Zeit zum Beladen zu reduzieren. -->
+  <Frame_CaravanPackingSpot.description>Kennzeichnet einen Ort, an dem Karawanen zusammengestellt werden.</Frame_CaravanPackingSpot.description>
+  
+  <!-- EN: Blauer Teppich (wird gebaut) -->
+  <Frame_CarpetBlue.label>Blauer Teppich (wird gebaut)</Frame_CarpetBlue.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetBlue.description>Laufende Bodenarbeiten.</Frame_CarpetBlue.description>
+  
+  <!-- EN: Creme Teppich (wird gebaut) -->
+  <Frame_CarpetCream.label>Creme Teppich (wird gebaut)</Frame_CarpetCream.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetCream.description>Laufende Bodenarbeiten.</Frame_CarpetCream.description>
+  
+  <!-- EN: Grauer Teppich (wird gebaut) -->
+  <Frame_CarpetDark.label>Grauer Teppich (wird gebaut)</Frame_CarpetDark.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetDark.description>Laufende Bodenarbeiten.</Frame_CarpetDark.description>
+  
+  <!-- EN: Grüner Teppich (wird gebaut) -->
+  <Frame_CarpetGreen.label>Grüner Teppich (wird gebaut)</Frame_CarpetGreen.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetGreen.description>Laufende Bodenarbeiten.</Frame_CarpetGreen.description>
+  
+  <!-- EN: Roter Teppich (wird gebaut) -->
+  <Frame_CarpetRed.label>Roter Teppich (wird gebaut)</Frame_CarpetRed.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_CarpetRed.description>Laufende Bodenarbeiten.</Frame_CarpetRed.description>
+  
+  <!-- EN: Kraftstoff Generator (wird gebaut) -->
+  <Frame_ChemfuelPoweredGenerator.label>Kraftstoffgenerator (wird gebaut)</Frame_ChemfuelPoweredGenerator.label>
+  <!-- EN: Produziert Strom durch Verbrennung von Kraftstoff. Muss regelmäßig von Hand aufgefüllt werden. -->
+  <Frame_ChemfuelPoweredGenerator.description>Produziert Strom durch Verbrennung von Kraftstoff. Muss von Hand aufgefüllt werden.</Frame_ChemfuelPoweredGenerator.description>
+  
+  <!-- EN: Schachtisch (wird gebaut) -->
+  <Frame_ChessTable.label>Schachtisch (wird gebaut)</Frame_ChessTable.label>
+  <!-- EN: Das antike Spiel der Könige. Bringt Spaß für ein paar Stunden. Sogar dann, wenn man alleine spielt. Es trainiert die Intelligenz. -->
+  <Frame_ChessTable.description>Das antike Spiel der Könige. Bringt Spaß für ein paar Stunden. Sogar dann, wenn man alleine spielt.</Frame_ChessTable.description>
+  
+  <!-- EN: Funkanlage (wird gebaut) -->
+  <Frame_CommsConsole.label>Funkanlage (wird gebaut)</Frame_CommsConsole.label>
+  <!-- EN: Erlaubt den Funkkontakt mit anderen Fraktionen und orbitalen Händlern. -->
+  <Frame_CommsConsole.description>Erlaubt den Funkkontakt mit fernen Händlern, wie auch mit anderen Fraktionen zum Handeln und zur Diplomatie.</Frame_CommsConsole.description>
+  
+  <!-- EN: Beton (wird gebaut) -->
+  <Frame_Concrete.label>Beton (wird gebaut)</Frame_Concrete.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_Concrete.description>Laufende Bodenarbeiten.</Frame_Concrete.description>
+  
+  <!-- EN: Kühlung (wird gebaut) -->
+  <Frame_Cooler.label>Kühlung (wird gebaut)</Frame_Cooler.label>
+  <!-- EN: Ein Gerät zum Kühlen der Luft, das in eine Wand integriert werden muss. Es erzeugt einerseits Kälte, aber generiert auf der anderen Seite recht viel Wärme. Die Kühlung kann benutzt werden, um im Sommer einen Raum zu kühlen, oder auch um einen Kühlraum zu betreiben. -->
+  <Frame_Cooler.description>Ein elektrisch betriebenes Gerät, das in eine Wand integriert werden muss. Es erzeugt einerseits Kälte, aber generiert auf der anderen Seite recht viel Wärme. Die Kühlung kann benutzt werden, um im Sommer einen Raum zu kühlen, oder auch um einen Kühlraum zu betreiben.</Frame_Cooler.description>
+  
+  <!-- EN: Arbeitsplatz (wird gebaut) -->
+  <Frame_CraftingSpot.label>Arbeitsplatz (wird gebaut)</Frame_CraftingSpot.label>
+  <!-- EN: Ein Platz an dem einfache Dinge wie Messer und Bögen hergestellt werden können. Aufgrund der fehlenden Ausrüstung ist die Produktion hier ziemlich langsam. -->
+  <Frame_CraftingSpot.description>Ein Platz, an dem einfache Dinge wie Klingen und Bögen hergestellt werden können.</Frame_CraftingSpot.description>
+  
+  <!-- EN: Kryptoschlafkapsel (wird gebaut) -->
+  <Frame_CryptosleepCasket.label>Kryptoschlafkapsel (wird gebaut)</Frame_CryptosleepCasket.label>
+  <!-- EN: Eine selbstversorgende Kapsel, die darauf ausgelegt ist, die Insassen jahrzehntelang in einen künstlichen Winterschlaf zu versetzen. -->
+  <Frame_CryptosleepCasket.description>Eine selbstversorgende Kapsel, die darauf ausgelegt ist, die Insassen jahrzehntelang in einen künstlichen Winterschlaf zu versetzen.</Frame_CryptosleepCasket.description>
+  
+  <!-- EN: Tiefenbohrer (wird gebaut) -->
+  <Frame_DeepDrill.label>Tiefenbohrer (wird gebaut)</Frame_DeepDrill.label>
+  <!-- EN: Eine Bohranlage, um Mineralien von tief unter der Oberfläche zu fördern. Nutze das Tiefenradar, um verwendbare Mineralienadern aufzuspüren. Wenn keine Rohstoffe vorhanden sind, können hiermit auch Steinblöcke abgebaut werden. Kann repositioniert werden. -->
+  <Frame_DeepDrill.description>Eine Bohranlage, um Mineralien von tief unter der Oberfläche zu fördern. Nutze den Tiefenscanner, um verwendbare Mineralienader aufzuspüren.</Frame_DeepDrill.description>
+  
+  <!-- EN: Stuhl (wird gebaut) -->
+  <Frame_DiningChair.label>Stuhl (wird gebaut)</Frame_DiningChair.label>
+  <!-- EN: Ein komfortabler und gut aussehender Stuhl. Kann an Tischen, Arbeitsstationen und auch überall sonst verwendet werden. -->
+  <Frame_DiningChair.description>Ein komfortabler und gut aussehender Stuhl.</Frame_DiningChair.description>
+  
+  <!-- EN: Tür (wird gebaut) -->
+  <Frame_Door.label>Tür (wird gebaut)</Frame_Door.label>
+  <!-- EN: Trennt Räume. Einfache Türen müssen von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden. Wie stark die Verlangsamung ist, hängt vom verwendeten Material ab. -->
+  <Frame_Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Frame_Door.description>
+  
+  <!-- EN: Doppelbett (wird gebaut) -->
+  <Frame_DoubleBed.label>Doppelbett (wird gebaut)</Frame_DoubleBed.label>
+  <!-- EN: Ein einfaches Doppelbett mit genug Platz für Zwei. -->
+  <Frame_DoubleBed.description>Ein einfaches Doppelbett mit genug Platz für Zwei.</Frame_DoubleBed.description>
+  
+  <!-- EN: Kommode (wird gebaut) -->
+  <Frame_Dresser.label>Kommode (wird gebaut)</Frame_Dresser.label>
+  <!-- EN: Eine Kommode. Macht die nahestehenden Betten ein wenig gemütlicher. Mehrere Kommoden nahe dem gleichen Bett haben keinen zusätzlichen Effekt. -->
+  <Frame_Dresser.description>Macht die nahestehenden Betten ein wenig gemütlicher. Mehrere Kommoden nahe dem gleichen Bett haben keinen Effekt.</Frame_Dresser.description>
+  
+  <!-- EN: Drogenlabor (wird gebaut) -->
+  <Frame_DrugLab.label>Drogenlabor (wird gebaut)</Frame_DrugLab.label>
+  <!-- EN: Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen. -->
+  <Frame_DrugLab.description>Ein Arbeitstisch, der mit unterschiedlichster Messausrüstung, Bunsenbrennern und diversen Behältern ausgestattet ist. Hier kann man eine Vielzahl von Drogen herstellen.</Frame_DrugLab.description>
+  
+  <!-- EN: Krematorium (elektrisch) (wird gebaut) -->
+  <Frame_ElectricCrematorium.label>Krematorium (elektr.) (wird gebaut)</Frame_ElectricCrematorium.label>
+  <!-- EN: Ein großes Steinkrematorium in dem Leichen bei extrem hoher Temperatur verbrannt werden können. -->
+  <Frame_ElectricCrematorium.description>Verbrennt Leichen. Elektrisch betrieben.</Frame_ElectricCrematorium.description>
+  
+  <!-- EN: Schmelzofen (elektrisch) (wird gebaut) -->
+  <Frame_ElectricSmelter.label>Schmelzofen (elektr.) (wird gebaut)</Frame_ElectricSmelter.label>
+  <!-- EN: Extrahiert nutzbares Metall aus Metallschrott und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom. -->
+  <Frame_ElectricSmelter.description>Extrahiert nutzbares Metall aus Metallschrott und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</Frame_ElectricSmelter.description>
+  
+  <!-- EN: Schmiede (elektrisch) (wird gebaut) -->
+  <Frame_ElectricSmithy.label>Schmiede (elektr.) (wird gebaut)</Frame_ElectricSmithy.label>
+  <!-- EN: Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen. -->
+  <Frame_ElectricSmithy.description>Eine elektrisch betriebene Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</Frame_ElectricSmithy.description>
+  
+  <!-- EN: Herd (elektrisch) (wird gebaut) -->
+  <Frame_ElectricStove.label>Herd (elektr.) (wird gebaut)</Frame_ElectricStove.label>
+  <!-- EN: Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten. -->
+  <Frame_ElectricStove.description>Ein elektrischer Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</Frame_ElectricStove.description>
+  
+  <!-- EN: Nähmaschine (elektrisch) (wird gebaut) -->
+  <Frame_ElectricTailoringBench.label>Nähmaschine (elektr.) (wird gebaut)</Frame_ElectricTailoringBench.label>
+  <!-- EN: Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 50 % der normalen Geschwindigkeit betrieben werden. -->
+  <Frame_ElectricTailoringBench.description>Ein Tisch mit elektrischer Nähmaschine zum schnellen Herstellen von Kleidungsstücken. Kann auch ohne Strom mit 40% der normalen Geschwindigkeit betrieben werden.</Frame_ElectricTailoringBench.description>
+  
+  <!-- EN: Nachttisch (wird gebaut) -->
+  <Frame_EndTable.label>Nachttisch (wird gebaut)</Frame_EndTable.label>
+  <!-- EN: Ein kleiner Tisch fürs Bett. Macht nahe Betten ein wenig gemütlicher. Muss direkt neben dem Kopfende platziert werden. Mehr als einen Nachttisch pro Bett aufzustellen, gibt keinen zusätzlichen Effekt. -->
+  <Frame_EndTable.description>Ein kleiner Tisch fürs Bett. Macht nahe Betten ein wenig gemütlicher. Muss direkt neben dem Kopfende platziert werden.</Frame_EndTable.description>
+  
+  <!-- EN: Arbeitstisch (wird gebaut) -->
+  <Frame_FabricationBench.label>Arbeitstisch (wird gebaut)</Frame_FabricationBench.label>
+  <!-- EN: Ein Arbeitstisch mit speziellen Werkzeugen, an dem technologische Wunder hergestellt werden können. -->
+  <Frame_FabricationBench.description>Ein Arbeitstisch mit speziellen Werkzeugen, an dem technologische Wunder hergestellt werden können.</Frame_FabricationBench.description>
+  
+  <!-- EN: Fermentier Fass (wird gebaut) -->
+  <Frame_FermentingBarrel.label>Fermentierfass (wird gebaut)</Frame_FermentingBarrel.label>
+  <!-- EN: Ein Fass, um aus roher Würze Bier zu fermentieren. -->
+  <Frame_FermentingBarrel.description>Ein Fass, um aus roher Würze Bier zu fermentieren.</Frame_FermentingBarrel.description>
+  
+  <!-- EN: Löschschaumwerfer (wird gebaut) -->
+  <Frame_FirefoamPopper.label>Löschschaumwerfer (wird gebaut)</Frame_FirefoamPopper.label>
+  <!-- EN: Wenn der Werfer Feuer registriert, versprüht er einen feuerlöschenden Schaum in einem kreisförmigen Bereich um sich selbst herum. Kann auch manuell ausgelöst werden. -->
+  <Frame_FirefoamPopper.description>Wenn der Werfer Feuer registriert, versprüht er einen feuerlöschenden Schaum in einem kreisförmigen Bereich um sich selbst herum. Kann auch manuell ausgelöst werden.</Frame_FirefoamPopper.description>
+  
+  <!-- EN: Granitplatte (wird gebaut) -->
+  <Frame_FlagstoneGranite.label>Granitplatte (wird gebaut)</Frame_FlagstoneGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneGranite.description>Laufende Bodenarbeiten.</Frame_FlagstoneGranite.description>
+  
+  <!-- EN: Kalksteinplatte (wird gebaut) -->
+  <Frame_FlagstoneLimestone.label>Kalksteinplatte (wird gebaut)</Frame_FlagstoneLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneLimestone.description>Laufende Bodenarbeiten.</Frame_FlagstoneLimestone.description>
+  
+  <!-- EN: Marmorplatte (wird gebaut) -->
+  <Frame_FlagstoneMarble.label>Marmorplatte (wird gebaut)</Frame_FlagstoneMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneMarble.description>Laufende Bodenarbeiten.</Frame_FlagstoneMarble.description>
+  
+  <!-- EN: Sandsteinplatte (wird gebaut) -->
+  <Frame_FlagstoneSandstone.label>Sandsteinplatte (wird gebaut)</Frame_FlagstoneSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSandstone.description>Laufende Bodenarbeiten.</Frame_FlagstoneSandstone.description>
+  
+  <!-- EN: Schieferplatte (wird gebaut) -->
+  <Frame_FlagstoneSlate.label>Schieferplatte (wird gebaut)</Frame_FlagstoneSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_FlagstoneSlate.description>Laufende Bodenarbeiten.</Frame_FlagstoneSlate.description>
+  
+  <!-- EN: Schmiede (Feuer) (wird gebaut) -->
+  <Frame_FueledSmithy.label>Schmiede (Feuer) (wird gebaut)</Frame_FueledSmithy.label>
+  <!-- EN: Eine einfache, mit Holz befeuerte Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen. -->
+  <Frame_FueledSmithy.description>Eine einfache mit Holz befeuerte Schmiede zur Herstellung von Werkzeugen und nicht-mechanischen Waffen.</Frame_FueledSmithy.description>
+  
+  <!-- EN: Herd (Feuer) (wird gebaut) -->
+  <Frame_FueledStove.label>Herd (Feuer) (wird gebaut)</Frame_FueledStove.label>
+  <!-- EN: Ein einfacher, mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten. -->
+  <Frame_FueledStove.description>Ein einfacher mit Holz befeuerter Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</Frame_FueledStove.description>
+  
+  <!-- EN: Geothermie Kraftwerk (wird gebaut) -->
+  <Frame_GeothermalGenerator.label>Geothermiekraftwerk (wird gebaut)</Frame_GeothermalGenerator.label>
+  <!-- EN: Produziert Strom mithilfe eines Dampfgeysirs. Muss auf einem Geysir platziert werden. -->
+  <Frame_GeothermalGenerator.description>Produziert Strom mithilfe eines Dampfgeysires. Muss auf einem Geysir platziert werden.</Frame_GeothermalGenerator.description>
+  
+  <!-- EN: Goldfliese (wird gebaut) -->
+  <Frame_GoldTile.label>Goldfliese (wird gebaut)</Frame_GoldTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_GoldTile.description>Laufende Bodenarbeiten.</Frame_GoldTile.description>
+  
+  <!-- EN: Grab (wird gebaut) -->
+  <Frame_Grave.label>Grab (wird gebaut)</Frame_Grave.label>
+  <!-- EN: Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte. Kolonisten werden die Gräber für meditatives Vergnügen besuchen. -->
+  <Frame_Grave.description>Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte. Kolonisten besuchen Gräber für meditatives Vergnügen.</Frame_Grave.description>
+  
+  <!-- EN: Tiefenradar (wird gebaut) -->
+  <Frame_GroundPenetratingScanner.label>Tiefenscanner (wird gebaut)</Frame_GroundPenetratingScanner.label>
+  <!-- EN: Ein in die Tiefe gerichtetes Radar, das zusätzlich mit Sonar und magnetischer Bildsensorik ausgestattet ist. Es erlaubt Dir verborgene Rohstoffadern (aber nicht deren genaue Art) aufzuspüren. Hinweis: Verbraucht sehr viel Strom. -->
+  <Frame_GroundPenetratingScanner.description>Ein in die Tiefe gerichtetes Radar, das zusätzlich mit Sonar und magnetischer Bildsensorik ausgestattet ist. Es erlaubt Dir verborgene Rohstoffadern (aber nicht deren genaue Art) aufzuspüren. Hinweis: Verbraucht sehr viel Strom.</Frame_GroundPenetratingScanner.description>
+  
+  <!-- EN: Nähtisch (wird gebaut) -->
+  <Frame_HandTailoringBench.label>Schneidertisch (wird gebaut)</Frame_HandTailoringBench.label>
+  <!-- EN: Ein Tisch zur manuellen Herstellung von Kleidungsstücken. Arbeitet mit 50 % der Geschwindigkeit einer elektrischen Nähmaschine. -->
+  <Frame_HandTailoringBench.description>Ein Tisch zum manuellen Herstellen von Kleidungsstücken. Arbeitet mit 50% der Geschwindigkeit einer elektrischen Nähmaschine.</Frame_HandTailoringBench.description>
+  
+  <!-- EN: Heizung (wird gebaut) -->
+  <Frame_Heater.label>Heizung (wird gebaut)</Frame_Heater.label>
+  <!-- EN: Ein elektrisch betriebenes Gerät, das elektrische Energie in Wärme umwandelt. Es kann sich automatisch ein- und ausschalten, um eine eingestellte Temperatur zu halten. -->
+  <Frame_Heater.description>Ein elektrisch betriebenes Gerät, das elektrische Energie in Wärme umwandelt. Es kann sich automatisch ein und ausschalten, um eine eingestellte Temperatur zu halten.</Frame_Heater.description>
+  
+  <!-- EN: Hightech Labortisch (wird gebaut) -->
+  <Frame_HiTechResearchBench.label>Hightech-Labortisch (wird gebaut)</Frame_HiTechResearchBench.label>
+  <!-- EN: Ein Hightech-Arbeitstisch mit Computern und elektronischen Messgeräten. Ermöglicht schnellere Forschung und schaltet weitere Forschungsmöglichkeiten frei. -->
+  <Frame_HiTechResearchBench.description>Ein Hightech-Arbeitstisch mit Computern und elektronischer Untersuchungsausrüstung. Durch den Einsatz dieser Hightech-Werkzeuge wird die Forschung beschleunigt. Benötigt Strom.</Frame_HiTechResearchBench.description>
+  
+  <!-- EN: Wurfstein Ring (wird gebaut) -->
+  <Frame_HoopstoneRing.label>Wurfsteinring (wird gebaut)</Frame_HoopstoneRing.label>
+  <!-- EN: Ein einfaches, antikes Spiel, das mit ein paar Steinen und einem Ring am Boden gespielt wird. Die Spieler werfen ihre Steine über eine festgelegte Entfernung und versuchen, dass sie möglichst innerhalb des Ringes liegen bleiben. Es entspannt und ist nebenbei noch gut für die Augen-Hand-Koordination (Schießen). -->
+  <Frame_HoopstoneRing.description>Ein einfaches, antikes Spiel, das mit ein paar Steinen und einem Ring am Boden gespielt wird. Die Spieler werfen ihre Steine über eine festgelegte Entfernung und versuchen, dass sie möglichst innerhalb des Ringes liegen bleiben. Es entspannt und ist nebenbei noch gut für die Augen-Hand-Koordination.</Frame_HoopstoneRing.description>
+  
+  <!-- EN: Trichter (wird gebaut) -->
+  <Frame_Hopper.label>Trichter (wird gebaut)</Frame_Hopper.label>
+  <!-- EN: Lagert Rohstoffe für eine angeschlossene Maschine, wie z. B. dem Nährstoffspender. -->
+  <Frame_Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z. B. dem Nährstoffspender.</Frame_Hopper.description>
+  
+  <!-- EN: Hufeisen Stab (wird gebaut) -->
+  <Frame_HorseshoesPin.label>Hufeisenstab (wird gebaut)</Frame_HorseshoesPin.label>
+  <!-- EN: Ein einfaches, antikes Spiel, das mit ein paar Hufeisen und einem großen Stab gespielt wird. Die Spieler werfen ihre Hufeisen über eine festgelegte Entfernung und versuchen, dass es auf dem Stab landet. Es entspannt und ist nebenbei noch gut für die Augen-Hand-Koordination (Schießen). -->
+  <Frame_HorseshoesPin.description>Ein einfaches antikes Spiel, das mit ein paar Hufeisen und einem großen Stab gespielt wird. Die Spieler werfen ihre Hufeisen über eine festgelegte Entfernung und versuchen, dass es so nah wie möglich am Stab landet. Es entspannt und ist nebenbei noch gut für die Auge-Hand-Koordination.</Frame_HorseshoesPin.description>
+  
+  <!-- EN: Krankenbett (wird gebaut) -->
+  <Frame_HospitalBed.label>Krankenbett (wird gebaut)</Frame_HospitalBed.label>
+  <!-- EN: Ein Bett, das speziell für die Krankenhäuser entworfen wurde. Anpassbar an den Patienten und mit eingebauten Gerätschaften. Es verbessert das Ergebnis von medizinische Behandlungen sowie Operationen gegenüber normalen Betten. -->
+  <Frame_HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Erhöht die Wahrscheinlichkeit, medizinische Behandlungen sowie Operationen erfolgreich durchzuführen.</Frame_HospitalBed.description>
+  
+  <!-- EN: Hydrokultur Becken (wird gebaut) -->
+  <Frame_HydroponicsBasin.label>Hydrokulturbecken (wird gebaut)</Frame_HydroponicsBasin.label>
+  <!-- EN: Ein künstliches Nährstoffbecken in dem Pflanzen angebaut werden können. Die notwendigen Nährstoffpumpen müssen durchgehend arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben. -->
+  <Frame_HydroponicsBasin.description>Dies ermöglicht den Agrarbetrieb auch innerhalb von Gebäuden. In Hydrokulturbecken kann man schnell ein wenig Nahrung anbauen. Das Becken benötigt Strom zum Arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben.</Frame_HydroponicsBasin.description>
+  
+  <!-- EN: Langstrecken Mineralienscanner (wird gebaut) -->
+  <Frame_LongRangeMineralScanner.label>Langstrecken Mineralienscanner (wird gebaut)</Frame_LongRangeMineralScanner.label>
+  <!-- EN: Kann von Forschern verwendet werden um bestimmte Rohstoffe auf dem Planeten aufzuspüren. Die Zeit, die benötigt wird, um einen Rohstoff zu finden ist relativ zufällig, aber auch abhängig von der Fähigkeit des Forschers. -->
+  <Frame_LongRangeMineralScanner.description>Kann von Forschern verwendet werden um bestimmte Rohstoffe auf dem Planeten aufzuspüren. Die Zeit, die benötigt wird, um einen Rohstoff zu finden ist relativ zufällig, aber auch abhängig von der Fähigkeit des Forschers.</Frame_LongRangeMineralScanner.description>
+  
+  <!-- EN: Hochzeiten (wird gebaut) -->
+  <Frame_MarriageSpot.label>Hochzeitsplatz (wird gebaut)</Frame_MarriageSpot.label>
+  <!-- EN: Kennzeichnet einen Ort, an dem Hochzeitszeremonien abgehalten werden. Zuschauer können von jeder Seite aus zuschauen. -->
+  <Frame_MarriageSpot.description>Kennzeichnet einen Ort, an dem Hochzeitszeremonien abgehalten werden. Zuschauer können von jeder Seite aus zuschauen.</Frame_MarriageSpot.description>
+  
+  <!-- EN: Metallfliese (wird gebaut) -->
+  <Frame_MetalTile.label>Metallfliese (wird gebaut)</Frame_MetalTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_MetalTile.description>Laufende Bodenarbeiten.</Frame_MetalTile.description>
+  
+  <!-- EN: Trockenpumpe (wird gebaut) -->
+  <Frame_MoisturePump.label>Entwässerungspumpe (wird gebaut)</Frame_MoisturePump.label>
+  <!-- EN: Gleicht sehr langsam das Wasser in umliegenden Gelände aus, womit Sümpfe und flache Gewässer trockengelegt, wie auch weicher Sand in normalen Sand umgewandelt wird. Hier können dann Gebäude errichtet werden. Hat keine Auswirkung auf tiefes Wasser. -->
+  <Frame_MoisturePump.description>Entzieht sehr langsam das Wasser aus dem umliegenden Gelände, womit Sümpfe und flache Gewässer trockengelegt werden können. Hat keine Auswirkung auf tiefes Wasser.</Frame_MoisturePump.description>
+  
+  <!-- EN: Analysator (wird gebaut) -->
+  <Frame_MultiAnalyzer.label>Analysator (wird gebaut)</Frame_MultiAnalyzer.label>
+  <!-- EN: Erhöht die Forschungsgeschwindigkeit wenn er neben einem Hightech-Forschungstisch platziert wird und schaltet weitere Forschungsmöglichkeiten frei. Pro Forschungstisch kann nur ein Analysator verwendet werden. -->
+  <Frame_MultiAnalyzer.description>Erhöht die Forschungsgeschwindigkeit. Muss neben einem Hightech-Forschungstisch platziert werden. Ein Forschungstisch kann nur einem Analysator zugeordnet werden.</Frame_MultiAnalyzer.description>
+  
+  <!-- EN: Nährstoffspender (wird gebaut) -->
+  <Frame_NutrientPasteDispenser.label>Nährstoffspender (wird gebaut)</Frame_NutrientPasteDispenser.label>
+  <!-- EN: Eine Maschine die essbare Nährstoffpaste aus organischen Rohstoffen herstellt. Diese Rohstoffe müssen über Trichter (extra Gebäude) eingeführt werden. Er benötigt weniger Zutaten und weniger Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste. Akzeptiert rohe Nahrung, aber kein Tierfutter wie z. B. Heu. -->
+  <Frame_NutrientPasteDispenser.description>Synthetisiert Nährstoffpaste von organischen Rohstoffen. Er benötigt weniger Zutaten und weniger Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste. Akzeptiert rohe Nahrung, aber kein Tierfutter wie z. B. Heu.</Frame_NutrientPasteDispenser.description>
+  
+  <!-- EN: Orbitales Funkfeuer (wird gebaut) -->
+  <Frame_OrbitalTradeBeacon.label>Orbitales Funkfeuer (wird gebaut)</Frame_OrbitalTradeBeacon.label>
+  <!-- EN: Für orbitalen Handel benötigt.\nDu kannst nur Waren an orbitale Händler verkaufen, die sich im Lagerbereich eines Funkfeuers befinden. Kann auch drinnen platziert werden. -->
+  <Frame_OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren verkaufen, welche sich in der Lagerzone eines Funkfeuers befinden. Kann auch Innen platziert werden.</Frame_OrbitalTradeBeacon.description>
+  
+  <!-- EN: Partys (wird gebaut) -->
+  <Frame_PartySpot.label>Partyplatz (wird gebaut)</Frame_PartySpot.label>
+  <!-- EN: Kennzeichnet einen Ort, an dem Partys abgehalten werden können. -->
+  <Frame_PartySpot.description>Kennzeichnet einen Ort, an dem Partys abgehalten werden. Die Party findet um den Punkt herum statt.</Frame_PartySpot.description>
+  
+  <!-- EN: Passive Kühlung (wird gebaut) -->
+  <Frame_PassiveCooler.label>Passive Kühlung (wird gebaut)</Frame_PassiveCooler.label>
+  <!-- EN: Eine traditionelle Kühlung, die mit Wasserverdampfung funktioniert. Muss regelmäßig mit neuem Holz versorgt werden. Sie ist nicht effizient genug um Nahrung zu gefrieren. -->
+  <Frame_PassiveCooler.description>Eine traditionelle Kühlung, die mit Wasserverdampfung funktioniert. Muss regelmäßig mit neuem Holz versorgt werden. Sie ist nicht effizient genug um Nahrung zu gefrieren.</Frame_PassiveCooler.description>
+  
+  <!-- EN: Betonplatte (wird gebaut) -->
+  <Frame_PavedTile.label>Betonplatte (wird gebaut)</Frame_PavedTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_PavedTile.description>Laufende Bodenarbeiten.</Frame_PavedTile.description>
+  
+  <!-- EN: Blumentopf (wird gebaut) -->
+  <Frame_PlantPot.label>Blumentopf (wird gebaut)</Frame_PlantPot.label>
+  <!-- EN: Hier können Blumen angepflanzt werden, um die Laune nahestehender Personen zu verbessern. -->
+  <Frame_PlantPot.description>Hier können Blumen angepflanzt werden, um die Laune nahestehender Personen zu verbessern.</Frame_PlantPot.description>
+  
+  <!-- EN: Startrampe (wird gebaut) -->
+  <Frame_PodLauncher.label>Abschussrampe (Kapsel) (wird gebaut)</Frame_PodLauncher.label>
+  <!-- EN: Eine Vorrichtung zum Betanken und Starten einer Kapsel. Startrampen können eine Gruppe von Kapseln gleichzeitig abschießen - müssen dafür jedoch nebeneinander gebaut werden. -->
+  <Frame_PodLauncher.description>Eine Vorrichtung zum Betanken und Starten einer Kapsel. Abschussrampen können eine Gruppe von Kapseln gleichzeitig abschießen - müssen dafür jedoch nebeneinander gebaut werden.</Frame_PodLauncher.description>
+  
+  <!-- EN: Pokertisch (wird gebaut) -->
+  <Frame_PokerTable.label>Pokertisch (wird gebaut)</Frame_PokerTable.label>
+  <!-- EN: Ein Tisch speziell entworfen zum Spielen diverser Karten-Glücksspiele, wie z.B. Poker. Ein guter Weg Deine strategischen Fähigkeiten und Dein Glück zu testen. -->
+  <Frame_PokerTable.description>Ein Tisch speziell entworfen zum Spielen diverser Karten-Glücksspiele, hauptsächlich Poker. Ein guter Weg Deine strategischen Fähigkeiten und Dein Glück zu testen.</Frame_PokerTable.description>
+  
+  <!-- EN: Stromkabel (wird gebaut) -->
+  <Frame_PowerConduit.label>Stromkabel (wird gebaut)</Frame_PowerConduit.label>
+  <!-- EN: Leitet Strom zu den Verbrauchern. Kann unter Wänden und anderen Gegenständen verlegt werden. -->
+  <Frame_PowerConduit.description>Leitet Strom zu den Verbrauchern. Kann unter Wänden und anderen Gegenständen verlegt werden.</Frame_PowerConduit.description>
+  
+  <!-- EN: Schalter (wird gebaut) -->
+  <Frame_PowerSwitch.label>Schalter (wird gebaut)</Frame_PowerSwitch.label>
+  <!-- EN: Schaltet Strom ein/aus. -->
+  <Frame_PowerSwitch.description>Schaltet Strom ein/aus.</Frame_PowerSwitch.description>
+  
+  <!-- EN: Königliches Bett (wird gebaut) -->
+  <Frame_RoyalBed.label>Königliches Bett (wird gebaut)</Frame_RoyalBed.label>
+  <!-- EN: Ein luxuriöses, mit Gold verziertes Bett, das gerade ausreichend für die Person von Adel ist. Sehr schön und bequem, schon fast ein eigenes Kunstwerk. Mit ausreichend Platz für zwei. -->
+  <Frame_RoyalBed.description>Ein luxuriöses, mit Gold verziertes Bett, das gerade ausreichend für die Person von Adel ist. Sehr bequem und schön. Mit ausreichend Platz für Zwei.</Frame_RoyalBed.description>
+  
+  <!-- EN: Sandsäcke (wird gebaut) -->
+  <Frame_Sandbags.label>Sandsäcke (wird gebaut)</Frame_Sandbags.label>
+  <!-- EN: Säcke voller Sand aus der Gegend, die mit Stahlstreben an Ort und Stelle gehalten werden. Sandsäcke sind hässlich, bieten aber ausgezeichneten Schutz vor Fernkampfwaffen. -->
+  <Frame_Sandbags.description>Gibt Deckung bei Beschuss.</Frame_Sandbags.description>
+  
+  <!-- EN: Sarkophag (wird gebaut) -->
+  <Frame_Sarcophagus.label>Sarkophag (wird gebaut)</Frame_Sarcophagus.label>
+  <!-- EN: Eine verzierte letzte Ruhestätte für die geehrten Toten. -->
+  <Frame_Sarcophagus.description>Eine verzierte letzte Ruhestätte für den verehrten Toten.</Frame_Sarcophagus.description>
+  
+  <!-- EN: Regal (wird gebaut) -->
+  <Frame_Shelf.label>Regal (wird gebaut)</Frame_Shelf.label>
+  <!-- EN: Hier gelagerte Ausrüstung verrottet nicht, auch nicht im Freien. -->
+  <Frame_Shelf.description>Hier gelagerte Ausrüstung verrottet nicht, auch nicht im Freien.</Frame_Shelf.description>
+  
+  <!-- EN: Raumschiff Träger (wird gebaut) -->
+  <Frame_Ship_Beam.label>Raumschiffträger (wird gebaut)</Frame_Ship_Beam.label>
+  <!-- EN: Das strukturell tragende Bauteil eines Sternenschiffes an das alle weiteren Teile angefügt werden. Hier drinnen befinden sich alle notwendigen Leitungen und Rohre für den Daten- und Materialtransport zwischen den einzelnen Segmenten. -->
+  <Frame_Ship_Beam.description>Das strukturell tragende Bauteil eines Raumschiffes. Alle weiteren Bauteile werden hier angefügt.</Frame_Ship_Beam.description>
+  
+  <!-- EN: Raumschiff Computer Kern (wird gebaut) -->
+  <Frame_Ship_ComputerCore.label>Raumschiffcomputerkern (wird gebaut)</Frame_Ship_ComputerCore.label>
+  <!-- EN: Ein Computer-Kern mit einer KI Persona, die das Sternenschiff durch alle Widrigkeiten des jahrzehntelangen Fluges steuern kann. -->
+  <Frame_Ship_ComputerCore.description>Ein Computer-Kern mit einer übermenschlichen KI, die das Schiff durch alle Widrigkeiten steuern kann.</Frame_Ship_ComputerCore.description>
+  
+  <!-- EN: Raumschiff Kryptokapsel (wird gebaut) -->
+  <Frame_Ship_CryptosleepCasket.label>Raumschiffkryptokapsel (wird gebaut)</Frame_Ship_CryptosleepCasket.label>
+  <!-- EN: Eine Kryptoschlafkapsel, die gegen die Widrigkeiten des Raumfluges schützt. Sie kann eine Person im Kryptoschlaf über Jahrhunderte hinweg versorgen und übersteht sogar einen Atmosphären-Wiedereintritt. -->
+  <Frame_Ship_CryptosleepCasket.description>Eine Kryptoschlafkapsel, die gegen die Widrigkeiten eines Raumfluges schützt. Sie kann eine Person im Kryptoschlaf über Jahrhunderte hinweg versorgen und übersteht sogar einen Atmosphären-Wiedereintritt.</Frame_Ship_CryptosleepCasket.description>
+  
+  <!-- EN: Raumschiff Triebwerk (wird gebaut) -->
+  <Frame_Ship_Engine.label>Raumschifftriebwerk (wird gebaut)</Frame_Ship_Engine.label>
+  <!-- EN: Ein reaktionsfreies Johnson-Tanaka Triebwerk, welches in der Lage ist, ein Sternenschiff in den Orbit und auf eine interstellare Route zu bringen. -->
+  <Frame_Ship_Engine.description>Ein Antimaterie-Triebwerk, welches in der Lage ist, ein Raumschiff in den Orbit und auf eine interstellare Route zu bringen.</Frame_Ship_Engine.description>
+  
+  <!-- EN: Raumschiff Reaktor (wird gebaut) -->
+  <Frame_Ship_Reactor.label>Raumschiffreaktor (wird gebaut)</Frame_Ship_Reactor.label>
+  <!-- EN: Erzeugt die Energie, welche das Sternenschiff für seinen Flug durch den Weltraum benötigt. Der Take-Off benötigt eine lange Zeit zum Hochfahren, während dessen sehr wahrscheinlich Räuber angelockt werden. -->
+  <Frame_Ship_Reactor.description>Erzeugt die Energie, welche das Raumschiff für seinen Flug durch den Weltraum benötigt.</Frame_Ship_Reactor.description>
+  
+  <!-- EN: Raumschiff Sensoren (wird gebaut) -->
+  <Frame_Ship_SensorCluster.label>Raumschiffsensoren (wird gebaut)</Frame_Ship_SensorCluster.label>
+  <!-- EN: Ein multifunktionales Sensor-Modul, mit dem das All nach Gefahren und Möglichkeiten abgesucht werden kann. Brauchbar für die Kommunikation, Gefahrenerkennung, Täuschung, Signal Blockade und viele andere Zwecke. -->
+  <Frame_Ship_SensorCluster.description>Ein Sensor-Modul, mit dem das All nach Gefahren und Möglichkeiten abgesucht werden kann.</Frame_Ship_SensorCluster.description>
+  
+  <!-- EN: Silberfliese (wird gebaut) -->
+  <Frame_SilverTile.label>Silberfliese (wird gebaut)</Frame_SilverTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SilverTile.description>Laufende Bodenarbeiten.</Frame_SilverTile.description>
+  
+  <!-- EN: Einfacher Labortisch (wird gebaut) -->
+  <Frame_SimpleResearchBench.label>Einfacher Labortisch (wird gebaut)</Frame_SimpleResearchBench.label>
+  <!-- EN: Eine einfache Arbeitsplatte mit Schreibutensilien und einfachen Messgeräten. Forscher arbeiten hier, um neue Dinge zu entdecken. -->
+  <Frame_SimpleResearchBench.description>Eine einfache Arbeitsplatte mit Schreibutensilien und einigen wissenschaftlichen low-tech Geräten. Forscher arbeiten hier, um neue Dinge zu entdecken.</Frame_SimpleResearchBench.description>
+  
+  <!-- EN: Schlafplatz (wird gebaut) -->
+  <Frame_SleepingSpot.label>Schlafplatz (wird gebaut)</Frame_SleepingSpot.label>
+  <!-- EN: Kennzeichnet eine Stelle auf dem Boden, auf der Leute schlafen sollen. Nicht bequem. -->
+  <Frame_SleepingSpot.description>Kennzeichnet eine Stelle auf dem Boden, auf der Leute schlafen sollen. Nicht sonderlich bequem.</Frame_SleepingSpot.description>
+  
+  <!-- EN: Solaranlage (wird gebaut) -->
+  <Frame_SolarGenerator.label>Solaranlage (wird gebaut)</Frame_SolarGenerator.label>
+  <!-- EN: Produziert Strom aus Sonnenlicht. Funktioniert nicht im Dunkeln und mit künstlichem Licht. -->
+  <Frame_SolarGenerator.description>Produziert Strom aus Sonnenlicht. Im Dunkeln ohne Funktion.</Frame_SolarGenerator.description>
+  
+  <!-- EN: Stehlampe (wird gebaut) -->
+  <Frame_StandingLamp.label>Stehlampe (wird gebaut)</Frame_StandingLamp.label>
+  <!-- EN: Eine Stehlampe, die eine Fläche beleuchtet. Leute benötigen Licht, um mit maximaler Geschwindigkeit gehen bzw. arbeiten zu können. -->
+  <Frame_StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</Frame_StandingLamp.description>
+  
+  <!-- EN: Stehlampe (blau) (wird gebaut) -->
+  <Frame_StandingLamp_Blue.label>Stehlampe (blau) (wird gebaut)</Frame_StandingLamp_Blue.label>
+  <!-- EN: Eine Stehlampe, die eine Fläche blau beleuchtet. Leute benötigen Licht, um mit maximaler Geschwindigkeit gehen bzw. arbeiten zu können. -->
+  <Frame_StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</Frame_StandingLamp_Blue.description>
+  
+  <!-- EN: Stehlampe (grün) (wird gebaut) -->
+  <Frame_StandingLamp_Green.label>Stehlampe (grün) (wird gebaut)</Frame_StandingLamp_Green.label>
+  <!-- EN: Eine Stehlampe, die eine Fläche grün beleuchtet. Leute benötigen Licht, um mit maximaler Geschwindigkeit gehen bzw. arbeiten zu können. -->
+  <Frame_StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</Frame_StandingLamp_Green.description>
+  
+  <!-- EN: Stehlampe (rot) (wird gebaut) -->
+  <Frame_StandingLamp_Red.label>Stehlampe (rot) (wird gebaut)</Frame_StandingLamp_Red.label>
+  <!-- EN: Eine Stehlampe, die eine Fläche rot beleuchtet. Leute benötigen Licht, um mit maximaler Geschwindigkeit gehen bzw. arbeiten zu können. -->
+  <Frame_StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</Frame_StandingLamp_Red.description>
+  
+  <!-- EN: Sterile Fliese (wird gebaut) -->
+  <Frame_SterileTile.label>Sterile Fliese (wird gebaut)</Frame_SterileTile.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_SterileTile.description>Laufende Bodenarbeiten.</Frame_SterileTile.description>
+  
+  <!-- EN: Hocker (wird gebaut) -->
+  <Frame_Stool.label>Hocker (wird gebaut)</Frame_Stool.label>
+  <!-- EN: Eine einfache Oberfläche, auf der man sitzen kann. Nicht sonderlich bequem, aber sehr viel besser als gar nichts. Kann an Tischen, Arbeitsstationen und auch überall sonst verwendet werden. -->
+  <Frame_Stool.description>Eine einfache Oberfläche, auf der man sitzen kann.</Frame_Stool.description>
+  
+  <!-- EN: Künstl. Sonne (wird gebaut) -->
+  <Frame_SunLamp.label>Künstl. Sonne (wird gebaut)</Frame_SunLamp.label>
+  <!-- EN: Eine industrielle Lampe, die eine Fläche so stark beleuchtet, dass Pflanzen wachsen können. Benötigt sehr viel Strom. Schaltet sich bei Nacht automatisch aus. -->
+  <Frame_SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können. Benötigt sehr viel Strom.</Frame_SunLamp.description>
+  
+  <!-- EN: Tisch (1x2) (wird gebaut) -->
+  <Frame_Table1x2c.label>Tisch (1x2) (wird gebaut)</Frame_Table1x2c.label>
+  <!-- EN: Menschen essen am Tisch, sofern Stühle vorhanden sind. -->
+  <Frame_Table1x2c.description>Menschen essen am Tisch, sofern Stühle vorhanden sind.</Frame_Table1x2c.description>
+  
+  <!-- EN: Tisch (2x2) (wird gebaut) -->
+  <Frame_Table2x2c.label>Tisch (2x2) (wird gebaut)</Frame_Table2x2c.label>
+  <!-- EN: Menschen essen am Tisch, sofern Stühle vorhanden sind. -->
+  <Frame_Table2x2c.description>Menschen essen am Tisch, sofern Stühle vorhanden sind.</Frame_Table2x2c.description>
+  
+  <!-- EN: Tisch (2x4) (wird gebaut) -->
+  <Frame_Table2x4c.label>Tisch (2x4) (wird gebaut)</Frame_Table2x4c.label>
+  <!-- EN: Menschen essen am Tisch, sofern Stühle vorhanden sind. -->
+  <Frame_Table2x4c.description>Menschen essen am Tisch, sofern Stühle vorhanden sind.</Frame_Table2x4c.description>
+  
+  <!-- EN: Tisch (3x3) (wird gebaut) -->
+  <Frame_Table3x3c.label>Tisch (3x3) (wird gebaut)</Frame_Table3x3c.label>
+  <!-- EN: Menschen essen am Tisch, sofern Stühle vorhanden sind. -->
+  <Frame_Table3x3c.description>Menschen essen am Tisch, sofern Stühle vorhanden sind.</Frame_Table3x3c.description>
+  
+  <!-- EN: Schlachtbank (wird gebaut) -->
+  <Frame_TableButcher.label>Schlachtbank (wird gebaut)</Frame_TableButcher.label>
+  <!-- EN: Ein schwerer Tisch, auf dem Tierleichen zerlegt werden. -->
+  <Frame_TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zu rohem Fleisch verarbeitet werden.</Frame_TableButcher.description>
+  
+  <!-- EN: Mechanik Werkbank (wird gebaut) -->
+  <Frame_TableMachining.label>Mechanikwerkbank (wird gebaut)</Frame_TableMachining.label>
+  <!-- EN: Ein Arbeitsplatz, an dem mechanische Maschinen wie Waffen und Munition hergestellt, oder auch Mechanoiden zerlegt werden können. -->
+  <Frame_TableMachining.description>Ein Arbeitsplatz, an dem mechanische Maschinen wie Waffen oder Mechanoiden gebaut und zerlegt werden können.</Frame_TableMachining.description>
+  
+  <!-- EN: Bildhauer Werkbank (wird gebaut) -->
+  <Frame_TableSculpting.label>Bildhauertisch (wird gebaut)</Frame_TableSculpting.label>
+  <!-- EN: Ein Arbeitsplatz für Künstler. Ermöglicht die Fertigung von Skulpturen. -->
+  <Frame_TableSculpting.description>Ein Arbeitsplatz für Künstler, ermöglicht die Fertigung von Skulpturen.</Frame_TableSculpting.description>
+  
+  <!-- EN: Steinmetz Werkbank (wird gebaut) -->
+  <Frame_TableStonecutter.label>Steinmetztisch (wird gebaut)</Frame_TableStonecutter.label>
+  <!-- EN: Ein Tisch mit Säge und Meißel, auf dem Geröll zu nutzbarem Baumaterial verarbeitet werden kann. -->
+  <Frame_TableStonecutter.description>Ein Tisch, auf dem man Geröll zu nutzbarem Baumaterial verarbeiten kann.</Frame_TableStonecutter.description>
+  
+  <!-- EN: Granitfliese (wird gebaut) -->
+  <Frame_TileGranite.label>Granitfliese (wird gebaut)</Frame_TileGranite.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileGranite.description>Laufende Bodenarbeiten.</Frame_TileGranite.description>
+  
+  <!-- EN: Kalksteinfliese (wird gebaut) -->
+  <Frame_TileLimestone.label>Kalksteinfliese (wird gebaut)</Frame_TileLimestone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileLimestone.description>Laufende Bodenarbeiten.</Frame_TileLimestone.description>
+  
+  <!-- EN: Marmorfliese (wird gebaut) -->
+  <Frame_TileMarble.label>Marmorfliese (wird gebaut)</Frame_TileMarble.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileMarble.description>Laufende Bodenarbeiten.</Frame_TileMarble.description>
+  
+  <!-- EN: Sandsteinfliese (wird gebaut) -->
+  <Frame_TileSandstone.label>Sandsteinfliese (wird gebaut)</Frame_TileSandstone.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSandstone.description>Laufende Bodenarbeiten.</Frame_TileSandstone.description>
+  
+  <!-- EN: Schieferfliese (wird gebaut) -->
+  <Frame_TileSlate.label>Schieferfliese (wird gebaut)</Frame_TileSlate.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_TileSlate.description>Laufende Bodenarbeiten.</Frame_TileSlate.description>
+  
+  <!-- EN: Werkzeugschrank (wird gebaut) -->
+  <Frame_ToolCabinet.label>Werkzeugschrank (wird gebaut)</Frame_ToolCabinet.label>
+  <!-- EN: Erhöht die Arbeitsgeschwindigkeit wenn er neben einem Arbeitstisch platziert wird. Einem Arbeitstisch können bis zu zwei Werkzeugschränke zugeordnet werden. -->
+  <Frame_ToolCabinet.description>Erhöht die Arbeitsgeschwindigkeit. Muss neben einem Arbeitstisch platziert werden. Ein Arbeitstisch kann nur zwei Werkzeugschränken zugeordnet werden.</Frame_ToolCabinet.description>
+  
+  <!-- EN: Fackel (wird gebaut) -->
+  <Frame_TorchLamp.label>Fackel (wird gebaut)</Frame_TorchLamp.label>
+  <!-- EN: Eine hölzerne Fackel, die eine Fläche beleuchtet. Leute benötigen Licht, um mit maximaler Geschwindigkeit gehen bzw. arbeiten zu können. Sie kann automatisch mit Brennstoff (Holz) aufgefüllt werden. Erzeugt eine geringe Menge Wärme. -->
+  <Frame_TorchLamp.description>Eine hölzerne Fackel, die eine Fläche beleuchtet. Sie kann automatisch mit Brennstoff (Holz) aufgefüllt werden. Erzeugt eine geringe Menge Wärme.</Frame_TorchLamp.description>
+  
+  <!-- EN: Transportkapsel (wird gebaut) -->
+  <Frame_TransportPod.label>Transportkapsel (wird gebaut)</Frame_TransportPod.label>
+  <!-- EN: Eine Transportkapsel für den Sub-Orbitalen Warentransport. Sie kann Personen, Gegenstände oder Tiere transportieren. Einsetzbar für Geschenklieferungen, den Transport von Personen und Waren, Überraschungsangriffe oder zum Senden von Verstärkung für laufende Kampfhandlungen. Hinweis: Benötigt eine Abschussrampe zum Start. -->
+  <Frame_TransportPod.description>Eine Transportkapsel für Sub-Orbitalreisen. Sie kann Personen, Gegenstände oder Tiere transportieren. Einsetzbar für den Gütertransport, Überraschungsangriffe oder zum Senden von Verstärkung für laufende Kampfhandlungen. Hinweis: Benötigt eine Abschussrampe zum Start.</Frame_TransportPod.description>
+  
+  <!-- EN: USBV Gefechtskopf (wird gebaut) -->
+  <Frame_TrapIED_AntigrainWarhead.label>USBV Gefechtskopf (wird gebaut)</Frame_TrapIED_AntigrainWarhead.label>
+  <!-- EN: Ein Hightech-Anti-Materie-Gefechtskopf, der mit einem druckempfindlichen Auslöser verbunden ist. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind. -->
+  <Frame_TrapIED_AntigrainWarhead.description>Ein Hightech-Anti-Materie-Gefechtskopf, der mit einem druckempfindlichen Auslöser verbunden ist. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</Frame_TrapIED_AntigrainWarhead.description>
+  
+  <!-- EN: USBV EMP (wird gebaut) -->
+  <Frame_TrapIED_EMP.label>USBV EMP (wird gebaut)</Frame_TrapIED_EMP.label>
+  <!-- EN: Ein paar EMP-Granaten, die mit einem druckempfindlichen Auslöser verbunden sind. Die Explosion kann Mechanoiden für einige Sekunden paralysieren. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind. -->
+  <Frame_TrapIED_EMP.description>Ein paar EMP-Granaten, die mit einem druckempfindlichen Auslöser verbunden sind. Die Explosion kann Mechanoiden für einige Sekunden paralysieren. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</Frame_TrapIED_EMP.description>
+  
+  <!-- EN: USBV Löschschaum (wird gebaut) -->
+  <Frame_TrapIED_Firefoam.label>USBV Löschschaum (wird gebaut)</Frame_TrapIED_Firefoam.label>
+  <!-- EN: Ein paar Löschschaum-Kartuschen, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind. -->
+  <Frame_TrapIED_Firefoam.description>Ein paar Löschschaum-Kartuschen, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</Frame_TrapIED_Firefoam.description>
+  
+  <!-- EN: USBV Sprengsatz (wird gebaut) -->
+  <Frame_TrapIED_HighExplosive.label>USBV Sprengsatz (wird gebaut)</Frame_TrapIED_HighExplosive.label>
+  <!-- EN: Ein paar Artilleriegeschosse, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind. -->
+  <Frame_TrapIED_HighExplosive.description>Ein paar Artilleriegeschosse, die mit einem druckempfindlichen Auslöser verbunden sind. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</Frame_TrapIED_HighExplosive.description>
+  
+  <!-- EN: USBV Brandsatz (wird gebaut) -->
+  <Frame_TrapIED_Incendiary.label>USBV Brandsatz (wird gebaut)</Frame_TrapIED_Incendiary.label>
+  <!-- EN: Etwas Sprengstoff wurde mit einer Brandbeschleunigerpaste vermischt und dann mit einem druckempfindlichen Auslöser verbunden. Da es nicht notwendig ist, etwas Hochexplosives zu zünden, ist der chemische Auslöser einfacher und zuverlässiger als manch anderer. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind. -->
+  <Frame_TrapIED_Incendiary.description>Etwas Sprengstoff wurde mit einer Brandbeschleunigerpaste vermischt und dann mit einem druckempfindlichen Auslöser verbunden. Da es nicht notwendig ist, etwas Hochexplosives zu zünden, ist der chemische Auslöser einfacher und zuverlässiger als manch anderer. Da die Falle in der Umgebung versteckt ist, kann sie nicht direkt neben einer anderen Falle aufgestellt werden. Tiere können Fallen erahnen solange sie entspannt sind.</Frame_TrapIED_Incendiary.description>
+  
+  <!-- EN: Fernseher (Röhre) (wird gebaut) -->
+  <Frame_TubeTelevision.label>Fernseher (Röhre) (wird gebaut)</Frame_TubeTelevision.label>
+  <!-- EN: Ein Bildschirm mit einer Kathodenstrahlröhre, um die unterschiedlichsten bewegten Bilder mit Ton darzustellen. Sogar auf den Randwelten gibt es oft einen alten Sender, der etwas sendet, was zumindest ansatzweise interessant ist. -->
+  <Frame_TubeTelevision.description>Ein Bildschirm mit einer Kathodenstrahlröhre, um die unterschiedlichsten bewegten Bilder mit Ton darzustellen. Sogar auf den Randwelten gibt es oft einen alten Sender, der etwas sendet, was zumindest ansatzweise interessant ist.</Frame_TubeTelevision.description>
+  
+  <!-- EN: Schweres Geschütz (wird gebaut) -->
+  <Frame_Turret_Autocannon.label>Schweres Geschütz (wird gebaut)</Frame_Turret_Autocannon.label>
+  <!-- EN: Eine schwere Selbstschussanlage mit guter Reichweite. Das große Kaliber verursacht hohe Schäden, aber nach häufiger Verwendung wird viel Stahl benötigt um den teuren Lauf zu wechseln. Hinweis: Kann nicht auf nahe Feinde schießen und eine Beschädigung kann zur Explosion führen. -->
+  <Frame_Turret_Autocannon.description>Eine schwere Selbstschussanlage mit guter Reichweite. Das große Kaliber verursacht hohe Schäden, aber nach häufiger Verwendung wird viel Stahl benötigt um den teuren Lauf zu wechseln. Hinweis: Kann nicht auf nahe Feinde schießen und eine Beschädigung kann zur Explosion führen.</Frame_Turret_Autocannon.description>
+  
+  <!-- EN: Mini Geschütz (wird gebaut) -->
+  <Frame_Turret_MiniTurret.label>Mini Geschütz (wird gebaut)</Frame_Turret_MiniTurret.label>
+  <!-- EN: Eine transportable Selbstschussanlage mit geringer Reichweite. Nach starker Verwendung wird Stahl benötigt um den Lauf zu erneuern. Kann bei Beschädigung explodieren. Die dumme Steuerungs-KI kann nicht direkt kontrolliert werden, also achte auf Eigenbeschuss. -->
+  <Frame_Turret_MiniTurret.description>Eine transportable Selbstschussanlage mit geringer Reichweite. Nach starker Verwendung wird Stahl benötigt um den Lauf zu erneuern. Kann bei Beschädigung explodieren. Die dumme Steuerungs-KI kann nicht direkt kontrolliert werden, also achte auf Eigenbeschuss.</Frame_Turret_MiniTurret.description>
+  
+  <!-- EN: Mörser (wird gebaut) -->
+  <Frame_Turret_Mortar.label>Mörser (wird gebaut)</Frame_Turret_Mortar.label>
+  <!-- EN: Ein bemannter Mörser, der alle möglichen Arten von Geschossen verschießt. Auch wenn er vernichtenden Schaden verursachen kann, ist er aufgrund seiner Ungenauigkeit besser geeignet Verteidigingsstrukturen zu zerstören als auf eine Gruppe Gegner im Feld zu schießen. -->
+  <Frame_Turret_Mortar.description>Ein bemannter Mörser, der alle möglichen Arten von Geschossen verschießt. Auch wenn er vernichtenden Schaden verursachen kann, ist er aufgrund seiner Ungenauigkeit besser geeignet Verteidigingsstrukturen zu zerstören als auf eine Gruppe Gegner im Feld zu schießen.</Frame_Turret_Mortar.description>
+  
+  <!-- EN: Lüftung (wird gebaut) -->
+  <Frame_Vent.label>Lüftung (wird gebaut)</Frame_Vent.label>
+  <!-- EN: Ein einfacher Lüftungsschacht zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dabei eine Öffnung zu schaffen. -->
+  <Frame_Vent.description>Ein einfacher Lüftungsschacht zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dabei eine Öffnung zu schaffen.</Frame_Vent.description>
+  
+  <!-- EN: Vitalmonitor (wird gebaut) -->
+  <Frame_VitalsMonitor.label>Vitalmonitor (wird gebaut)</Frame_VitalsMonitor.label>
+  <!-- EN: Verbessert die Behandlungsqualität, Operationserfolgschance und Immunisierungsgeschwindigkeit. Muss neben einem Krankenbett platziert werden, normale Betten profitieren nicht davon. Mehr als einen Vitalmonitor pro Bett aufzustellen hat keinen zusätzlichen Effekt. -->
+  <Frame_VitalsMonitor.description>Verbessert die Behandlungsqualität, Operationserfolgschance und Immunisierungsgeschwindigkeit. Muss neben einem Krankenbett platziert werden, normale Betten profitieren nicht davon. Mehr als einen Vitalmonitor pro Bett aufzustellen hat keinen zusätzlichen Effekt.</Frame_VitalsMonitor.description>
+  
+  <!-- EN: Wand (wird gebaut) -->
+  <Frame_Wall.label>Wand (wird gebaut)</Frame_Wall.label>
+  <!-- EN: Eine unpassierbare Wand, die ein Dach tragen kann. -->
+  <Frame_Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Frame_Wall.description>
+  
+  <!-- EN: Wasserkraft Generator (wird gebaut) -->
+  <Frame_WatermillGenerator.label>Wasserkraftgenerator (wird gebaut)</Frame_WatermillGenerator.label>
+  <!-- EN: Produziert Strom mit Wasserkraft. Das Schaufelrad muss in fließendem Wasser platziert werden. Wenn diese Generatoren zu nahe beieinander aufgestellt werden, generieren sie Turbulenzen, was ihre Leistung reduziert. -->
+  <Frame_WatermillGenerator.description>Produziert Strom mit Wasserkraft. Das Schaufelrad muss in fließendem Wasser platziert werden. Wenn diese Generatoren zu nahe beieinander aufgestellt werden, generieren sie Turbulenzen, was ihre Leistung reduziert.</Frame_WatermillGenerator.description>
+  
+  <!-- EN: Stromkabel Wasserfest (wird gebaut) -->
+  <Frame_WaterproofConduit.label>Stromkabel Wasserfest (wird gebaut)</Frame_WaterproofConduit.label>
+  <!-- EN: Isoliertes Kabel, das Strom durch seichtes Wasser leiten kann. -->
+  <Frame_WaterproofConduit.description>Isoliertes Kabel, das Strom durch seichtes Wasser leiten kann.</Frame_WaterproofConduit.description>
+  
+  <!-- EN: Windturbine (wird gebaut) -->
+  <Frame_WindTurbine.label>Windturbine (wird gebaut)</Frame_WindTurbine.label>
+  <!-- EN: Ein windbetriebener, elektrischer Generator. Benötigt eine große freie Fläche vor und hinter sich, um eine optimale Windströmung zu gewährleisten. -->
+  <Frame_WindTurbine.description>Ein windbetriebener, elektrischer Generator. Benötigt eine große freie Fläche vor und hinter ihm, um eine optimale Windströmung zu gewährleisten.</Frame_WindTurbine.description>
+  
+  <!-- EN: Holzfeuer Generator (wird gebaut) -->
+  <Frame_WoodFiredGenerator.label>Holzfeuer Generator (wird gebaut)</Frame_WoodFiredGenerator.label>
+  <!-- EN: Produziert Strom durch Verbrennung von Holz. Muss regelmäßig von Hand aufgefüllt werden. -->
+  <Frame_WoodFiredGenerator.description>Produziert Strom durch Verbrennung von Holz. Muss von Hand aufgefüllt werden.</Frame_WoodFiredGenerator.description>
+  
+  <!-- EN: Holzboden (wird gebaut) -->
+  <Frame_WoodPlankFloor.label>Holzboden (wird gebaut)</Frame_WoodPlankFloor.label>
+  <!-- EN: Terrain building in progress. -->
+  <Frame_WoodPlankFloor.description>Laufende Bodenarbeiten.</Frame_WoodPlankFloor.description>
+  
+  <!-- EN: Alpakafleisch -->
+  <Meat_Alpaca.label>Alpakafleisch</Meat_Alpaca.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Alpaca.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Alpaca.description>
+  
+  <!-- EN: Alphabiberfleisch -->
+  <Meat_Alphabeaver.label>Biberfleisch</Meat_Alphabeaver.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Alphabeaver.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Alphabeaver.description>
+  
+  <!-- EN: Bärenfleisch -->
+  <Meat_Bear_Grizzly.label>Bärenfleisch</Meat_Bear_Grizzly.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Bear_Grizzly.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Bear_Grizzly.description>
+  
+  <!-- EN: Boomalopefleisch -->
+  <Meat_Boomalope.label>Boomalopenfleisch</Meat_Boomalope.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Boomalope.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Boomalope.description>
+  
+  <!-- EN: Boomrattefleisch -->
+  <Meat_Boomrat.label>Boomrattenfleisch</Meat_Boomrat.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Boomrat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Boomrat.description>
+  
+  <!-- EN: Wasserschweinfleisch -->
+  <Meat_Capybara.label>Wasserschweinfleisch</Meat_Capybara.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Capybara.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Capybara.description>
+  
+  <!-- EN: Rentierfleisch -->
+  <Meat_Caribou.label>Rentierfleisch</Meat_Caribou.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Caribou.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Caribou.description>
+  
+  <!-- EN: Vogelfleisch -->
+  <Meat_Cassowary.label>Vogelfleisch</Meat_Cassowary.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Cassowary.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cassowary.description>
+  
+  <!-- EN: Katzefleisch -->
+  <Meat_Cat.label>Katzenfleisch</Meat_Cat.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Cat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cat.description>
+  
+  <!-- EN: Huhnfleisch -->
+  <Meat_Chicken.label>Hühnerfleisch</Meat_Chicken.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Chicken.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Chicken.description>
+  
+  <!-- EN: Chinchillafleisch -->
+  <Meat_Chinchilla.label>Chinchillafleisch</Meat_Chinchilla.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Chinchilla.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Chinchilla.description>
+  
+  <!-- EN: Schlangenfleisch -->
+  <Meat_Cobra.label>Schlangenfleisch</Meat_Cobra.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Cobra.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cobra.description>
+  
+  <!-- EN: Pumafleisch -->
+  <Meat_Cougar.label>Pumafleisch</Meat_Cougar.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Cougar.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cougar.description>
+  
+  <!-- EN: Rindfleisch -->
+  <Meat_Cow.label>Rindfleisch</Meat_Cow.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Cow.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Cow.description>
+  
+  <!-- EN: Wildfleisch -->
+  <Meat_Deer.label>Wildfleisch</Meat_Deer.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Deer.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Deer.description>
+  
+  <!-- EN: Dromedarfleisch -->
+  <Meat_Dromedary.label>Dromedarfleisch</Meat_Dromedary.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Dromedary.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Dromedary.description>
+  
+  <!-- EN: Elefantfleisch -->
+  <Meat_Elephant.label>Elefantenfleisch</Meat_Elephant.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Elephant.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Elephant.description>
+  
+  <!-- EN: Elchfleisch -->
+  <Meat_Elk.label>Elchfleisch</Meat_Elk.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Elk.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Elk.description>
+  
+  <!-- EN: Fuchsfleisch -->
+  <Meat_Fox_Fennec.label>Fuchsfleisch</Meat_Fox_Fennec.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Fox_Fennec.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Fox_Fennec.description>
+  
+  <!-- EN: Gazellefleisch -->
+  <Meat_Gazelle.label>Gazellenfleisch</Meat_Gazelle.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Gazelle.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Gazelle.description>
+  
+  <!-- EN: Hasefleisch -->
+  <Meat_Hare.label>Hasenfleisch</Meat_Hare.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Hare.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Hare.description>
+  
+  <!-- EN: Menschfleisch -->
+  <Meat_Human.label>Menschenfleisch</Meat_Human.label>
+  <!-- EN: Rohes, geschlachtetes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden, allerdings mögen die meisten Menschen das nicht. -->
+  <Meat_Human.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden, allerdings mögen die meisten Menschen dieses Fleisch nicht.</Meat_Human.description>
+  
+  <!-- EN: Huskyfleisch -->
+  <Meat_Husky.label>Huskyfleisch</Meat_Husky.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Husky.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Husky.description>
+  
+  <!-- EN: Steinbockfleisch -->
+  <Meat_Ibex.label>Steinbockfleisch</Meat_Ibex.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Ibex.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Ibex.description>
+  
+  <!-- EN: Leguanfleisch -->
+  <Meat_Iguana.label>Leguanfleisch</Meat_Iguana.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Iguana.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Iguana.description>
+  
+  <!-- EN: Labrador-Retrieverfleisch -->
+  <Meat_LabradorRetriever.label>Labradorfleisch</Meat_LabradorRetriever.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_LabradorRetriever.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_LabradorRetriever.description>
+  
+  <!-- EN: Luchsfleisch -->
+  <Meat_Lynx.label>Luchsfleisch</Meat_Lynx.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Lynx.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Lynx.description>
+  
+  <!-- EN: Riesenfaultierfleisch -->
+  <Meat_Megasloth.label>Faultierfleisch</Meat_Megasloth.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Megasloth.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Megasloth.description>
+  
+  <!-- EN: Insektenfleisch -->
+  <Meat_Megaspider.label>Insektenfleisch</Meat_Megaspider.label>
+  <!-- EN: Rohes, geschlachtetes Fleisch. Wenn nötig kann es in Mahlzeiten gekocht oder sogar roh gegessen werden. Extrem unappetitlich. -->
+  <Meat_Megaspider.description>Rohes Fleisch. Wenn nötig kann es in Mahlzeiten gekocht oder sogar roh gegessen werden. Extrem unappetitlich.</Meat_Megaspider.description>
+  
+  <!-- EN: Affefleisch -->
+  <Meat_Monkey.label>Affenfleisch</Meat_Monkey.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Monkey.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Monkey.description>
+  
+  <!-- EN: Muffalofleisch -->
+  <Meat_Muffalo.label>Muffalofleisch</Meat_Muffalo.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Muffalo.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Muffalo.description>
+  
+  <!-- EN: Pantherfleisch -->
+  <Meat_Panther.label>Pantherfleisch</Meat_Panther.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Panther.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Panther.description>
+  
+  <!-- EN: Schweinefleisch -->
+  <Meat_Pig.label>Schweinefleisch</Meat_Pig.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Pig.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Pig.description>
+  
+  <!-- EN: Waschbärfleisch -->
+  <Meat_Raccoon.label>Waschbärenfleisch</Meat_Raccoon.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Raccoon.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Raccoon.description>
+  
+  <!-- EN: Rattefleisch -->
+  <Meat_Rat.label>Rattenfleisch</Meat_Rat.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Rat.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Rat.description>
+  
+  <!-- EN: Nashornfleisch -->
+  <Meat_Rhinoceros.label>Nashornfleisch</Meat_Rhinoceros.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Rhinoceros.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Rhinoceros.description>
+  
+  <!-- EN: Eichhörnchenfleisch -->
+  <Meat_Squirrel.label>Eichhörnchenfleisch</Meat_Squirrel.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Squirrel.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Squirrel.description>
+  
+  <!-- EN: Thrumbofleisch -->
+  <Meat_Thrumbo.label>Thrumbofleisch</Meat_Thrumbo.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Thrumbo.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Thrumbo.description>
+  
+  <!-- EN: Landschildkrötefleisch -->
+  <Meat_Tortoise.label>Schildkrötenfleisch</Meat_Tortoise.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Tortoise.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Tortoise.description>
+  
+  <!-- EN: Truthahnfleisch -->
+  <Meat_Turkey.label>Truthahnfleisch</Meat_Turkey.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Turkey.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Turkey.description>
+  
+  <!-- EN: Wargfleisch -->
+  <Meat_Warg.label>Wargfleisch</Meat_Warg.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Warg.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Warg.description>
+  
+  <!-- EN: Wolffleisch -->
+  <Meat_Wolf_Timber.label>Wolffleisch</Meat_Wolf_Timber.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_Wolf_Timber.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_Wolf_Timber.description>
+  
+  <!-- EN: Yorkshire-Terrierfleisch -->
+  <Meat_YorkshireTerrier.label>Yorkiefleisch</Meat_YorkshireTerrier.label>
+  <!-- EN: Rohes Schlachtfleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden. -->
+  <Meat_YorkshireTerrier.description>Rohes Fleisch. Kann in Mahlzeiten gekocht oder auch roh gegessen werden.</Meat_YorkshireTerrier.description>
+  
+</LanguageData>

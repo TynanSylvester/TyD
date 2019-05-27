@@ -1,0 +1,27 @@
+﻿//Example: "Ein ..." 
+Bandit
+Krimineller
+Plünderer
+Räuber
+Gesetzloser
+Pirat
+Brigant
+Gauner
+Entführer
+Dieb
+Halunke
+Schuft
+Schurke
+Schänder
+Einbrecher
+Rohling
+Schwindler
+Barbar
+Kannibale
+Teufel
+Dämon
+Monster
+Vampir
+Goblin
+Imp
+Drache

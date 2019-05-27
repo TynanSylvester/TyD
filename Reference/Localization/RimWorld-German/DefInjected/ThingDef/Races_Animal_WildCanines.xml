@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arctic fox -->
+  <Fox_Arctic.label>Polarfuchs</Fox_Arctic.label>
+  <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
+  <Fox_Arctic.description>Ein kleiner Jäger, der für das eisige Klima angepasst ist. Er jagt kleinere Tiere wie Mäuse und gräbt sich dabei gelegentlich durch meterhohen Schnee.</Fox_Arctic.description>
+  <!-- EN: left claw -->
+  <Fox_Arctic.tools.left_claw.label>linker Pfote</Fox_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Arctic.tools.right_claw.label>rechter Pfote</Fox_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Arctic.tools.head.label>Kopf</Fox_Arctic.tools.head.label>
+  
+  <!-- EN: fennec fox -->
+  <Fox_Fennec.label>Wüstenfuchs</Fox_Fennec.label>
+  <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
+  <Fox_Fennec.description>Ein kleiner Fuchs, der ursprünglich im nördlichen Teil Afrikas auf der alten Erde beheimatet war. Er jagt kleine Kreaturen und hat sehr große Ohren zur Kühlung bei großer Hitze.</Fox_Fennec.description>
+  <!-- EN: foxmeat -->
+  <Fox_Fennec.race.meatLabel>Fuchsfleisch</Fox_Fennec.race.meatLabel>
+  <!-- EN: left claw -->
+  <Fox_Fennec.tools.left_claw.label>linker Pfote</Fox_Fennec.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Fennec.tools.right_claw.label>rechter Pfote</Fox_Fennec.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Fennec.tools.head.label>Kopf</Fox_Fennec.tools.head.label>
+  
+  <!-- EN: red fox -->
+  <Fox_Red.label>Rotfuchs</Fox_Red.label>
+  <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
+  <Fox_Red.description>Ein kleiner Fleischfresser, der kleine Kreaturen in den gemäßigten Gebieten jagt. Hühner-Bauern hassen Füchse, da sie es schaffen einen ganzen Stall in Minuten zu vernichten.</Fox_Red.description>
+  <!-- EN: left claw -->
+  <Fox_Red.tools.left_claw.label>linker Pfote</Fox_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Fox_Red.tools.right_claw.label>rechter Pfote</Fox_Red.tools.right_claw.label>
+  <!-- EN: head -->
+  <Fox_Red.tools.head.label>Kopf</Fox_Red.tools.head.label>
+  
+  <!-- EN: warg -->
+  <Warg.label>Warg</Warg.label>
+  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
+  <Warg.description>Eine stark-muskulöse, wolfsähnliche Kreatur mit unnatürlichen bösartigen Klauen und einem unheimlich starken Biss. Sie fressen nur Fleisch oder Leichen. Wenn man sie in der Wildniss stört, greifen sie häufig an.\n\nWissenschaftler fanden heraus, dass Warge die Nachkommen eines militärisch gezüchteten Tieres sind, das zum Unterdrücken einer Population erschaffen wurde. Abergläubische Menschen sehen sie als ein Werkzeug eines wütenden Gottes. Sie essen nur Fleisch oder Leichen.</Warg.description>
+  <!-- EN: left claw -->
+  <Warg.tools.left_claw.label>linker Pfote</Warg.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Warg.tools.right_claw.label>rechter Pfote</Warg.tools.right_claw.label>
+  <!-- EN: razorfangs -->
+  <Warg.tools.razorfangs.label>rasiermesserscharfem Gebiss</Warg.tools.razorfangs.label>
+  <!-- EN: head -->
+  <Warg.tools.head.label>Kopf</Warg.tools.head.label>
+  
+  <!-- EN: arctic wolf -->
+  <Wolf_Arctic.label>Polarwolf</Wolf_Arctic.label>
+  <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
+  <Wolf_Arctic.description>Die Polar-Variante des Wolfes der alten Erde. Als Rudeltier haben Wölfe ein komplexes soziales Leben und sind ausgesprochen intelligent.</Wolf_Arctic.description>
+  <!-- EN: left claw -->
+  <Wolf_Arctic.tools.left_claw.label>linker Pfote</Wolf_Arctic.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Arctic.tools.right_claw.label>rechter Pfote</Wolf_Arctic.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Arctic.tools.head.label>Kopf</Wolf_Arctic.tools.head.label>
+  
+  <!-- EN: timber wolf -->
+  <Wolf_Timber.label>Timberwolf</Wolf_Timber.label>
+  <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
+  <Wolf_Timber.description>Ein wilder Jäger, der seit jeher von vielen antiken Kulturen der Erde gefürchtet wurde. Als Rudeltier haben Wölfe ein komplexes soziales Leben und sind ausgesprochen intelligent.</Wolf_Timber.description>
+  <!-- EN: wolfmeat -->
+  <Wolf_Timber.race.meatLabel>Wolffleisch</Wolf_Timber.race.meatLabel>
+  <!-- EN: left claw -->
+  <Wolf_Timber.tools.left_claw.label>linker Pfote</Wolf_Timber.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Wolf_Timber.tools.right_claw.label>rechter Pfote</Wolf_Timber.tools.right_claw.label>
+  <!-- EN: head -->
+  <Wolf_Timber.tools.head.label>Kopf</Wolf_Timber.tools.head.label>
+  
+</LanguageData>

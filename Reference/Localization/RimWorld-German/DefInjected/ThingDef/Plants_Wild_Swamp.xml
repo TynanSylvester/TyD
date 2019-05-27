@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chokevine -->
+  <Plant_Chokevine.label>Schlingpflanze</Plant_Chokevine.label>
+  <!-- EN: Tangled masses of cord-like, spiky vines which coil in great masses along the ground. Chokevine greatky slows down anyone who moves over it. Multiple tribes have independently generated stories of chokevine strangling children to death in the night, as a way to scare kids into coming home before dark. -->
+  <Plant_Chokevine.description>Eine verknotete Masse von Seil-ähnlichen stacheligen Ranken, die sich in großer Masse über den Boden legen. Schlingpflanzen bremsen jeden stark ab, der hier durch will. Verschiedene Stämme haben ihre jeweils eigenen Geschichten von Schlingpflanzen, die Kinder in der Nacht zu Tode würgen. Diese sind dazu da die Kinder zu erschrecken, sodass sie vor der Dunkelheit wieder zu Hause sind.</Plant_Chokevine.description>
+  
+  <!-- EN: cypress tree -->
+  <Plant_TreeCypress.label>Zypresse</Plant_TreeCypress.label>
+  <!-- EN: A tall coniferous tree often found in swamps. Despite its slow growth, planting these trees can be profitable as a low-effort, long-term investment because they yield so much usable wood. -->
+  <Plant_TreeCypress.description>Ein großer, langsam wachsender Nadelbaum der oft in Sümpfen gefunden werden kann. Trotz des langsamen Wachstums kann es profitabel sein diesen Baum als pflegeleichte Langzeit-Investition anzupflanzen, da er recht viel brauchbares Holz liefert.</Plant_TreeCypress.description>
+  
+  <!-- EN: maple tree -->
+  <Plant_TreeMaple.label>Ahorn</Plant_TreeMaple.label>
+  <!-- EN: A common medium-sized tree, easily identifiable by its distinct three-pointed leaf. -->
+  <Plant_TreeMaple.description>Ein häufiger mittelgroßer Baum der leicht an seinen dreigeteilten Blättern erkannt werden kann.</Plant_TreeMaple.description>
+  
+  <!-- EN: willow tree -->
+  <Plant_TreeWillow.label>Weide</Plant_TreeWillow.label>
+  <!-- EN: One of the fastest growing shade trees, willows provide a beautiful, leafy canopy. It doesn't yield much usable wood. -->
+  <Plant_TreeWillow.description>Einer der am schnellsten wachsenden, schattenspendenden Bäume, der ein schönes, dichtes Blattdickicht hat. Die Weide hat aber nicht viel Holz.</Plant_TreeWillow.description>
+  
+</LanguageData>

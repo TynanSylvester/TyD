@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Apparel -->
+  <Apparel.label>Kleidung</Apparel.label>
+  
+  <!-- EN: Basics -->
+  <Basics.label>Basis</Basics.label>
+  
+  <!-- EN: Basics -->
+  <BasicsNonPawn.label>Basis</BasicsNonPawn.label>
+  
+  <!-- EN: Basics -->
+  <BasicsPawn.label>Basis</BasicsPawn.label>
+  
+  <!-- EN: Building -->
+  <Building.label>Gebäude</Building.label>
+  
+  <!-- EN: Offsets when equipped -->
+  <EquippedStatOffsets.label>Zu addierende Werte wenn ausgerüstet</EquippedStatOffsets.label>
+  
+  <!-- EN: Combat -->
+  <PawnCombat.label>Kampf</PawnCombat.label>
+  
+  <!-- EN: Misc -->
+  <PawnMisc.label>Verschiedenes</PawnMisc.label>
+  
+  <!-- EN: Social -->
+  <PawnSocial.label>Sozial</PawnSocial.label>
+  
+  <!-- EN: Work -->
+  <PawnWork.label>Arbeit</PawnWork.label>
+  
+  <!-- EN: Multipliers when equipment made of this -->
+  <StuffOfEquipmentStatFactors.label>Zu multiplizierende Werte für hergestellte Ausrüstung</StuffOfEquipmentStatFactors.label>
+  
+  <!-- EN: Multipliers when made of this -->
+  <StuffStatFactors.label>Zu multiplizierende Werte für Endprodukt</StuffStatFactors.label>
+  
+  <!-- EN: Offsets when made of this -->
+  <StuffStatOffsets.label>Zu addierende Werte für Endprodukt</StuffStatOffsets.label>
+  
+  <!-- EN: Surgical -->
+  <Surgery.label>chirurgisch</Surgery.label>
+  
+  <!-- EN: Weapon -->
+  <Weapon.label>Waffe</Weapon.label>
+  
+</LanguageData>

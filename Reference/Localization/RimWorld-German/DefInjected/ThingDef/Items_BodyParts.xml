@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archotech arm -->
+  <ArchotechArm.label>ArchoTech Arm</ArchotechArm.label>
+  <!-- EN: An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechArm.description>Ein fortschrittlicher künstlicher Arm, der von einem ArchoTech hergestellt wurde. Es ist stark genug, um einen Hartholz-Zweig in der Hand zu zerquetschen, und präzise genug, ein Sonett auf einem Reiskorn zu schreiben. Es sieht aus und fühlt sich an wie ein natürlicher Arm, ist aber härter als Plastahl. Selbst wenn er beschädigt wird, repariert er sich mit der Zeit selbstständig. Die internen Vorgänge bleiben für alle menschlichen Forscher ein Mysterium.</ArchotechArm.description>
+  
+  <!-- EN: archotech eye -->
+  <ArchotechEye.label>ArchoTech Auge</ArchotechEye.label>
+  <!-- EN: An artifical eye built by an archotech. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Externally, it looks like a natural human eye, except it can change color at will. Its internal workings are a mystery to all human minds. -->
+  <ArchotechEye.description>Ein fortschrittliches künstliches Auge, das von einem ArchoTech hergestellt wurde. Es erfasst alle Arten von elektromagnetischer Strahlung wie z.B. Radiowellen, Infrarot- und normales Licht, sowie Röntgen- und Gammastrahlung. Die visuelle Auflösung ist hoch genug, dass man ein Buch aus 20m Entfernung lesen kann. Es kann verschiedene Wellenlängen wie eine Taschenlampe aussenden und hat eine integrierte Mikro-KI, die die Auswertung der visuellen Informationen unterstützt. Von außen sieht es wie ein normales menschliches Auge aus, außer dass es die Augenfarbe jederzeit verändern kann. Die internen Vorgänge bleiben für alle menschlichen Forscher ein Mysterium.</ArchotechEye.description>
+  
+  <!-- EN: archotech leg -->
+  <ArchotechLeg.label>ArchoTech Bein</ArchotechLeg.label>
+  <!-- EN: An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
+  <ArchotechLeg.description>Ein fortschrittliches künstliches Bein, das von einem ArchoTech hergestellt wurde. Es sieht aus und fühlt sich an wie ein natürliches Bein, aber ein Paar dieser Beine kann den Benutzer so schnell wie ein besseres Auto werden lassen und es ist dabei härter als Plastahl. Selbst wenn er beschädigt wird repariert er sich mit der Zeit selbstständig. Die internen Vorgänge bleiben für alle menschlichen Forscher ein Mysterium.</ArchotechLeg.description>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>bionischer Arm</BionicArm.label>
+  <!-- EN: An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <BionicArm.description>Ein fortschrittlicher künstlicher Arm. Eingebaute geräuschlose Mini-Servos verleihen dem Träger extreme Stärke, während die Biogel-Nervenverbindung auch für eine perfekte Kontrolle sorgt. Weiterhin ermöglicht ein Kristallstaubgitter-Heilungssystem erlittenen Schaden zu reparieren. Es ist einem biologischen Arm in jeder Hinsicht überlegen.</BionicArm.description>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>bionisches Ohr</BionicEar.label>
+  <!-- EN: An advanced artificial ear implant. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
+  <BionicEar.description>Ein fortschrittliches künstliches Ohr. Eine Ansammlung hochempfindlicher Sensoren unter der Haut empfangen und verarbeiten ein breites Frequenzband vom Infra- bis zum Ultraschall-Bereich und übertragen dieses über eine Biogel-Schnittstelle direkt auf den Hörnerv. Hiermit kann man eine Katze hören, bevor man sie sieht. Laute Geräusche können es nicht beschädigen und man kann interessante Gesprächsteile aus einem Raum voller Leute herausfiltern. Es ist einem biologischen Ohr in jeder Hinsicht überlegen.</BionicEar.description>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>bionisches Auge</BionicEye.label>
+  <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <BionicEye.description>Ein fortschrittliches künstliches Auge. Mit der Biogel-Nervenverbindung, dem internen Signalprozessor und Breitband-Sensoren ist es einem biologischen Auge in jeder Hinsicht überlegen. Ein Kristallstaubgitter-Heilungssystem ermöglicht es ihm, Schäden zu reparieren.</BionicEye.description>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>bionisches Herz</BionicHeart.label>
+  <!-- EN: An advanced artificial heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
+  <BionicHeart.description>Ein fortschrittliches künstliches Herz. Es hat syntetische Muskelstränge für einen realistischen Herzschlag sowie eine Hochleistungspumpe für einen schnellen Durchfluss bei hohem Stress. Es ist einem biologischen Herz in jeder Hinsicht überlegen.</BionicHeart.description>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>bionisches Bein</BionicLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <BionicLeg.description>Ein fortschrittliches künstliches Bein. Eingebaute geräuschlose Mini-Servos, eine Biogel-Nervenverbindung für eine perfekte Kontrolle und ein Kristallstaubgitter-Heilungssystem zur Reparatur von erlittenem Schaden machen es einem biologischen Bein in jeder Hinsicht überlegen.</BionicLeg.description>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>bionische Wirbelsäule</BionicSpine.label>
+  <!-- EN: An advanced artificial spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
+  <BionicSpine.description>Eine fortschrittliche künstliche Wirbelsäule. Ein Biogel-Bündel verläuft durch einen angepasstes Plastahl-Kern, der von einem Kristallstaubgitter-Heilungssystem umschlossen ist. Es entspricht der Leistung einer biologischen Wirbelsäule.</BionicSpine.description>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>bionischer Magen</BionicStomach.label>
+  <!-- EN: An advanced artificial stomach. A set of sensors and chemical synthesizers efficiently digest nearly any energy-bearing foodstuff. An integrated lattice-dust healing system automatically repairs any damage caused by the powerful acids. It is better than a biological stomach in almost every way. -->
+  <BionicStomach.description>Ein fortschrittlicher künstlicher Magen. Ausgestattet mit verschiedenen Sensoren und chemischen Synthetisierern kann nahezu jede energieliefernde Nahrung verarbeitet werden. Weiterhin repariert ein Kristallstaubgitter-Heilungssystem automatisch Schäden, die durch starke Säuren aufgetreten sind. Es ist einem biologischen Magen in jeder Hinsicht überlegen.</BionicStomach.description>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>Cochlea-Implantat</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>Das Cochlea-Implantat ist ein Höhrgerät, bei dem die Geräusche in elektrische Signale umgewandelt und über Induktion direkt auf den Höhrnerv übertragen werden. Es ist nicht so gut wie ein natürliches Ohr, aber besser als Taub zu sein.</CochlearImplant.description>
+  
+  <!-- EN: heart -->
+  <Heart.label>Herz</Heart.label>
+  <!-- EN: A biological human heart. Pumps blood around the body. -->
+  <Heart.description>Ein biologisches Herz. Es pumpt das Blut durch den Körper.</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>Niere</Kidney.label>
+  <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
+  <Kidney.description>Eine biologische Niere. Sie filtert und entfernt Abfallprodukte aus dem Blutkreislauf.</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>Leber</Liver.label>
+  <!-- EN: A biological human liver. Plays an important role in metabolism. -->
+  <Liver.description>Eine biologische Leber. Sie spielt eine wichtige Rolle beim Stoffwechsel des Körpers.</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>Lunge</Lung.label>
+  <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
+  <Lung.description>Eine biologische Lunge. Zwei Lungen sind die Zentralorgane des menschlichen Atmungssystems.</Lung.description>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>Power-Kralle</PowerClaw.label>
+  <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a vicious claw on each finger. It is vicious in combat, and its powerful mini-servos can crush a skull like a natural hand crushes an egg. The blades can be retracted, making it as useful as a biological hand for non-combat tasks. -->
+  <PowerClaw.description>Ein kampfoptimierter Handersatz in Klauenform. Sie ist tödlich im Kampf und die starken Mini-Servos können einen Schädel wie ein rohes Ei zerplatzen lassen. Die Klingen können eingefahren werden, wodurch sie im Alltag fast so gut wie eine biologische Hand einsetzbar ist.</PowerClaw.description>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>Armprothese</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>Eine einfache Armprothese. Obwohl sie keine neuronalen Verbindungen hat, erlauben die komplexen Verbindungen einen nahezu normalen Bewegungsablauf. Trotzdem ist sie nicht so gut wie ein richtiger Arm.</SimpleProstheticArm.description>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>Künstliches Herz</SimpleProstheticHeart.label>
+  <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
+  <SimpleProstheticHeart.description>Ein künstliches Herz. Ein Elektromotor pumpt das Blut sanft durch den Körper. Benutzer melden, dass sie schneller erschöpft sind, aber es ist immer noch besser als die Alternative.</SimpleProstheticHeart.description>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>Beinprothese</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>Eine einfache Beinprothese. Obwohl sie keine neuronalen Verbindungen hat, erlauben die komplexen Verbindungen einen nahezu normalen Bewegungsablauf. Trotzdem ist sie nicht so gut wie ein richtiges Bein.</SimpleProstheticLeg.description>
+  
+</LanguageData>

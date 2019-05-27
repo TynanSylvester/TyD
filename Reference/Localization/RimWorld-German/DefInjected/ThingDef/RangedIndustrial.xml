@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: assault rifle bullet -->
+  <Bullet_AssaultRifle.label>Sturmgewehrkugel</Bullet_AssaultRifle.label>
+  
+  <!-- EN: autopistol bullet -->
+  <Bullet_Autopistol.label>Halbautomatik-Pistolenkugel</Bullet_Autopistol.label>
+  
+  <!-- EN: bolt-action rifle bullet -->
+  <Bullet_BoltActionRifle.label>Repetiergewehrkugel</Bullet_BoltActionRifle.label>
+  
+  <!-- EN: heavy SMG bullet -->
+  <Bullet_HeavySMG.label>MP-Kugel</Bullet_HeavySMG.label>
+  
+  <!-- EN: incendiary bolt -->
+  <Bullet_IncendiaryLauncher.label>Brandgeschoss</Bullet_IncendiaryLauncher.label>
+  
+  <!-- EN: LMG bullet -->
+  <Bullet_LMG.label>LMG-Kugel</Bullet_LMG.label>
+  
+  <!-- EN: machine pistol bullet -->
+  <Bullet_MachinePistol.label>Maschinenpistolen-Kugel</Bullet_MachinePistol.label>
+  
+  <!-- EN: minigun bullet -->
+  <Bullet_Minigun.label>Minigun-Kugel</Bullet_Minigun.label>
+  
+  <!-- EN: revolver bullet -->
+  <Bullet_Revolver.label>Revolverkugel</Bullet_Revolver.label>
+  
+  <!-- EN: shotgun blast -->
+  <Bullet_Shotgun.label>Schrotkugeln</Bullet_Shotgun.label>
+  
+  <!-- EN: sniper rifle bullet -->
+  <Bullet_SniperRifle.label>Präzisionsgewehrkugel</Bullet_SniperRifle.label>
+  
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.label>Sturmgewehr</Gun_AssaultRifle.label>
+  <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
+  <Gun_AssaultRifle.description>Ein Mehrzweck-Sturmgewehr für Feld- und Stadtkämpfe. Es hat eine gute Reichweite und Genauigkeit sowie eine brauchbare Mannstoppwirkung.</Gun_AssaultRifle.description>
+  <!-- EN: stock -->
+  <Gun_AssaultRifle.tools.stock.label>Schaft</Gun_AssaultRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_AssaultRifle.tools.barrel.label>Lauf</Gun_AssaultRifle.tools.barrel.label>
+  <!-- EN: assault rifle -->
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>Sturmgewehr</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.label>Pistole</Gun_Autopistol.label>
+  <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
+  <Gun_Autopistol.description>Eine antike, halb-automatische Pistole. Hat keine gute Mannstoppwirkung und eine niedrige Reichweite, kann aber recht schnell schießen.</Gun_Autopistol.description>
+  <!-- EN: grip -->
+  <Gun_Autopistol.tools.grip.label>Griff</Gun_Autopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Autopistol.tools.barrel.label>Lauf</Gun_Autopistol.tools.barrel.label>
+  <!-- EN: autopistol -->
+  <Gun_Autopistol.verbs.Verb_Shoot.label>Pistole</Gun_Autopistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.label>Repetiergewehr</Gun_BoltActionRifle.label>
+  <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
+  <Gun_BoltActionRifle.description>Ein Repetiergewehr antiker Bauart. Mit der großen Reichweite und geringen Schussfrequenz ist es unwahrscheinlich, dass ein Tier sich rächen wird, weswegen es die favorisierte Waffe auf der Jagd ist.</Gun_BoltActionRifle.description>
+  <!-- EN: stock -->
+  <Gun_BoltActionRifle.tools.stock.label>Schaft</Gun_BoltActionRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_BoltActionRifle.tools.barrel.label>Lauf</Gun_BoltActionRifle.tools.barrel.label>
+  <!-- EN: bolt-action rifle -->
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>Repetiergewehr</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.label>Autom. Schrotflinte</Gun_ChainShotgun.label>
+  <!-- EN: A magazine-fed fully automatic shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to burst fire. -->
+  <Gun_ChainShotgun.description>Eine Magazin-befülltes voll-automatisches Schrotgewehr. Es hat eine noch geringere Reichweite als das normale Schrotgewehr, ist aber wegen des Feuerstoßes extrem gefährlich.</Gun_ChainShotgun.description>
+  <!-- EN: stock -->
+  <Gun_ChainShotgun.tools.stock.label>Schaft</Gun_ChainShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChainShotgun.tools.barrel.label>Lauf</Gun_ChainShotgun.tools.barrel.label>
+  <!-- EN: chain shotgun -->
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>Autom. Schrotflinte</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.label>Schwere Maschinenpistole</Gun_HeavySMG.label>
+  <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
+  <Gun_HeavySMG.description>Ein kompakter Bleiwerfer mit großem Kaliber. Er hat eine sehr niedrige Reichweite, aber eine große Durchschlagskraft und gute Handhabung.</Gun_HeavySMG.description>
+  <!-- EN: grip -->
+  <Gun_HeavySMG.tools.grip.label>Griff</Gun_HeavySMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_HeavySMG.tools.barrel.label>Lauf</Gun_HeavySMG.tools.barrel.label>
+  <!-- EN: heavy SMG -->
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>Schwere Maschinenpistole</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.label>Brandgeschosswerfer</Gun_IncendiaryLauncher.label>
+  <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
+  <Gun_IncendiaryLauncher.description>Ein großkalibriger Brandgeschosswerfer. Das Geschoss erzeugt eine kleine Brandexplosion beim Einschlag und setzt das Ziel in Brand.</Gun_IncendiaryLauncher.description>
+  <!-- EN: stock -->
+  <Gun_IncendiaryLauncher.tools.stock.label>Schaft</Gun_IncendiaryLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_IncendiaryLauncher.tools.barrel.label>Lauf</Gun_IncendiaryLauncher.tools.barrel.label>
+  <!-- EN: incendiary launcher -->
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>Brandgeschosswerfer</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: LMG -->
+  <Gun_LMG.label>Leichtes Maschinengewehr</Gun_LMG.label>
+  <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
+  <Gun_LMG.description>Ein leichtes Maschinengewehr. Es verschießt lange Salven - gut, um damit gegnerische Gruppen in Schach zu halten.</Gun_LMG.description>
+  <!-- EN: stock -->
+  <Gun_LMG.tools.stock.label>Schaft</Gun_LMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_LMG.tools.barrel.label>Lauf</Gun_LMG.tools.barrel.label>
+  <!-- EN: LMG -->
+  <Gun_LMG.verbs.Verb_Shoot.label>Leichtes Maschinengewehr</Gun_LMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.label>Leichte Maschinenpistole</Gun_MachinePistol.label>
+  <!-- EN: A micro-submachine gun. It is short-ranged, but very light in the hands. Its rate of fire tends to make up for its weakness. -->
+  <Gun_MachinePistol.description>Eine Mikro-Maschinenpistole. Sie hat eine niedrige Reichweite und ist sehr leicht in der Hand. Aber ihre Feuergeschwindigkeit ist ihre Stärke.</Gun_MachinePistol.description>
+  <!-- EN: grip -->
+  <Gun_MachinePistol.tools.grip.label>Griff</Gun_MachinePistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_MachinePistol.tools.barrel.label>Lauf</Gun_MachinePistol.tools.barrel.label>
+  <!-- EN: machine pistol -->
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>Leichte Maschinenpistole</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: minigun -->
+  <Gun_Minigun.label>Minigun</Gun_Minigun.label>
+  <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
+  <Gun_Minigun.description>Ein vollautomatisches mehrläufiges Maschinengewehr. Es ist unhandlich, aber wenn es erst einmal anfängt zu schießen, schießt es sehr schnell. Wo die meisten automatischen Waffen mit der Energie des Schießpulvers nachladen, verwendet die Minigun einen elektrischen Motor, um die Magazine schnell durch die Waffe zu transportieren.</Gun_Minigun.description>
+  <!-- EN: barrels -->
+  <Gun_Minigun.tools.barrels.label>Läufe</Gun_Minigun.tools.barrels.label>
+  <!-- EN: minigun -->
+  <Gun_Minigun.verbs.Verb_Shoot.label>Minigun</Gun_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.label>Schrotflinte</Gun_PumpShotgun.label>
+  <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
+  <Gun_PumpShotgun.description>Ein antikes Design eines Schrotgewehrs, das eine Ladung Schrotkugeln verschießt. Tödlich, aber sehr kurze Reichweite.</Gun_PumpShotgun.description>
+  <!-- EN: stock -->
+  <Gun_PumpShotgun.tools.stock.label>Schaft</Gun_PumpShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PumpShotgun.tools.barrel.label>Lauf</Gun_PumpShotgun.tools.barrel.label>
+  <!-- EN: pump shotgun -->
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>Schrotflinte</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: revolver -->
+  <Gun_Revolver.label>Revolver</Gun_Revolver.label>
+  <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
+  <Gun_Revolver.description>Ein antiker Revolver mit Spannabzug. Hat keine gute Mannstoppwirkung, hat aber für eine Pistole eine gute Reichweite und kann schnell gezogen werden.</Gun_Revolver.description>
+  <!-- EN: grip -->
+  <Gun_Revolver.tools.grip.label>Griff</Gun_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Revolver.tools.barrel.label>Lauf</Gun_Revolver.tools.barrel.label>
+  <!-- EN: revolver -->
+  <Gun_Revolver.verbs.Verb_Shoot.label>Revolver</Gun_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.label>Präzisionsgewehr</Gun_SniperRifle.label>
+  <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
+  <Gun_SniperRifle.description>Ein antikes Design eines Präzisionsgewehres. Kammerverschluss. Es hat eine extrem hohe Reichweite, gute Genauigkeit und hohe Durchschlagskraft. Da es aufgrund der Größe aber so unhandlich ist, sind andere Waffen auf kurze Entfernung wesentlich besser.</Gun_SniperRifle.description>
+  <!-- EN: stock -->
+  <Gun_SniperRifle.tools.stock.label>Schaft</Gun_SniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_SniperRifle.tools.barrel.label>Lauf</Gun_SniperRifle.tools.barrel.label>
+  <!-- EN: sniper rifle -->
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>Präzisionsgewehr</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

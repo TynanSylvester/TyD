@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>Kiefer</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>Fühler</Antenna.label>
+  
+  <!-- EN: beak -->
+  <Beak.label>Schnabel</Beak.label>
+  
+  <!-- EN: body -->
+  <Body.label>Körper</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>Flügeldecke</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>Vordere Kralle</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>Kralle</FrontClaw.labelShort>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>Kopfklaue</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>Huf</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>Horn</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>Höcker</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>Kopf</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>Herz</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>Bein</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>Maul</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>Nasenöffnung</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>Wange</Jowl.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>Pfote</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>Bauchpanzer</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>Halsschild</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>Hintere Kralle</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>Kralle</RearClaw.labelShort>
+  
+  <!-- EN: shell -->
+  <Shell.label>Panzer</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>Körper</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>Kopf</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>Mund</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>Schwanz</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>Rüssel</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>Schnabel</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>Panzer</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>Stoßzahn</Tusk.label>
+  
+</LanguageData>

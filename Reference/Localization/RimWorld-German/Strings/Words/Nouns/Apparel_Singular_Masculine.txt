@@ -1,0 +1,15 @@
+﻿//Example: "Der ..."
+Regenmantel
+Anzug
+Parka
+Staubmantel
+Raumanzug
+Gürtel
+Hosenträger
+Hut
+Bowlerhut
+Zylinder
+Schuh
+Stiefel
+Handschuh
+Pullover

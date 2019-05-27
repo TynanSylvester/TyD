@@ -1,0 +1,19 @@
+﻿//Example: "Das Kochen mit ..."
+Karotten
+Zwiebeln
+Steckrüben
+Flaschenkürbissen
+Kürbissen
+Blumenkohlen
+Paprikas
+Pfeffer
+Pilzen
+Erbsen
+Artischocken
+Auberginen
+Linsen
+Weißkohlen
+Rüben
+Maiskolben
+Süßkartoffeln
+Zucchinis

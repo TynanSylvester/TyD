@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burned carpet -->
+  <BurnedCarpet.label>Verbrannter Teppich</BurnedCarpet.label>
+  <!-- EN: Burned-out carpet. -->
+  <BurnedCarpet.description>Ein ausgebrannter Teppichboden.</BurnedCarpet.description>
+  
+  <!-- EN: burned wood floor -->
+  <BurnedWoodPlankFloor.label>Verbrannter Holzboden</BurnedWoodPlankFloor.label>
+  <!-- EN: Burned-out wood plank flooring. -->
+  <BurnedWoodPlankFloor.description>Ein ausgebrannter Holzfußboden.</BurnedWoodPlankFloor.description>
+  
+</LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human -->
+  <Human.label>Mensch</Human.label>
+  <!-- EN: left lung -->
+  <Human.corePart.parts.left_lung.customLabel>Linke Lunge</Human.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <Human.corePart.parts.right_lung.customLabel>Rechte Lunge</Human.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <Human.corePart.parts.left_kidney.customLabel>Linke Niere</Human.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <Human.corePart.parts.right_kidney.customLabel>Rechte Niere</Human.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>Linkes Auge</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>Rechtes Auge</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>Linkes Ohr</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>Rechtes Ohr</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <Human.corePart.parts.left_shoulder.customLabel>Linke Schulter</Human.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>Linkes Schlüsselbein</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>Linker Arm</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>Linker Oberarmknochen</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>Linke Speiche</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>Linke Hand</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: left pinky -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>Linker kleiner Finger</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <!-- EN: left ring finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>Linker Ringfinger</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <!-- EN: left middle finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>Linker Mittelfinger</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <!-- EN: left index finger -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>Linker Zeigefinger</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <!-- EN: left thumb -->
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>Linker Daumen</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <!-- EN: right shoulder -->
+  <Human.corePart.parts.right_shoulder.customLabel>Rechte Schulter</Human.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>Rechtes Schlüsselbein</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>Rechter Arm</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>Rechter Oberarmknochen</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>Rechte Speiche</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>Rechte Hand</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: right pinky -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>Rechter kleiner Finger</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <!-- EN: right ring finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>Rechter Ringfinger</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <!-- EN: right middle finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>Rechter Mittelfinger</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <!-- EN: right index finger -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>Rechter Zeigefinger</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <!-- EN: right thumb -->
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>Rechter Daumen</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <!-- EN: left leg -->
+  <Human.corePart.parts.left_leg.customLabel>Linkes Bein</Human.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>Linker Oberschenkel</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>Linkes Schienbein</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>Linker Fuß</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: left little toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>Linker kleiner Zeh</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <!-- EN: left fourth toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>Linker Ringzeh</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <!-- EN: left middle toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>Linker Mittelzeh</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <!-- EN: left second toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>Linker Zeigezeh</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <!-- EN: left big toe -->
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>Linker Großer Zeh</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <!-- EN: right leg -->
+  <Human.corePart.parts.right_leg.customLabel>Rechtes Bein</Human.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>Rechter Oberschenkel</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>Rechtes Schienbein</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>Rechter Fuß</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <!-- EN: right little toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>Rechter kleiner Zeh</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <!-- EN: right fourth toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>Rechter Ringzeh</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <!-- EN: right middle toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>Rechter Mittelzeh</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <!-- EN: right second toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>Rechter Zeigezeh</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <!-- EN: right big toe -->
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>Rechter Großer Zeh</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  
+</LanguageData>

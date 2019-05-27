@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcohol withdrawal -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>Alkoholentzug</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Fühle mich zittrig. Alles kotzt mich an. Ich muss ständig ans Trinken denken.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
+  
+  <!-- EN: mild hangover -->
+  <Hungover.stages.mild_hangover.label>leichter Kater</Hungover.stages.mild_hangover.label>
+  <!-- EN: The headache is almost gone. -->
+  <Hungover.stages.mild_hangover.description>Die Kopfschmerzen sind fast vorbei.</Hungover.stages.mild_hangover.description>
+  <!-- EN: serious hangover -->
+  <Hungover.stages.serious_hangover.label>starker Kater</Hungover.stages.serious_hangover.label>
+  <!-- EN: My head hurts from all that liquor. -->
+  <Hungover.stages.serious_hangover.description>Mein Kopf schmerzt durch ganzen Alkohol.</Hungover.stages.serious_hangover.description>
+  <!-- EN: pounding hangover -->
+  <Hungover.stages.pounding_hangover.label>stark klopfender Kater</Hungover.stages.pounding_hangover.label>
+  <!-- EN: It feels like a gaggle of geese are pecking at my skull. -->
+  <Hungover.stages.pounding_hangover.description>Es fühlt sich an, als würde eine Schar Gänse schnatternd in meinem Kopf herum picken.</Hungover.stages.pounding_hangover.description>
+  <!-- EN: hung over (hidden) -->
+  <Hungover.stages.hung_over_hidden.label>Kater</Hungover.stages.hung_over_hidden.label>
+  <Hungover.stages.hung_over_hidden.description>Sollte nicht sichtbar sein.</Hungover.stages.hung_over_hidden.description>
+  
+  <!-- EN: alcohol warmth -->
+  <Inebriated.stages.alcohol_warmth.label>alkoholisiert warm</Inebriated.stages.alcohol_warmth.label>
+  <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+  <Inebriated.stages.alcohol_warmth.description>Nach dem Getränk fühle ich mich ein wenig unbeschwerter. Das ist gut.</Inebriated.stages.alcohol_warmth.description>
+  <!-- EN: quite inebriated -->
+  <Inebriated.stages.quite_inebriated.label>gut angeheitert</Inebriated.stages.quite_inebriated.label>
+  <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+  <Inebriated.stages.quite_inebriated.description>Ich bin ein bisschen wackelig auf den Beinen. Wow, das ist richtig spaßig!</Inebriated.stages.quite_inebriated.description>
+  <!-- EN: drunk -->
+  <Inebriated.stages.drunk.label>betrunken</Inebriated.stages.drunk.label>
+  <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+  <Inebriated.stages.drunk.description>Ich fühle mich so frei und unbeschwert! Ich habe einen Riesenspaß!</Inebriated.stages.drunk.description>
+  <!-- EN: hammered -->
+  <Inebriated.stages.hammered.label>sturzbetrunken</Inebriated.stages.hammered.label>
+  <!-- EN: Wooo! What's going on? -->
+  <Inebriated.stages.hammered.description>Wohoo! Mir wird schlecht... Was passiert gerade? ...</Inebriated.stages.hammered.description>
+  
+</LanguageData>

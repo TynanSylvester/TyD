@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ship structural beam -->
+  <Ship_Beam.label>Raumschiff Träger</Ship_Beam.label>
+  <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
+  <Ship_Beam.description>Das strukturell tragende Bauteil eines Sternenschiffes an das alle weiteren Teile angefügt werden. Hier drinnen befinden sich alle notwendigen Leitungen und Rohre für den Daten- und Materialtransport zwischen den einzelnen Segmenten.</Ship_Beam.description>
+  
+  <!-- EN: ship computer core -->
+  <Ship_ComputerCore.label>Raumschiff Computer Kern</Ship_ComputerCore.label>
+  <!-- EN: A computer core housing an AI persona who can guide a starship through any challenge during a multi-decade starflight. -->
+  <Ship_ComputerCore.description>Ein Computer-Kern mit einer KI Persona, die das Sternenschiff durch alle Widrigkeiten des jahrzehntelangen Fluges steuern kann.</Ship_ComputerCore.description>
+  
+  <!-- EN: ship cryptosleep casket -->
+  <Ship_CryptosleepCasket.label>Raumschiff Kryptokapsel</Ship_CryptosleepCasket.label>
+  <!-- EN: A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries and surviving atmospheric re-entry. -->
+  <Ship_CryptosleepCasket.description>Eine Kryptoschlafkapsel, die gegen die Widrigkeiten des Raumfluges schützt. Sie kann eine Person im Kryptoschlaf über Jahrhunderte hinweg versorgen und übersteht sogar einen Atmosphären-Wiedereintritt.</Ship_CryptosleepCasket.description>
+  
+  <!-- EN: ship engine -->
+  <Ship_Engine.label>Raumschiff Triebwerk</Ship_Engine.label>
+  <!-- EN: A reactionless Johnson-Tanaka drive capable of launching a ship into orbit, and crawling across the vast expanses between stars. -->
+  <Ship_Engine.description>Ein reaktionsfreies Johnson-Tanaka Triebwerk, welches in der Lage ist, ein Sternenschiff in den Orbit und auf eine interstellare Route zu bringen.</Ship_Engine.description>
+  
+  <!-- EN: ship reactor -->
+  <Ship_Reactor.label>Raumschiff Reaktor</Ship_Reactor.label>
+  <!-- EN: Powers a ship on its journey between stars. Takeoff requires a long powerup process that is likely to attract raiders. -->
+  <Ship_Reactor.description>Erzeugt die Energie, welche das Sternenschiff für seinen Flug durch den Weltraum benötigt. Der Take-Off benötigt eine lange Zeit zum Hochfahren, während dessen sehr wahrscheinlich Räuber angelockt werden.</Ship_Reactor.description>
+  
+  <!-- EN: sensor cluster -->
+  <Ship_SensorCluster.label>Raumschiff Sensoren</Ship_SensorCluster.label>
+  <!-- EN: A multi-function sensor module. Can scan and signal across the void for communications, threat detection, deception, jamming, and other purposes. -->
+  <Ship_SensorCluster.description>Ein multifunktionales Sensor-Modul, mit dem das All nach Gefahren und Möglichkeiten abgesucht werden kann. Brauchbar für die Kommunikation, Gefahrenerkennung, Täuschung, Signal Blockade und viele andere Zwecke.</Ship_SensorCluster.description>
+  
+</LanguageData>

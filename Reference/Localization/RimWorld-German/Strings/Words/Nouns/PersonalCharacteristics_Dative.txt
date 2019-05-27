@@ -1,0 +1,93 @@
+﻿//Example: "Zeigte Interesse an ... von"
+der Kleidung
+der Kleidungswahl
+der Mode
+der Eleganz
+
+der Erscheinung
+der Größe
+den Maßen
+den Haaren
+der Frisur
+der Gesichtsbehaarung
+der Beinbehaarung
+der Gesichtsform
+den Augen
+der Nase
+den Ohren
+der Stirn
+den Händen
+der Körperhaltung
+den Muskeln
+
+der Stimme
+der Sprache
+dem Akzent
+
+der Fernkampffähigkeit
+der Nahkampffähigkeit
+den sozialen Fähigkeiten
+der Gärtnerfähigkeit
+den medizinischen Fähigkeiten
+der Tierfähigkeit
+der Kochfähigkeit
+der Konstruktionsfähigkeit
+der Abbaufähigkeit
+der Kunstfähigkeit
+der Bastelfähigkeit
+den intellektuellen Fähigkeiten
+
+den Kenntnissen
+den Fähigkeiten
+der Intelligenz
+der Gehirnleistung
+der emotionalen Stabilität
+der Selbstbeherrschung
+der Nützlichkeit
+der Art zu Gehen
+der Art zu Denken
+den Kampfmethoden
+der Lernfähigkeit
+den Essgewohnheiten
+der Lieblingsspeise
+dem Alter
+der Kostbarkeit als Mensch
+der Disziplin
+der Gewissenhaftigkeit
+der Ehre
+der Ehrlichkeit
+der Tapferkeit
+den Ansichten
+den Glaubensinhalten
+den Ideen
+den Hoffnungen und Träumen
+den Zielen
+den persönlichen Gewohnheiten
+der persönlichen Hygiene
+der Ausdauer
+der Persönlichkeit
+der Klasse
+der Kultur
+den Hobbys
+der Pünktlichkeit
+der Großzügigkeit
+der Tapferkeit
+der Loyalität
+der Freundlichkeit
+der Redegewandtheit
+der Toleranz
+der charmanten Art
+der Aufrichtigkeit
+der Aufgeschlossenheit
+der Reizbarkeit
+der Leichtgläubigkeit
+der Hochnäsigkeit
+
+der Herkunft
+den Eltern
+den Großeltern
+den Freunden
+der Familie
+den Familien-Hintergründen
+den Liebesbeziehungen
+

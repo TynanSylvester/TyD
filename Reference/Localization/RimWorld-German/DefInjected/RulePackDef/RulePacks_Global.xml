@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>Bodypart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  -->
+  <GlobalUtility.rulePack.rulesFiles>
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>VegetableSingular->Words/Nouns/Vegetables_Singular</li>
+    <li>VegetableSingularFem->Words/Nouns/Vegetables_Singular_Feminine</li>
+    <li>VegetableSingularMas->Words/Nouns/Vegetables_Singular_Masculine</li>
+    <li>VegetablePlural->Words/Nouns/Vegetables_Plural</li>
+    <li>VegetablePluralDat->Words/Nouns/Vegetables_Plural_Dative</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalSingular->Words/Nouns/Animals_Singular</li>
+    <li>AnimalSingularFem->Words/Nouns/Animals_Singular_Feminine</li>
+    <li>AnimalSingularMas->Words/Nouns/Animals_Singular_Masculine</li>
+    <li>AnimalSingularNeu->Words/Nouns/Animals_Singular_Neuter</li>
+    <li>AnimalPlural->Words/Nouns/Animals_Plural</li>
+    <li>AnimalPluralDat->Words/Nouns/Animals_Plural_Dative</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalBadassSingular->Words/Nouns/Animals_Badass_Singular</li>
+    <li>AnimalBadassSingularFem->Words/Nouns/Animals_Badass_Singular_Feminine</li>
+    <li>AnimalBadassSingularMas->Words/Nouns/Animals_Badass_Singular_Masculine</li>
+    <li>AnimalBadassSingularNeu->Words/Nouns/Animals_Badass_Singular_Neuter</li>
+    <li>AnimalBadassPlural->Words/Nouns/Animals_Badass_Plural</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>WeaponSingularFem->Words/Nouns/Weapons_Singular_Feminine</li>
+    <li>WeaponSingularMas->Words/Nouns/Weapons_Singular_Masculine</li>
+    <li>WeaponSingularNeu->Words/Nouns/Weapons_Singular_Neuter</li>
+    <li>WeaponCon->Words/Nouns/Weapons_Connection</li>
+    <li>WeaponPlural->Words/Nouns/Weapons_Plural</li>
+    <li>WeaponPluralDat->Words/Nouns/Weapons_Plural_Dative</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>TerrainFeatureFem->Words/Nouns/TerrainFeatures_Feminine</li>
+    <li>TerrainFeatureMas->Words/Nouns/TerrainFeatures_Masculine</li>
+    <li>TerrainFeatureNeu->Words/Nouns/TerrainFeatures_Neuter</li>
+    <li>TerrainFeatureCon->Words/Nouns/TerrainFeatures_Connection</li>
+    <li>TerrainFeaturePlural->Words/Nouns/TerrainFeatures_Plural</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonJobGen->Words/Nouns/People_Jobs_Genitive</li>
+    <li>PersonJobPlural->Words/Nouns/People_Jobs_Plural</li>
+    <li>PersonJobPluralDat->Words/Nouns/People_Jobs_Plural_Dative</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonFamilyFem->Words/Nouns/People_Family_Feminine</li>
+    <li>PersonFamilyMas->Words/Nouns/People_Family_Masculine</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>PersonBadassPlural->Words/Nouns/People_Badass_Plural</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>EnemySingular->Words/Nouns/Enemies_Singular</li>
+    <li>EnemySingularDat->Words/Nouns/Enemies_Singular_Dative</li>
+    <li>EnemyPlural->Words/Nouns/Enemies_Plural</li>
+    <li>EnemyPluralDat->Words/Nouns/Enemies_Plural_Dative</li>
+    <li>EnemyPluralWithoutThe->Words/Nouns/Enemies_Plural_without_the</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>ApparelSingularFem->Words/Nouns/Apparel_Singular_Feminine</li>
+    <li>ApparelSingularMas->Words/Nouns/Apparel_Singular_Masculine</li>
+    <li>ApparelSingularNeu->Words/Nouns/Apparel_Singular_Neuter</li>
+    <li>ApparelPlural->Words/Nouns/Apparel_Plural</li>
+    <li>ApparelPluralDat->Words/Nouns/Apparel_Plural_Dative</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>GoreSingularNeu->Words/Nouns/Gore_Singular_Neuter</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>MechanoidPlural->Words/Nouns/Mechanoid_Plural</li>
+    <li>MechanoidPluralDat->Words/Nouns/Mechanoid_Plural_Dative</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>Bodypart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <li>PersonalCharacteristicDatPossessive->Words/Nouns/PersonalCharacteristics_Dative_Possessive</li>
+    <li>PersonalCharacteristicDat->Words/Nouns/PersonalCharacteristics_Dative</li>
+    <li>TalkTopicLightAcc->Words/Nouns/TalkTopics_Light_Accusative</li>
+    <li>talktopicheavyfileDat->Words/Nouns/TalkTopics_Heavy_Dative</li>
+    <li>talktopicheavyfileAcc->Words/Nouns/TalkTopics_Heavy_Accusative</li>
+  </GlobalUtility.rulePack.rulesFiles>
+  <!-- EN:
+    <li>Trans->of</li>
+    <li>Trans->for</li>
+    <li>Trans->by</li>
+    <li>Trans->with</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase->two</li>
+    <li>Quantity_adjphrase->three</li>
+    <li>Quantity_adjphrase->four</li>
+    <li>Quantity_adjphrase->five</li>
+    <li>Quantity_adjphrase->six</li>
+    <li>Quantity_adjphrase->seven</li>
+    <li>Quantity_adjphrase->eight</li>
+    <li>Quantity_adjphrase->nine</li>
+    <li>Quantity_adjphrase->ten</li>
+    <li>Quantity_adjphrase->several</li>
+    <li>Quantity_adjphrase->a group of</li>
+    <li>Quantity_adjphrase->a large group of</li>
+    <li>Quantity_adjphrase->dozens of</li>
+    <li>Quantity_adjphrase->hundreds of</li>
+    <li>Quantity_adjphrase->a thousand</li>
+    <li>Quantity_adjphrase->thousands of</li>
+    <li>Shape->triangle</li>
+    <li>Shape->square</li>
+    <li>Shape->rectangle</li>
+    <li>Shape->cone</li>
+    <li>Shape->line</li>
+    <li>Shape->heart</li>
+    <li>Shape->star</li>
+    <li>Shape->circle</li>
+    <li>Shape->ellipse</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitals</li>
+    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
+    <li>PersonalCharacteristic(p=0.15)->body hair</li>
+    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
+    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
+  -->
+  <GlobalUtility.rulePack.rulesStrings>
+    <li>Trans->aus</li>
+    <li>Trans->für</li>
+    <li>Trans->von</li>
+    <li>Trans->mit</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>CharacterPlural(p=6)->[PersonJobPlural]</li>
+    <li>CharacterPlural(p=4)->[AnimalPlural]</li>
+    <li>CharacterPlural(p=3)->[EnemyPluralWithoutThe]</li>
+    <li>CharacterPlural->[MechanoidPlural]</li>
+    <li>CharacterPluralDat(p=6)->[PersonJobPluralDat]</li>
+    <li>CharacterPluralDat(p=4)->[AnimalPluralDat]</li>
+    <li>CharacterPluralDat(p=3)->[EnemyPluralDat]</li>
+    <li>CharacterPluralDat->[MechanoidPluralDat]</li>
+    <li>Quantity_adjphrase->zwei</li>
+    <li>Quantity_adjphrase->drei</li>
+    <li>Quantity_adjphrase->vier</li>
+    <li>Quantity_adjphrase->fünf</li>
+    <li>Quantity_adjphrase->sechs</li>
+    <li>Quantity_adjphrase->sieben</li>
+    <li>Quantity_adjphrase->acht</li>
+    <li>Quantity_adjphrase->neun</li>
+    <li>Quantity_adjphrase->zehn</li>
+    <li>Quantity_adjphrase->einige</li>
+    <li>Quantity_adjphrase->mehrere</li>
+    <li>Quantity_adjphrase->viele</li>
+    <li>Quantity_adjphrase->dutzende</li>
+    <li>Quantity_adjphrase->hunderte</li>
+    <li>Quantity_adjphrase->tausend</li>
+    <li>Quantity_adjphrase->tausende</li>
+    <li>Quantity_adjphrase_Dat->zwei</li>
+    <li>Quantity_adjphrase_Dat->drei</li>
+    <li>Quantity_adjphrase_Dat->vier</li>
+    <li>Quantity_adjphrase_Dat->fünf</li>
+    <li>Quantity_adjphrase_Dat->sechs</li>
+    <li>Quantity_adjphrase_Dat->sieben</li>
+    <li>Quantity_adjphrase_Dat->acht</li>
+    <li>Quantity_adjphrase_Dat->neun</li>
+    <li>Quantity_adjphrase_Dat->zehn</li>
+    <li>Quantity_adjphrase_Dat->einigen</li>
+    <li>Quantity_adjphrase_Dat->mehreren</li>
+    <li>Quantity_adjphrase_Dat->vielen</li>
+    <li>Quantity_adjphrase_Dat->dutzenden von</li>
+    <li>Quantity_adjphrase_Dat->hunderten von</li>
+    <li>Quantity_adjphrase_Dat->tausend</li>
+    <li>Quantity_adjphrase_Dat->tausenden von</li>
+    <li>ShapeMas->Dreieck</li>
+    <li>ShapeMas->Quadrat</li>
+    <li>ShapeMas->Rechteck</li>
+    <li>ShapeMas->Kegel</li>
+    <li>ShapeFem->Linie</li>
+    <li>ShapeMas->Herz</li>
+    <li>ShapeMas->Stern</li>
+    <li>ShapeMas->Kreis</li>
+    <li>ShapeFem->Ellipse</li>
+    <li>ShapePluralDat->Dreiecken</li>
+    <li>ShapePluralDat->Quadraten</li>
+    <li>ShapePluralDat->Rechtecken</li>
+    <li>ShapePluralDat->Kegeln</li>
+    <li>ShapePluralDat->Linien</li>
+    <li>ShapePluralDat->Herzen</li>
+    <li>ShapePluralDat->Sternen</li>
+    <li>ShapePluralDat->Kreisen</li>
+    <li>ShapePluralDat->Ellipsen</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->Geschlechtsteil</li>
+    <li>PersonalCharacteristic(p=0.15)->Schambehaarung</li>
+    <li>PersonalCharacteristic(p=0.15)->Körperbehaarung</li>
+    <li>PersonalCharacteristic(p=0.15)->Toilettengewohnheiten</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuelle Fähigkeiten</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuelle Vorlieben</li>
+    <li>PersonalCharacteristic(p=0.15)->sexuelle Erfahrung</li>
+  </GlobalUtility.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[Vegetable]s</li>
+    <li>TalkTopicLight->eating [Vegetable]s</li>
+    <li>TalkTopicLight->cooking with [Vegetable]s</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->playing [Game]</li>
+    <li>TalkTopicLight->practicing [Game]</li>
+    <li>TalkTopicLight->learning [Game]</li>
+    <li>TalkTopicLight->[Animal]s</li>
+    <li>TalkTopicLight->training [Animal]s</li>
+    <li>TalkTopicLight->taming [Animal]s</li>
+    <li>TalkTopicLight->fighting [Animal]s</li>
+    <li>TalkTopicLight->crazy [Animal]s</li>
+    <li>TalkTopicLight->[Weapon]s</li>
+    <li>TalkTopicLight->using [Weapon]s</li>
+    <li>TalkTopicLight->practicing with [Weapon]s</li>
+    <li>TalkTopicLight->[TerrainFeature]s</li>
+    <li>TalkTopicLight->[NaturalObject]s</li>
+    <li>TalkTopicLight->[TreeType] trees</li>
+    <li>TalkTopicLight->[PersonJob]s</li>
+    <li>TalkTopicLight->friendly [PersonJob]s</li>
+    <li>TalkTopicLight->hostile [PersonJob]s</li>
+    <li>TalkTopicLight->[Enemy]s</li>
+    <li>TalkTopicLight->fighting [Enemy]s</li>
+    <li>TalkTopicLight->[Apparel]s</li>
+    <li>TalkTopicLight->wearing [Apparel]s</li>
+    <li>TalkTopicLight->making [Apparel]s</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seduction</li>
+    <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
+    <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+  -->
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->Verbindungen zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicHeavy(p=0.08)->Zusammenhänge zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicHeavy(p=0.08)->Bezüge zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicAnyAcc->[TalkTopicLightAcc]</li>
+    <li>TalkTopicAnyAcc->[TalkTopicHeavyAcc]</li>
+    <li>TalkTopicHeavyAcc->[talktopicheavyfileAcc]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->die Verbindungen zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->die Zusammenhänge zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicHeavyAcc(p=0.08)->die Bezüge zwischen [talktopicheavyfileDat] und [talktopicheavyfileDat]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->[VegetablePlural]</li>
+    <li>TalkTopicLight->das Essen von [VegetablePluralDat]</li>
+    <li>TalkTopicLight->das Kochen mit [VegetablePluralDat]</li>
+    <li>TalkTopicLight->[Game]</li>
+    <li>TalkTopicLight->das Spielen von [Game]</li>
+    <li>TalkTopicLight->das Üben von [Game]</li>
+    <li>TalkTopicLight->das Lernen von [Game]</li>
+    <li>TalkTopicLight->[AnimalPlural]</li>
+    <li>TalkTopicLight->das Trainieren von [AnimalPluralDat]</li>
+    <li>TalkTopicLight->das Zähmen von [AnimalPluralDat]</li>
+    <li>TalkTopicLight->das Kämpfen mit [AnimalPluralDat]</li>
+    <li>TalkTopicLight->verrückte [AnimalPlural]</li>
+    <li>TalkTopicLight->[WeaponPlural]</li>
+    <li>TalkTopicLight->das Verwenden von [WeaponPluralDative]</li>
+    <li>TalkTopicLight->das Üben mit [WeaponPluralDative]</li>
+    <li>TalkTopicLight->[TerrainFeaturePlural]</li>
+    <li>TalkTopicLight->[NaturalObject]</li>
+    <li>TalkTopicLight->[TreeType]n</li>
+    <li>TalkTopicLight->[PersonJobPlural]</li>
+    <li>TalkTopicLight->freundliche [PersonJobPlural]</li>
+    <li>TalkTopicLight->feindliche [PersonJobPlural]</li>
+    <li>TalkTopicLight->[EnemyPluralWithoutThe]</li>
+    <li>TalkTopicLight->das Bekämpfen von [EnemyPluralDat]</li>
+    <li>TalkTopicLight->[ApparelPlural]</li>
+    <li>TalkTopicLight->das Tragen von [ApparelPluralDat]</li>
+    <li>TalkTopicLight->die Herstellung von [ApparelPluralDat]</li>
+    <li>talktopicheavyfile(p=0.15)->Sex</li>
+    <li>talktopicheavyfile(p=0.15)->Verführung</li>
+    <li>talktopicheavyfile(p=0.15)->tierische Sexualität</li>
+    <li>talktopicheavyfile(p=0.15)->sexuelle Fetische</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
+</LanguageData>

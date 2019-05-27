@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grand sculpture -->
+  <SculptureGrand.label>Skulptur (gewaltig)</SculptureGrand.label>
+  <!-- EN: A huge sculpture sized to dominate a room. -->
+  <SculptureGrand.description>Ein riesiges Kunstwerk, dass einen ganzen Raum dominiert.</SculptureGrand.description>
+  
+  <!-- EN: large sculpture -->
+  <SculptureLarge.label>Skulptur (groß)</SculptureLarge.label>
+  <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
+  <SculptureLarge.description>Ein menschengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureLarge.description>
+  
+  <!-- EN: small sculpture -->
+  <SculptureSmall.label>Skulptur (klein)</SculptureSmall.label>
+  <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
+  <SculptureSmall.description>Ein büstengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureSmall.description>
+  
+  <!-- EN: snowman -->
+  <Snowman.label>Schneemann</Snowman.label>
+  <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
+  <Snowman.description>Zwei bis drei aufeinander gestellte Schneekugeln wurden so geformt, dass sie eine Person darstellen. Sie werden zum Spaß aufgebaut.</Snowman.description>
+  
+</LanguageData>

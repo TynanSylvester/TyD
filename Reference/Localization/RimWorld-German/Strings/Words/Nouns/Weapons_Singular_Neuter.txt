@@ -1,0 +1,9 @@
+﻿//Example: "Das ..."
+Messer
+Schwert
+Krummschwert
+Bajonett
+Beil
+Gewehr
+Schrotgewehr
+Karambit

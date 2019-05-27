@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>Aussehen</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Das Aussehen gibt an, wie die unmittelbare Umgebung in der letzten Zeit empfunden wird. Schöne Gegenstände, wie z.B. Kunst erhöhen diesen Wert wenn sie betrachtet werden, während hässliche Sachen, wie Schmutz und rauhe Steinoberflächen ihn verringern.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>Komfort</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>Der Komfort erhöht sich beim Sitzen oder Schlafen auf bequemen Möbeln. Dies erhöht sich, während man im Bett liegt, beim Sitzen während der Arbeit oder auch zu anderen Gelegenheiten.</Comfort.description>
+  
+  <!-- EN: food -->
+  <Food.label>Nahrung</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Die Nahrung gibt an, wie nahrhaft die letzten Mahlzeiten waren. Wenn sie auf null sinkt, nimmt der Körper Schaden durch Verhungern und führt auch zum Tod.</Food.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>Entspannung</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Entspannung stellt die Notwendigkeit dar, ab und zu die Arbeit ruhen zu lassen und Spaß zu haben. Die Wiederholung von Aktivitäten gleicher Art reduziert die Effektivität, weswegen Du darauf achten solltest, verschiedene Arten von Entspannungsmöglichkeiten bereitzustellen.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>Stimmung</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
+  <Mood.description>Die Stimmung zeigt an, wie glücklich oder gestresst jemand ist. Wenn sie zu tief sinkt, kann die Person einen Nervenzusammenbruch erleiden. Abhängig davon, wie niedrig die Stimmung ist, versteckt sie sich für einen Tag in ihrem Zimmer oder verfällt in einen Blutrausch.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>Natur</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Natur gibt den Wunsch an, draußen im Freien zu sein. Der Wert verringert sich, wenn man über längere Zeit drinnen, oder besonders auch im Untergrund ist. Er erhöht sich, wenn man Zeit im Freien, besonders außerhalb der Mauern, ist. Hierbei geht es nicht um die Raumgröße, sondern um den Wunsch, von Zeit zu Zeit mal draußen zu sein. Der Mangel an Zeit im Freien ist eine besondere Herausforderung für Leute, die in Untergrund Basen leben.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>Ruhe</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Ruhe gibt an, ob ausreichend Zeit für Schlaf gefunden werden konnte. Wenn der Wert auf null geht, wird die Kreatur an Ort und Stelle einschlafen.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>Raumgröße</RoomSize.label>
+  <RoomSize.description>Die Raumgröße gibt an, wie zufrieden jemand mit der Größe des aktuellen Raumes ist.</RoomSize.description>
+  
+</LanguageData>

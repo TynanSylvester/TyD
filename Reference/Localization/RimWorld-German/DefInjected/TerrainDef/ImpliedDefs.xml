@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Rauer Granit -->
+  <Granite_Rough.label>Rauer Granit</Granite_Rough.label>
+  <!-- EN: Rauer, natürlicher Boden aus Granit. -->
+  <Granite_Rough.description>Rauer, natürlicher Boden aus Granit.</Granite_Rough.description>
+  
+  <!-- EN: Grob behauener Granit -->
+  <Granite_RoughHewn.label>Grob behauener Granit</Granite_RoughHewn.label>
+  <!-- EN: Grob geschnittener Boden aus Granit. -->
+  <Granite_RoughHewn.description>Grob geschnittener Boden aus Granit.</Granite_RoughHewn.description>
+  
+  <!-- EN: Glatter Granit -->
+  <Granite_Smooth.label>Glatter Granit</Granite_Smooth.label>
+  <!-- EN: Geglätteter, natürlicher Boden aus Granit. -->
+  <Granite_Smooth.description>Geglätteter, natürlicher Boden aus Granit.</Granite_Smooth.description>
+  
+  <!-- EN: Rauer Kalkstein -->
+  <Limestone_Rough.label>Rauer Kalkstein</Limestone_Rough.label>
+  <!-- EN: Rauer, natürlicher Boden aus Kalkstein. -->
+  <Limestone_Rough.description>Rauer, natürlicher Boden aus Kalkstein.</Limestone_Rough.description>
+  
+  <!-- EN: Grob behauener Kalkstein -->
+  <Limestone_RoughHewn.label>Grob behauener Kalkstein</Limestone_RoughHewn.label>
+  <!-- EN: Grob geschnittener Boden aus Kalkstein. -->
+  <Limestone_RoughHewn.description>Grob geschnittener Boden aus Kalkstein.</Limestone_RoughHewn.description>
+  
+  <!-- EN: Glatter Kalkstein -->
+  <Limestone_Smooth.label>Glatter Kalkstein</Limestone_Smooth.label>
+  <!-- EN: Geglätteter, natürlicher Boden aus Kalkstein. -->
+  <Limestone_Smooth.description>Geglätteter, natürlicher Boden aus Kalkstein.</Limestone_Smooth.description>
+  
+  <!-- EN: Rauer Marmor -->
+  <Marble_Rough.label>Rauer Marmor</Marble_Rough.label>
+  <!-- EN: Rauer, natürlicher Boden aus Marmor. -->
+  <Marble_Rough.description>Rauer, natürlicher Boden aus Marmor.</Marble_Rough.description>
+  
+  <!-- EN: Grob behauener Marmor -->
+  <Marble_RoughHewn.label>Grob behauener Marmor</Marble_RoughHewn.label>
+  <!-- EN: Grob geschnittener Boden aus Marmor. -->
+  <Marble_RoughHewn.description>Grob geschnittener Boden aus Marmor.</Marble_RoughHewn.description>
+  
+  <!-- EN: Glatter Marmor -->
+  <Marble_Smooth.label>Glatter Marmor</Marble_Smooth.label>
+  <!-- EN: Geglätteter, natürlicher Boden aus Marmor. -->
+  <Marble_Smooth.description>Geglätteter, natürlicher Boden aus Marmor.</Marble_Smooth.description>
+  
+  <!-- EN: Rauer Sandstein -->
+  <Sandstone_Rough.label>Rauer Sandstein</Sandstone_Rough.label>
+  <!-- EN: Rauer, natürlicher Boden aus Sandstein. -->
+  <Sandstone_Rough.description>Rauer, natürlicher Boden aus Sandstein.</Sandstone_Rough.description>
+  
+  <!-- EN: Grob behauener Sandstein -->
+  <Sandstone_RoughHewn.label>Grob behauener Sandstein</Sandstone_RoughHewn.label>
+  <!-- EN: Grob geschnittener Boden aus Sandstein. -->
+  <Sandstone_RoughHewn.description>Grob geschnittener Boden aus Sandstein.</Sandstone_RoughHewn.description>
+  
+  <!-- EN: Glatter Sandstein -->
+  <Sandstone_Smooth.label>Glatter Sandstein</Sandstone_Smooth.label>
+  <!-- EN: Geglätteter, natürlicher Boden aus Sandstein. -->
+  <Sandstone_Smooth.description>Geglätteter, natürlicher Boden aus Sandstein.</Sandstone_Smooth.description>
+  
+  <!-- EN: Rauer Schiefer -->
+  <Slate_Rough.label>Rauer Schiefer</Slate_Rough.label>
+  <!-- EN: Rauer, natürlicher Boden aus Schiefer. -->
+  <Slate_Rough.description>Rauer, natürlicher Boden aus Schiefer.</Slate_Rough.description>
+  
+  <!-- EN: Grob behauener Schiefer -->
+  <Slate_RoughHewn.label>Grob behauener Schiefer</Slate_RoughHewn.label>
+  <!-- EN: Grob geschnittener Boden aus Schiefer. -->
+  <Slate_RoughHewn.description>Grob geschnittener Boden aus Schiefer.</Slate_RoughHewn.description>
+  
+  <!-- EN: Glatter Schiefer -->
+  <Slate_Smooth.label>Glatter Schiefer</Slate_Smooth.label>
+  <!-- EN: Geglätteter, natürlicher Boden aus Schiefer. -->
+  <Slate_Smooth.description>Geglätteter, natürlicher Boden aus Schiefer.</Slate_Smooth.description>
+  
+</LanguageData>

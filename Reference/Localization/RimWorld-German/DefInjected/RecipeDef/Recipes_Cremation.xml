@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>Verbrenne Kleidung</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>Verbrenne nicht benötigte Kleidung, um sie zu entsorgen.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>Verbrennt Kleidung.</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>Drogen verbrennen</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>Verbrenne nicht benötigte Drogen, um sie zu vernichten.</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>Verbrennt Drogen.</BurnDrugs.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>Verbrenne Leiche</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>Verbrenne eine Leiche, um sie verschwinden zu lassen.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>Verbrennt Leiche.</CremateCorpse.jobString>
+  
+</LanguageData>

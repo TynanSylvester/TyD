@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bridgeable -->
+  <Bridgeable.label>überbrückbar</Bridgeable.label>
+  
+  <!-- EN: diggable -->
+  <Diggable.label>abbaubar</Diggable.label>
+  
+  <!-- EN: growable -->
+  <GrowSoil.label>anpflanzbar</GrowSoil.label>
+  
+  <!-- EN: heavy -->
+  <Heavy.label>schwer</Heavy.label>
+  
+  <!-- EN: light -->
+  <Light.label>leicht</Light.label>
+  
+  <!-- EN: medium -->
+  <Medium.label>medium</Medium.label>
+  
+  <!-- EN: moving water -->
+  <MovingFluid.label>bewegtes Wasser</MovingFluid.label>
+  
+  <!-- EN: shallow water -->
+  <ShallowWater.label>flaches Wasser</ShallowWater.label>
+  
+  <!-- EN: smoothable -->
+  <SmoothableStone.label>glättbar</SmoothableStone.label>
+  
+</LanguageData>

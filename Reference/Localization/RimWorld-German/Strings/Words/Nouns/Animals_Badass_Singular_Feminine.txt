@@ -1,0 +1,21 @@
+﻿//Example: "Die ..."
+Fledermaus
+Kobra
+Kakerlake
+Krabbe
+Krähe
+Libelle
+Hornisse
+Hyäne
+Heuschrecke
+Gottesanbeterin
+Eule
+Ratte
+Schlange
+Spinne
+Termite
+Kröte
+Forelle
+Schildkröte
+Viper
+Wespe

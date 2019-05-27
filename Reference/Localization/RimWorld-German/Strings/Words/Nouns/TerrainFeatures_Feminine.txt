@@ -1,0 +1,10 @@
+﻿//Example: "Die ..."
+Ebene
+Fläche
+Prärie
+Wüste
+Klippe
+Klamm
+Oase
+Höhle
+Lagune
