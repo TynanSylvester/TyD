@@ -22,33 +22,35 @@ The format for each patch is:
 
 ## Node paths
 
-A node path is a sequence of *path actions*, each of which moves the selection to a new node in some way relative to the currently selected node.
-
-There is always exactly one node selected. Initially, the selected node is the "invisible root", which is the anonymous, implied parent of all the root nodes.
+A node path is a sequence of *path actions*, each of which changes which nodes are selected. At any given step in the path, one or more nodes can be selected. Initially, the "invisible root" node is selected. This is the anonymous, implied table parent of all root nodes.
 
 The path actions are:
 
-* `/CHILDNAME`: Select the first child of the current node with a given name.
-* `@INDEX`: Select the child of the current node at index `INDEX`. If `INDEX` is negative, it counts backwards from the last child node; -1 is the last list element. `-0` is accepted as an index after the last child node and can be used for insertions operations. This works for both lists and tables.
-* `(GRANDCHILDNAME "VALUE")`: Select the first child of the current node which itself has a string child with the given name and value. Quotation marks are required around the value.
+* `/CHILDNAME`: From each selected node, select all children with a given name. This only works for tables.
+* `@INDEX`: From each selected node, select child at index `INDEX`. If `INDEX` is negative, it counts backwards from the last child node; -1 is the last list element. `-0` is accepted as an index after the last child node and can be used for insertions operations. This works for both lists and tables.
+* `/GRANDCHILDNAME="VALUE"`: From each selected node, select all children which themselves have a string child named `GRANDCHILDNAME` with value `VALUE`. Quotation marks are required around the value.
+* `:CHILDNAME="VALUE"`: Filter selected nodes down to those with a string child named `CHILDNAME` with value `VALUE`.
 
 ## Operations
 
-After you select a node using a path, you want to transform it somehow. These are the operations that can change the selected node.
+After you select a set of nodes, you want to transform it somehow. These are the operations that can change the selected node.
 
-* `> NEW_VALUE`: Replace the selected node's value with `NEW_VALUE`. This can change the new type.
-* `^ NEW_NODE`: Insert `NEW_NODE` before the selected node, as a child of its parent.
-* `~`: Delete selected node.
+* `> NEW_VALUE`: Replace all selected nodes' values with `NEW_VALUE`. Value can be a string, null, table, or list, so this operation can change the selected nodes to a new type of node.
+* `^ NEW_NODE`: Insert `NEW_NODE` before all selected nodes, as a child of its parent.
+* `~`: Delete selected nodes.
 
 ## Examples
 
-    # Select the node with a child node named "id" with value "Wheat" and replace its growSpeed
-    (id "Wheat")/growSpeed > 5
+    # Select all nodes named "PlantDef", and change their children named "flammability" to have a value of 0.85
+    /PlantDef/flammability > 0.85
 
-    # Select the second of the Goblin's attacks and change its label to "Crush face"
+    # Select all nodes named PlantDef with child string "id" of value "Wheat" and replace their "growSpeed" values
+    /PlantDef:id="Wheat"/growSpeed > 5
+
+    # Select the second of all Goblins' attacks and change their labels to "Crush face"
     /Goblin/attacks@2/label > "Crush face"
 
-    # Select whichever of the Goblin's attacks has the label "Facecrush" and change its label to "Crush face"
+    # Select any of any Goblins' attacks which have the label "Facecrush", and change their labels to "Crush face"
     /Goblin/attacks(label "Facecrush")/label > "Crush face"
 
     /Goblin/attacks@0  ^ {...}  # Insert new node before index 0 (the first entry)
@@ -59,27 +61,54 @@ After you select a node using a path, you want to transform it somehow. These ar
 
 ## Scope stack
 
-You don't need to write the full path to each node you want to patch, if you use scope.
+Sometimes you want to patch many nodes with similar paths. A naive implementation of this can mean writing much of the same path over and over. Imagine we're writing a mod that partly redesigns one of the abilities of a particular enemy:
 
-All node paths are interpreted as starting at the top node of the current *scope stack*. At start, the scope stack is empty, so the invisible root is used.
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/label > "Bolt of shadows"
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/radius > 5
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/damage > 25
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/castTime > 16
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/cooldown > 8
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/friendlyFire > false
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"/secondaryEffects:type="Explosion"/visualEffect > DarkBlast
 
-These path actions interact with scope:
+The above is cumbersome to read and probably slow to parse. To solve this problem, TyD has a system called *scope*. Using scope, the above can be written as:
 
-* `{`: Push the selected table onto the scope stack. (If the selected node isn't a table, raise an error.)
-* `}`: Pop a table off the scope stack. (If the top node of the stack isn't a table, raise an error.)
-* `[`: Push the selected list onto the scope stack. (If the selected node isn't a list, raise an error.)
-* `]`: Pop a list off the scope stack. (If the top node of the stack isn't a list, raise an error.)
+    /Goblin:id="ShamanLord"/abilities/attacks:label="ShadowBolt"
+    {
+        /label       > "Bolt of shadows"
+
+        /secondaryEffects:type="Explosion"
+        {
+            /radius          > 5
+            /damage          > 25
+            /castTime        > 16
+            /cooldown        > 8
+            /friendlyFire    > false
+            /visualEffect    > DarkBlast
+        }
+    }
+
+All node paths are interpreted as starting at the top node of the current *scope stack*. When the scope stack is empty, the invisible root is used as its top.
+
+Note that since multiple nodes can be selected at once, each entry in the scope stack represents a group of nodes.
+
+These scope actions modify the scope stack:
+
+* `{`: Push the selected tables onto the scope stack. (If any selected node isn't a table, raise an error.)
+* `}`: Pop a table group off the scope stack into the selection. (If the top of the stack isn't tables, raise an error.)
+* `[`: Push the selected lists onto the scope stack. (If any selected node isn't a list, raise an error.)
+* `]`: Pop a list group off the scope stack into the selection. (If the top node of the stack isn't lists, raise an error.)
 
 ## Examples
 
-    # Enter the first root node with a child of name 'id' and value 'Wheat'
-    (id "Wheat")
+    # Scope into the root nodes named PlantDef with a child of name 'id' and value 'Wheat'
+    /PlantDef:id="Wheat"
     {
-        # Replace two of the values of its named children
+        # Replace two of the values of named children
         /growSpeed > 5
         /minFerility > 3
 
-        # Replace the first three entries of its first child list named 'soilTypes'
+        # Replace the first three entries of its child list named 'soilTypes'
         /soilTypes
         [
             @0 > SandySoil
@@ -88,10 +117,18 @@ These path actions interact with scope:
         ]
     }
 
-    # Enter the first node named 'Goblin'
+    # Scope into all root nodes named TerrainDef
+    /TerrainDef
+    {
+        #Modify two specific TerrainDef nodes, by filtering each one separately according to "id"
+        :id="Soil"/fertility  > 8
+        :id="Marsh"/fertility > 4
+    }
+
+    # Scope into nodes named 'Goblin'
     /Goblin
     {
-        # Enter the first node named 'attacks'
+        # Scope into nodes named 'attacks'
         /attacks
         [
             # This new value will be inserted as the new first entry
@@ -122,7 +159,7 @@ These path actions interact with scope:
 
 An realistic example of what localization might look like. This would probably be in a non-English language for a game with its primary language in English, but a developer could choose to put their English language data in patches separate from the gameplay data as well.
 
-    (id "PirateBand")
+    /FactionDef:id="PirateBand"
     {
         /label          > "Pirate band"
         /description    > "An evil pirate band."
@@ -155,13 +192,15 @@ The below is legal but you don't want to do it in localization! Here we replace 
 
 ## Discussion
 
-You can freely mix patches and declarations in the same file.
-
-The parser can distinguish patches from data because patch paths must start with a pathaction, and all pathactions start with characters that are illegal as TyD node names. So, the TyD parser can easily know, from the first character, when it's reading a patch instead of data. This'll make parsing faster.
+You can freely mix patches and declarations in the same file. The parser can distinguish patches from data because patch paths must start with a path action, and all path actions start with characters that are illegal as TyD node names. So, the TyD parser can easily know, from the first character, when it's reading a patch instead of data. This'll make parsing faster.
 
 ## Ideas
 
 ### Ideas - General
+
+* `:CHILDNAME="VALUE"`: May be better to do this as `:/CHILDNAME="VALUE"`, and also allow other structures like `:@2="VALUE"`. This means `:` is more of a generalized "filter" operator that can be followed by all manner of tests, and the tests themselves use the same path syntax as anywhere else. We can also use operators like `|` and `&` and so on, parent addressors like `..`, tests besides `=` like `>` and `<` and `!=`, etc.
+
+* If I do the above, I may also want to change `@2` to `/@2`, where `@2` is a stand-in for node name, and `/` is a generalized "select into" operator that selects children of current selection based on some filter. So all path actions thus start as either `/` select from children, or `:` select from current selection. One could even imagine these operators by themselves, such that `/` just means 'select all children', so the current `/` would have to be replaced by `/:` - 'select all children, then filter them'. That has a nice purity to it, but it's a bit verbose.
 
 * Mixed data and patch: It would be great if patch and data syntax could be totally unified, so that the data syntax actually means "Add these records in this order and structure", and can be re-used as part of patching as desired. This also automatically supports things like "dotted paths" in data records. E.g if you just want `Goblin{attackDamage 7}` you can just write `Goblin.attackDamage 7'. TOML has a similar feature. This basically would just mean replacing the ^ insert operator with nothing at all.
 
@@ -169,11 +208,9 @@ The parser can distinguish patches from data because patch paths must start with
 
 * A way to enforce localization patches to only be able to modify certain data. This may have to happen outside TyD itself since it depends on context knowledge from the game.
 
-* Make a *patches<> context marker to mark patches. Anything that appears in between the <> angle brackets is parsed as a patch. This is a bit simpler than parsing every record individually, though it makes mixed data and patch impossible.
-
 ### Ideas on scoped patches
 
-* Add an optional `?` character at the end of the path, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
+* Add an optional `?` character to operators, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
 
 * Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone.
 
@@ -188,7 +225,7 @@ The parser can distinguish patches from data because patch paths must start with
     (*handle value)     Select a node by its handle
     PawnKind(*handle GoblinBase).speed > 25    # Replace a value in a def based on its handle
 
-* Allow un-quoted strings in the `(NAME VALUE)` path action.
+* Allow un-quoted strings in the `/NAME=VALUE` path action.
 
 ### Idea - Implied pathing in lists
 
@@ -233,4 +270,3 @@ Is interpreted as:
 Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
 
 This could get messy when dealing with insertions.
-
