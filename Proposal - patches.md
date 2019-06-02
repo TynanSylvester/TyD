@@ -18,18 +18,29 @@ Comments are welcome, on this proposal and all variants.
 
 The format for each patch is:
 
-    PATH_TO_NODE OPERATOR (VALUE)
+    TPATH OPERATOR (VALUE)
 
-## Node paths
+## TPath
 
-A node path is a sequence of *path actions*, each of which changes which nodes are selected. At any given step in the path, one or more nodes can be selected. Initially, the "invisible root" node is selected. This is the anonymous, implied table parent of all root nodes.
+TPath is a system for selecting nodes, given a list of root nodes. It used in multiple different ways, but its main use is in selecting nodes to patch.
 
-The path actions are:
+A TPath is a sequence of *path actions*, each of which changes which nodes are selected. At any given step in the path, one or more nodes can be selected.
+
+Initially, the "invisible root" node is selected. This is the anonymous, implied table parent of all root nodes.
 
 * `/CHILDNAME`: From each selected node, select all children with a given name. This only works for tables.
 * `@INDEX`: From each selected node, select child at index `INDEX`. If `INDEX` is negative, it counts backwards from the last child node; -1 is the last list element. `-0` is accepted as an index after the last child node and can be used for insertions operations. This works for both lists and tables.
 * `/GRANDCHILDNAME="VALUE"`: From each selected node, select all children which themselves have a string child named `GRANDCHILDNAME` with value `VALUE`. Quotation marks are required around the value.
 * `:CHILDNAME="VALUE"`: Filter selected nodes down to those with a string child named `CHILDNAME` with value `VALUE`.
+
+A TPath can be written with no spaces between the path actions, or whitespace can be placed between.
+
+    # These two paths are the same
+    /Goblin/attacks@2
+    
+    /Goblin
+        /attacks
+            @2
 
 ## Operations
 
@@ -51,7 +62,7 @@ After you select a set of nodes, you want to transform it somehow. These are the
     /Goblin/attacks@2/label > "Crush face"
 
     # Select any of any Goblins' attacks which have the label "Facecrush", and change their labels to "Crush face"
-    /Goblin/attacks(label "Facecrush")/label > "Crush face"
+    /Goblin/attacks:label="Facecrush"/label > "Crush face"
 
     /Goblin/attacks@0  ^ {...}  # Insert new node before index 0 (the first entry)
     /Goblin/attacks@-0 ^ {...}  # Insert new node before index -0 (after the last entry). New value ends up at the end
@@ -270,3 +281,90 @@ Is interpreted as:
 Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
 
 This could get messy when dealing with insertions.
+
+# Advanced paths (alternate under development)
+
+This is an alternative, more powerful pathing system. It's under consideration.
+
+The path actions are of the form "from A select B", so they each have two parts: the basis and the filter.
+
+Bases:
+
+* `:`: From all selected nodes.
+* `/`: From all children of all selected nodes.
+
+Filters:
+
+* `NAME`: Select all nodes with a given name. `*` works as a wildcard, and can be used alone, in which case it even selects anonymouse nodes.
+* `@INDEX`: From each set of selected nodes with a common parent, select the Nth node.
+* `TPATH=VALUE` and `TPATH!=VALUE`: Test all selected nodes, selecting only those that pass. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
+
+Conditions can be composed with `&` (and) and `|` (or). Resolution order is left-to-right.
+
+Conditions can be grouped with `(...)`.
+
+Conditions can be negated with `!(...)`.
+
+TPaths for patches start with all root nodes selected, in filter mode. It's hard to tell whether we're looking at a patch or a declaration, so we need to load patches in a different mode from data.
+
+Examples:
+
+    # Select all root nodes
+    *
+
+    # Select all root nodes whose name includes the string 'Alcohol'
+    *Alcohol*
+
+    # Select all nodes named 'id' which are children of any root node
+    */id
+
+    # Select all root nodes named 'Goblin'
+    Goblin
+
+    # Select all nodes named 'id' which are children of root nodes named 'Goblin'
+    Goblin/id
+
+    # Select the 3rd attack of every Goblin
+    Goblin/attacks/@2
+
+    # Select all root nodes named Goblin, then filter them down to those with a child named 'id' with value 'Shaman'
+    Goblin:id=Shaman
+
+    # Select all root nodes with a child named 'attitude' with value 'enemy'
+    attitude=enemy
+
+    # Select all root nodes named Goblin, and with a child named 'warCry' with string value 'Attack!'
+    Goblin & warCry="Attack!"
+
+    # Select all goblins which are red or purple
+    Goblin & (color=red | color=purple)
+
+    # Select all plant types which grow on sandy soil
+    # In detail:
+    # 1. Only accept nodes named PlantDef
+    # 2. Only accept nodes that pass the following test:
+    #   2a. Select all children of SoilTypes
+    #   2b. See if any has a value of 'SandySoil'
+    PlantDef & soilTypes/*=SandySoil
+
+    # Select all root nodes which have a child named 'species' with value 'goblin', and a child name 'weapon' with value 'axe'
+    species=goblin & weapon=axe
+
+    # Select the color of all axe-wielding goblins and orcs. Species is defined by a 'species' record.
+    (species=goblin | species=orc) & weapon=axe/color
+
+    # Select the color of all axe-wielding goblins and orcs. Species is defined by record name.
+    Goblin | Orc & weapon=axe/color
+
+    # Select all Goblins that can cast magic missile or fireball
+    Goblin & (spells/*=MagicMissile | spells/*=Fireball)
+
+    # Select all Goblins that use axe or spear, and all Orcs that use axe or spear
+    # Select all Goblins and Orcs that can cast magic missile or fireball
+    (Goblin | Orc) & (spells/*=MagicMissile | spells/*=Fireball)
+
+    # Select all Goblins that can case magic missile or fireball, except the Berserker
+    Goblin: & (spells/*=MagicMissile | spells/*=Fireball) & id!=Berserker
+
+    # Select all Goblins that are blue, except those that can cast IceBolt
+    Goblin & color=blue & !(spells/*=IceBolt)
