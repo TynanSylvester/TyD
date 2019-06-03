@@ -286,49 +286,55 @@ This could get messy when dealing with insertions.
 
 This is an alternative, more powerful pathing system. It's under consideration.
 
-The path actions are of the form "from A select B", so they each have two parts: the basis and the filter.
+The path is made up or two alternating types of statements: path actions, and selection filters. A filter must appear between each path action. Since path actions and selection filters use distinct characters, it's easy to parse them apart. All paths start with all root nodes selected, so the first part of the path must be a filter. Patches must be loaded in a separate mode from data.
 
-Bases:
+The path actions are:
 
-* `:`: From all selected nodes.
-* `/`: From all children of all selected nodes.
+* `/`: Select all children of all selected nodes.
 
-Filters:
+Selection filters:
 
-* `NAME`: Select all nodes with a given name. `*` works as a wildcard, and can be used alone, in which case it even selects anonymouse nodes.
-* `@INDEX`: From each set of selected nodes with a common parent, select the Nth node.
-* `TPATH=VALUE` and `TPATH!=VALUE`: Test all selected nodes, selecting only those that pass. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
+* `NAME`: Filter selection to nodes with a given name. `*` works as a wildcard, and can be used alone, in which case it even selects anonymouse nodes.
+* `@INDEX`: From each set of selected nodes with a common parent, filter to only the Nth node.
+* `TPATH=VALUE` and `TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
 
-Conditions can be composed with `&` (and) and `|` (or). Resolution order is left-to-right.
+Filters can be composed with `&` (and) and `|` (or). Resolution order is left-to-right.
 
-Conditions can be grouped with `(...)`.
+Filters can be grouped with `(...)`.
 
-Conditions can be negated with `!(...)`.
+Filters can be negated if preceded by `!`.
 
-TPaths for patches start with all root nodes selected, in filter mode. It's hard to tell whether we're looking at a patch or a declaration, so we need to load patches in a different mode from data.
-
-Examples:
+## Advanced paths examples
 
     # Select all root nodes
     *
 
-    # Select all root nodes whose name includes the string 'Alcohol'
-    *Alcohol*
+    # Select all children of all root nodes
+    */*
 
     # Select all nodes named 'id' which are children of any root node
     */id
 
+    # Select all root nodes whose name includes the string 'Alcohol'
+    *Alcohol*
+
     # Select all root nodes named 'Goblin'
     Goblin
 
+    # Select all root nodes not named 'Goblin'
+    !Goblin
+
     # Select all nodes named 'id' which are children of root nodes named 'Goblin'
     Goblin/id
+
+    # Select all nodes which are children of root nodes named 'Goblin' except those named 'id' or 'attacks'
+    Goblin/!id & !attacks
 
     # Select the 3rd attack of every Goblin
     Goblin/attacks/@2
 
     # Select all root nodes named Goblin, then filter them down to those with a child named 'id' with value 'Shaman'
-    Goblin:id=Shaman
+    Goblin & id=Shaman
 
     # Select all root nodes with a child named 'attitude' with value 'enemy'
     attitude=enemy
@@ -336,25 +342,23 @@ Examples:
     # Select all root nodes named Goblin, and with a child named 'warCry' with string value 'Attack!'
     Goblin & warCry="Attack!"
 
+    # Select all goblins whose second weapon does ice damage
+    Goblin & weapons/@2/damageType=Ice
+
     # Select all goblins which are red or purple
     Goblin & (color=red | color=purple)
 
-    # Select all plant types which grow on sandy soil
-    # In detail:
-    # 1. Only accept nodes named PlantDef
-    # 2. Only accept nodes that pass the following test:
-    #   2a. Select all children of SoilTypes
-    #   2b. See if any has a value of 'SandySoil'
+    # Select all plant types which grow on sandy soil (e.g. any child of soilTypes has a value of 'SandySoil')
     PlantDef & soilTypes/*=SandySoil
 
     # Select all root nodes which have a child named 'species' with value 'goblin', and a child name 'weapon' with value 'axe'
     species=goblin & weapon=axe
 
     # Select the color of all axe-wielding goblins and orcs. Species is defined by a 'species' record.
-    (species=goblin | species=orc) & weapon=axe/color
+    (species=goblin | species=orc) & weapon=axe /color
 
     # Select the color of all axe-wielding goblins and orcs. Species is defined by record name.
-    Goblin | Orc & weapon=axe/color
+    Goblin | Orc & weapon=axe /color
 
     # Select all Goblins that can cast magic missile or fireball
     Goblin & (spells/*=MagicMissile | spells/*=Fireball)
@@ -364,7 +368,7 @@ Examples:
     (Goblin | Orc) & (spells/*=MagicMissile | spells/*=Fireball)
 
     # Select all Goblins that can case magic missile or fireball, except the Berserker
-    Goblin: & (spells/*=MagicMissile | spells/*=Fireball) & id!=Berserker
+    Goblin & (spells/*=MagicMissile | spells/*=Fireball) & id!=Berserker
 
     # Select all Goblins that are blue, except those that can cast IceBolt
     Goblin & color=blue & !(spells/*=IceBolt)
