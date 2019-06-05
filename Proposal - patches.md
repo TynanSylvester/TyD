@@ -12,7 +12,7 @@ Conceptually, a patch can be though of as a sort of line in a script. Each patch
 
 We had two patch systems in RimWorld: One for localization, and a separate one for modding. The localization system was relatively clean, but could have been made more concise and easy to use. The modding system worked, but was very verbose - it was based on XML's XPath system. This proposal attempts to do better than both, in one syntax.
 
-We should note that patches sometimes have to modify obscure data that may or may not be present, or may be in one of several forms. For example, if a mod wants to support multiple game versions, or wants to patch data in other mods. The patch system has to support such cases well.
+We should note that patches sometimes have to modify data that may or may not be present, or may be in one of several forms. For example, if a mod wants to support multiple game versions, or wants to patch data in other mods. The patch system has to support such cases.
 
 Comments on this proposal are welcome.
 
@@ -96,7 +96,7 @@ TPaths ignore whitespace:
     @Goblin & @warCry="Attack!"
 
     # Select all goblins whose second weapon does ice damage
-    @Goblin & @weapons/2/damageType=Ice
+    @Goblin & @weapons/1/damageType=Ice
 
     # Select all goblins which are red or purple
     @Goblin & (@color=red | @color=purple)
@@ -143,7 +143,7 @@ After you select a set of nodes, you want to transform it somehow. These are the
     @PlantDef & @id="Wheat"/growSpeed > 5
 
     # Select the second of all Goblins' attacks and change their labels to "Crush face"
-    @Goblin/attacks/2/label > "Crush face"
+    @Goblin/attacks/1/label > "Crush face"
 
     # Select any of any Goblins' attacks which have the label "Facecrush", and change their labels to "Crush face"
     @Goblin/attacks/@label="Facecrush"/label > "Crush face"
@@ -170,16 +170,16 @@ The above is cumbersome to read and probably slow to parse. To solve this proble
 
     @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"
     {
-        @label       > "Bolt of shadows"
+        label       > "Bolt of shadows"
 
-        @secondaryEffects/@type="Explosion"
+        secondaryEffects/@type="Explosion"
         {
-            @radius          > 5
-            @damage          > 25
-            @castTime        > 16
-            @cooldown        > 8
-            @friendlyFire    > false
-            @visualEffect    > DarkBlast
+            radius          > 5
+            damage          > 25
+            castTime        > 16
+            cooldown        > 8
+            friendlyFire    > false
+            visualEffect    > DarkBlast
         }
     }
 
@@ -198,17 +198,17 @@ These scope actions modify the scope stack:
     @PlantDef & @id="Wheat"
     {
         # Replace two of the values of named children
-        @growSpeed   > 5
-        @minFerility > 3
+        growSpeed   > 5
+        minFerility > 3
 
         # Replace the first three entries of its child list named 'soilTypes'
         # And delete the 4th entry
-        @soilTypes
+        soilTypes
         [
-            @0 > SandySoil
-            @1 > WetSoil
-            @2 > MarshySoil
-            @3 ~
+            0 > SandySoil
+            1 > WetSoil
+            2 > MarshySoil
+            3 ~
         ]
     }
 
@@ -224,29 +224,29 @@ These scope actions modify the scope stack:
     @Goblin
     {
         # Scope into nodes named 'attacks'
-        @attacks
+        attacks
         [
             # This new value will be inserted as the new first entry
-            @0 ^ {...whatever...}
+            0 ^ {...whatever...}
 
             # The node at index 1 will be deleted
             # Note that since we just inserted at index 0, the new index 1 will be the original index 0
             # So this will delete the first entry from the original list
             # It would probably be best to put this first
-            @1 ~
+            1 ~
 
             # Select the second entry of this list, then replace the value of its first child named 'label'
-            @2/label > "Crush face"
+            1/label > "Crush face"
 
             # Select the first child of this list which has a child with name "label" and value "Facecrush"
             # Then replace the value of its first child named 'label'
             @label="Facecrush"/label > "Crush face"
 
             # Insert a new table node before current index 1
-            @1 ^ {...}
+            1 ^ {...}
 
             # Delete entry at current index 5
-            @5 ~
+            5 ~
         ]
     }
 
@@ -256,20 +256,20 @@ An realistic example of what localization might look like. This would probably b
 
     @FactionDef & @id="PirateBand"
     {
-        @label          > "Pirate band"
-        @description    > "An evil pirate band."
-        @leaderTitle    > "Boss"
-        @memberNames
+        label          > "Pirate band"
+        description    > "An evil pirate band."
+        leaderTitle    > "Boss"
+        memberNames
         [
-            @0 > "Evil Joe"
-            @1 > "Big Nose Lenny"
-            @2 > "Machine Gun Martha"
+            0 > "Evil Joe"
+            1 > "Big Nose Lenny"
+            2 > "Machine Gun Martha"
         ]
         greetingsDialogueSequence
         [
-            @0/text > "I just have one question for you."
-            @1/text > "Do you feel lucky?"
-            @2/text > "Well, do you, punk?"
+            0/text > "I just have one question for you."
+            1/text > "Do you feel lucky?"
+            2/text > "Well, do you, punk?"
         ]
     }
 
@@ -278,24 +278,24 @@ Note that above, the greetingsDialogueSequence is a list of tables, and each tab
 The below is legal but you don't want to do it in localization! Here we replace each entire list record with a new one that has the new `text`. But critically, this will also replace the rest of the record as well, so if there was any game data in there, it's gone now. This is an example of how a translator could destroy game data through careless patching.
 
     # Do not do this! Localization erasing game data.
-    @greetingsDialogueSequence   
+    @greetingsDialogueSequence
     [
-        @0 > {text "I just have one question for you."}
-        @1 > {text "Do you feel lucky?"}
-        @2 > {text "Well, do you, punk?"}
+        0 > {text "I just have one question for you."}
+        1 > {text "Do you feel lucky?"}
+        2 > {text "Well, do you, punk?"}
     ]
 
 ## Ideas
 
-* Change conditional `=` to `==` and change assignment `>` to `=`. Then `>` and `<` can be used in conditionals.
+* Change conditional `=` to `==` and change assignment operator `>` to `=`. Then `>` and `<` can be used in conditionals.
 
-* Change `@` TPath initiator to `:` just because it looks nicer.
+* Count indices from 1 instead of 0. This'll be easier for translators.
 
-* Allow scoping into `@` by itself. This saves writing `@` over and over for thousands of localization paths.
+* Specify how patches can be interleaved with declarations, possibly in the same files.
 
 * Add an optional `?` character to operators, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
 
-* Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone.
+* Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone. This may just want a jump operator that jumps to the currently-selected nodes.
 
 * Custom extensible operator syntax. We use the below syntax to allow defining either custom patch operator, or more exotic patch operators. So patches can do weird game-specific things like, say, capitalize all text, offset numbers by a certain amount, and so on.
 
@@ -303,8 +303,8 @@ The below is legal but you don't want to do it in localization! Here we replace 
 
 * Selection by handle attribute:
 
-    (*handle value)     Select a node by its handle
-    PawnKind(*handle GoblinBase).speed > 25    # Replace a value in a def based on its handle
+    *handle=value     Select a node by its handle
+    PawnKind & *handle=GoblinBase/speed > 25       # Replace a value in a def based on its handle
 
 ### Idea - Implied pathing in lists
 
@@ -325,9 +325,9 @@ So
 Is interpreted as 
 
     [
-        @0 > "Evil Joe"
-        @1 > "Big Nose Lenny"
-        @2 > "Machine Gun Martha"
+        0 > "Evil Joe"
+        1 > "Big Nose Lenny"
+        2 > "Machine Gun Martha"
     ]
 
 And this:
@@ -341,9 +341,9 @@ And this:
 Is interpreted as:
 
     [
-        @0/text > "I just have one question for you."
-        @1/text > "Do you feel lucky?"
-        @2/text > "Well, do you, punk?"
+        0/text > "I just have one question for you."
+        1/text > "Do you feel lucky?"
+        2/text > "Well, do you, punk?"
     ]
 
 Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
