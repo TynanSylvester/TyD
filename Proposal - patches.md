@@ -29,18 +29,18 @@ A TPath is a sequence of *path actions*, each of which changes which nodes are s
 Initially, the "invisible root" node is selected. This is the anonymous, implied table parent of all root nodes.
 
 * `/CHILDNAME`: From each selected node, select all children with a given name. This only works for tables.
-* `@INDEX`: From each selected node, select child at index `INDEX`. If `INDEX` is negative, it counts backwards from the last child node; -1 is the last list element. `-0` is accepted as an index after the last child node and can be used for insertions operations. This works for both lists and tables.
+* `/INDEX`: From each selected node, select child at index `INDEX`. If `INDEX` is negative, it counts backwards from the last child node; -1 is the last list element. `-0` is accepted as an index after the last child node and can be used for insertions operations. This works for both lists and tables.
 * `/GRANDCHILDNAME="VALUE"`: From each selected node, select all children which themselves have a string child named `GRANDCHILDNAME` with value `VALUE`. Quotation marks are required around the value.
 * `:CHILDNAME="VALUE"`: Filter selected nodes down to those with a string child named `CHILDNAME` with value `VALUE`.
 
 A TPath can be written with no spaces between the path actions, or whitespace can be placed between.
 
     # These two paths are the same
-    /Goblin/attacks@2
+    /Goblin/attacks/2
     
     /Goblin
         /attacks
-            @2
+            /2
 
 ## Operations
 
@@ -59,16 +59,16 @@ After you select a set of nodes, you want to transform it somehow. These are the
     /PlantDef:id="Wheat"/growSpeed > 5
 
     # Select the second of all Goblins' attacks and change their labels to "Crush face"
-    /Goblin/attacks@2/label > "Crush face"
+    /Goblin/attacks/2/label > "Crush face"
 
     # Select any of any Goblins' attacks which have the label "Facecrush", and change their labels to "Crush face"
     /Goblin/attacks:label="Facecrush"/label > "Crush face"
 
-    /Goblin/attacks@0  ^ {...}  # Insert new node before index 0 (the first entry)
-    /Goblin/attacks@-0 ^ {...}  # Insert new node before index -0 (after the last entry). New value ends up at the end
-    /Goblin/attacks@-1 ^ {...}  # Insert new node before index -1 (the last entry)
-    /Goblin/attacks@1  ~        # Delete the second entry
-    /Goblin/attacks@-1 ~        # Delete the last entry
+    /Goblin/attacks/0  ^ {...}  # Insert new node before index 0 (the first entry)
+    /Goblin/attacks/-0 ^ {...}  # Insert new node before index -0 (after the last entry). New value ends up at the end
+    /Goblin/attacks/-1 ^ {...}  # Insert new node before index -1 (the last entry)
+    /Goblin/attacks/1  ~        # Delete the second entry
+    /Goblin/attacks/-1 ~        # Delete the last entry
 
 ## Scope stack
 
@@ -122,9 +122,9 @@ These scope actions modify the scope stack:
         # Replace the first three entries of its child list named 'soilTypes'
         /soilTypes
         [
-            @0 > SandySoil
-            @1 > WetSoil
-            @2 > MarshySoil
+            0 > SandySoil
+            1 > WetSoil
+            2 > MarshySoil
         ]
     }
 
@@ -143,26 +143,26 @@ These scope actions modify the scope stack:
         /attacks
         [
             # This new value will be inserted as the new first entry
-            @0 ^ {...whatever...}
+            0 ^ {...whatever...}
 
             # The node at index 1 will be deleted
             # Note that since we just inserted at index 0, the new index 1 will be the original index 0
             # So this will delete the first entry from the original list
             # It would probably be best to put this first
-            @1 ~
+            1 ~
 
             # Select the second entry of this list, then replace the value of its first child named 'label'
-            @2.label > "Crush face"
+            2.label > "Crush face"
 
             # Select the first child of this list which has a child with name "label" and value "Facecrush"
             # Then replace the value of its first child named 'label'
             (label "Facecrush").label   > "Crush face"
 
             # Insert a new table node before current index 1
-            @1 ^ {...whatever...}
+            1 ^ {...whatever...}
 
             # Delete entry at current index 5
-            @5 ~
+            5 ~
         ]
     }
 
@@ -177,15 +177,15 @@ An realistic example of what localization might look like. This would probably b
         /leaderTitle    > "Boss"
         /memberNames
         [
-            @0 > "Evil Joe"
-            @1 > "Big Nose Lenny"
-            @2 > "Machine Gun Martha"
+            0 > "Evil Joe"
+            1 > "Big Nose Lenny"
+            2 > "Machine Gun Martha"
         ]
         greetingsDialogueSequence
         [
-            @0/text > "I just have one question for you."
-            @1/text > "Do you feel lucky?"
-            @2/text > "Well, do you, punk?"
+            0/text > "I just have one question for you."
+            1/text > "Do you feel lucky?"
+            2/text > "Well, do you, punk?"
         ]
     }
 
@@ -196,113 +196,28 @@ The below is legal but you don't want to do it in localization! Here we replace 
     # Do not do this! Localization erasing game data.
     greetingsDialogueSequence   
     [
-        @0 > {text "I just have one question for you."}
-        @1 > {text "Do you feel lucky?"}
-        @2 > {text "Well, do you, punk?"}
+        0 > {text "I just have one question for you."}
+        1 > {text "Do you feel lucky?"}
+        2 > {text "Well, do you, punk?"}
     ]
-
-## Discussion
-
-You can freely mix patches and declarations in the same file. The parser can distinguish patches from data because patch paths must start with a path action, and all path actions start with characters that are illegal as TyD node names. So, the TyD parser can easily know, from the first character, when it's reading a patch instead of data. This'll make parsing faster.
-
-## Ideas
-
-### Ideas - General
-
-* `:CHILDNAME="VALUE"`: May be better to do this as `:/CHILDNAME="VALUE"`, and also allow other structures like `:@2="VALUE"`. This means `:` is more of a generalized "filter" operator that can be followed by all manner of tests, and the tests themselves use the same path syntax as anywhere else. We can also use operators like `|` and `&` and so on, parent addressors like `..`, tests besides `=` like `>` and `<` and `!=`, etc.
-
-* If I do the above, I may also want to change `@2` to `/@2`, where `@2` is a stand-in for node name, and `/` is a generalized "select into" operator that selects children of current selection based on some filter. So all path actions thus start as either `/` select from children, or `:` select from current selection. One could even imagine these operators by themselves, such that `/` just means 'select all children', so the current `/` would have to be replaced by `/:` - 'select all children, then filter them'. That has a nice purity to it, but it's a bit verbose.
-
-* Mixed data and patch: It would be great if patch and data syntax could be totally unified, so that the data syntax actually means "Add these records in this order and structure", and can be re-used as part of patching as desired. This also automatically supports things like "dotted paths" in data records. E.g if you just want `Goblin{attackDamage 7}` you can just write `Goblin.attackDamage 7'. TOML has a similar feature. This basically would just mean replacing the ^ insert operator with nothing at all.
-
-* A way to load data in "any", "data only", or "patches only" mode. This prevents certain types of mistakes, like translators accidentally defining new content instead of patching existing content.
-
-* A way to enforce localization patches to only be able to modify certain data. This may have to happen outside TyD itself since it depends on context knowledge from the game.
-
-### Ideas on scoped patches
-
-* Add an optional `?` character to operators, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
-
-* Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone.
-
-* Custom or exotic operator syntax. We use the below syntax to allow defining either custom patch operator, or more exotic patch operators. So patches can do weird game-specific things like, say, capitalize all text, offset numbers by a certain amount, and so on.
-
-    &OPERATOR_NAME OPERATOR_DATA
-
-* Some way to select and affect multiple nodes at once.
-
-* Selection by handle attribute:
-
-    (*handle value)     Select a node by its handle
-    PawnKind(*handle GoblinBase).speed > 25    # Replace a value in a def based on its handle
-
-* Allow un-quoted strings in the `/NAME=VALUE` path action.
-
-### Idea - Implied pathing in lists
-
-This is a special rule for pathing to children of lists while in list scope.
-
-While in the scope of a list, paths which don't start with an @ index are implied to start with an @ index for the nth entry in the list (as it currently exists in the patch sequence).
-
-This means a patch can replace a whole list by simply listing a sequence of `>` or `~` operators one by one, in the same order as the original list.
-
-So
-
-    [
-        > "Evil Joe"
-        > "Big Nose Lenny"
-        > "Machine Gun Martha"
-    ]
-
-Is interpreted as 
-
-    [
-        @0 > "Evil Joe"
-        @1 > "Big Nose Lenny"
-        @2 > "Machine Gun Martha"
-    ]
-
-And this:
-
-    [
-        /text > "I just have one question for you."
-        /text > "Do you feel lucky?"
-        /text > "Well, do you, punk?"
-    ]
-
-Is interpreted as:
-
-    [
-        @0/text > "I just have one question for you."
-        @1/text > "Do you feel lucky?"
-        @2/text > "Well, do you, punk?"
-    ]
-
-Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
-
-This could get messy when dealing with insertions.
 
 # Advanced paths (alternate under development)
 
 This is an alternative, more powerful pathing system. It's under consideration.
 
-The path is made up or two alternating types of statements: path actions, and selection filters. A filter must appear between each path action. Since path actions and selection filters use distinct characters, it's easy to parse them apart. All paths start with all root nodes selected, so the first part of the path must be a filter. Patches must be loaded in a separate mode from data.
+The path is made up or two alternating types of statements: jumps, and selection filters. Jumps select some different set of nodes related to the current selection, while filters reduce the current selection. A filter must appear between each jump (though it can be `*`, allow all). Since jumps and selection filters use distinct characters, it's easy to parse them apart. All paths start with all root nodes selected, so the first part of the path must be a filter. Patches must be loaded in a separate mode from data.
 
-The path actions are:
+The jumps are:
 
 * `/`: Select all children of all selected nodes.
 
 Selection filters:
 
 * `NAME`: Filter selection to nodes with a given name. `*` works as a wildcard, and can be used alone, in which case it even selects anonymouse nodes.
-* `@INDEX`: From each set of selected nodes with a common parent, filter to only the Nth node.
-* `TPATH=VALUE` and `TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
+* `INDEX`: From each set of selected nodes with a common parent, filter to only the Nth node.
+* `@TPATH=VALUE` and `@TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
 
-Filters can be composed with `&` (and) and `|` (or). Resolution order is left-to-right.
-
-Filters can be grouped with `(...)`.
-
-Filters can be negated if preceded by `!`.
+Filters can be composed with `&` (and) and `|` (or). Resolution order is left-to-right. Filters can be grouped with `(...)`. Filters can be negated if preceded by `!`.
 
 ## Advanced paths examples
 
@@ -331,44 +246,104 @@ Filters can be negated if preceded by `!`.
     Goblin/!id & !attacks
 
     # Select the 3rd attack of every Goblin
-    Goblin/attacks/@2
+    Goblin/attacks/2
 
     # Select all root nodes named Goblin, then filter them down to those with a child named 'id' with value 'Shaman'
-    Goblin & id=Shaman
+    Goblin & @id=Shaman
 
     # Select all root nodes with a child named 'attitude' with value 'enemy'
-    attitude=enemy
+    @attitude=enemy
 
     # Select all root nodes named Goblin, and with a child named 'warCry' with string value 'Attack!'
-    Goblin & warCry="Attack!"
+    Goblin & @warCry="Attack!"
 
     # Select all goblins whose second weapon does ice damage
-    Goblin & weapons/@2/damageType=Ice
+    Goblin & @weapons/2/damageType=Ice
 
     # Select all goblins which are red or purple
-    Goblin & (color=red | color=purple)
+    Goblin & (@color=red | @color=purple)
 
     # Select all plant types which grow on sandy soil (e.g. any child of soilTypes has a value of 'SandySoil')
-    PlantDef & soilTypes/*=SandySoil
+    PlantDef & @soilTypes/*=SandySoil
 
     # Select all root nodes which have a child named 'species' with value 'goblin', and a child name 'weapon' with value 'axe'
-    species=goblin & weapon=axe
+    @species=goblin & @weapon=axe
 
     # Select the color of all axe-wielding goblins and orcs. Species is defined by a 'species' record.
-    (species=goblin | species=orc) & weapon=axe /color
+    (@species=goblin | @species=orc) & @weapon=axe /color
 
     # Select the color of all axe-wielding goblins and orcs. Species is defined by record name.
-    Goblin | Orc & weapon=axe /color
+    Goblin | Orc & @weapon=axe /color
 
     # Select all Goblins that can cast magic missile or fireball
-    Goblin & (spells/*=MagicMissile | spells/*=Fireball)
+    Goblin & (@spells/*=MagicMissile | @spells/*=Fireball)
 
     # Select all Goblins that use axe or spear, and all Orcs that use axe or spear
     # Select all Goblins and Orcs that can cast magic missile or fireball
-    (Goblin | Orc) & (spells/*=MagicMissile | spells/*=Fireball)
+    (Goblin | Orc) & (@spells/*=MagicMissile | @spells/*=Fireball)
 
     # Select all Goblins that can case magic missile or fireball, except the Berserker
-    Goblin & (spells/*=MagicMissile | spells/*=Fireball) & id!=Berserker
+    Goblin & (@spells/*=MagicMissile | @spells/*=Fireball) & @id!=Berserker
 
     # Select all Goblins that are blue, except those that can cast IceBolt
-    Goblin & color=blue & !(spells/*=IceBolt)
+    Goblin & @color=blue & !(@spells/*=IceBolt)
+
+
+## Ideas
+
+* Add an optional `?` character to operators, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
+
+* Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone.
+
+* Custom extensible operator syntax. We use the below syntax to allow defining either custom patch operator, or more exotic patch operators. So patches can do weird game-specific things like, say, capitalize all text, offset numbers by a certain amount, and so on.
+
+    :CUSTOM_OPERATOR_NAME> OPERATOR_DATA
+
+* Selection by handle attribute:
+
+    (*handle value)     Select a node by its handle
+    PawnKind(*handle GoblinBase).speed > 25    # Replace a value in a def based on its handle
+
+### Idea - Implied pathing in lists
+
+This is a special rule for pathing to children of lists while in list scope.
+
+While in the scope of a list, paths which don't start with an index are implied to start with an index for the nth entry in the list (as it currently exists in the patch sequence).
+
+This means a patch can replace a whole list by simply listing a sequence of `>` or `~` operators one by one, in the same order as the original list.
+
+So
+
+    [
+        > "Evil Joe"
+        > "Big Nose Lenny"
+        > "Machine Gun Martha"
+    ]
+
+Is interpreted as 
+
+    [
+        0 > "Evil Joe"
+        1 > "Big Nose Lenny"
+        2 > "Machine Gun Martha"
+    ]
+
+And this:
+
+    [
+        /text > "I just have one question for you."
+        /text > "Do you feel lucky?"
+        /text > "Well, do you, punk?"
+    ]
+
+Is interpreted as:
+
+    [
+        0/text > "I just have one question for you."
+        1/text > "Do you feel lucky?"
+        2/text > "Well, do you, punk?"
+    ]
+
+Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
+
+This could get messy when dealing with insertions.

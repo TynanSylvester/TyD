@@ -4,7 +4,7 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.3.1.
+This project is not yet considered stable. The current version is 0.3.2.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
 
@@ -85,12 +85,11 @@ There are four types of record: String, null, list, and table (explained below).
 
 #### Record names
 
-A record's name can contain any alphanumeric character, underscore, or hyphen (`a-zA-Z0-9_-`).
+A record's name can contain any alphanumeric character, underscore, or hyphen (`a-zA-Z0-9_-`). Names must contain at least one alphabetical character (`a-zA-Z`).
 
     player_speed        50
     enemy7Speed         70
     Jenny-Phone-Number  8675309
-    1                   "The first level is very easy."
 
 ### String
 
