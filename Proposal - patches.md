@@ -1,52 +1,41 @@
 # Patch system proposal
 
-This is a proposal for a patch system for TyD. Patches allow data to modify other data that was previously loaded.
-
-These would be for use by:
-
-* Localizations
-* Mods
-* Expansion packs
-
-Conceptually, a patch can be though of as a sort of line in a script. Each patch carries out one operation on the data, modifying it in some specific way. Thus order of the patches can be important.
-
-We had two patch systems in RimWorld: One for localization, and a separate one for modding. The localization system was relatively clean, but could have been made more concise and easy to use. The modding system worked, but was very verbose - it was based on XML's XPath system. This proposal attempts to do better than both, in one syntax.
-
-We should note that patches sometimes have to modify data that may or may not be present, or may be in one of several forms. For example, if a mod wants to support multiple game versions, or wants to patch data in other mods. The patch system has to support such cases.
+This is a proposal for a patch system for TyD. Patches modify data that was previously declared. They are used to implement localizations, mods, and expansion packs.
 
 Comments on this proposal are welcome.
 
 ## Basics
 
-The format for each patch is:
+The format for a patch is:
 
-    TPATH OPERATOR VALUE
+    (PREFIX)TPATH OPERATOR VALUE
 
-`TPATH` selects nodes we want to patch. `OPERATOR` and `VALUE` define how we want to change those nodes.
+`TPATH` selects nodes we want to patch. `OPERATOR` and `VALUE` define how we want to change those nodes. `PREFIX` can be either `?` for optional, or nothing.
+
+A patch which selects no nodes at all will generate an error, unless the patch is prefixed by the `?` question mark character.
+
+    @Goblin/weapon : spear   # Throws an error if Goblin is missing
+    ?@Goblin/weapon : spear  # No error even if Goblin is missing
+
+Patches and data declarations can be freely mixed in the same file. Patches are applied relative to all previously-loaded declarations and previously-applied patches. This means that a patch must be loaded after the data that it is intended to modify.
+
+    #Declare a record
+    Goblin
+    {
+        id      GoblinWarlord
+        weapon  Sword
+    }
+
+    # Patch the record to change the sword to a spear
+    @Goblin/weapon : spear
+
+There's no reason to declare and patch the same record in one file; it's easier to just change the original record. However, one may want to declare records and patch other records in other files, all in one file. In general, the boundaries of files are transparent to TyD.
 
 ## TPath
 
-TPath is a system for selecting sets of nodes. It used both for selecting nodes to patch, and for selecting nodes to check for conditionals inside a TPath (thus TPaths can contain other TPaths, recursively).
+TPath is a system for selecting sets of nodes. It used both for selecting nodes to patch, and for selecting nodes to check for conditionals inside a TPath. (It may also be used for other purposes, like selecting nodes through an API.)
 
-A TPath must begin with the `@` character.
-
-TPaths are made up or two types of statements: jumps, and selection filters. Jumps select some different set of nodes related to the current selection, while filters reduce the current selection based on some condition. A filter must appear between each jump (though it can be `*`, allow all).
-
-Depending on how they're being used, TPaths always start with some set of nodes selected. Therefore, the first element of a TPath must be a filter.
-
-The jumps are:
-
-* `/`: Select all children of all selected nodes.
-
-The filters are:
-
-* `NAME`: Filter selection to nodes with a given name. `*` works as a wildcard, alone or with text. When alone, it even selects anonymous nodes.
-* `INDEX`: Written as a number like `0` or `15`. From each set of selected nodes with a common parent, filter to only the Nth node.
-* `TPATH=VALUE` and `TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` (starting at all children of the node being tested selected) must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `:/!=@>^~|&` or whitespace, it must be quoted.
-
-Filters can be composed with `&` (and) and `|` (or). Resolution order is left-to-right. Filters can be grouped with `(...)`. Filters can be negated if preceded by `!`.
-
-TPaths ignore whitespace:
+A TPath must begin with the `@` character. TPaths are made up of a sequence of path commands separated by the `/` forward slash. There should be no leading or trailing forward slashes. Whitespace inside TPaths is ignored.
 
     # These three paths are the same
     @Goblin/attacks/2
@@ -57,7 +46,26 @@ TPaths ignore whitespace:
         /attacks
             /2
 
+The path commands are:
+
+* `FILTER`: Select all children of currently-selected nodes matching a given filter. See below.
+* `..`: Select parents of all currently-selected nodes.
+* `.`: Select all currently-selected nodes.
+
+There are several filters. They can also be logically composed together. The filters are:
+
+* `NAME`: Filter the current selection to nodes with a given name. `*` works as a wildcard, alone or with text. When `*` is alone, it even selects anonymous nodes.
+* `INDEX`: Written as a number like `0` or `15`. From each contiguous sequence of selected siblings, filter to only the Nth node.
+* `TPATH=VALUE` and `TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` starting the node being tested must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `\/!:@<>+-^~|&` or whitespace, it must be quoted.
+
+Filters can be composed with `&` (and) and `|` (or). Composed filters are resolved left-to-right. Filters can be grouped with `(...)`. Filters can be negated if preceded by `!`.
+
+When writing patches, TPaths begin at the 'document parent', an abstract root node which is the parent of all root nodes in all documents being patched.
+
 ### TPath examples
+
+    # Select document parent of all root nodes. Generally not useful
+    @.
 
     # Select all root nodes
     @*
@@ -88,6 +96,9 @@ TPaths ignore whitespace:
 
     # Select all root nodes named Goblin, then filter them down to those with a child named 'id' with value 'Shaman'
     @Goblin & @id=Shaman
+
+    # Select all children of root nodes named Goblin which have the string value "blue"
+    @Goblin / @.=blue
 
     # Select all root nodes with a child named 'attitude' with value 'enemy'
     @attitude=enemy
@@ -130,23 +141,23 @@ TPaths ignore whitespace:
 
 After you select a set of nodes, you want to transform it somehow. These are the operations that can change the selected node.
 
-* `> NEW_VALUE`: Replace all selected nodes' values with `NEW_VALUE`. Value can be a string, null, table, or list, so this operation can change the selected nodes to a new type of node.
+* `: NEW_VALUE`: Replace all selected nodes' values with `NEW_VALUE`. Value can be a string, null, table, or list, so this operation can change the selected nodes to a new type of node. Note that if the original node is absent, nothing will be selected, so this will do nothing.
 * `^ NEW_NODE`: Insert `NEW_NODE` before all selected nodes, as a child of its parent.
 * `~`: Delete selected nodes.
 
 ### Basic patch examples
 
     # Select all nodes named "PlantDef", and change their children named "flammability" to have a value of 0.85
-    @PlantDef/flammability > 0.85
+    @PlantDef/flammability : 0.85
 
     # Select all nodes named PlantDef with child string "id" of value "Wheat" and replace their "growSpeed" values
-    @PlantDef & @id="Wheat"/growSpeed > 5
+    @PlantDef & @id="Wheat"/growSpeed : 5
 
     # Select the second of all Goblins' attacks and change their labels to "Crush face"
-    @Goblin/attacks/1/label > "Crush face"
+    @Goblin/attacks/1/label : "Crush face"
 
     # Select any of any Goblins' attacks which have the label "Facecrush", and change their labels to "Crush face"
-    @Goblin/attacks/@label="Facecrush"/label > "Crush face"
+    @Goblin/attacks/@label="Facecrush"/label : "Crush face"
 
     @Goblin/attacks/0  ^ {...}  # Insert new node before index 0 (the first entry)
     @Goblin/attacks/-0 ^ {...}  # Insert new node before index -0 (after the last entry). New value ends up at the end
@@ -158,28 +169,28 @@ After you select a set of nodes, you want to transform it somehow. These are the
 
 Sometimes you want to patch many nodes with similar paths. A naive implementation of this can mean writing much of the same path over and over. Imagine we're writing a mod that partly redesigns one of the abilities of a particular enemy:
 
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/label > "Bolt of shadows"
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/radius > 5
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/damage > 25
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/castTime > 16
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/cooldown > 8
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/friendlyFire > false
-    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/visualEffect > DarkBlast
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/label : "Bolt of shadows"
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/radius : 5
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/damage : 25
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/castTime : 16
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/cooldown : 8
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/friendlyFire : false
+    @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"/secondaryEffects/@type="Explosion"/visualEffect : DarkBlast
 
 The above is cumbersome to read and probably slow to parse. To solve this problem, TyD has a system called *scope*. Using scope, the above can be written as:
 
     @Goblin & @id="ShamanLord"/abilities/attacks/@label="ShadowBolt"
     {
-        label       > "Bolt of shadows"
+        label               : "Bolt of shadows"
 
         secondaryEffects/@type="Explosion"
         {
-            radius          > 5
-            damage          > 25
-            castTime        > 16
-            cooldown        > 8
-            friendlyFire    > false
-            visualEffect    > DarkBlast
+            radius          : 5
+            damage          : 25
+            castTime        : 16
+            cooldown        : 8
+            friendlyFire    : false
+            visualEffect    : DarkBlast
         }
     }
 
@@ -195,19 +206,19 @@ These scope actions modify the scope stack:
 ### Patch examples using scope
 
     # Scope into the root nodes named PlantDef with a child of name 'id' and value 'Wheat'
-    @PlantDef & @id="Wheat"
+    @PlantDef & @id=Wheat
     {
         # Replace two of the values of named children
-        growSpeed   > 5
-        minFerility > 3
+        growSpeed   : 5
+        minFerility : 3
 
         # Replace the first three entries of its child list named 'soilTypes'
         # And delete the 4th entry
         soilTypes
         [
-            0 > SandySoil
-            1 > WetSoil
-            2 > MarshySoil
+            0 : SandySoil
+            1 : WetSoil
+            2 : MarshySoil
             3 ~
         ]
     }
@@ -216,8 +227,8 @@ These scope actions modify the scope stack:
     @TerrainDef
     {
         #Modify the fertility of two specific TerrainDef nodes, by filtering each one separately according to "id"
-        @id="Soil" /fertility > 8
-        @id="Marsh"/fertility > 4
+        @id="Soil" /fertility : 8
+        @id="Marsh"/fertility : 4
     }
 
     # Scope into nodes named 'Goblin'
@@ -236,11 +247,11 @@ These scope actions modify the scope stack:
             1 ~
 
             # Select the second entry of this list, then replace the value of its first child named 'label'
-            1/label > "Crush face"
+            1/label : "Crush face"
 
             # Select the first child of this list which has a child with name "label" and value "Facecrush"
             # Then replace the value of its first child named 'label'
-            @label="Facecrush"/label > "Crush face"
+            @label="Facecrush"/label : "Crush face"
 
             # Insert a new table node before current index 1
             1 ^ {...}
@@ -256,20 +267,20 @@ An realistic example of what localization might look like. This would probably b
 
     @FactionDef & @id="PirateBand"
     {
-        label          > "Pirate band"
-        description    > "An evil pirate band."
-        leaderTitle    > "Boss"
+        label          : "Pirate band"
+        description    : "An evil pirate band."
+        leaderTitle    : "Boss"
         memberNames
         [
-            0 > "Evil Joe"
-            1 > "Big Nose Lenny"
-            2 > "Machine Gun Martha"
+            0 : "Evil Joe"
+            1 : "Big Nose Lenny"
+            2 : "Machine Gun Martha"
         ]
         greetingsDialogueSequence
         [
-            0/text > "I just have one question for you."
-            1/text > "Do you feel lucky?"
-            2/text > "Well, do you, punk?"
+            0/text : "I just have one question for you."
+            1/text : "Do you feel lucky?"
+            2/text : "Well, do you, punk?"
         ]
     }
 
@@ -280,35 +291,33 @@ The below is legal but you don't want to do it in localization! Here we replace 
     # Do not do this! Localization erasing game data.
     @greetingsDialogueSequence
     [
-        0 > {text "I just have one question for you."}
-        1 > {text "Do you feel lucky?"}
-        2 > {text "Well, do you, punk?"}
+        0 : {text : "I just have one question for you."}
+        1 : {text : "Do you feel lucky?"}
+        2 : {text : "Well, do you, punk?"}
     ]
+
+## Discussion
+
+We had two separate patch systems in RimWorld: One for localization, and one for modding. The localization system was relatively clean, but could have been made more concise and easy to use. The modding system worked, but was very verbose - it was based on XML's XPath system. This proposal attempts to do better than both, in one syntax.
+
+Patches sometimes have to modify data that may or may not be present, or may be in one of several forms. For example, if a mod wants to support multiple game versions, or wants to patch data in other mods. The patch system has to be flexible enough to support such cases.
 
 ## Ideas
 
-* Change conditional `=` to `==` and change assignment operator `>` to `=`. Then `>` and `<` can be used in conditionals.
-
-* Count indices from 1 instead of 0. This'll be easier for translators.
-
-* Specify how patches can be interleaved with declarations, possibly in the same files.
-
-* Add an optional `?` character to operators, to mean 'optional'. If the node isn't found, an optional patch will be silently ignored, whereas a standard patch would generate an error.
-
 * Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone. This may just want a jump operator that jumps to the currently-selected nodes.
+
+* More filters using mathematical inequalities `<`, `>`, `<=`, `>=`. These would just parse the value as a decimal and do the comparison, throwing an error if a non-decimal value is found.
 
 * Custom extensible operator syntax. We use the below syntax to allow defining either custom patch operator, or more exotic patch operators. So patches can do weird game-specific things like, say, capitalize all text, offset numbers by a certain amount, and so on.
 
-    :CUSTOM_OPERATOR_NAME OPERATOR_DATA
+    %CUSTOM_OPERATOR_NAME OPERATOR_DATA
 
-* Selection by handle attribute:
+* Add a filter by attribute (possibly including arbitrary attributes):
 
-    *handle=value     Select a node by its handle
-    PawnKind & *handle=GoblinBase/speed > 25       # Replace a value in a def based on its handle
+    *handle=value                              #Select a node by its handle
+    PawnKind & *handle=GoblinBase/speed : 25  # Replace a value in a def based on its handle
 
-### Idea - Implied pathing in lists
-
-This is a special rule for pathing to children of lists while in list scope.
+* Implied pathing in lists: This is a special rule for pathing to children of lists while in list scope.
 
 While in the scope of a list, paths which don't start with an index are implied to start with an index for the nth entry in the list (as it currently exists in the patch sequence).
 
@@ -317,33 +326,33 @@ This means a patch can replace a whole list by simply listing a sequence of `>` 
 So
 
     [
-        > "Evil Joe"
-        > "Big Nose Lenny"
-        > "Machine Gun Martha"
+        : "Evil Joe"
+        : "Big Nose Lenny"
+        : "Machine Gun Martha"
     ]
 
 Is interpreted as 
 
     [
-        0 > "Evil Joe"
-        1 > "Big Nose Lenny"
-        2 > "Machine Gun Martha"
+        0 : "Evil Joe"
+        1 : "Big Nose Lenny"
+        2 : "Machine Gun Martha"
     ]
 
 And this:
 
     [
-        /text > "I just have one question for you."
-        /text > "Do you feel lucky?"
-        /text > "Well, do you, punk?"
+        /text : "I just have one question for you."
+        /text : "Do you feel lucky?"
+        /text : "Well, do you, punk?"
     ]
 
 Is interpreted as:
 
     [
-        0/text > "I just have one question for you."
-        1/text > "Do you feel lucky?"
-        2/text > "Well, do you, punk?"
+        0/text : "I just have one question for you."
+        1/text : "Do you feel lucky?"
+        2/text : "Well, do you, punk?"
     ]
 
 Unaddressed operators must come before all addressed operators in a list, otherwise an error is raised.
