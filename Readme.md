@@ -4,9 +4,9 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.3.2.
+This project is not yet considered stable. The current version is 0.3.3.
 
-You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/tyd-lang/TyDSharp)
+You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/TynanSylvester/TyDSharp)
 
 ## Purpose
 
@@ -27,14 +27,15 @@ Below is a definition of a chess table object for a video game.
         label                   "chess table"
         description             "The ancient game of kings. It trains intellectual skills."
         techLevel               Medieval
+        researchPrerequisites   [ Woodworking; Varnish; Chess ]
         buildMaterialAmount     70
-        buildMaterialTypes                             # A multi-line list
+        buildMaterialTypes
         [
             Metal
             Wood
             Stone
+            Glass
         ]
-        researchPrerequisites   [ Woodworking; Chess ] # A list on one line
         stats
         {
             MaxHitPoints        100
@@ -42,16 +43,16 @@ Below is a definition of a chess table object for a video game.
         }
     }
 
-## Comparisons with similar languages
+## Comparisons
 
 Here's how TyD compares with some similar languages.
 
-* INI files are easy to hand-edit, but can't express more complex data structures.
 * JSON is designed for efficient machine interchange, with inflexible syntax and no comments. TyD is designed for interaction between human and machine, with more flexible syntax.
-* TOML defines the type of every record in every document. TyD simplifies editing by assuming most type info is known.
-* YAML is complex and very general. TyD is minimal, simple, and hard to make mistakes with.
 * XML is verbose and very general. TyD is brief and made to excel at its specific purposes only.
-* LUA requires a heavy script interpreter and its scripting functionality is error-prone. TyD is lightweight and purpose-designed for data definition.
+* TOML defines the type of every record in every document, and its syntax can be confusing. TyD simplifies editing by assuming most type info is known.
+* YAML is very complex and very general, requiring a lot of code to parse properly. TyD is minimal, simple, and hard to make mistakes with.
+* LUA is a full scripting language, which invites errors. Its syntax is not as clean as it could be for data definition.
+* INI files can't express more complex data structures.
 
 ## Spec
 
@@ -85,11 +86,10 @@ There are four types of record: String, null, list, and table (explained below).
 
 #### Record names
 
-A record's name can contain any alphanumeric character, underscore, or hyphen (`a-zA-Z0-9_-`). Names must contain at least one alphabetical character (`a-zA-Z`).
+A record's name can contain any alphanumeric character, or the underscore (`a-zA-Z0-9_`). Names must contain at least one alphabetical character (`a-zA-Z`).
 
-    player_speed        50
-    enemy7Speed         70
-    Jenny-Phone-Number  8675309
+    player_view_distance    50
+    enemy7Speed             70
 
 ### String
 
@@ -192,7 +192,7 @@ For example, if you have five types of goblin enemies, you can define a single `
 
 Inheritance is handled by the use of _attributes_ which can be attached to records. Attributes are defined after the record name and before the value. Each attribute declaration begins with an asterisk `*`.
 
-The `*handle` attribute defines the record as having a given handle for the purposes of inheritance. It is followed by a string which defines the handle itself. The handle can contain the characters (a-zA-Z0-9_-).
+The `*handle` attribute defines the record as having a given handle for the purposes of inheritance. It is followed by a string which defines the handle itself. The handle can contain the characters (a-zA-Z0-9_).
 
 The `*source` attribute defines the record as inheriting data from the other record with the matching handle. It is followed by a string which defines the source's handle.
 
