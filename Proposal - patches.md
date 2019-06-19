@@ -35,32 +35,28 @@ There's no reason to declare and patch the same record in one file; it's easier 
 
 TPath is a system for selecting sets of nodes. It used both for selecting nodes to patch, and for selecting nodes to check for conditionals inside a TPath. (It may also be used for other purposes, like selecting nodes through an API.)
 
-A TPath must begin with the `@` character. TPaths are made up of a sequence of path commands separated by the `/` forward slash. There should be no leading or trailing forward slashes. Whitespace inside TPaths is ignored.
+A TPath must begin with the `@` character. TPaths are made up of a sequence of path commands separated by the `/` forward slash. There should be no leading or trailing forward slashes. Path commands consist of a target set, followed by a filter. The result of the command is all the nodes in the target set which satisfy the filter. This set is then passed as input to the next path command in the sequence, if any.
 
-    # These three paths are the same
-    @Goblin/attacks/2
-
-    @Goblin / attacks / 2
-    
-    @Goblin
-        /attacks
-            /2
-
-Path commands consist of a target set marker, followed by a filter. The result of the command is all the nodes in the target set which satisfy the filter.
-
-Target set markers are:
+The target sets are:
 
 * If no target set marker appears, the target set is all children of all selected nodes.
 * `.`: The target set is all selected nodes.
 * `..`: The target set is the parents of all selected nodes.
 
-There are several filters. They can also be logically composed together. The filters are:
+The filters are:
 
 * `NAME`: Filter the current selection to nodes with a given name. `*` works as a wildcard, alone or with text. When `*` is alone, it even selects anonymous nodes.
 * `INDEX`: Written as a number like `0` or `15`. From each contiguous sequence of selected siblings, filter to only the Nth node.
 * `TPATH=VALUE` and `TPATH!=VALUE`: Filter selected nodes to those that pass a given test. The test is: Any child selected by a `TPATH` starting the node being tested must have value exactly matching/not exactly matching `VALUE`. `VALUE` can be a string, a null, a list or a table. If `VALUE` is a string, and it contains any of `\/!:@<>+-^~|&` or whitespace, it must be quoted.
 
-Filters can be composed with `&` (and) and `|` (or). Composed filters are resolved left-to-right. Filters can be grouped with `(...)`. Filters can be negated if preceded by `!`.
+Filters can be  composed with the following. By default, composed filters are resolved left-to-right.
+
+* `FILTER & FILTER`: Both filters must be satisfied.
+* `FILTER | FILTER`: Either filter must be satisfied.
+* `! FILTER`: The filter is inverted.
+* `(`, `)`: Filters inside the brackets are resolved before filters outside the brackets.
+
+Whitespace inside TPaths is ignored.
 
 When writing patches, TPaths begin at the 'document parent', an abstract root node which is the parent of all root nodes in all documents being patched.
 
