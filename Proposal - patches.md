@@ -46,11 +46,13 @@ A TPath must begin with the `@` character. TPaths are made up of a sequence of p
         /attacks
             /2
 
-The path commands are:
+Path commands consist of a target set marker, followed by a filter. The result of the command is all the nodes in the target set which satisfy the filter.
 
-* `FILTER`: Select all children of currently-selected nodes matching a given filter. See below.
-* `..`: Select parents of all currently-selected nodes.
-* `.`: Select all currently-selected nodes.
+Target set markers are:
+
+* If no target set marker appears, the target set is all children of all selected nodes.
+* `.`: The target set is all selected nodes.
+* `..`: The target set is the parents of all selected nodes.
 
 There are several filters. They can also be logically composed together. The filters are:
 
@@ -63,9 +65,6 @@ Filters can be composed with `&` (and) and `|` (or). Composed filters are resolv
 When writing patches, TPaths begin at the 'document parent', an abstract root node which is the parent of all root nodes in all documents being patched.
 
 ### TPath examples
-
-    # Select document parent of all root nodes. Generally not useful
-    @.
 
     # Select all root nodes
     @*
@@ -97,11 +96,14 @@ When writing patches, TPaths begin at the 'document parent', an abstract root no
     # Select all root nodes named Goblin, then filter them down to those with a child named 'id' with value 'Shaman'
     @Goblin & @id=Shaman
 
-    # Select all children of root nodes named Goblin which have the string value "blue"
-    @Goblin / @.=blue
-
     # Select all root nodes with a child named 'attitude' with value 'enemy'
     @attitude=enemy
+
+    # Select all children of root nodes which are named 'attitude' with value 'enemy'.
+    @* / attitude & @.*=enemy
+
+    # Select all children of root nodes named Goblin which have the value 'blue'
+    @Goblin / @.*=blue
 
     # Select all root nodes named Goblin, and with a child named 'warCry' with string value 'Attack!'
     @Goblin & @warCry="Attack!"
