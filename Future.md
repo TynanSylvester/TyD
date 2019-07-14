@@ -20,9 +20,9 @@ since the start of the line is offset. Two possible multi-line string formats:
 1. Multi-line literal strings starting and ending with `'''`, similar to TOML. Example:
 
     description '''
-This is my multi-line literal string.
-
-It has to ride on the leftmost column. It can include {} <> "" '' any char until it ends.'''
+    This is my multi-line literal string.
+    
+    It has to ride on the leftmost column. It can include {} <> "" '' any char until it ends.'''
 
 2. Multi-line column-aligned literal strings where each line begins with `|`. The string ends with the last line where the first character is `|`. Example:
 
