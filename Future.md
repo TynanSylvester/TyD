@@ -12,13 +12,34 @@ A way to load TyD data that modified previously-loaded TyD data. Used for locali
 
 A way to write comments on multiple lines with one start/end code, similar to C-style `/* comments */`. Suggested syntax is `#[ comment ]#`.
 
-## Multiple inheritance
+## Multi-line strings
 
- A record can have multiple sources. It would inherit from them in the order they're declared, with each successive inhertiance overwriting data from the previous one the same way a record's own data overwrites that of its source.
+We may want to write strings with multiple lines. This can be done with normal quoted strings, but it doesn't look good
+since the start of the line is offset. Two possible multi-line string formats:
+
+1. Multi-line literal strings starting and ending with `'''`, similar to TOML. Example:
+
+    description '''
+This is my multi-line literal string.
+
+It has to ride on the leftmost column. It can include {} <> "" '' any char until it ends.'''
+
+2. Multi-line column-aligned literal strings where each line begins with `|`. The string ends with the last line where the first character is `|`. Example:
+
+    description |This is my column-aligned text.
+                |
+                |It's not hard to type or anything.
+            |The line starts can be misaligned. TyD doesn't care, though it's a bit hard to read it makes it more robust against reformats and formatting errors.
+                |
+                |It continues until there is a line without a | as first char.
 
 ## Literal strings
 
- Strings which are delimited by single quotes, and don't allow any escaping whatsoever. Until the second `'` character, what you see is exactly what you get. This can also be extended to multi-line literal strings, denoted by `'''`, which allow including `'` characters. TOML has this feature.
+ Strings which are delimited by single quotes, and don't allow any escaping whatsoever. Until the second `'` character, what you see is exactly what you get.
+
+## Multiple inheritance
+
+ A record can have multiple sources. It would inherit from them in the order they're declared, with each successive inhertiance overwriting data from the previous one the same way a record's own data overwrites that of its source.
 
 ## TyD VSCode extension
 
