@@ -1,6 +1,27 @@
-# Potential future developments
+# Proposed developments
 
-The following developments are under consideration to add to TyD. If you're interested in implementing any of them, please get in touch!
+The following features are proposed to add to TyD. These are roughly in priority order.
+
+## Vertical strings
+
+Vertical strings are a string format where each line begins with the vertical bar `|` character. A vertical string is initiated when the first non-whitespace character in the record value is `|`, and continues as long as the first character in each line is `|`.
+
+Within a vertical string, characters are handled literally. There are no escape codes, and anything at all can be written.
+
+These can be used to write multi-line strings in a visually pleasing format, while respecting the indentation of the rest of the file.
+
+One-line vertical strings are allowed, though the vertical bar isn't necessary in this case.
+
+Example:
+
+    example1    |This is my column string. It can have empty lines, like this:
+                |
+                |The beginning of each line is at the column. They can be misaligned, like this:
+            |Though misaligned lines are harder to read, they make the format less pedantic in case things are being reformatted.
+                |
+                |It continues until there is a line without a | as first char.
+    example2    |A new record was started, so this text is part of it instead of the example1.
+    example3    |And this is another new record.
 
 ## Patches
 
@@ -8,34 +29,24 @@ A way to load TyD data that modified previously-loaded TyD data. Used for locali
 
 [More info here.](https://github.com/tyd-lang/TyD/blob/master/Proposal-patches.md)
 
+## Literal strings
+
+Literal strings are string format that begins and ends with the single quote `'` character. They must appear on one line. No escaping is allowed - what you see is exactly what you get. It's possible to write a literal string containing any character except the single quote itself.
+
+ ## Multi-line literal strings
+
+Multi-line literal strings start and end with `'''`. A newline immediately after the opening quotes will be trimmed.
+
+Example:
+
+    description '''
+    This is my multi-line literal string. Note that the newline above is trimmed.
+    
+    It can include {} <> "" '' any char until it ends.'''
+
 ## Multi-line comments
 
 A way to write comments on multiple lines with one start/end code, similar to C-style `/* comments */`. Suggested syntax is `#[ comment ]#`.
-
-## Multi-line strings
-
-We may want to write strings with multiple lines. This can be done with normal quoted strings, but it doesn't look good
-since the start of the line is offset. Two possible multi-line string formats:
-
-1. Multi-line literal strings starting and ending with `'''`, similar to TOML. Example:
-
-    description '''
-    This is my multi-line literal string.
-    
-    It has to ride on the leftmost column. It can include {} <> "" '' any char until it ends.'''
-
-2. Multi-line column-aligned literal strings where each line begins with `|`. The string ends with the last line where the first character is `|`. Example:
-
-    description |This is my column-aligned text.
-                |
-                |It's not hard to type or anything.
-            |The line starts can be misaligned. TyD doesn't care, though it's a bit hard to read it makes it more robust against reformats and formatting errors.
-                |
-                |It continues until there is a line without a | as first char.
-
-## Literal strings
-
- Strings which are delimited by single quotes, and don't allow any escaping whatsoever. Until the second `'` character, what you see is exactly what you get.
 
 ## Multiple inheritance
 
