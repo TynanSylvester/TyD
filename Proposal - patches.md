@@ -141,7 +141,7 @@ After you select a set of nodes, you want to transform it somehow. These are the
 * `:+ NEW_NODE`: Insert `NEW_NODE` before all selected nodes, as a child of its parent.
 * `:-`: Delete selected nodes.
 
-It's easy to add operations for a specific dialect. For example, you could add operations like `:reverse`, `:combine`, or `:localize`, with whatever meaning you want for a specific project.
+Projects using TyD can add their own operations. For example, you could add operations like `:increment 25`, `:capitalize`, or `:localize`, with whatever meaning you want for a specific project. If a parser finds an unknown operation, it should raise an error.
 
 ### Basic patch examples
 
@@ -302,13 +302,11 @@ Patches sometimes have to modify data that may or may not be present, or may be 
 
 ## Ideas
 
+* Can we optionally elide the `@` from the start of TPaths when they're conditionals? I believe even without `@`, the filters are still unambigously parseable, and it would help readability.
+
 * Ability to select the nth record with a given name. Otherwise it's quite tricky to address multiple records with the same names, since you need to use index alone. This may just want a jump operator that jumps to the currently-selected nodes.
 
-* More filters using mathematical inequalities `<`, `>`, `<=`, `>=`. These would just parse the value as a decimal and do the comparison, throwing an error if a non-decimal value is found.
-
-* Custom extensible operator syntax. We use the below syntax to allow defining either custom patch operator, or more exotic patch operators. So patches can do weird game-specific things like, say, capitalize all text, offset numbers by a certain amount, and so on.
-
-    %CUSTOM_OPERATOR_NAME OPERATOR_DATA
+* More filters using mathematical inequalities `<`, `>`, `<=`, `>=`. These would just parse the value as a number (decimal by default, also supporting `0x` for hex and `0b` for binary) and do the comparison, throwing an error if a non-numeric value is found.
 
 * Add a filter by attribute (possibly including arbitrary attributes):
 
