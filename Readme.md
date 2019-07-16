@@ -4,7 +4,7 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.3.3.
+This project is not yet considered stable. The current version is 0.3.4.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/TynanSylvester/TyDSharp)
 
@@ -138,6 +138,25 @@ These characters must be escaped: `\` backslash, `"` double quote, `#` hash.
     Boy, I loved that dog."
 
 TyD parsers should try to interpret newlines in a way that makes sense on their platform. On Linux, the newlines above would become `\n` characters, while on Windows they may become `\r\n` sequences.
+
+### Vertical strings
+
+In vertical strings, each line begins with a vertical bar `|` character. A vertical string is initiated when the first non-whitespace character in the record value is `|`, and continues as long as the first character in each line is `|`.
+
+Within a vertical string, characters are handled literally. There are no escape codes, and anything at all can be written.
+
+These can be used to write multi-line strings in a visually pleasing format, while respecting the indentation of the rest of the file.
+
+Example:
+
+    example1    |This is my vertical string. It can have empty lines, like this:
+                |
+                |The beginning of each line is just after vertical bar. They can be misaligned, like this:
+            |Though misaligned lines are harder to read, they make the format less pedantic in case things are being reformatted.
+                |
+                |It continues until there is a line without a | as first char.
+    example2    |A new record was started, so this text is part of it instead of the example1.
+    example3    |And this is another new record.
 
 ### Null
 
