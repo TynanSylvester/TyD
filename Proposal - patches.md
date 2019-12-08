@@ -2,7 +2,26 @@
 
 This is a proposal for a patch system for TyD. Patches modify data that was previously declared. They are used to implement localizations, mods, and expansion packs. Comments on this proposal are welcome.
 
-## Basics
+## Loading phases
+
+Without patches, the order of loading is irrelevant since everything is an additive declaration. With patching, loading must happen in defined phases.
+
+TyD data is loaded in a sequence of phases. The game code passes a set of files to TyD, then signals that the phase is complete. The TyD system then processes all the files in that phase in parallel, relative to the previously-loaded data. A sequence of phases can thus build up data using layers of declarations and patches.
+
+One example of a loading flow for a game would be this:
+
+* First phase declares the core game data.
+* The user has the game set to French, so a second phase patches the core game data to localize it into French.
+* The user has activated a user-made mod, so the third phase loads the mod's core data. It declares some new game data, and patches some core game data.
+* The mod comes with a French translation, so the fourth phase is a French localization of the mod, which patches the mod's game data into French.
+
+Critically, patches and data are both considered unordered within a single group of loaded files. This means that the order of patch or data declarations in the file is irrelevant, as is the order in which the individual files are loaded. The only thing that matters is the order of the loading phases. This allows parallelizing the loading process down to the level of individual declarations and patches. Writers of TyD data will need to be careful that they don't declare a node and patch it in the same phase, or patch the same node twice in one phase.
+
+Each phase resolves starting with the final data from the previous phase, so inheritance children in later phases can reference inheritance parents in an earlier phase (but not vice-versa).
+
+Patches and data declarations can be freely mixed in the same file.
+
+## Patch format basics
 
 The format for a patch is:
 
@@ -14,20 +33,6 @@ A patch which selects no nodes at all will generate an error, unless the patch i
 
     @Goblin/weapon := spear   # Throws an error if Goblin is missing
     ?@Goblin/weapon := spear  # No error even if Goblin is missing
-
-Patches and data declarations can be freely mixed in the same file. Patches are applied relative to all previously-loaded declarations and previously-applied patches. This means that a patch must be loaded after the data that it is intended to modify.
-
-    #Declare a record
-    Goblin
-    {
-        id      GoblinWarlord
-        weapon  Sword
-    }
-
-    # Patch the record to change the sword to a spear
-    @Goblin/weapon := spear
-
-There's no reason to declare and patch the same record in one file; it's easier to just change the original record. However, one may want to declare records and patch other records in other files, all in one file. In general, the boundaries of files are transparent to TyD.
 
 ## TPath
 
