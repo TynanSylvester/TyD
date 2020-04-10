@@ -162,7 +162,7 @@ Example:
 
 A null value is expressed with the naked string `null` (lowercase only). If you want the literal string "null", you need to use a quoted string.
 
-    last_name           "Null"  # This person's name is actually Null.
+    last_name           Null    # This person's name is actually Null.
     criminal_record     null    # This person has no criminal record.
     favorite_word       "null"  # This person's favorite word is the word 'null'.
 
