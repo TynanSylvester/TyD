@@ -8,6 +8,8 @@ This project is not yet considered stable. The current version is 0.3.4.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/TynanSylvester/TyDSharp)
 
+You can use [MattA's TyD syntax highlighter for VSCode.](https://github.com/MattA-Official/tyd-lang)
+
 ## Purpose
 
 TyD is an easy-to-edit text data language designed for:
