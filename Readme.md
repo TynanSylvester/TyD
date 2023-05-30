@@ -4,11 +4,11 @@ Tynan's Tidy Data Language
 
 By Tynan Sylvester
 
-This project is not yet considered stable. The current version is 0.3.4.
+This project is suspended and not being updated any more.
+
+This project is not considered stable. The current version is 0.3.4.
 
 You can use [TyDSharp, a simple C# implementation of the TyD language.](https://github.com/TynanSylvester/TyDSharp)
-
-You can use [MattA's TyD syntax highlighter for VSCode.](https://github.com/MattA-Official/tyd-lang)
 
 ## Purpose
 
@@ -260,6 +260,6 @@ An example of inheritance:
 
 ## Contributing to TyD
 
-All contributions including documentation, pull requests, and bug reports are welcome!
+Currently the project is suspended so no contributions are being handled.
 
 Potential future developments are listed on the [potential future developments page](https://github.com/tyd-lang/TyD/blob/master/Future.md).
